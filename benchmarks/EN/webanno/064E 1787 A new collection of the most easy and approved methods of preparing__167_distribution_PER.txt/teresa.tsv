@@ -1,0 +1,461 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=P E R F U M E S
+#Text= 
+#Text=164.
+1-1	1-2	P	Smell\_Word[1]	_	_	
+1-2	3-4	E	Smell\_Word[1]	_	_	
+1-3	5-6	R	Smell\_Word[1]	_	_	
+1-4	7-8	F	Smell\_Word[1]	_	_	
+1-5	9-10	U	Smell\_Word[1]	_	_	
+1-6	11-12	M	Smell\_Word[1]	_	_	
+1-7	13-14	E	Smell\_Word[1]	_	_	
+1-8	15-16	S	Smell\_Word[1]	_	_	
+1-9	19-22	164	_	_	_	
+1-10	22-23	.	_	_	_	
+
+#Text=Scented Tables or Pastils.
+2-1	24-31	Scented	Smell\_Word	*|*	2-4|2-2	
+2-2	32-38	Tables	Odour\_Carrier	_	_	
+2-3	39-41	or	_	_	_	
+2-4	42-49	Pastils	Odour\_Carrier	_	_	
+2-5	49-50	.	_	_	_	
+
+#Text=Beat into a fine powder, and sift through a hair sieve, 
+#Text=a pound of the Marc or Residuum left in the still after 
+#Text=making Angelic Water then put it into a mortar, with a  handful of fresh-gathered Rose Leaves, and a small porringer full of Gum Tragacanth softened with Rose Water, 
+#Text=Beat the whole into a Paste; roll it out on a dresser, with a 
+#Text=rolling pin, and cut it into Lozenges with a knife.
+3-1	54-58	Beat	_	_	_	
+3-2	59-63	into	_	_	_	
+3-3	64-65	a	_	_	_	
+3-4	66-70	fine	_	_	_	
+3-5	71-77	powder	_	_	_	
+3-6	77-78	,	_	_	_	
+3-7	79-82	and	_	_	_	
+3-8	83-87	sift	_	_	_	
+3-9	88-95	through	_	_	_	
+3-10	96-97	a	_	_	_	
+3-11	98-102	hair	_	_	_	
+3-12	103-108	sieve	_	_	_	
+3-13	108-109	,	_	_	_	
+3-14	111-112	a	_	_	_	
+3-15	113-118	pound	_	_	_	
+3-16	119-121	of	_	_	_	
+3-17	122-125	the	_	_	_	
+3-18	126-130	Marc	_	_	_	
+3-19	131-133	or	_	_	_	
+3-20	134-142	Residuum	_	_	_	
+3-21	143-147	left	_	_	_	
+3-22	148-150	in	_	_	_	
+3-23	151-154	the	_	_	_	
+3-24	155-160	still	_	_	_	
+3-25	161-166	after	_	_	_	
+3-26	168-174	making	_	_	_	
+3-27	175-182	Angelic	_	_	_	
+3-28	183-188	Water	_	_	_	
+3-29	189-193	then	_	_	_	
+3-30	194-197	put	_	_	_	
+3-31	198-200	it	_	_	_	
+3-32	201-205	into	_	_	_	
+3-33	206-207	a	_	_	_	
+3-34	208-214	mortar	_	_	_	
+3-35	214-215	,	_	_	_	
+3-36	216-220	with	_	_	_	
+3-37	221-222	a	_	_	_	
+3-38	224-231	handful	_	_	_	
+3-39	232-234	of	_	_	_	
+3-40	235-249	fresh-gathered	_	_	_	
+3-41	250-254	Rose	_	_	_	
+3-42	255-261	Leaves	_	_	_	
+3-43	261-262	,	_	_	_	
+3-44	263-266	and	_	_	_	
+3-45	267-268	a	_	_	_	
+3-46	269-274	small	_	_	_	
+3-47	275-284	porringer	_	_	_	
+3-48	285-289	full	_	_	_	
+3-49	290-292	of	_	_	_	
+3-50	293-296	Gum	_	_	_	
+3-51	297-307	Tragacanth	_	_	_	
+3-52	308-316	softened	_	_	_	
+3-53	317-321	with	_	_	_	
+3-54	322-326	Rose	_	_	_	
+3-55	327-332	Water	_	_	_	
+3-56	332-333	,	_	_	_	
+3-57	335-339	Beat	_	_	_	
+3-58	340-343	the	_	_	_	
+3-59	344-349	whole	_	_	_	
+3-60	350-354	into	_	_	_	
+3-61	355-356	a	_	_	_	
+3-62	357-362	Paste	_	_	_	
+3-63	362-363	;	_	_	_	
+3-64	364-368	roll	_	_	_	
+3-65	369-371	it	_	_	_	
+3-66	372-375	out	_	_	_	
+3-67	376-378	on	_	_	_	
+3-68	379-380	a	_	_	_	
+3-69	381-388	dresser	_	_	_	
+3-70	388-389	,	_	_	_	
+3-71	390-394	with	_	_	_	
+3-72	395-396	a	_	_	_	
+3-73	398-405	rolling	_	_	_	
+3-74	406-409	pin	_	_	_	
+3-75	409-410	,	_	_	_	
+3-76	411-414	and	_	_	_	
+3-77	415-418	cut	_	_	_	
+3-78	419-421	it	_	_	_	
+3-79	422-426	into	_	_	_	
+3-80	427-435	Lozenges	_	_	_	
+3-81	436-440	with	_	_	_	
+3-82	441-442	a	_	_	_	
+3-83	443-448	knife	_	_	_	
+3-84	448-449	.	_	_	_	
+
+#Text=To form scented Pastils, roll up bits of this Paste in the 
+#Text=shape of a cone, that they may stand upright, and set them 
+#Text=by to dry.
+4-1	453-455	To	_	_	_	
+4-2	456-460	form	_	_	_	
+4-3	461-468	scented	Quality[2]|Smell\_Word[3]	*|*	4-3[2_3]|4-4[0_3]	
+4-4	469-476	Pastils	Odour\_Carrier	_	_	
+4-5	476-477	,	_	_	_	
+4-6	478-482	roll	_	_	_	
+4-7	483-485	up	_	_	_	
+4-8	486-490	bits	_	_	_	
+4-9	491-493	of	_	_	_	
+4-10	494-498	this	_	_	_	
+4-11	499-504	Paste	_	_	_	
+4-12	505-507	in	_	_	_	
+4-13	508-511	the	_	_	_	
+4-14	513-518	shape	_	_	_	
+4-15	519-521	of	_	_	_	
+4-16	522-523	a	_	_	_	
+4-17	524-528	cone	_	_	_	
+4-18	528-529	,	_	_	_	
+4-19	530-534	that	_	_	_	
+4-20	535-539	they	_	_	_	
+4-21	540-543	may	_	_	_	
+4-22	544-549	stand	_	_	_	
+4-23	550-557	upright	_	_	_	
+4-24	557-558	,	_	_	_	
+4-25	559-562	and	_	_	_	
+4-26	563-566	set	_	_	_	
+4-27	567-571	them	_	_	_	
+4-28	573-575	by	_	_	_	
+4-29	576-578	to	_	_	_	
+4-30	579-582	dry	_	_	_	
+4-31	582-583	.	_	_	_	
+
+#Text=This kind of Pastils are lighted in the same 
+#Text=manner as a candle.
+5-1	584-588	This	_	_	_	
+5-2	589-593	kind	_	_	_	
+5-3	594-596	of	_	_	_	
+5-4	597-604	Pastils	Smell\_Source	_	_	
+5-5	605-608	are	_	_	_	
+5-6	609-616	lighted	_	_	_	
+5-7	617-619	in	_	_	_	
+5-8	620-623	the	_	_	_	
+5-9	624-628	same	_	_	_	
+5-10	630-636	manner	_	_	_	
+5-11	637-639	as	_	_	_	
+5-12	640-641	a	_	_	_	
+5-13	642-648	candle	_	_	_	
+5-14	648-649	.	_	_	_	
+
+#Text=They consume entirely away; and, 
+#Text=while burning, exhale a fragrant smoke.
+#Text= 
+#Text=165.
+6-1	650-654	They	Smell\_Source	Anaphoric	5-4	
+6-2	655-662	consume	_	_	_	
+6-3	663-671	entirely	_	_	_	
+6-4	672-676	away	_	_	_	
+6-5	676-677	;	_	_	_	
+6-6	678-681	and	_	_	_	
+6-7	681-682	,	_	_	_	
+6-8	684-689	while	Circumstances[4]	_	_	
+6-9	690-697	burning	Circumstances[4]	_	_	
+6-10	697-698	,	_	_	_	
+6-11	699-705	exhale	_	_	_	
+6-12	706-707	a	_	_	_	
+6-13	708-716	fragrant	Smell\_Word[5]|Quality[6]	*|*|*|*	6-13[6_5]|6-1[0_5]|6-14[0_5]|6-8[4_5]	
+6-14	717-722	smoke	Odour\_Carrier	_	_	
+6-15	722-723	.	_	_	_	
+6-16	726-729	165	_	_	_	
+6-17	729-730	.	_	_	_	
+
+#Text=A pleasant Perfume, 
+#Text= 
+#Text=Take a drachm of Musk, four Cloves, four ounces of 
+#Text=Lavender-seed, a drachm and a half of Civet, and half a 
+#Text=drachm of Ambergris ; heat your pestle and mortar, and 
+#Text=rub the Musk, Cloves, and Lavender-seeds, together, with 
+#Text=a lump of Loaf Sugar and a wine-glass full of Angelic or Rose-water.
+7-1	731-732	A	_	_	_	
+7-2	733-741	pleasant	Quality	_	_	
+7-3	742-749	Perfume	Smell\_Word	*|*|*|*|*|*	7-2|7-8[7_0]|7-11[8_0]|7-14[9_0]|7-19[10_0]|7-28[11_0]	
+7-4	749-750	,	_	_	_	
+7-5	754-758	Take	_	_	_	
+7-6	759-760	a	_	_	_	
+7-7	761-767	drachm	_	_	_	
+7-8	768-770	of	Smell\_Source[7]	_	_	
+7-9	771-775	Musk	Smell\_Source[7]	_	_	
+7-10	775-776	,	_	_	_	
+7-11	777-781	four	Smell\_Source[8]	_	_	
+7-12	782-788	Cloves	Smell\_Source[8]	_	_	
+7-13	788-789	,	_	_	_	
+7-14	790-794	four	Smell\_Source[9]	_	_	
+7-15	795-801	ounces	Smell\_Source[9]	_	_	
+7-16	802-804	of	Smell\_Source[9]	_	_	
+7-17	806-819	Lavender-seed	Smell\_Source[9]	_	_	
+7-18	819-820	,	_	_	_	
+7-19	821-822	a	Smell\_Source[10]	_	_	
+7-20	823-829	drachm	Smell\_Source[10]	_	_	
+7-21	830-833	and	Smell\_Source[10]	_	_	
+7-22	834-835	a	Smell\_Source[10]	_	_	
+7-23	836-840	half	Smell\_Source[10]	_	_	
+7-24	841-843	of	Smell\_Source[10]	_	_	
+7-25	844-849	Civet	Smell\_Source[10]	_	_	
+7-26	849-850	,	_	_	_	
+7-27	851-854	and	_	_	_	
+7-28	855-859	half	Smell\_Source[11]	_	_	
+7-29	860-861	a	Smell\_Source[11]	_	_	
+7-30	863-869	drachm	Smell\_Source[11]	_	_	
+7-31	870-872	of	Smell\_Source[11]	_	_	
+7-32	873-882	Ambergris	Smell\_Source[11]	_	_	
+7-33	883-884	;	_	_	_	
+7-34	885-889	heat	_	_	_	
+7-35	890-894	your	_	_	_	
+7-36	895-901	pestle	_	_	_	
+7-37	902-905	and	_	_	_	
+7-38	906-912	mortar	_	_	_	
+7-39	912-913	,	_	_	_	
+7-40	914-917	and	_	_	_	
+7-41	919-922	rub	_	_	_	
+7-42	923-926	the	_	_	_	
+7-43	927-931	Musk	Smell\_Source	_	_	
+7-44	931-932	,	_	_	_	
+7-45	933-939	Cloves	Smell\_Source	_	_	
+7-46	939-940	,	_	_	_	
+7-47	941-944	and	_	_	_	
+7-48	945-959	Lavender-seeds	Smell\_Source	_	_	
+7-49	959-960	,	_	_	_	
+7-50	961-969	together	_	_	_	
+7-51	969-970	,	_	_	_	
+7-52	971-975	with	_	_	_	
+7-53	977-978	a	Smell\_Source[12]	_	_	
+7-54	979-983	lump	Smell\_Source[12]	_	_	
+7-55	984-986	of	Smell\_Source[12]	_	_	
+7-56	987-991	Loaf	Smell\_Source[12]	_	_	
+7-57	992-997	Sugar	Smell\_Source[12]	_	_	
+7-58	998-1001	and	_	_	_	
+7-59	1002-1003	a	Smell\_Source[13]	_	_	
+7-60	1004-1014	wine-glass	Smell\_Source[13]	_	_	
+7-61	1015-1019	full	Smell\_Source[13]	_	_	
+7-62	1020-1022	of	Smell\_Source[13]	_	_	
+7-63	1023-1030	Angelic	Smell\_Source[13]	_	_	
+7-64	1031-1033	or	Smell\_Source[13]	_	_	
+7-65	1034-1044	Rose-water	Smell\_Source[13]	_	_	
+7-66	1044-1045	.	_	_	_	
+
+#Text=Take a handful of powder, and incorporate 
+#Text=it well with this mixture, then sift it through a sieve ; add 
+#Text=two or three pounds more powder, or even a larger quantity, 
+#Text=till the perfume is brought to a proper degree of strength.
+8-1	1046-1050	Take	_	_	_	
+8-2	1051-1052	a	_	_	_	
+8-3	1053-1060	handful	_	_	_	
+8-4	1061-1063	of	_	_	_	
+8-5	1064-1070	powder	_	_	_	
+8-6	1070-1071	,	_	_	_	
+8-7	1072-1075	and	_	_	_	
+8-8	1076-1087	incorporate	_	_	_	
+8-9	1089-1091	it	_	_	_	
+8-10	1092-1096	well	_	_	_	
+8-11	1097-1101	with	_	_	_	
+8-12	1102-1106	this	Smell\_Source[14]	Anaphoric|Anaphoric|Anaphoric|Anaphoric|Anaphoric	7-43[0_14]|7-45[0_14]|7-48[0_14]|7-53[12_14]|7-59[13_14]	
+8-13	1107-1114	mixture	Smell\_Source[14]	_	_	
+8-14	1114-1115	,	_	_	_	
+8-15	1116-1120	then	_	_	_	
+8-16	1121-1125	sift	_	_	_	
+8-17	1126-1128	it	_	_	_	
+8-18	1129-1136	through	_	_	_	
+8-19	1137-1138	a	_	_	_	
+8-20	1139-1144	sieve	_	_	_	
+8-21	1145-1146	;	_	_	_	
+8-22	1147-1150	add	_	_	_	
+8-23	1152-1155	two	_	_	_	
+8-24	1156-1158	or	_	_	_	
+8-25	1159-1164	three	_	_	_	
+8-26	1165-1171	pounds	_	_	_	
+8-27	1172-1176	more	_	_	_	
+8-28	1177-1183	powder	_	_	_	
+8-29	1183-1184	,	_	_	_	
+8-30	1185-1187	or	_	_	_	
+8-31	1188-1192	even	_	_	_	
+8-32	1193-1194	a	_	_	_	
+8-33	1195-1201	larger	_	_	_	
+8-34	1202-1210	quantity	_	_	_	
+8-35	1210-1211	,	_	_	_	
+8-36	1213-1217	till	_	_	_	
+8-37	1218-1221	the	_	_	_	
+8-38	1222-1229	perfume	Smell\_Word	*	8-12[14_0]	
+8-39	1230-1232	is	_	_	_	
+8-40	1233-1240	brought	_	_	_	
+8-41	1241-1243	to	_	_	_	
+8-42	1244-1245	a	_	_	_	
+8-43	1246-1252	proper	_	_	_	
+8-44	1253-1259	degree	_	_	_	
+8-45	1260-1262	of	_	_	_	
+8-46	1263-1271	strength	_	_	_	
+8-47	1271-1272	.	_	_	_	
+
+#Text=As to the Civet, put it on the end of a hot pestle, and rub 
+#Text=it well with a handful of powder ; after which add, by little 
+#Text=and little, fix pounds of powder; then sift the whole through 
+#Text=a hair sieve to incorporate it with the other perfumed powder.
+9-1	1274-1276	As	_	_	_	
+9-2	1277-1279	to	_	_	_	
+9-3	1280-1283	the	_	_	_	
+9-4	1284-1289	Civet	_	_	_	
+9-5	1289-1290	,	_	_	_	
+9-6	1291-1294	put	_	_	_	
+9-7	1295-1297	it	_	_	_	
+9-8	1298-1300	on	_	_	_	
+9-9	1301-1304	the	_	_	_	
+9-10	1305-1308	end	_	_	_	
+9-11	1309-1311	of	_	_	_	
+9-12	1312-1313	a	_	_	_	
+9-13	1314-1317	hot	_	_	_	
+9-14	1318-1324	pestle	_	_	_	
+9-15	1324-1325	,	_	_	_	
+9-16	1326-1329	and	_	_	_	
+9-17	1330-1333	rub	_	_	_	
+9-18	1335-1337	it	_	_	_	
+9-19	1338-1342	well	_	_	_	
+9-20	1343-1347	with	_	_	_	
+9-21	1348-1349	a	_	_	_	
+9-22	1350-1357	handful	_	_	_	
+9-23	1358-1360	of	_	_	_	
+9-24	1361-1367	powder	_	_	_	
+9-25	1368-1369	;	_	_	_	
+9-26	1370-1375	after	_	_	_	
+9-27	1376-1381	which	_	_	_	
+9-28	1382-1385	add	_	_	_	
+9-29	1385-1386	,	_	_	_	
+9-30	1387-1389	by	_	_	_	
+9-31	1390-1396	little	_	_	_	
+9-32	1398-1401	and	_	_	_	
+9-33	1402-1408	little	_	_	_	
+9-34	1408-1409	,	_	_	_	
+9-35	1410-1413	fix	_	_	_	
+9-36	1414-1420	pounds	_	_	_	
+9-37	1421-1423	of	_	_	_	
+9-38	1424-1430	powder	_	_	_	
+9-39	1430-1431	;	_	_	_	
+9-40	1432-1436	then	_	_	_	
+9-41	1437-1441	sift	_	_	_	
+9-42	1442-1445	the	_	_	_	
+9-43	1446-1451	whole	_	_	_	
+9-44	1452-1459	through	_	_	_	
+9-45	1461-1462	a	_	_	_	
+9-46	1463-1467	hair	_	_	_	
+9-47	1468-1473	sieve	_	_	_	
+9-48	1474-1476	to	_	_	_	
+9-49	1477-1488	incorporate	_	_	_	
+9-50	1489-1491	it	_	_	_	
+9-51	1492-1496	with	_	_	_	
+9-52	1497-1500	the	_	_	_	
+9-53	1501-1506	other	Quality	_	_	
+9-54	1507-1515	perfumed	Smell\_Word[15]|Quality[16]	*|*|*	9-54[16_15]|9-55[0_15]|9-53[0_15]	
+9-55	1516-1522	powder	Odour\_Carrier	_	_	
+9-56	1522-1523	.	_	_	_	
+
+#Text=The Ambergris must be well rubbed in the mortar; 
+#Text=and by degrees two pounds of powder, either white or grey, 
+#Text=must: be added to it, till the Ambergris is thoroughly incorporated with the powder; then sift through a hair sieve, and 
+#Text=mix all the three powders together.
+10-1	1524-1527	The	_	_	_	
+10-2	1528-1537	Ambergris	_	_	_	
+10-3	1538-1542	must	_	_	_	
+10-4	1543-1545	be	_	_	_	
+10-5	1546-1550	well	_	_	_	
+10-6	1551-1557	rubbed	_	_	_	
+10-7	1558-1560	in	_	_	_	
+10-8	1561-1564	the	_	_	_	
+10-9	1565-1571	mortar	_	_	_	
+10-10	1571-1572	;	_	_	_	
+10-11	1574-1577	and	_	_	_	
+10-12	1578-1580	by	_	_	_	
+10-13	1581-1588	degrees	_	_	_	
+10-14	1589-1592	two	_	_	_	
+10-15	1593-1599	pounds	_	_	_	
+10-16	1600-1602	of	_	_	_	
+10-17	1603-1609	powder	_	_	_	
+10-18	1609-1610	,	_	_	_	
+10-19	1611-1617	either	_	_	_	
+10-20	1618-1623	white	_	_	_	
+10-21	1624-1626	or	_	_	_	
+10-22	1627-1631	grey	_	_	_	
+10-23	1631-1632	,	_	_	_	
+10-24	1634-1638	must	_	_	_	
+10-25	1638-1639	:	_	_	_	
+10-26	1640-1642	be	_	_	_	
+10-27	1643-1648	added	_	_	_	
+10-28	1649-1651	to	_	_	_	
+10-29	1652-1654	it	_	_	_	
+10-30	1654-1655	,	_	_	_	
+10-31	1656-1660	till	_	_	_	
+10-32	1661-1664	the	_	_	_	
+10-33	1665-1674	Ambergris	_	_	_	
+10-34	1675-1677	is	_	_	_	
+10-35	1678-1688	thoroughly	_	_	_	
+10-36	1689-1701	incorporated	_	_	_	
+10-37	1702-1706	with	_	_	_	
+10-38	1707-1710	the	_	_	_	
+10-39	1711-1717	powder	_	_	_	
+10-40	1717-1718	;	_	_	_	
+10-41	1719-1723	then	_	_	_	
+10-42	1724-1728	sift	_	_	_	
+10-43	1729-1736	through	_	_	_	
+10-44	1737-1738	a	_	_	_	
+10-45	1739-1743	hair	_	_	_	
+10-46	1744-1749	sieve	_	_	_	
+10-47	1749-1750	,	_	_	_	
+10-48	1751-1754	and	_	_	_	
+10-49	1756-1759	mix	_	_	_	
+10-50	1760-1763	all	Smell\_Source[17]	_	_	
+10-51	1764-1767	the	Smell\_Source[17]	_	_	
+10-52	1768-1773	three	Smell\_Source[17]	_	_	
+10-53	1774-1781	powders	Smell\_Source[17]	_	_	
+10-54	1782-1790	together	_	_	_	
+10-55	1790-1791	.	_	_	_	
+
+#Text=This perfume is to be kept in a Leather Bag, the learns of which are well sewed 
+#Text=with waxed thread.
+11-1	1792-1796	This	_	_	_	
+11-2	1797-1804	perfume	Smell\_Word	*	10-50[17_0]	
+11-3	1805-1807	is	_	_	_	
+11-4	1808-1810	to	_	_	_	
+11-5	1811-1813	be	_	_	_	
+11-6	1814-1818	kept	_	_	_	
+11-7	1819-1821	in	_	_	_	
+11-8	1822-1823	a	_	_	_	
+11-9	1824-1831	Leather	_	_	_	
+11-10	1832-1835	Bag	_	_	_	
+11-11	1835-1836	,	_	_	_	
+11-12	1837-1840	the	_	_	_	
+11-13	1841-1847	learns	_	_	_	
+11-14	1848-1850	of	_	_	_	
+11-15	1851-1856	which	_	_	_	
+11-16	1857-1860	are	_	_	_	
+11-17	1861-1865	well	_	_	_	
+11-18	1866-1871	sewed	_	_	_	
+11-19	1873-1877	with	_	_	_	
+11-20	1878-1883	waxed	_	_	_	
+11-21	1884-1890	thread	_	_	_	
+11-22	1890-1891	.	_	_	_	

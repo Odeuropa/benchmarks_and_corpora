@@ -1,0 +1,430 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=The first Buds of Ribes Nigra infused in Wines,
+#Text=especially Rhenish, makes it diuretick, and more
+#Text=fragrant in Smell and Taste, and so doth Clary.
+1-1	3-6	The	_	_	_	
+1-2	7-12	first	_	_	_	
+1-3	13-17	Buds	Smell\_Source[1]	_	_	
+1-4	18-20	of	Smell\_Source[1]	_	_	
+1-5	21-26	Ribes	Smell\_Source[1]	_	_	
+1-6	27-32	Nigra	Smell\_Source[1]	_	_	
+1-7	33-40	infused	Circumstances[2]	_	_	
+1-8	41-43	in	Circumstances[2]	_	_	
+1-9	44-49	Wines	Circumstances[2]	_	_	
+1-10	49-50	,	Circumstances[2]	_	_	
+1-11	51-61	especially	Circumstances[2]	_	_	
+1-12	62-69	Rhenish	Circumstances[2]	_	_	
+1-13	69-70	,	_	_	_	
+1-14	71-76	makes	_	_	_	
+1-15	77-79	it	_	_	_	
+1-16	80-89	diuretick	_	_	_	
+1-17	89-90	,	_	_	_	
+1-18	91-94	and	_	_	_	
+1-19	95-99	more	_	_	_	
+1-20	100-108	fragrant	Quality	_	_	
+1-21	109-111	in	_	_	_	
+1-22	112-117	Smell	Smell\_Word	*|*|*	1-20|1-3[1_0]|1-7[2_0]	
+1-23	118-121	and	_	_	_	
+1-24	122-127	Taste	_	_	_	
+1-25	127-128	,	_	_	_	
+1-26	129-132	and	_	_	_	
+1-27	133-135	so	_	_	_	
+1-28	136-140	doth	_	_	_	
+1-29	141-146	Clary	_	_	_	
+1-30	146-147	.	_	_	_	
+
+#Text=The Inconvenience is, that the Wine becomes more
+#Text=heady, for which Elder Flowers added to the Clary
+#Text=is a Remedy, which also betters the Fragancy
+#Text=thereof, as ’tis manifest in Elder-Vinegar; but these
+#Text=Flowers are apt to make the Wine ropy.
+2-1	148-151	The	_	_	_	
+2-2	152-165	Inconvenience	_	_	_	
+2-3	166-168	is	_	_	_	
+2-4	168-169	,	_	_	_	
+2-5	170-174	that	_	_	_	
+2-6	175-178	the	_	_	_	
+2-7	179-183	Wine	_	_	_	
+2-8	184-191	becomes	_	_	_	
+2-9	192-196	more	_	_	_	
+2-10	197-202	heady	_	_	_	
+2-11	202-203	,	_	_	_	
+2-12	204-207	for	_	_	_	
+2-13	208-213	which	_	_	_	
+2-14	214-219	Elder	Smell\_Source[3]	_	_	
+2-15	220-227	Flowers	Smell\_Source[3]	_	_	
+2-16	228-233	added	_	_	_	
+2-17	234-236	to	_	_	_	
+2-18	237-240	the	_	_	_	
+2-19	241-246	Clary	_	_	_	
+2-20	247-249	is	_	_	_	
+2-21	250-251	a	_	_	_	
+2-22	252-258	Remedy	_	_	_	
+2-23	258-259	,	_	_	_	
+2-24	260-265	which	Smell\_Source	Anaphoric	2-14[3_0]	
+2-25	266-270	also	_	_	_	
+2-26	271-278	betters	_	_	_	
+2-27	279-282	the	_	_	_	
+2-28	283-291	Fragancy	Smell\_Word	*	2-24	
+2-29	292-299	thereof	_	_	_	
+2-30	299-300	,	_	_	_	
+2-31	301-303	as	_	_	_	
+2-32	304-305	’	_	_	_	
+2-33	305-308	tis	_	_	_	
+2-34	309-317	manifest	_	_	_	
+2-35	318-320	in	_	_	_	
+2-36	321-334	Elder-Vinegar	_	_	_	
+2-37	334-335	;	_	_	_	
+2-38	336-339	but	_	_	_	
+2-39	340-345	these	_	_	_	
+2-40	346-353	Flowers	_	_	_	
+2-41	354-357	are	_	_	_	
+2-42	358-361	apt	_	_	_	
+2-43	362-364	to	_	_	_	
+2-44	365-369	make	_	_	_	
+2-45	370-373	the	_	_	_	
+2-46	374-378	Wine	_	_	_	
+2-47	379-383	ropy	_	_	_	
+2-48	383-384	.	_	_	_	
+
+#Text=To help brown Malaga and Spanish Wines, take
+#Text=Powder of Orras-Roots, and Salt-Petre, of each
+#Text=four Ounces, the Whites of eight Eggs, whereto
+#Text=add as much Salt as will make a Brine, put this
+#Text=Mixture into the Wine, and mix them with a Staff.
+3-1	386-388	To	_	_	_	
+3-2	389-393	help	_	_	_	
+3-3	394-399	brown	_	_	_	
+3-4	400-406	Malaga	_	_	_	
+3-5	407-410	and	_	_	_	
+3-6	411-418	Spanish	_	_	_	
+3-7	419-424	Wines	_	_	_	
+3-8	424-425	,	_	_	_	
+3-9	426-430	take	_	_	_	
+3-10	431-437	Powder	_	_	_	
+3-11	438-440	of	_	_	_	
+3-12	441-452	Orras-Roots	_	_	_	
+3-13	452-453	,	_	_	_	
+3-14	454-457	and	_	_	_	
+3-15	458-468	Salt-Petre	_	_	_	
+3-16	468-469	,	_	_	_	
+3-17	470-472	of	_	_	_	
+3-18	473-477	each	_	_	_	
+3-19	478-482	four	_	_	_	
+3-20	483-489	Ounces	_	_	_	
+3-21	489-490	,	_	_	_	
+3-22	491-494	the	_	_	_	
+3-23	495-501	Whites	_	_	_	
+3-24	502-504	of	_	_	_	
+3-25	505-510	eight	_	_	_	
+3-26	511-515	Eggs	_	_	_	
+3-27	515-516	,	_	_	_	
+3-28	517-524	whereto	_	_	_	
+3-29	525-528	add	_	_	_	
+3-30	529-531	as	_	_	_	
+3-31	532-536	much	_	_	_	
+3-32	537-541	Salt	_	_	_	
+3-33	542-544	as	_	_	_	
+3-34	545-549	will	_	_	_	
+3-35	550-554	make	_	_	_	
+3-36	555-556	a	_	_	_	
+3-37	557-562	Brine	_	_	_	
+3-38	562-563	,	_	_	_	
+3-39	564-567	put	_	_	_	
+3-40	568-572	this	_	_	_	
+3-41	573-580	Mixture	_	_	_	
+3-42	581-585	into	_	_	_	
+3-43	586-589	the	_	_	_	
+3-44	590-594	Wine	_	_	_	
+3-45	594-595	,	_	_	_	
+3-46	596-599	and	_	_	_	
+3-47	600-603	mix	_	_	_	
+3-48	604-608	them	_	_	_	
+3-49	609-613	with	_	_	_	
+3-50	614-615	a	_	_	_	
+3-51	616-621	Staff	_	_	_	
+3-52	621-622	.	_	_	_	
+
+#Text=To meliorate muddy and tawny Clarets.
+4-1	624-626	To	_	_	_	
+4-2	627-636	meliorate	_	_	_	
+4-3	637-642	muddy	_	_	_	
+4-4	643-646	and	_	_	_	
+4-5	647-652	tawny	_	_	_	
+4-6	653-660	Clarets	_	_	_	
+4-7	660-661	.	_	_	_	
+
+#Text=Take of
+#Text=Rain-water two Pints, the Yelks of eight Eggs,
+#Text=Salt an Handful, beat them well, let them stand
+#Text=six Hours before you put them into the Cask,
+#Text=then use the Rod, and in three Days it will come
+#Text=to itself.
+5-1	662-666	Take	_	_	_	
+5-2	667-669	of	_	_	_	
+5-3	670-680	Rain-water	_	_	_	
+5-4	681-684	two	_	_	_	
+5-5	685-690	Pints	_	_	_	
+5-6	690-691	,	_	_	_	
+5-7	692-695	the	_	_	_	
+5-8	696-701	Yelks	_	_	_	
+5-9	702-704	of	_	_	_	
+5-10	705-710	eight	_	_	_	
+5-11	711-715	Eggs	_	_	_	
+5-12	715-716	,	_	_	_	
+5-13	717-721	Salt	_	_	_	
+5-14	722-724	an	_	_	_	
+5-15	725-732	Handful	_	_	_	
+5-16	732-733	,	_	_	_	
+5-17	734-738	beat	_	_	_	
+5-18	739-743	them	_	_	_	
+5-19	744-748	well	_	_	_	
+5-20	748-749	,	_	_	_	
+5-21	750-753	let	_	_	_	
+5-22	754-758	them	_	_	_	
+5-23	759-764	stand	_	_	_	
+5-24	765-768	six	_	_	_	
+5-25	769-774	Hours	_	_	_	
+5-26	775-781	before	_	_	_	
+5-27	782-785	you	_	_	_	
+5-28	786-789	put	_	_	_	
+5-29	790-794	them	_	_	_	
+5-30	795-799	into	_	_	_	
+5-31	800-803	the	_	_	_	
+5-32	804-808	Cask	_	_	_	
+5-33	808-809	,	_	_	_	
+5-34	810-814	then	_	_	_	
+5-35	815-818	use	_	_	_	
+5-36	819-822	the	_	_	_	
+5-37	823-826	Rod	_	_	_	
+5-38	826-827	,	_	_	_	
+5-39	828-831	and	_	_	_	
+5-40	832-834	in	_	_	_	
+5-41	835-840	three	_	_	_	
+5-42	841-845	Days	_	_	_	
+5-43	846-848	it	_	_	_	
+5-44	849-853	will	_	_	_	
+5-45	854-858	come	_	_	_	
+5-46	859-861	to	_	_	_	
+5-47	862-868	itself	_	_	_	
+5-48	868-869	.	_	_	_	
+
+#Text=To amend the Taste and Smell of Malaga .
+6-1	871-873	To	_	_	_	
+6-2	874-879	amend	_	_	_	
+6-3	880-883	the	_	_	_	
+6-4	884-889	Taste	_	_	_	
+6-5	890-893	and	_	_	_	
+6-6	894-899	Smell	Smell\_Word	*	6-7[4_0]	
+6-7	900-902	of	Smell\_Source[4]	_	_	
+6-8	903-909	Malaga	Smell\_Source[4]	_	_	
+6-9	910-911	.	_	_	_	
+
+#Text=Take of the best Almonds four Pounds, make
+#Text=therewith, and with sufficient Quantity of the
+#Text=Wine to be cured, an Emulsion, then take the
+#Text=Whites and Yelks of twelve Eggs, 
+#Text=beat them together with a Handful of Salt, 
+#Text=put them into the
+#Text=Pipe, using the Rod.
+7-1	912-916	Take	_	_	_	
+7-2	917-919	of	_	_	_	
+7-3	920-923	the	_	_	_	
+7-4	924-928	best	_	_	_	
+7-5	929-936	Almonds	_	_	_	
+7-6	937-941	four	_	_	_	
+7-7	942-948	Pounds	_	_	_	
+7-8	948-949	,	_	_	_	
+7-9	950-954	make	_	_	_	
+7-10	955-964	therewith	_	_	_	
+7-11	964-965	,	_	_	_	
+7-12	966-969	and	_	_	_	
+7-13	970-974	with	_	_	_	
+7-14	975-985	sufficient	_	_	_	
+7-15	986-994	Quantity	_	_	_	
+7-16	995-997	of	_	_	_	
+7-17	998-1001	the	_	_	_	
+7-18	1002-1006	Wine	_	_	_	
+7-19	1007-1009	to	_	_	_	
+7-20	1010-1012	be	_	_	_	
+7-21	1013-1018	cured	_	_	_	
+7-22	1018-1019	,	_	_	_	
+7-23	1020-1022	an	_	_	_	
+7-24	1023-1031	Emulsion	_	_	_	
+7-25	1031-1032	,	_	_	_	
+7-26	1033-1037	then	_	_	_	
+7-27	1038-1042	take	_	_	_	
+7-28	1043-1046	the	_	_	_	
+7-29	1047-1053	Whites	_	_	_	
+7-30	1054-1057	and	_	_	_	
+7-31	1058-1063	Yelks	_	_	_	
+7-32	1064-1066	of	_	_	_	
+7-33	1067-1073	twelve	_	_	_	
+7-34	1074-1078	Eggs	_	_	_	
+7-35	1078-1079	,	_	_	_	
+7-36	1081-1085	beat	_	_	_	
+7-37	1086-1090	them	_	_	_	
+7-38	1091-1099	together	_	_	_	
+7-39	1100-1104	with	_	_	_	
+7-40	1105-1106	a	_	_	_	
+7-41	1107-1114	Handful	_	_	_	
+7-42	1115-1117	of	_	_	_	
+7-43	1118-1122	Salt	_	_	_	
+7-44	1122-1123	,	_	_	_	
+7-45	1125-1128	put	_	_	_	
+7-46	1129-1133	them	_	_	_	
+7-47	1134-1138	into	_	_	_	
+7-48	1139-1142	the	_	_	_	
+7-49	1143-1147	Pipe	_	_	_	
+7-50	1147-1148	,	_	_	_	
+7-51	1149-1154	using	_	_	_	
+7-52	1155-1158	the	_	_	_	
+7-53	1159-1162	Rod	_	_	_	
+7-54	1162-1163	.	_	_	_	
+
+#Text=To amend the Smell and Taste of French and
+#Text=Rhenish which are foul.
+8-1	1165-1167	To	_	_	_	
+8-2	1168-1173	amend	_	_	_	
+8-3	1174-1177	the	_	_	_	
+8-4	1178-1183	Smell	Smell\_Word	*	8-7[5_0]	
+8-5	1184-1187	and	_	_	_	
+8-6	1188-1193	Taste	_	_	_	
+8-7	1194-1196	of	Smell\_Source[5]	_	_	
+8-8	1197-1203	French	Smell\_Source[5]	_	_	
+8-9	1204-1207	and	Smell\_Source[5]	_	_	
+8-10	1208-1215	Rhenish	Smell\_Source[5]	_	_	
+8-11	1216-1221	which	Smell\_Source	Anaphoric	8-7[5_0]	
+8-12	1222-1225	are	_	_	_	
+8-13	1226-1230	foul	Smell\_Word[6]|Quality[7]	*	8-11[0_6]	
+8-14	1230-1231	.	_	_	_	
+
+#Text=Take to an Auln of the
+#Text=Wine, of Honey one Pound, of Elder-Flowers a
+#Text=Handful, Orras Powder an Ounce, one Nutmeg,
+#Text=a few Cloves, boil them in a sufficient Quantity of
+#Text=the Wine to be cured, to the Consumption of half;
+#Text=when ’tis cold, strain and use it with the Rod;
+#Text=some add a little Salt.
+9-1	1232-1236	Take	_	_	_	
+9-2	1237-1239	to	_	_	_	
+9-3	1240-1242	an	_	_	_	
+9-4	1243-1247	Auln	_	_	_	
+9-5	1248-1250	of	_	_	_	
+9-6	1251-1254	the	_	_	_	
+9-7	1255-1259	Wine	_	_	_	
+9-8	1259-1260	,	_	_	_	
+9-9	1261-1263	of	_	_	_	
+9-10	1264-1269	Honey	_	_	_	
+9-11	1270-1273	one	_	_	_	
+9-12	1274-1279	Pound	_	_	_	
+9-13	1279-1280	,	_	_	_	
+9-14	1281-1283	of	_	_	_	
+9-15	1284-1297	Elder-Flowers	_	_	_	
+9-16	1298-1299	a	_	_	_	
+9-17	1300-1307	Handful	_	_	_	
+9-18	1307-1308	,	_	_	_	
+9-19	1309-1314	Orras	_	_	_	
+9-20	1315-1321	Powder	_	_	_	
+9-21	1322-1324	an	_	_	_	
+9-22	1325-1330	Ounce	_	_	_	
+9-23	1330-1331	,	_	_	_	
+9-24	1332-1335	one	_	_	_	
+9-25	1336-1342	Nutmeg	_	_	_	
+9-26	1342-1343	,	_	_	_	
+9-27	1344-1345	a	_	_	_	
+9-28	1346-1349	few	_	_	_	
+9-29	1350-1356	Cloves	_	_	_	
+9-30	1356-1357	,	_	_	_	
+9-31	1358-1362	boil	_	_	_	
+9-32	1363-1367	them	_	_	_	
+9-33	1368-1370	in	_	_	_	
+9-34	1371-1372	a	_	_	_	
+9-35	1373-1383	sufficient	_	_	_	
+9-36	1384-1392	Quantity	_	_	_	
+9-37	1393-1395	of	_	_	_	
+9-38	1396-1399	the	_	_	_	
+9-39	1400-1404	Wine	_	_	_	
+9-40	1405-1407	to	_	_	_	
+9-41	1408-1410	be	_	_	_	
+9-42	1411-1416	cured	_	_	_	
+9-43	1416-1417	,	_	_	_	
+9-44	1418-1420	to	_	_	_	
+9-45	1421-1424	the	_	_	_	
+9-46	1425-1436	Consumption	_	_	_	
+9-47	1437-1439	of	_	_	_	
+9-48	1440-1444	half	_	_	_	
+9-49	1444-1445	;	_	_	_	
+9-50	1446-1450	when	_	_	_	
+9-51	1451-1452	’	_	_	_	
+9-52	1452-1455	tis	_	_	_	
+9-53	1456-1460	cold	_	_	_	
+9-54	1460-1461	,	_	_	_	
+9-55	1462-1468	strain	_	_	_	
+9-56	1469-1472	and	_	_	_	
+9-57	1473-1476	use	_	_	_	
+9-58	1477-1479	it	_	_	_	
+9-59	1480-1484	with	_	_	_	
+9-60	1485-1488	the	_	_	_	
+9-61	1489-1492	Rod	_	_	_	
+9-62	1492-1493	;	_	_	_	
+9-63	1494-1498	some	_	_	_	
+9-64	1499-1502	add	_	_	_	
+9-65	1503-1504	a	_	_	_	
+9-66	1505-1511	little	_	_	_	
+9-67	1512-1516	Salt	_	_	_	
+9-68	1516-1517	.	_	_	_	
+
+#Text=If the Wine be sweet enough,
+#Text=add of Spirits of Wine one Pound to a Hogshead,
+#Text=and give the Cask a strong Scent.
+10-1	1518-1520	If	_	_	_	
+10-2	1521-1524	the	_	_	_	
+10-3	1525-1529	Wine	_	_	_	
+10-4	1530-1532	be	_	_	_	
+10-5	1533-1538	sweet	_	_	_	
+10-6	1539-1545	enough	_	_	_	
+10-7	1545-1546	,	_	_	_	
+10-8	1547-1550	add	_	_	_	
+10-9	1551-1553	of	_	_	_	
+10-10	1554-1561	Spirits	Smell\_Source[8]	_	_	
+10-11	1562-1564	of	Smell\_Source[8]	_	_	
+10-12	1565-1569	Wine	Smell\_Source[8]	_	_	
+10-13	1570-1573	one	_	_	_	
+10-14	1574-1579	Pound	_	_	_	
+10-15	1580-1582	to	_	_	_	
+10-16	1583-1584	a	_	_	_	
+10-17	1585-1593	Hogshead	_	_	_	
+10-18	1593-1594	,	_	_	_	
+10-19	1595-1598	and	_	_	_	
+10-20	1599-1603	give	_	_	_	
+10-21	1604-1607	the	Odour\_Carrier[9]	_	_	
+10-22	1608-1612	Cask	Odour\_Carrier[9]	_	_	
+10-23	1613-1614	a	_	_	_	
+10-24	1615-1621	strong	Quality	_	_	
+10-25	1622-1627	Scent	Smell\_Word	*|*|*	10-21[9_0]|10-24|10-10[8_0]	
+10-26	1627-1628	.	_	_	_	
+
+#Text=Spirit of Wine
+#Text=makes any Wine brisk, and fines it without the
+#Text=former Mixture.
+11-1	1629-1635	Spirit	_	_	_	
+11-2	1636-1638	of	_	_	_	
+11-3	1639-1643	Wine	_	_	_	
+11-4	1644-1649	makes	_	_	_	
+11-5	1650-1653	any	_	_	_	
+11-6	1654-1658	Wine	_	_	_	
+11-7	1659-1664	brisk	_	_	_	
+11-8	1664-1665	,	_	_	_	
+11-9	1666-1669	and	_	_	_	
+11-10	1670-1675	fines	_	_	_	
+11-11	1676-1678	it	_	_	_	
+11-12	1679-1686	without	_	_	_	
+11-13	1687-1690	the	_	_	_	
+11-14	1691-1697	former	_	_	_	
+11-15	1698-1705	Mixture	_	_	_	
+11-16	1705-1706	.	_	_	_	

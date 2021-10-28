@@ -1,0 +1,458 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=From common joy; which with the speechless feeling
+#Text=That led her there united, and shot forth
+#Text=From her far eyes a light of deep revealing,
+#Text=All but her dearest self from my regard concealing.
+1-1	0-4	From	_	_	_	
+1-2	5-11	common	_	_	_	
+1-3	12-15	joy	_	_	_	
+1-4	15-16	;	_	_	_	
+1-5	17-22	which	_	_	_	
+1-6	23-27	with	_	_	_	
+1-7	28-31	the	_	_	_	
+1-8	32-42	speechless	_	_	_	
+1-9	43-50	feeling	_	_	_	
+1-10	51-55	That	_	_	_	
+1-11	56-59	led	_	_	_	
+1-12	60-63	her	_	_	_	
+1-13	64-69	there	_	_	_	
+1-14	70-76	united	_	_	_	
+1-15	76-77	,	_	_	_	
+1-16	78-81	and	_	_	_	
+1-17	82-86	shot	_	_	_	
+1-18	87-92	forth	_	_	_	
+1-19	93-97	From	_	_	_	
+1-20	98-101	her	_	_	_	
+1-21	102-105	far	_	_	_	
+1-22	106-110	eyes	_	_	_	
+1-23	111-112	a	_	_	_	
+1-24	113-118	light	_	_	_	
+1-25	119-121	of	_	_	_	
+1-26	122-126	deep	_	_	_	
+1-27	127-136	revealing	_	_	_	
+1-28	136-137	,	_	_	_	
+1-29	138-141	All	_	_	_	
+1-30	142-145	but	_	_	_	
+1-31	146-149	her	_	_	_	
+1-32	150-157	dearest	_	_	_	
+1-33	158-162	self	_	_	_	
+1-34	163-167	from	_	_	_	
+1-35	168-170	my	_	_	_	
+1-36	171-177	regard	_	_	_	
+1-37	178-188	concealing	_	_	_	
+1-38	188-189	.	_	_	_	
+
+#Text=Her lips were parted, and the measured breath
+#Text=Was now heard there; her dark and intricate eyes
+#Text=Orb within orb, deeper than sleep or death,
+#Text=Absorbed the glories of the burning skies,
+#Text=Which, mingling with her heart's deep ecstasies,
+#Text=Burst from her looks and gestures; and a light
+#Text=Of liquid tenderness, like love, did rise
+#Text=From her whole frame, an atmosphere which quite
+#Text=Arrayed her in its beams, tremulous and soft and bright.
+2-1	192-195	Her	_	_	_	
+2-2	196-200	lips	_	_	_	
+2-3	201-205	were	_	_	_	
+2-4	206-212	parted	_	_	_	
+2-5	212-213	,	_	_	_	
+2-6	214-217	and	_	_	_	
+2-7	218-221	the	_	_	_	
+2-8	222-230	measured	_	_	_	
+2-9	231-237	breath	_	_	_	
+2-10	238-241	Was	_	_	_	
+2-11	242-245	now	_	_	_	
+2-12	246-251	heard	_	_	_	
+2-13	252-257	there	_	_	_	
+2-14	257-258	;	_	_	_	
+2-15	259-262	her	_	_	_	
+2-16	263-267	dark	_	_	_	
+2-17	268-271	and	_	_	_	
+2-18	272-281	intricate	_	_	_	
+2-19	282-286	eyes	_	_	_	
+2-20	287-290	Orb	_	_	_	
+2-21	291-297	within	_	_	_	
+2-22	298-301	orb	_	_	_	
+2-23	301-302	,	_	_	_	
+2-24	303-309	deeper	_	_	_	
+2-25	310-314	than	_	_	_	
+2-26	315-320	sleep	_	_	_	
+2-27	321-323	or	_	_	_	
+2-28	324-329	death	_	_	_	
+2-29	329-330	,	_	_	_	
+2-30	331-339	Absorbed	_	_	_	
+2-31	340-343	the	_	_	_	
+2-32	344-351	glories	_	_	_	
+2-33	352-354	of	_	_	_	
+2-34	355-358	the	_	_	_	
+2-35	359-366	burning	_	_	_	
+2-36	367-372	skies	_	_	_	
+2-37	372-373	,	_	_	_	
+2-38	374-379	Which	_	_	_	
+2-39	379-380	,	_	_	_	
+2-40	381-389	mingling	_	_	_	
+2-41	390-394	with	_	_	_	
+2-42	395-398	her	_	_	_	
+2-43	399-406	heart's	_	_	_	
+2-44	407-411	deep	_	_	_	
+2-45	412-421	ecstasies	_	_	_	
+2-46	421-422	,	_	_	_	
+2-47	423-428	Burst	_	_	_	
+2-48	429-433	from	_	_	_	
+2-49	434-437	her	_	_	_	
+2-50	438-443	looks	_	_	_	
+2-51	444-447	and	_	_	_	
+2-52	448-456	gestures	_	_	_	
+2-53	456-457	;	_	_	_	
+2-54	458-461	and	_	_	_	
+2-55	462-463	a	_	_	_	
+2-56	464-469	light	_	_	_	
+2-57	470-472	Of	_	_	_	
+2-58	473-479	liquid	_	_	_	
+2-59	480-490	tenderness	_	_	_	
+2-60	490-491	,	_	_	_	
+2-61	492-496	like	_	_	_	
+2-62	497-501	love	_	_	_	
+2-63	501-502	,	_	_	_	
+2-64	503-506	did	_	_	_	
+2-65	507-511	rise	_	_	_	
+2-66	512-516	From	_	_	_	
+2-67	517-520	her	_	_	_	
+2-68	521-526	whole	_	_	_	
+2-69	527-532	frame	_	_	_	
+2-70	532-533	,	_	_	_	
+2-71	534-536	an	_	_	_	
+2-72	537-547	atmosphere	_	_	_	
+2-73	548-553	which	_	_	_	
+2-74	554-559	quite	_	_	_	
+2-75	560-567	Arrayed	_	_	_	
+2-76	568-571	her	_	_	_	
+2-77	572-574	in	_	_	_	
+2-78	575-578	its	_	_	_	
+2-79	579-584	beams	_	_	_	
+2-80	584-585	,	_	_	_	
+2-81	586-595	tremulous	_	_	_	
+2-82	596-599	and	_	_	_	
+2-83	600-604	soft	_	_	_	
+2-84	605-608	and	_	_	_	
+2-85	609-615	bright	_	_	_	
+2-86	615-616	.	_	_	_	
+
+#Text=She would have clasped me to her glowing frame; 
+#Text=Those warm and odorous lips might soon have shed
+#Text=On mine the fragrance and the invisible flame
+#Text=Which now the cold winds stole; she would have laid
+#Text=Upon my languid heart her dearest head;
+#Text=I might have heard her voice, tender and sweet; 
+#Text=Her eyes, mingling with mine, might soon have fed
+#Text=My soul with their own joy.
+3-1	618-621	She	_	_	_	
+3-2	622-627	would	_	_	_	
+3-3	628-632	have	_	_	_	
+3-4	633-640	clasped	_	_	_	
+3-5	641-643	me	_	_	_	
+3-6	644-646	to	_	_	_	
+3-7	647-650	her	_	_	_	
+3-8	651-658	glowing	_	_	_	
+3-9	659-664	frame	_	_	_	
+3-10	664-665	;	_	_	_	
+3-11	667-672	Those	_	_	_	
+3-12	673-677	warm	_	_	_	
+3-13	678-681	and	_	_	_	
+3-14	682-689	odorous	Smell\_Word[1]|Quality[2]	*|*	3-14[2_1]|3-15[0_1]	
+3-15	690-694	lips	Smell\_Source	_	_	
+3-16	695-700	might	_	_	_	
+3-17	701-705	soon	_	_	_	
+3-18	706-710	have	_	_	_	
+3-19	711-715	shed	_	_	_	
+3-20	716-718	On	Perceiver[3]	_	_	
+3-21	719-723	mine	Perceiver[3]	_	_	
+3-22	724-727	the	_	_	_	
+3-23	728-737	fragrance	Smell\_Word	*	3-20[3_0]	
+3-24	738-741	and	_	_	_	
+3-25	742-745	the	_	_	_	
+3-26	746-755	invisible	_	_	_	
+3-27	756-761	flame	_	_	_	
+3-28	762-767	Which	_	_	_	
+3-29	768-771	now	_	_	_	
+3-30	772-775	the	_	_	_	
+3-31	776-780	cold	_	_	_	
+3-32	781-786	winds	_	_	_	
+3-33	787-792	stole	_	_	_	
+3-34	792-793	;	_	_	_	
+3-35	794-797	she	_	_	_	
+3-36	798-803	would	_	_	_	
+3-37	804-808	have	_	_	_	
+3-38	809-813	laid	_	_	_	
+3-39	814-818	Upon	_	_	_	
+3-40	819-821	my	_	_	_	
+3-41	822-829	languid	_	_	_	
+3-42	830-835	heart	_	_	_	
+3-43	836-839	her	_	_	_	
+3-44	840-847	dearest	_	_	_	
+3-45	848-852	head	_	_	_	
+3-46	852-853	;	_	_	_	
+3-47	854-855	I	_	_	_	
+3-48	856-861	might	_	_	_	
+3-49	862-866	have	_	_	_	
+3-50	867-872	heard	_	_	_	
+3-51	873-876	her	_	_	_	
+3-52	877-882	voice	_	_	_	
+3-53	882-883	,	_	_	_	
+3-54	884-890	tender	_	_	_	
+3-55	891-894	and	_	_	_	
+3-56	895-900	sweet	_	_	_	
+3-57	900-901	;	_	_	_	
+3-58	903-906	Her	_	_	_	
+3-59	907-911	eyes	_	_	_	
+3-60	911-912	,	_	_	_	
+3-61	913-921	mingling	_	_	_	
+3-62	922-926	with	_	_	_	
+3-63	927-931	mine	_	_	_	
+3-64	931-932	,	_	_	_	
+3-65	933-938	might	_	_	_	
+3-66	939-943	soon	_	_	_	
+3-67	944-948	have	_	_	_	
+3-68	949-952	fed	_	_	_	
+3-69	953-955	My	_	_	_	
+3-70	956-960	soul	_	_	_	
+3-71	961-965	with	_	_	_	
+3-72	966-971	their	_	_	_	
+3-73	972-975	own	_	_	_	
+3-74	976-979	joy	_	_	_	
+3-75	979-980	.	_	_	_	
+
+#Text=—One moment yet
+#Text=I gazed—we parted then, never again to meet!
+4-1	980-981	—	_	_	_	
+4-2	981-984	One	_	_	_	
+4-3	985-991	moment	_	_	_	
+4-4	992-995	yet	_	_	_	
+4-5	996-997	I	_	_	_	
+4-6	998-1006	gazed—we	_	_	_	
+4-7	1007-1013	parted	_	_	_	
+4-8	1014-1018	then	_	_	_	
+4-9	1018-1019	,	_	_	_	
+4-10	1020-1025	never	_	_	_	
+4-11	1026-1031	again	_	_	_	
+4-12	1032-1034	to	_	_	_	
+4-13	1035-1039	meet	_	_	_	
+4-14	1039-1040	!	_	_	_	
+
+#Text=Never but once to meet on Earth again!
+5-1	1042-1047	Never	_	_	_	
+5-2	1048-1051	but	_	_	_	
+5-3	1052-1056	once	_	_	_	
+5-4	1057-1059	to	_	_	_	
+5-5	1060-1064	meet	_	_	_	
+5-6	1065-1067	on	_	_	_	
+5-7	1068-1073	Earth	_	_	_	
+5-8	1074-1079	again	_	_	_	
+5-9	1079-1080	!	_	_	_	
+
+#Text=She heard me as I fled—her eager tone 
+#Text=Sunk on my heart, and almost wove a chain
+#Text=Around my will to link it with her own,
+#Text=So that my stern resolve was almost gone.
+6-1	1081-1084	She	_	_	_	
+6-2	1085-1090	heard	_	_	_	
+6-3	1091-1093	me	_	_	_	
+6-4	1094-1096	as	_	_	_	
+6-5	1097-1098	I	_	_	_	
+6-6	1099-1107	fled—her	_	_	_	
+6-7	1108-1113	eager	_	_	_	
+6-8	1114-1118	tone	_	_	_	
+6-9	1120-1124	Sunk	_	_	_	
+6-10	1125-1127	on	_	_	_	
+6-11	1128-1130	my	_	_	_	
+6-12	1131-1136	heart	_	_	_	
+6-13	1136-1137	,	_	_	_	
+6-14	1138-1141	and	_	_	_	
+6-15	1142-1148	almost	_	_	_	
+6-16	1149-1153	wove	_	_	_	
+6-17	1154-1155	a	_	_	_	
+6-18	1156-1161	chain	_	_	_	
+6-19	1162-1168	Around	_	_	_	
+6-20	1169-1171	my	_	_	_	
+6-21	1172-1176	will	_	_	_	
+6-22	1177-1179	to	_	_	_	
+6-23	1180-1184	link	_	_	_	
+6-24	1185-1187	it	_	_	_	
+6-25	1188-1192	with	_	_	_	
+6-26	1193-1196	her	_	_	_	
+6-27	1197-1200	own	_	_	_	
+6-28	1200-1201	,	_	_	_	
+6-29	1202-1204	So	_	_	_	
+6-30	1205-1209	that	_	_	_	
+6-31	1210-1212	my	_	_	_	
+6-32	1213-1218	stern	_	_	_	
+6-33	1219-1226	resolve	_	_	_	
+6-34	1227-1230	was	_	_	_	
+6-35	1231-1237	almost	_	_	_	
+6-36	1238-1242	gone	_	_	_	
+6-37	1242-1243	.	_	_	_	
+
+#Text='I cannot reach thee!
+7-1	1244-1245	'	_	_	_	
+7-2	1245-1246	I	_	_	_	
+7-3	1247-1253	cannot	_	_	_	
+7-4	1254-1259	reach	_	_	_	
+7-5	1260-1264	thee	_	_	_	
+7-6	1264-1265	!	_	_	_	
+
+#Text=whither dost thou fly?
+8-1	1266-1273	whither	_	_	_	
+8-2	1274-1278	dost	_	_	_	
+8-3	1279-1283	thou	_	_	_	
+8-4	1284-1287	fly	_	_	_	
+8-5	1287-1288	?	_	_	_	
+
+#Text=My steps are faint—Come back, thou dearest one— 
+#Text=Return, ah me!
+9-1	1289-1291	My	_	_	_	
+9-2	1292-1297	steps	_	_	_	
+9-3	1298-1301	are	_	_	_	
+9-4	1302-1312	faint—Come	_	_	_	
+9-5	1313-1317	back	_	_	_	
+9-6	1317-1318	,	_	_	_	
+9-7	1319-1323	thou	_	_	_	
+9-8	1324-1331	dearest	_	_	_	
+9-9	1332-1335	one	_	_	_	
+9-10	1335-1336	—	_	_	_	
+9-11	1338-1344	Return	_	_	_	
+9-12	1344-1345	,	_	_	_	
+9-13	1346-1348	ah	_	_	_	
+9-14	1349-1351	me	_	_	_	
+9-15	1351-1352	!	_	_	_	
+
+#Text=return!
+10-1	1353-1359	return	_	_	_	
+10-2	1359-1360	!	_	_	_	
+
+#Text=' —The wind passed by
+#Text=On which those accents died, faint, far, and lingeringly.
+11-1	1361-1362	'	_	_	_	
+11-2	1363-1364	—	_	_	_	
+11-3	1364-1367	The	_	_	_	
+11-4	1368-1372	wind	_	_	_	
+11-5	1373-1379	passed	_	_	_	
+11-6	1380-1382	by	_	_	_	
+11-7	1383-1385	On	_	_	_	
+11-8	1386-1391	which	_	_	_	
+11-9	1392-1397	those	_	_	_	
+11-10	1398-1405	accents	_	_	_	
+11-11	1406-1410	died	_	_	_	
+11-12	1410-1411	,	_	_	_	
+11-13	1412-1417	faint	_	_	_	
+11-14	1417-1418	,	_	_	_	
+11-15	1419-1422	far	_	_	_	
+11-16	1422-1423	,	_	_	_	
+11-17	1424-1427	and	_	_	_	
+11-18	1428-1439	lingeringly	_	_	_	
+11-19	1439-1440	.	_	_	_	
+
+#Text=Woe!
+12-1	1442-1445	Woe	_	_	_	
+12-2	1445-1446	!	_	_	_	
+
+#Text=Woe!
+13-1	1447-1450	Woe	_	_	_	
+13-2	1450-1451	!	_	_	_	
+
+#Text=that moonless midnight!
+14-1	1452-1456	that	_	_	_	
+14-2	1457-1465	moonless	_	_	_	
+14-3	1466-1474	midnight	_	_	_	
+14-4	1474-1475	!	_	_	_	
+
+#Text=—Want and Pest
+#Text=Were horrible, but one more fell doth rear,
+#Text=As in a hydra ' s swarming lair, its crest 
+#Text=Eminent among those victims—even the Fear
+#Text=Of Hell: each girt by the hot atmosphere
+#Text=Of his blind agony, like a scorpion stung
+#Text=By his own rage upon his burning bier
+#Text=Of circling coals of fire; but still there clung 
+#Text=   One hope, like a keen sword on starting threads uphung
+15-1	1475-1476	—	_	_	_	
+15-2	1476-1480	Want	_	_	_	
+15-3	1481-1484	and	_	_	_	
+15-4	1485-1489	Pest	_	_	_	
+15-5	1490-1494	Were	_	_	_	
+15-6	1495-1503	horrible	_	_	_	
+15-7	1503-1504	,	_	_	_	
+15-8	1505-1508	but	_	_	_	
+15-9	1509-1512	one	_	_	_	
+15-10	1513-1517	more	_	_	_	
+15-11	1518-1522	fell	_	_	_	
+15-12	1523-1527	doth	_	_	_	
+15-13	1528-1532	rear	_	_	_	
+15-14	1532-1533	,	_	_	_	
+15-15	1534-1536	As	_	_	_	
+15-16	1537-1539	in	_	_	_	
+15-17	1540-1541	a	_	_	_	
+15-18	1542-1547	hydra	_	_	_	
+15-19	1548-1549	'	_	_	_	
+15-20	1550-1551	s	_	_	_	
+15-21	1552-1560	swarming	_	_	_	
+15-22	1561-1565	lair	_	_	_	
+15-23	1565-1566	,	_	_	_	
+15-24	1567-1570	its	_	_	_	
+15-25	1571-1576	crest	_	_	_	
+15-26	1578-1585	Eminent	_	_	_	
+15-27	1586-1591	among	_	_	_	
+15-28	1592-1597	those	_	_	_	
+15-29	1598-1610	victims—even	_	_	_	
+15-30	1611-1614	the	_	_	_	
+15-31	1615-1619	Fear	_	_	_	
+15-32	1620-1622	Of	_	_	_	
+15-33	1623-1627	Hell	_	_	_	
+15-34	1627-1628	:	_	_	_	
+15-35	1629-1633	each	_	_	_	
+15-36	1634-1638	girt	_	_	_	
+15-37	1639-1641	by	_	_	_	
+15-38	1642-1645	the	_	_	_	
+15-39	1646-1649	hot	_	_	_	
+15-40	1650-1660	atmosphere	_	_	_	
+15-41	1661-1663	Of	_	_	_	
+15-42	1664-1667	his	_	_	_	
+15-43	1668-1673	blind	_	_	_	
+15-44	1674-1679	agony	_	_	_	
+15-45	1679-1680	,	_	_	_	
+15-46	1681-1685	like	_	_	_	
+15-47	1686-1687	a	_	_	_	
+15-48	1688-1696	scorpion	_	_	_	
+15-49	1697-1702	stung	_	_	_	
+15-50	1703-1705	By	_	_	_	
+15-51	1706-1709	his	_	_	_	
+15-52	1710-1713	own	_	_	_	
+15-53	1714-1718	rage	_	_	_	
+15-54	1719-1723	upon	_	_	_	
+15-55	1724-1727	his	_	_	_	
+15-56	1728-1735	burning	_	_	_	
+15-57	1736-1740	bier	_	_	_	
+15-58	1741-1743	Of	_	_	_	
+15-59	1744-1752	circling	_	_	_	
+15-60	1753-1758	coals	_	_	_	
+15-61	1759-1761	of	_	_	_	
+15-62	1762-1766	fire	_	_	_	
+15-63	1766-1767	;	_	_	_	
+15-64	1768-1771	but	_	_	_	
+15-65	1772-1777	still	_	_	_	
+15-66	1778-1783	there	_	_	_	
+15-67	1784-1789	clung	_	_	_	
+15-68	1794-1797	One	_	_	_	
+15-69	1798-1802	hope	_	_	_	
+15-70	1802-1803	,	_	_	_	
+15-71	1804-1808	like	_	_	_	
+15-72	1809-1810	a	_	_	_	
+15-73	1811-1815	keen	_	_	_	
+15-74	1816-1821	sword	_	_	_	
+15-75	1822-1824	on	_	_	_	
+15-76	1825-1833	starting	_	_	_	
+15-77	1834-1841	threads	_	_	_	
+15-78	1842-1848	uphung	_	_	_	

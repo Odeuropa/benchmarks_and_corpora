@@ -1,0 +1,454 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=Memorandum of Nuisance from any other cause or general remarks.
+1-1	1-11	Memorandum	_	_	_	
+1-2	12-14	of	_	_	_	
+1-3	15-23	Nuisance	_	_	_	
+1-4	24-28	from	_	_	_	
+1-5	29-32	any	_	_	_	
+1-6	33-38	other	_	_	_	
+1-7	39-44	cause	_	_	_	
+1-8	45-47	or	_	_	_	
+1-9	48-55	general	_	_	_	
+1-10	56-63	remarks	_	_	_	
+1-11	63-64	.	_	_	_	
+
+#Text=In considering the question of nuisances from offensive
+#Text=trades it might be an infraction of personal liberty to
+#Text=interfere with a proprietor ' s right to make offensive smells
+#Text=within the limits of his own tenement, and for his own
+#Text=separate inhalation, but surely it is a greater infraction of
+#Text=personal liberty when the proprietor assumes what is
+#Text=equivalent to a sole possession of the atmosphere, and
+#Text=claims the right of diffusing through it some nauseous
+#Text=effluvium which others equally with himself are thus
+#Text=obliged to inhale.
+2-1	66-68	In	_	_	_	
+2-2	69-80	considering	_	_	_	
+2-3	81-84	the	_	_	_	
+2-4	85-93	question	_	_	_	
+2-5	94-96	of	_	_	_	
+2-6	97-106	nuisances	_	_	_	
+2-7	107-111	from	_	_	_	
+2-8	112-121	offensive	_	_	_	
+2-9	122-128	trades	_	_	_	
+2-10	129-131	it	_	_	_	
+2-11	132-137	might	_	_	_	
+2-12	138-140	be	_	_	_	
+2-13	141-143	an	_	_	_	
+2-14	144-154	infraction	_	_	_	
+2-15	155-157	of	_	_	_	
+2-16	158-166	personal	_	_	_	
+2-17	167-174	liberty	_	_	_	
+2-18	175-177	to	_	_	_	
+2-19	178-187	interfere	_	_	_	
+2-20	188-192	with	_	_	_	
+2-21	193-194	a	_	_	_	
+2-22	195-205	proprietor	_	_	_	
+2-23	206-207	'	_	_	_	
+2-24	208-209	s	_	_	_	
+2-25	210-215	right	_	_	_	
+2-26	216-218	to	_	_	_	
+2-27	219-223	make	_	_	_	
+2-28	224-233	offensive	Quality	_	_	
+2-29	234-240	smells	Smell\_Word	*|*|*	2-28|2-30[1_0]|2-39[2_0]	
+2-30	241-247	within	Location[1]	_	_	
+2-31	248-251	the	Location[1]	_	_	
+2-32	252-258	limits	Location[1]	_	_	
+2-33	259-261	of	Location[1]	_	_	
+2-34	262-265	his	Location[1]	_	_	
+2-35	266-269	own	Location[1]	_	_	
+2-36	270-278	tenement	Location[1]	_	_	
+2-37	278-279	,	_	_	_	
+2-38	280-283	and	_	_	_	
+2-39	284-287	for	Perceiver[2]	_	_	
+2-40	288-291	his	Perceiver[2]	_	_	
+2-41	292-295	own	Perceiver[2]	_	_	
+2-42	296-304	separate	Perceiver[2]	_	_	
+2-43	305-315	inhalation	Perceiver[2]	_	_	
+2-44	315-316	,	_	_	_	
+2-45	317-320	but	_	_	_	
+2-46	321-327	surely	_	_	_	
+2-47	328-330	it	_	_	_	
+2-48	331-333	is	_	_	_	
+2-49	334-335	a	_	_	_	
+2-50	336-343	greater	_	_	_	
+2-51	344-354	infraction	_	_	_	
+2-52	355-357	of	_	_	_	
+2-53	358-366	personal	_	_	_	
+2-54	367-374	liberty	_	_	_	
+2-55	375-379	when	_	_	_	
+2-56	380-383	the	_	_	_	
+2-57	384-394	proprietor	_	_	_	
+2-58	395-402	assumes	_	_	_	
+2-59	403-407	what	_	_	_	
+2-60	408-410	is	_	_	_	
+2-61	411-421	equivalent	_	_	_	
+2-62	422-424	to	_	_	_	
+2-63	425-426	a	_	_	_	
+2-64	427-431	sole	_	_	_	
+2-65	432-442	possession	_	_	_	
+2-66	443-445	of	_	_	_	
+2-67	446-449	the	Odour\_Carrier[3]	_	_	
+2-68	450-460	atmosphere	Odour\_Carrier[3]	_	_	
+2-69	460-461	,	_	_	_	
+2-70	462-465	and	_	_	_	
+2-71	466-472	claims	_	_	_	
+2-72	473-476	the	_	_	_	
+2-73	477-482	right	_	_	_	
+2-74	483-485	of	_	_	_	
+2-75	486-495	diffusing	_	_	_	
+2-76	496-503	through	_	_	_	
+2-77	504-506	it	Odour\_Carrier	Anaphoric	2-67[3_0]	
+2-78	507-511	some	Smell\_Source[4]	_	_	
+2-79	512-520	nauseous	Smell\_Source[4]|Quality[5]	_	_	
+2-80	521-530	effluvium	Smell\_Source[4]|Smell\_Word[6]	*|*	2-79[5_6]|2-77[0_6]	
+2-81	531-536	which	Smell\_Source	Anaphoric	2-78[4_0]	
+2-82	537-543	others	Perceiver	_	_	
+2-83	544-551	equally	_	_	_	
+2-84	552-556	with	_	_	_	
+2-85	557-564	himself	Perceiver	_	_	
+2-86	565-568	are	_	_	_	
+2-87	569-573	thus	_	_	_	
+2-88	574-581	obliged	_	_	_	
+2-89	582-584	to	_	_	_	
+2-90	585-591	inhale	Smell\_Word	*|*|*	2-85|2-82|2-81	
+2-91	591-592	.	_	_	_	
+
+#Text=Nuisances arising from offensive trades affect some
+#Text=inspectors more than others, but no offensive business
+#Text=can be established without the sanction of the London
+#Text=County Council in the Metropolis, or an urban sanitary
+#Text=authority in the provinces.
+3-1	594-603	Nuisances	_	_	_	
+3-2	604-611	arising	_	_	_	
+3-3	612-616	from	_	_	_	
+3-4	617-626	offensive	_	_	_	
+3-5	627-633	trades	_	_	_	
+3-6	634-640	affect	_	_	_	
+3-7	641-645	some	_	_	_	
+3-8	646-656	inspectors	_	_	_	
+3-9	657-661	more	_	_	_	
+3-10	662-666	than	_	_	_	
+3-11	667-673	others	_	_	_	
+3-12	673-674	,	_	_	_	
+3-13	675-678	but	_	_	_	
+3-14	679-681	no	_	_	_	
+3-15	682-691	offensive	_	_	_	
+3-16	692-700	business	_	_	_	
+3-17	701-704	can	_	_	_	
+3-18	705-707	be	_	_	_	
+3-19	708-719	established	_	_	_	
+3-20	720-727	without	_	_	_	
+3-21	728-731	the	_	_	_	
+3-22	732-740	sanction	_	_	_	
+3-23	741-743	of	_	_	_	
+3-24	744-747	the	_	_	_	
+3-25	748-754	London	_	_	_	
+3-26	755-761	County	_	_	_	
+3-27	762-769	Council	_	_	_	
+3-28	770-772	in	_	_	_	
+3-29	773-776	the	_	_	_	
+3-30	777-787	Metropolis	_	_	_	
+3-31	787-788	,	_	_	_	
+3-32	789-791	or	_	_	_	
+3-33	792-794	an	_	_	_	
+3-34	795-800	urban	_	_	_	
+3-35	801-809	sanitary	_	_	_	
+3-36	810-819	authority	_	_	_	
+3-37	820-822	in	_	_	_	
+3-38	823-826	the	_	_	_	
+3-39	827-836	provinces	_	_	_	
+3-40	836-837	.	_	_	_	
+
+#Text=In London, the County
+#Text=Council is required to give at least 14 days '  notice to
+#Text=the sanitary authority of the district where the premises
+#Text=requiring the license are situate, to enable the latter, if
+#Text=necessary, to oppose the application.
+4-1	838-840	In	_	_	_	
+4-2	841-847	London	_	_	_	
+4-3	847-848	,	_	_	_	
+4-4	849-852	the	_	_	_	
+4-5	853-859	County	_	_	_	
+4-6	860-867	Council	_	_	_	
+4-7	868-870	is	_	_	_	
+4-8	871-879	required	_	_	_	
+4-9	880-882	to	_	_	_	
+4-10	883-887	give	_	_	_	
+4-11	888-890	at	_	_	_	
+4-12	891-896	least	_	_	_	
+4-13	897-899	14	_	_	_	
+4-14	900-904	days	_	_	_	
+4-15	905-906	'	_	_	_	
+4-16	908-914	notice	_	_	_	
+4-17	915-917	to	_	_	_	
+4-18	918-921	the	_	_	_	
+4-19	922-930	sanitary	_	_	_	
+4-20	931-940	authority	_	_	_	
+4-21	941-943	of	_	_	_	
+4-22	944-947	the	_	_	_	
+4-23	948-956	district	_	_	_	
+4-24	957-962	where	_	_	_	
+4-25	963-966	the	_	_	_	
+4-26	967-975	premises	_	_	_	
+4-27	976-985	requiring	_	_	_	
+4-28	986-989	the	_	_	_	
+4-29	990-997	license	_	_	_	
+4-30	998-1001	are	_	_	_	
+4-31	1002-1009	situate	_	_	_	
+4-32	1009-1010	,	_	_	_	
+4-33	1011-1013	to	_	_	_	
+4-34	1014-1020	enable	_	_	_	
+4-35	1021-1024	the	_	_	_	
+4-36	1025-1031	latter	_	_	_	
+4-37	1031-1032	,	_	_	_	
+4-38	1033-1035	if	_	_	_	
+4-39	1036-1045	necessary	_	_	_	
+4-40	1045-1046	,	_	_	_	
+4-41	1047-1049	to	_	_	_	
+4-42	1050-1056	oppose	_	_	_	
+4-43	1057-1060	the	_	_	_	
+4-44	1061-1072	application	_	_	_	
+4-45	1072-1073	.	_	_	_	
+
+#Text=In Scotland offensive businesses cannot be established
+#Text=without the sanction of the Local Authority, whatever be
+#Text=the situation of the business ; and as regards slaughter
+#Text=houses and knackers '  yards, a Hcense must be obtained
+#Text=from such Authority before they can be carried on, and
+#Text=this license is subject to annual renewal.
+5-1	1075-1077	In	_	_	_	
+5-2	1078-1086	Scotland	_	_	_	
+5-3	1087-1096	offensive	_	_	_	
+5-4	1097-1107	businesses	_	_	_	
+5-5	1108-1114	cannot	_	_	_	
+5-6	1115-1117	be	_	_	_	
+5-7	1118-1129	established	_	_	_	
+5-8	1130-1137	without	_	_	_	
+5-9	1138-1141	the	_	_	_	
+5-10	1142-1150	sanction	_	_	_	
+5-11	1151-1153	of	_	_	_	
+5-12	1154-1157	the	_	_	_	
+5-13	1158-1163	Local	_	_	_	
+5-14	1164-1173	Authority	_	_	_	
+5-15	1173-1174	,	_	_	_	
+5-16	1175-1183	whatever	_	_	_	
+5-17	1184-1186	be	_	_	_	
+5-18	1187-1190	the	_	_	_	
+5-19	1191-1200	situation	_	_	_	
+5-20	1201-1203	of	_	_	_	
+5-21	1204-1207	the	_	_	_	
+5-22	1208-1216	business	_	_	_	
+5-23	1217-1218	;	_	_	_	
+5-24	1219-1222	and	_	_	_	
+5-25	1223-1225	as	_	_	_	
+5-26	1226-1233	regards	_	_	_	
+5-27	1234-1243	slaughter	_	_	_	
+5-28	1244-1250	houses	_	_	_	
+5-29	1251-1254	and	_	_	_	
+5-30	1255-1263	knackers	_	_	_	
+5-31	1264-1265	'	_	_	_	
+5-32	1267-1272	yards	_	_	_	
+5-33	1272-1273	,	_	_	_	
+5-34	1274-1275	a	_	_	_	
+5-35	1276-1282	Hcense	_	_	_	
+5-36	1283-1287	must	_	_	_	
+5-37	1288-1290	be	_	_	_	
+5-38	1291-1299	obtained	_	_	_	
+5-39	1300-1304	from	_	_	_	
+5-40	1305-1309	such	_	_	_	
+5-41	1310-1319	Authority	_	_	_	
+5-42	1320-1326	before	_	_	_	
+5-43	1327-1331	they	_	_	_	
+5-44	1332-1335	can	_	_	_	
+5-45	1336-1338	be	_	_	_	
+5-46	1339-1346	carried	_	_	_	
+5-47	1347-1349	on	_	_	_	
+5-48	1349-1350	,	_	_	_	
+5-49	1351-1354	and	_	_	_	
+5-50	1355-1359	this	_	_	_	
+5-51	1360-1367	license	_	_	_	
+5-52	1368-1370	is	_	_	_	
+5-53	1371-1378	subject	_	_	_	
+5-54	1379-1381	to	_	_	_	
+5-55	1382-1388	annual	_	_	_	
+5-56	1389-1396	renewal	_	_	_	
+5-57	1396-1397	.	_	_	_	
+
+#Text=The Local Government Board and the London County
+#Text=Council have made by-laws for regulating these businesses,
+#Text=and these must be enforced by the sanitary authority
+#Text=in the Provinces, and the County Council within the
+#Text=Metropolis.
+6-1	1399-1402	The	_	_	_	
+6-2	1403-1408	Local	_	_	_	
+6-3	1409-1419	Government	_	_	_	
+6-4	1420-1425	Board	_	_	_	
+6-5	1426-1429	and	_	_	_	
+6-6	1430-1433	the	_	_	_	
+6-7	1434-1440	London	_	_	_	
+6-8	1441-1447	County	_	_	_	
+6-9	1448-1455	Council	_	_	_	
+6-10	1456-1460	have	_	_	_	
+6-11	1461-1465	made	_	_	_	
+6-12	1466-1473	by-laws	_	_	_	
+6-13	1474-1477	for	_	_	_	
+6-14	1478-1488	regulating	_	_	_	
+6-15	1489-1494	these	_	_	_	
+6-16	1495-1505	businesses	_	_	_	
+6-17	1505-1506	,	_	_	_	
+6-18	1507-1510	and	_	_	_	
+6-19	1511-1516	these	_	_	_	
+6-20	1517-1521	must	_	_	_	
+6-21	1522-1524	be	_	_	_	
+6-22	1525-1533	enforced	_	_	_	
+6-23	1534-1536	by	_	_	_	
+6-24	1537-1540	the	_	_	_	
+6-25	1541-1549	sanitary	_	_	_	
+6-26	1550-1559	authority	_	_	_	
+6-27	1560-1562	in	_	_	_	
+6-28	1563-1566	the	_	_	_	
+6-29	1567-1576	Provinces	_	_	_	
+6-30	1576-1577	,	_	_	_	
+6-31	1578-1581	and	_	_	_	
+6-32	1582-1585	the	_	_	_	
+6-33	1586-1592	County	_	_	_	
+6-34	1593-1600	Council	_	_	_	
+6-35	1601-1607	within	_	_	_	
+6-36	1608-1611	the	_	_	_	
+6-37	1612-1622	Metropolis	_	_	_	
+6-38	1622-1623	.	_	_	_	
+
+#Text=The Act provides that : —
+#Text=
+#Text=If any person —
+#Text=
+#Text=Establishes anew the following businesses, or any of them ; that is to
+#Text=say, the business of blood boiler, bone boiler, manure manufacturer,
+#Text=soap boiler, tallow melter, or knacker, or
+#Text=
+#Text=Establishes anew, without the sanction of the county council, the
+#Text=following businesses or any of them ; that is to say, the business of
+#Text=fellmonger, tripe boiler, slaughterer of cattle or horses, or any other
+#Text=business which the county council may declare by order confirmed by the Local Government Board, and published in the London
+#Text=Gazette to be an offensive business
+7-1	1624-1627	The	_	_	_	
+7-2	1628-1631	Act	_	_	_	
+7-3	1632-1640	provides	_	_	_	
+7-4	1641-1645	that	_	_	_	
+7-5	1646-1647	:	_	_	_	
+7-6	1648-1649	—	_	_	_	
+7-7	1651-1653	If	_	_	_	
+7-8	1654-1657	any	_	_	_	
+7-9	1658-1664	person	_	_	_	
+7-10	1665-1666	—	_	_	_	
+7-11	1668-1679	Establishes	_	_	_	
+7-12	1680-1684	anew	_	_	_	
+7-13	1685-1688	the	_	_	_	
+7-14	1689-1698	following	_	_	_	
+7-15	1699-1709	businesses	_	_	_	
+7-16	1709-1710	,	_	_	_	
+7-17	1711-1713	or	_	_	_	
+7-18	1714-1717	any	_	_	_	
+7-19	1718-1720	of	_	_	_	
+7-20	1721-1725	them	_	_	_	
+7-21	1726-1727	;	_	_	_	
+7-22	1728-1732	that	_	_	_	
+7-23	1733-1735	is	_	_	_	
+7-24	1736-1738	to	_	_	_	
+7-25	1739-1742	say	_	_	_	
+7-26	1742-1743	,	_	_	_	
+7-27	1744-1747	the	_	_	_	
+7-28	1748-1756	business	_	_	_	
+7-29	1757-1759	of	_	_	_	
+7-30	1760-1765	blood	_	_	_	
+7-31	1766-1772	boiler	_	_	_	
+7-32	1772-1773	,	_	_	_	
+7-33	1774-1778	bone	_	_	_	
+7-34	1779-1785	boiler	_	_	_	
+7-35	1785-1786	,	_	_	_	
+7-36	1787-1793	manure	_	_	_	
+7-37	1794-1806	manufacturer	_	_	_	
+7-38	1806-1807	,	_	_	_	
+7-39	1808-1812	soap	_	_	_	
+7-40	1813-1819	boiler	_	_	_	
+7-41	1819-1820	,	_	_	_	
+7-42	1821-1827	tallow	_	_	_	
+7-43	1828-1834	melter	_	_	_	
+7-44	1834-1835	,	_	_	_	
+7-45	1836-1838	or	_	_	_	
+7-46	1839-1846	knacker	_	_	_	
+7-47	1846-1847	,	_	_	_	
+7-48	1848-1850	or	_	_	_	
+7-49	1852-1863	Establishes	_	_	_	
+7-50	1864-1868	anew	_	_	_	
+7-51	1868-1869	,	_	_	_	
+7-52	1870-1877	without	_	_	_	
+7-53	1878-1881	the	_	_	_	
+7-54	1882-1890	sanction	_	_	_	
+7-55	1891-1893	of	_	_	_	
+7-56	1894-1897	the	_	_	_	
+7-57	1898-1904	county	_	_	_	
+7-58	1905-1912	council	_	_	_	
+7-59	1912-1913	,	_	_	_	
+7-60	1914-1917	the	_	_	_	
+7-61	1918-1927	following	_	_	_	
+7-62	1928-1938	businesses	_	_	_	
+7-63	1939-1941	or	_	_	_	
+7-64	1942-1945	any	_	_	_	
+7-65	1946-1948	of	_	_	_	
+7-66	1949-1953	them	_	_	_	
+7-67	1954-1955	;	_	_	_	
+7-68	1956-1960	that	_	_	_	
+7-69	1961-1963	is	_	_	_	
+7-70	1964-1966	to	_	_	_	
+7-71	1967-1970	say	_	_	_	
+7-72	1970-1971	,	_	_	_	
+7-73	1972-1975	the	_	_	_	
+7-74	1976-1984	business	_	_	_	
+7-75	1985-1987	of	_	_	_	
+7-76	1988-1998	fellmonger	_	_	_	
+7-77	1998-1999	,	_	_	_	
+7-78	2000-2005	tripe	_	_	_	
+7-79	2006-2012	boiler	_	_	_	
+7-80	2012-2013	,	_	_	_	
+7-81	2014-2025	slaughterer	_	_	_	
+7-82	2026-2028	of	_	_	_	
+7-83	2029-2035	cattle	_	_	_	
+7-84	2036-2038	or	_	_	_	
+7-85	2039-2045	horses	_	_	_	
+7-86	2045-2046	,	_	_	_	
+7-87	2047-2049	or	_	_	_	
+7-88	2050-2053	any	_	_	_	
+7-89	2054-2059	other	_	_	_	
+7-90	2060-2068	business	_	_	_	
+7-91	2069-2074	which	_	_	_	
+7-92	2075-2078	the	_	_	_	
+7-93	2079-2085	county	_	_	_	
+7-94	2086-2093	council	_	_	_	
+7-95	2094-2097	may	_	_	_	
+7-96	2098-2105	declare	_	_	_	
+7-97	2106-2108	by	_	_	_	
+7-98	2109-2114	order	_	_	_	
+7-99	2115-2124	confirmed	_	_	_	
+7-100	2125-2127	by	_	_	_	
+7-101	2128-2131	the	_	_	_	
+7-102	2132-2137	Local	_	_	_	
+7-103	2138-2148	Government	_	_	_	
+7-104	2149-2154	Board	_	_	_	
+7-105	2154-2155	,	_	_	_	
+7-106	2156-2159	and	_	_	_	
+7-107	2160-2169	published	_	_	_	
+7-108	2170-2172	in	_	_	_	
+7-109	2173-2176	the	_	_	_	
+7-110	2177-2183	London	_	_	_	
+7-111	2184-2191	Gazette	_	_	_	
+7-112	2192-2194	to	_	_	_	
+7-113	2195-2197	be	_	_	_	
+7-114	2198-2200	an	_	_	_	
+7-115	2201-2210	offensive	_	_	_	
+7-116	2211-2219	business	_	_	_	

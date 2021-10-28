@@ -1,0 +1,1764 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=OLEUM AMYGDALJE.
+1-1	0-5	OLEUM	_	_	_	
+1-2	6-15	AMYGDALJE	_	_	_	
+1-3	15-16	.	_	_	_	
+
+#Text=Almond Oil.
+2-1	17-23	Almond	_	_	_	
+2-2	24-27	Oil	_	_	_	
+2-3	27-28	.	_	_	_	
+
+#Text=The oil expressed from the bitter or sweet almond.
+3-1	30-33	The	_	_	_	
+3-2	34-37	oil	_	_	_	
+3-3	38-47	expressed	_	_	_	
+3-4	48-52	from	_	_	_	
+3-5	53-56	the	_	_	_	
+3-6	57-63	bitter	_	_	_	
+3-7	64-66	or	_	_	_	
+3-8	67-72	sweet	_	_	_	
+3-9	73-79	almond	_	_	_	
+3-10	79-80	.	_	_	_	
+
+#Text=Thin, pale yellow, nearly inodorous, with a bland oleaginous
+#Text=nutty taste.
+4-1	82-86	Thin	_	_	_	
+4-2	86-87	,	_	_	_	
+4-3	88-92	pale	_	_	_	
+4-4	93-99	yellow	_	_	_	
+4-5	99-100	,	_	_	_	
+4-6	101-107	nearly	_	_	_	
+4-7	108-117	inodorous	_	_	_	
+4-8	117-118	,	_	_	_	
+4-9	119-123	with	_	_	_	
+4-10	124-125	a	_	_	_	
+4-11	126-131	bland	_	_	_	
+4-12	132-142	oleaginous	_	_	_	
+4-13	143-148	nutty	_	_	_	
+4-14	149-154	taste	_	_	_	
+4-15	154-155	.	_	_	_	
+
+#Text=Used in preparing Oleum Phosphoratum, Unguenhim Cetacei,
+#Text=Uncjuentum Ilesince, and Unguenhm, Simplex, and the preparations containing it.
+5-1	157-161	Used	_	_	_	
+5-2	162-164	in	_	_	_	
+5-3	165-174	preparing	_	_	_	
+5-4	175-180	Oleum	_	_	_	
+5-5	181-193	Phosphoratum	_	_	_	
+5-6	193-194	,	_	_	_	
+5-7	195-204	Unguenhim	_	_	_	
+5-8	205-212	Cetacei	_	_	_	
+5-9	212-213	,	_	_	_	
+5-10	214-224	Uncjuentum	_	_	_	
+5-11	225-233	Ilesince	_	_	_	
+5-12	233-234	,	_	_	_	
+5-13	235-238	and	_	_	_	
+5-14	239-247	Unguenhm	_	_	_	
+5-15	247-248	,	_	_	_	
+5-16	249-256	Simplex	_	_	_	
+5-17	256-257	,	_	_	_	
+5-18	258-261	and	_	_	_	
+5-19	262-265	the	_	_	_	
+5-20	266-278	preparations	_	_	_	
+5-21	279-289	containing	_	_	_	
+5-22	290-292	it	_	_	_	
+5-23	292-293	.	_	_	_	
+
+#Text=OLEUM ANETHI.
+6-1	295-300	OLEUM	_	_	_	
+6-2	301-307	ANETHI	_	_	_	
+6-3	307-308	.	_	_	_	
+
+#Text=Oil of Dill.
+7-1	309-312	Oil	Smell\_Source[1]	_	_	
+7-2	313-315	of	Smell\_Source[1]	_	_	
+7-3	316-320	Dill	Smell\_Source[1]	_	_	
+7-4	320-321	.	_	_	_	
+
+#Text=The oil distilled in Britain from dill fruit.
+8-1	323-326	The	_	_	_	
+8-2	327-330	oil	_	_	_	
+8-3	331-340	distilled	_	_	_	
+8-4	341-343	in	_	_	_	
+8-5	344-351	Britain	_	_	_	
+8-6	352-356	from	_	_	_	
+8-7	357-361	dill	_	_	_	
+8-8	362-367	fruit	_	_	_	
+8-9	367-368	.	_	_	_	
+
+#Text=Colour pale yellow, odour pungent, taste hot and sweetish.
+9-1	370-376	Colour	_	_	_	
+9-2	377-381	pale	_	_	_	
+9-3	382-388	yellow	_	_	_	
+9-4	388-389	,	_	_	_	
+9-5	390-395	odour	Smell\_Word	*|*	9-6|7-1[1_0]	
+9-6	396-403	pungent	Quality	_	_	
+9-7	403-404	,	_	_	_	
+9-8	405-410	taste	_	_	_	
+9-9	411-414	hot	_	_	_	
+9-10	415-418	and	_	_	_	
+9-11	419-427	sweetish	_	_	_	
+9-12	427-428	.	_	_	_	
+
+#Text=OLEUM ANISI.
+10-1	429-434	OLEUM	_	_	_	
+10-2	435-440	ANISI	_	_	_	
+10-3	440-441	.	_	_	_	
+
+#Text=Oil of Anise.
+11-1	442-445	Oil	_	_	_	
+11-2	446-448	of	_	_	_	
+11-3	449-454	Anise	_	_	_	
+11-4	454-455	.	_	_	_	
+
+#Text=The oil distilled in Europe from anise fruit ; or in China from
+#Text=star-anise fruit.
+12-1	457-460	The	_	_	_	
+12-2	461-464	oil	_	_	_	
+12-3	465-474	distilled	_	_	_	
+12-4	475-477	in	_	_	_	
+12-5	478-484	Europe	_	_	_	
+12-6	485-489	from	_	_	_	
+12-7	490-495	anise	_	_	_	
+12-8	496-501	fruit	_	_	_	
+12-9	502-503	;	_	_	_	
+12-10	504-506	or	_	_	_	
+12-11	507-509	in	_	_	_	
+12-12	510-515	China	_	_	_	
+12-13	516-520	from	Smell\_Source[2]	_	_	
+12-14	521-531	star-anise	Smell\_Source[2]	_	_	
+12-15	532-537	fruit	Smell\_Source[2]	_	_	
+12-16	537-538	.	_	_	_	
+
+#Text=Colourless or very pale yellow ; with the odour of the fruit,
+#Text=and an aromatic sweetish taste.
+13-1	540-550	Colourless	_	_	_	
+13-2	551-553	or	_	_	_	
+13-3	554-558	very	_	_	_	
+13-4	559-563	pale	_	_	_	
+13-5	564-570	yellow	_	_	_	
+13-6	571-572	;	_	_	_	
+13-7	573-577	with	_	_	_	
+13-8	578-581	the	_	_	_	
+13-9	582-587	odour	Smell\_Word	*	12-13[2_0]	
+13-10	588-590	of	_	_	_	
+13-11	591-594	the	_	_	_	
+13-12	595-600	fruit	_	_	_	
+13-13	600-601	,	_	_	_	
+13-14	602-605	and	_	_	_	
+13-15	606-608	an	_	_	_	
+13-16	609-617	aromatic	_	_	_	
+13-17	618-626	sweetish	_	_	_	
+13-18	627-632	taste	_	_	_	
+13-19	632-633	.	_	_	_	
+
+#Text=The ordinary oil of anise
+#Text=congeals at temperatures between 50° and 60° Fahr. (10° to
+#Text=15.5° C), and may remain solid at 62° or 63° Fahr. (16.7° to
+#Text=17.2° C.) ; oil of star-anise only becomes solid at a few degrees
+#Text=above the freezing-point of water.
+14-1	634-637	The	_	_	_	
+14-2	638-646	ordinary	_	_	_	
+14-3	647-650	oil	_	_	_	
+14-4	651-653	of	_	_	_	
+14-5	654-659	anise	_	_	_	
+14-6	660-668	congeals	_	_	_	
+14-7	669-671	at	_	_	_	
+14-8	672-684	temperatures	_	_	_	
+14-9	685-692	between	_	_	_	
+14-10	693-695	50	_	_	_	
+14-11	695-696	°	_	_	_	
+14-12	697-700	and	_	_	_	
+14-13	701-703	60	_	_	_	
+14-14	703-704	°	_	_	_	
+14-15	705-709	Fahr	_	_	_	
+14-16	709-710	.	_	_	_	
+14-17	711-712	(	_	_	_	
+14-18	712-714	10	_	_	_	
+14-19	714-715	°	_	_	_	
+14-20	716-718	to	_	_	_	
+14-21	719-723	15.5	_	_	_	
+14-22	723-724	°	_	_	_	
+14-23	725-726	C	_	_	_	
+14-24	726-727	)	_	_	_	
+14-25	727-728	,	_	_	_	
+14-26	729-732	and	_	_	_	
+14-27	733-736	may	_	_	_	
+14-28	737-743	remain	_	_	_	
+14-29	744-749	solid	_	_	_	
+14-30	750-752	at	_	_	_	
+14-31	753-755	62	_	_	_	
+14-32	755-756	°	_	_	_	
+14-33	757-759	or	_	_	_	
+14-34	760-762	63	_	_	_	
+14-35	762-763	°	_	_	_	
+14-36	764-768	Fahr	_	_	_	
+14-37	768-769	.	_	_	_	
+14-38	770-771	(	_	_	_	
+14-39	771-775	16.7	_	_	_	
+14-40	775-776	°	_	_	_	
+14-41	777-779	to	_	_	_	
+14-42	780-784	17.2	_	_	_	
+14-43	784-785	°	_	_	_	
+14-44	786-787	C	_	_	_	
+14-45	787-788	.	_	_	_	
+14-46	788-789	)	_	_	_	
+14-47	790-791	;	_	_	_	
+14-48	792-795	oil	_	_	_	
+14-49	796-798	of	_	_	_	
+14-50	799-809	star-anise	_	_	_	
+14-51	810-814	only	_	_	_	
+14-52	815-822	becomes	_	_	_	
+14-53	823-828	solid	_	_	_	
+14-54	829-831	at	_	_	_	
+14-55	832-833	a	_	_	_	
+14-56	834-837	few	_	_	_	
+14-57	838-845	degrees	_	_	_	
+14-58	846-851	above	_	_	_	
+14-59	852-855	the	_	_	_	
+14-60	856-870	freezing-point	_	_	_	
+14-61	871-873	of	_	_	_	
+14-62	874-879	water	_	_	_	
+14-63	879-880	.	_	_	_	
+
+#Text=Used in preparing Essentia Anisi, Tinctura Camphorae Composita, and Tinctura Opii Ammoniata.
+15-1	882-886	Used	_	_	_	
+15-2	887-889	in	_	_	_	
+15-3	890-899	preparing	_	_	_	
+15-4	900-908	Essentia	_	_	_	
+15-5	909-914	Anisi	_	_	_	
+15-6	914-915	,	_	_	_	
+15-7	916-924	Tinctura	_	_	_	
+15-8	925-934	Camphorae	_	_	_	
+15-9	935-944	Composita	_	_	_	
+15-10	944-945	,	_	_	_	
+15-11	946-949	and	_	_	_	
+15-12	950-958	Tinctura	_	_	_	
+15-13	959-963	Opii	_	_	_	
+15-14	964-973	Ammoniata	_	_	_	
+15-15	973-974	.	_	_	_	
+
+#Text=OLEUM ANTHEMIDIS.
+16-1	976-981	OLEUM	_	_	_	
+16-2	982-992	ANTHEMIDIS	_	_	_	
+16-3	992-993	.	_	_	_	
+
+#Text=Oil of Chamomile.
+17-1	994-997	Oil	_	_	_	
+17-2	998-1000	of	_	_	_	
+17-3	1001-1010	Chamomile	_	_	_	
+17-4	1010-1011	.	_	_	_	
+
+#Text=The oil distilled in Britain from chamomile flowers.
+18-1	1013-1016	The	_	_	_	
+18-2	1017-1020	oil	_	_	_	
+18-3	1021-1030	distilled	_	_	_	
+18-4	1031-1033	in	_	_	_	
+18-5	1034-1041	Britain	_	_	_	
+18-6	1042-1046	from	Smell\_Source[3]	_	_	
+18-7	1047-1056	chamomile	Smell\_Source[3]	_	_	
+18-8	1057-1064	flowers	Smell\_Source[3]	_	_	
+18-9	1064-1065	.	_	_	_	
+
+#Text=Pale blue or greenish-blue, but gradually becoming yellowish brown ; with the peculiar aromatic taste and odour of the
+#Text=flowers.
+19-1	1067-1071	Pale	_	_	_	
+19-2	1072-1076	blue	_	_	_	
+19-3	1077-1079	or	_	_	_	
+19-4	1080-1093	greenish-blue	_	_	_	
+19-5	1093-1094	,	_	_	_	
+19-6	1095-1098	but	_	_	_	
+19-7	1099-1108	gradually	_	_	_	
+19-8	1109-1117	becoming	_	_	_	
+19-9	1118-1127	yellowish	_	_	_	
+19-10	1128-1133	brown	_	_	_	
+19-11	1134-1135	;	_	_	_	
+19-12	1136-1140	with	_	_	_	
+19-13	1141-1144	the	_	_	_	
+19-14	1145-1153	peculiar	_	_	_	
+19-15	1154-1162	aromatic	_	_	_	
+19-16	1163-1168	taste	_	_	_	
+19-17	1169-1172	and	_	_	_	
+19-18	1173-1178	odour	Smell\_Word	*	18-6[3_0]	
+19-19	1179-1181	of	_	_	_	
+19-20	1182-1185	the	_	_	_	
+19-21	1186-1193	flowers	_	_	_	
+19-22	1193-1194	.	_	_	_	
+
+#Text=Used in preparing Extractum Anthemidis.
+20-1	1196-1200	Used	_	_	_	
+20-2	1201-1203	in	_	_	_	
+20-3	1204-1213	preparing	_	_	_	
+20-4	1214-1223	Extractum	_	_	_	
+20-5	1224-1234	Anthemidis	_	_	_	
+20-6	1234-1235	.	_	_	_	
+
+#Text=OLEUM CAJUPUTI.
+21-1	1236-1241	OLEUM	_	_	_	
+21-2	1242-1250	CAJUPUTI	_	_	_	
+21-3	1250-1251	.	_	_	_	
+
+#Text=Oil of Cajupnt.
+22-1	1252-1255	Oil	Smell\_Source[4]	_	_	
+22-2	1256-1258	of	Smell\_Source[4]	_	_	
+22-3	1259-1266	Cajupnt	Smell\_Source[4]	_	_	
+22-4	1266-1267	.	_	_	_	
+
+#Text=Nat.
+23-1	1268-1271	Nat	_	_	_	
+23-2	1271-1272	.	_	_	_	
+
+#Text=Ord., Mtrtaceae.
+24-1	1273-1276	Ord	_	_	_	
+24-2	1276-1277	.	_	_	_	
+24-3	1277-1278	,	_	_	_	
+24-4	1279-1288	Mtrtaceae	_	_	_	
+24-5	1288-1289	.	_	_	_	
+
+#Text=The oil distilled from the leaves of Melaleuca minor.
+25-1	1291-1294	The	_	_	_	
+25-2	1295-1298	oil	_	_	_	
+25-3	1299-1308	distilled	_	_	_	
+25-4	1309-1313	from	_	_	_	
+25-5	1314-1317	the	_	_	_	
+25-6	1318-1324	leaves	_	_	_	
+25-7	1325-1327	of	_	_	_	
+25-8	1328-1337	Melaleuca	_	_	_	
+25-9	1338-1343	minor	_	_	_	
+25-10	1343-1344	.	_	_	_	
+
+#Text=A transparent limpid very volatile pale bluish-green liquid,
+#Text=with a strong penetrating agreeable camphoraceous odour, and a
+#Text=warm bitterish aromatic camphoraceous taste succeeded by a
+#Text=sensation of coldness in the mouth.
+26-1	1346-1347	A	_	_	_	
+26-2	1348-1359	transparent	_	_	_	
+26-3	1360-1366	limpid	_	_	_	
+26-4	1367-1371	very	_	_	_	
+26-5	1372-1380	volatile	_	_	_	
+26-6	1381-1385	pale	_	_	_	
+26-7	1386-1398	bluish-green	_	_	_	
+26-8	1399-1405	liquid	_	_	_	
+26-9	1405-1406	,	_	_	_	
+26-10	1407-1411	with	_	_	_	
+26-11	1412-1413	a	_	_	_	
+26-12	1414-1420	strong	Quality	_	_	
+26-13	1421-1432	penetrating	Quality	_	_	
+26-14	1433-1442	agreeable	Quality	_	_	
+26-15	1443-1456	camphoraceous	Quality	_	_	
+26-16	1457-1462	odour	Smell\_Word	*|*|*|*|*	26-12|26-13|26-14|26-15|22-1[4_0]	
+26-17	1462-1463	,	_	_	_	
+26-18	1464-1467	and	_	_	_	
+26-19	1468-1469	a	_	_	_	
+26-20	1470-1474	warm	_	_	_	
+26-21	1475-1484	bitterish	_	_	_	
+26-22	1485-1493	aromatic	_	_	_	
+26-23	1494-1507	camphoraceous	_	_	_	
+26-24	1508-1513	taste	_	_	_	
+26-25	1514-1523	succeeded	_	_	_	
+26-26	1524-1526	by	_	_	_	
+26-27	1527-1528	a	_	_	_	
+26-28	1529-1538	sensation	_	_	_	
+26-29	1539-1541	of	_	_	_	
+26-30	1542-1550	coldness	_	_	_	
+26-31	1551-1553	in	_	_	_	
+26-32	1554-1557	the	_	_	_	
+26-33	1558-1563	mouth	_	_	_	
+26-34	1563-1564	.	_	_	_	
+
+#Text=Used in preparing Linimentum Crotonis and Spiritus
+#Text=Cajuputi.
+27-1	1566-1570	Used	_	_	_	
+27-2	1571-1573	in	_	_	_	
+27-3	1574-1583	preparing	_	_	_	
+27-4	1584-1594	Linimentum	_	_	_	
+27-5	1595-1603	Crotonis	_	_	_	
+27-6	1604-1607	and	_	_	_	
+27-7	1608-1616	Spiritus	_	_	_	
+27-8	1617-1625	Cajuputi	_	_	_	
+27-9	1625-1626	.	_	_	_	
+
+#Text=Powerful stimulant and antispasmodic.
+28-1	1628-1636	Powerful	_	_	_	
+28-2	1637-1646	stimulant	_	_	_	
+28-3	1647-1650	and	_	_	_	
+28-4	1651-1664	antispasmodic	_	_	_	
+28-5	1664-1665	.	_	_	_	
+
+#Text=OLEUM CARTUI.
+29-1	1670-1675	OLEUM	_	_	_	
+29-2	1676-1682	CARTUI	_	_	_	
+29-3	1682-1683	.	_	_	_	
+
+#Text=Oil of Caraway.
+30-1	1684-1687	Oil	_	_	_	
+30-2	1688-1690	of	_	_	_	
+30-3	1691-1698	Caraway	_	_	_	
+30-4	1698-1699	.	_	_	_	
+
+#Text=The oil distilled in Britain from caraway fruit.
+31-1	1701-1704	The	_	_	_	
+31-2	1705-1708	oil	_	_	_	
+31-3	1709-1718	distilled	_	_	_	
+31-4	1719-1721	in	_	_	_	
+31-5	1722-1729	Britain	_	_	_	
+31-6	1730-1734	from	Smell\_Source[5]	_	_	
+31-7	1735-1742	caraway	Smell\_Source[5]	_	_	
+31-8	1743-1748	fruit	Smell\_Source[5]	_	_	
+31-9	1748-1749	.	_	_	_	
+
+#Text=Colourless or pale yellow when recent, but gradually becoming
+#Text=darker, with the odour of the fruit, and a spicy somewhat acrid
+#Text=taste.
+32-1	1751-1761	Colourless	_	_	_	
+32-2	1762-1764	or	_	_	_	
+32-3	1765-1769	pale	_	_	_	
+32-4	1770-1776	yellow	_	_	_	
+32-5	1777-1781	when	_	_	_	
+32-6	1782-1788	recent	_	_	_	
+32-7	1788-1789	,	_	_	_	
+32-8	1790-1793	but	_	_	_	
+32-9	1794-1803	gradually	_	_	_	
+32-10	1804-1812	becoming	_	_	_	
+32-11	1813-1819	darker	_	_	_	
+32-12	1819-1820	,	_	_	_	
+32-13	1821-1825	with	_	_	_	
+32-14	1826-1829	the	_	_	_	
+32-15	1830-1835	odour	Smell\_Word	*	31-6[5_0]	
+32-16	1836-1838	of	_	_	_	
+32-17	1839-1842	the	_	_	_	
+32-18	1843-1848	fruit	_	_	_	
+32-19	1848-1849	,	_	_	_	
+32-20	1850-1853	and	_	_	_	
+32-21	1854-1855	a	_	_	_	
+32-22	1856-1861	spicy	_	_	_	
+32-23	1862-1870	somewhat	_	_	_	
+32-24	1871-1876	acrid	_	_	_	
+32-25	1877-1882	taste	_	_	_	
+32-26	1882-1883	.	_	_	_	
+
+#Text=Used in preparing Confectio Scammonii and Pilula Aloes
+#Text=Barbadensis.
+33-1	1885-1889	Used	_	_	_	
+33-2	1890-1892	in	_	_	_	
+33-3	1893-1902	preparing	_	_	_	
+33-4	1903-1912	Confectio	_	_	_	
+33-5	1913-1922	Scammonii	_	_	_	
+33-6	1923-1926	and	_	_	_	
+33-7	1927-1933	Pilula	_	_	_	
+33-8	1934-1939	Aloes	_	_	_	
+33-9	1940-1951	Barbadensis	_	_	_	
+33-10	1951-1952	.	_	_	_	
+
+#Text=OLEUM CARYOPHYLLI.
+34-1	1954-1959	OLEUM	_	_	_	
+34-2	1960-1971	CARYOPHYLLI	_	_	_	
+34-3	1971-1972	.	_	_	_	
+
+#Text=Oil of Cloves.
+35-1	1973-1976	Oil	_	_	_	
+35-2	1977-1979	of	_	_	_	
+35-3	1980-1986	Cloves	_	_	_	
+35-4	1986-1987	.	_	_	_	
+
+#Text=The oil distilled in Britain from cloves.
+36-1	1989-1992	The	_	_	_	
+36-2	1993-1996	oil	_	_	_	
+36-3	1997-2006	distilled	_	_	_	
+36-4	2007-2009	in	_	_	_	
+36-5	2010-2017	Britain	_	_	_	
+36-6	2018-2022	from	_	_	_	
+36-7	2023-2029	cloves	_	_	_	
+36-8	2029-2030	.	_	_	_	
+
+#Text=Colourless or pale yellow when recent, but gradually becoming
+#Text=reddish-brown, having in a high degree the odour and taste of
+#Text=cloves.
+37-1	2032-2042	Colourless	_	_	_	
+37-2	2043-2045	or	_	_	_	
+37-3	2046-2050	pale	_	_	_	
+37-4	2051-2057	yellow	_	_	_	
+37-5	2058-2062	when	_	_	_	
+37-6	2063-2069	recent	_	_	_	
+37-7	2069-2070	,	_	_	_	
+37-8	2071-2074	but	_	_	_	
+37-9	2075-2084	gradually	_	_	_	
+37-10	2085-2093	becoming	_	_	_	
+37-11	2094-2107	reddish-brown	_	_	_	
+37-12	2107-2108	,	_	_	_	
+37-13	2109-2115	having	_	_	_	
+37-14	2116-2118	in	_	_	_	
+37-15	2119-2120	a	_	_	_	
+37-16	2121-2125	high	_	_	_	
+37-17	2126-2132	degree	_	_	_	
+37-18	2133-2136	the	_	_	_	
+37-19	2137-2142	odour	Smell\_Word	*	37-22[6_0]	
+37-20	2143-2146	and	_	_	_	
+37-21	2147-2152	taste	_	_	_	
+37-22	2153-2155	of	Smell\_Source[6]	_	_	
+37-23	2156-2162	cloves	Smell\_Source[6]	_	_	
+37-24	2162-2163	.	_	_	_	
+
+#Text=Sinks in water.
+38-1	2164-2169	Sinks	_	_	_	
+38-2	2170-2172	in	_	_	_	
+38-3	2173-2178	water	_	_	_	
+38-4	2178-2179	.	_	_	_	
+
+#Text=Used in preparing Confectio Scammonii, Pilula Colocynthidis Composita, and Pilula Colocynthidis et Hyoscyami.
+39-1	2181-2185	Used	_	_	_	
+39-2	2186-2188	in	_	_	_	
+39-3	2189-2198	preparing	_	_	_	
+39-4	2199-2208	Confectio	_	_	_	
+39-5	2209-2218	Scammonii	_	_	_	
+39-6	2218-2219	,	_	_	_	
+39-7	2220-2226	Pilula	_	_	_	
+39-8	2227-2240	Colocynthidis	_	_	_	
+39-9	2241-2250	Composita	_	_	_	
+39-10	2250-2251	,	_	_	_	
+39-11	2252-2255	and	_	_	_	
+39-12	2256-2262	Pilula	_	_	_	
+39-13	2263-2276	Colocynthidis	_	_	_	
+39-14	2277-2279	et	_	_	_	
+39-15	2280-2289	Hyoscyami	_	_	_	
+39-16	2289-2290	.	_	_	_	
+
+#Text=OLEUM CINNAMOMI.
+40-1	2292-2297	OLEUM	_	_	_	
+40-2	2298-2307	CINNAMOMI	_	_	_	
+40-3	2307-2308	.	_	_	_	
+
+#Text=Oil of Cinnamon.
+41-1	2309-2312	Oil	_	_	_	
+41-2	2313-2315	of	_	_	_	
+41-3	2316-2324	Cinnamon	_	_	_	
+41-4	2324-2325	.	_	_	_	
+
+#Text=The oil distilled from cinnamon bark.
+42-1	2327-2330	The	_	_	_	
+42-2	2331-2334	oil	_	_	_	
+42-3	2335-2344	distilled	_	_	_	
+42-4	2345-2349	from	_	_	_	
+42-5	2350-2358	cinnamon	_	_	_	
+42-6	2359-2363	bark	_	_	_	
+42-7	2363-2364	.	_	_	_	
+
+#Text=Yellowish when recent, but gradually becoming cherry-red,
+#Text=having the odour and taste of cinnamon bark.
+43-1	2366-2375	Yellowish	_	_	_	
+43-2	2376-2380	when	_	_	_	
+43-3	2381-2387	recent	_	_	_	
+43-4	2387-2388	,	_	_	_	
+43-5	2389-2392	but	_	_	_	
+43-6	2393-2402	gradually	_	_	_	
+43-7	2403-2411	becoming	_	_	_	
+43-8	2412-2422	cherry-red	_	_	_	
+43-9	2422-2423	,	_	_	_	
+43-10	2424-2430	having	_	_	_	
+43-11	2431-2434	the	_	_	_	
+43-12	2435-2440	odour	Smell\_Word	*	43-15[7_0]	
+43-13	2441-2444	and	_	_	_	
+43-14	2445-2450	taste	_	_	_	
+43-15	2451-2453	of	Smell\_Source[7]	_	_	
+43-16	2454-2462	cinnamon	Smell\_Source[7]	_	_	
+43-17	2463-2467	bark	Smell\_Source[7]	_	_	
+43-18	2467-2468	.	_	_	_	
+
+#Text=Sinks in water.
+44-1	2469-2474	Sinks	_	_	_	
+44-2	2475-2477	in	_	_	_	
+44-3	2478-2483	water	_	_	_	
+44-4	2483-2484	.	_	_	_	
+
+#Text=Used in preparing Spiritus Cinnamomi.
+45-1	2485-2489	Used	_	_	_	
+45-2	2490-2492	in	_	_	_	
+45-3	2493-2502	preparing	_	_	_	
+45-4	2503-2511	Spiritus	_	_	_	
+45-5	2512-2521	Cinnamomi	_	_	_	
+45-6	2521-2522	.	_	_	_	
+
+#Text=Dose. — Of all the above oils, and of many following, 1 to 4
+#Text=minims.
+46-1	2524-2528	Dose	_	_	_	
+46-2	2528-2529	.	_	_	_	
+46-3	2530-2531	—	_	_	_	
+46-4	2532-2534	Of	_	_	_	
+46-5	2535-2538	all	_	_	_	
+46-6	2539-2542	the	_	_	_	
+46-7	2543-2548	above	_	_	_	
+46-8	2549-2553	oils	_	_	_	
+46-9	2553-2554	,	_	_	_	
+46-10	2555-2558	and	_	_	_	
+46-11	2559-2561	of	_	_	_	
+46-12	2562-2566	many	_	_	_	
+46-13	2567-2576	following	_	_	_	
+46-14	2576-2577	,	_	_	_	
+46-15	2578-2579	1	_	_	_	
+46-16	2580-2582	to	_	_	_	
+46-17	2583-2584	4	_	_	_	
+46-18	2585-2591	minims	_	_	_	
+46-19	2591-2592	.	_	_	_	
+
+#Text=OLEUM COPAIBS.
+47-1	2594-2599	OLEUM	_	_	_	
+47-2	2600-2607	COPAIBS	_	_	_	
+47-3	2607-2608	.	_	_	_	
+
+#Text=Oil of Copaiva.
+48-1	2609-2612	Oil	_	_	_	
+48-2	2613-2615	of	_	_	_	
+48-3	2616-2623	Copaiva	_	_	_	
+48-4	2623-2624	.	_	_	_	
+
+#Text=The oil distilled from copaiva.
+49-1	2626-2629	The	_	_	_	
+49-2	2630-2633	oil	_	_	_	
+49-3	2634-2643	distilled	_	_	_	
+49-4	2644-2648	from	_	_	_	
+49-5	2649-2656	copaiva	_	_	_	
+49-6	2656-2657	.	_	_	_	
+
+#Text=Colourless or pale yellow, with the odour and taste of copaiva.
+50-1	2659-2669	Colourless	_	_	_	
+50-2	2670-2672	or	_	_	_	
+50-3	2673-2677	pale	_	_	_	
+50-4	2678-2684	yellow	_	_	_	
+50-5	2684-2685	,	_	_	_	
+50-6	2686-2690	with	_	_	_	
+50-7	2691-2694	the	_	_	_	
+50-8	2695-2700	odour	Smell\_Word	*	50-11[8_0]	
+50-9	2701-2704	and	_	_	_	
+50-10	2705-2710	taste	_	_	_	
+50-11	2711-2713	of	Smell\_Source[8]	_	_	
+50-12	2714-2721	copaiva	Smell\_Source[8]	_	_	
+50-13	2721-2722	.	_	_	_	
+
+#Text=Dose. — 5 to 20 minims.
+51-1	2724-2728	Dose	_	_	_	
+51-2	2728-2729	.	_	_	_	
+51-3	2730-2731	—	_	_	_	
+51-4	2732-2733	5	_	_	_	
+51-5	2734-2736	to	_	_	_	
+51-6	2737-2739	20	_	_	_	
+51-7	2740-2746	minims	_	_	_	
+51-8	2746-2747	.	_	_	_	
+
+#Text=OLEUM CORIANDRI.
+52-1	2748-2753	OLEUM	_	_	_	
+52-2	2754-2763	CORIANDRI	_	_	_	
+52-3	2763-2764	.	_	_	_	
+
+#Text=Oil of Coriander.
+53-1	2765-2768	Oil	_	_	_	
+53-2	2769-2771	of	_	_	_	
+53-3	2772-2781	Coriander	_	_	_	
+53-4	2781-2782	.	_	_	_	
+
+#Text=The oil distilled in Britain from coriander fruit.
+54-1	2784-2787	The	_	_	_	
+54-2	2788-2791	oil	_	_	_	
+54-3	2792-2801	distilled	_	_	_	
+54-4	2802-2804	in	_	_	_	
+54-5	2805-2812	Britain	_	_	_	
+54-6	2813-2817	from	Smell\_Source[9]	_	_	
+54-7	2818-2827	coriander	Smell\_Source[9]	_	_	
+54-8	2828-2833	fruit	Smell\_Source[9]	_	_	
+54-9	2833-2834	.	_	_	_	
+
+#Text=Pale yellow or colourless, having the odour of the fruit and a
+#Text=mild aromatic taste.
+55-1	2836-2840	Pale	_	_	_	
+55-2	2841-2847	yellow	_	_	_	
+55-3	2848-2850	or	_	_	_	
+55-4	2851-2861	colourless	_	_	_	
+55-5	2861-2862	,	_	_	_	
+55-6	2863-2869	having	_	_	_	
+55-7	2870-2873	the	_	_	_	
+55-8	2874-2879	odour	Smell\_Word	*	54-6[9_0]	
+55-9	2880-2882	of	_	_	_	
+55-10	2883-2886	the	_	_	_	
+55-11	2887-2892	fruit	_	_	_	
+55-12	2893-2896	and	_	_	_	
+55-13	2897-2898	a	_	_	_	
+55-14	2899-2903	mild	_	_	_	
+55-15	2904-2912	aromatic	_	_	_	
+55-16	2913-2918	taste	_	_	_	
+55-17	2918-2919	.	_	_	_	
+
+#Text=Used in preparing Syrupus Sennae.
+56-1	2921-2925	Used	_	_	_	
+56-2	2926-2928	in	_	_	_	
+56-3	2929-2938	preparing	_	_	_	
+56-4	2939-2946	Syrupus	_	_	_	
+56-5	2947-2953	Sennae	_	_	_	
+56-6	2953-2954	.	_	_	_	
+
+#Text=OLEUM CROTONIS.
+57-1	2955-2960	OLEUM	_	_	_	
+57-2	2961-2969	CROTONIS	_	_	_	
+57-3	2969-2970	.	_	_	_	
+
+#Text=Croton Oil.
+58-1	2971-2977	Croton	Smell\_Source[10]	_	_	
+58-2	2978-2981	Oil	Smell\_Source[10]	_	_	
+58-3	2981-2982	.	_	_	_	
+
+#Text=Nat.
+59-1	2983-2986	Nat	_	_	_	
+59-2	2986-2987	.	_	_	_	
+
+#Text=Ord., Euphorbiaceae.
+60-1	2988-2991	Ord	_	_	_	
+60-2	2991-2992	.	_	_	_	
+60-3	2992-2993	,	_	_	_	
+60-4	2994-3007	Euphorbiaceae	_	_	_	
+60-5	3007-3008	.	_	_	_	
+
+#Text=The oil expressed in Britain from the seeds of Croton Tiglium.
+61-1	3010-3013	The	_	_	_	
+61-2	3014-3017	oil	_	_	_	
+61-3	3018-3027	expressed	_	_	_	
+61-4	3028-3030	in	_	_	_	
+61-5	3031-3038	Britain	_	_	_	
+61-6	3039-3043	from	_	_	_	
+61-7	3044-3047	the	_	_	_	
+61-8	3048-3053	seeds	_	_	_	
+61-9	3054-3056	of	_	_	_	
+61-10	3057-3063	Croton	_	_	_	
+61-11	3064-3071	Tiglium	_	_	_	
+61-12	3071-3072	.	_	_	_	
+
+#Text=Brownish-yellow to dark reddish-brown, fluorescent, with a
+#Text=viscid consistence which is increased by age, a faint, peculiar,
+#Text=somewhat rancid, disagreeable odour, and an oily acrid taste.
+62-1	3074-3089	Brownish-yellow	_	_	_	
+62-2	3090-3092	to	_	_	_	
+62-3	3093-3097	dark	_	_	_	
+62-4	3098-3111	reddish-brown	_	_	_	
+62-5	3111-3112	,	_	_	_	
+62-6	3113-3124	fluorescent	_	_	_	
+62-7	3124-3125	,	_	_	_	
+62-8	3126-3130	with	_	_	_	
+62-9	3131-3132	a	_	_	_	
+62-10	3133-3139	viscid	_	_	_	
+62-11	3140-3151	consistence	_	_	_	
+62-12	3152-3157	which	_	_	_	
+62-13	3158-3160	is	_	_	_	
+62-14	3161-3170	increased	_	_	_	
+62-15	3171-3173	by	_	_	_	
+62-16	3174-3177	age	_	_	_	
+62-17	3177-3178	,	_	_	_	
+62-18	3179-3180	a	_	_	_	
+62-19	3181-3186	faint	Quality	_	_	
+62-20	3186-3187	,	_	_	_	
+62-21	3188-3196	peculiar	Quality	_	_	
+62-22	3196-3197	,	_	_	_	
+62-23	3198-3206	somewhat	Quality[11]	_	_	
+62-24	3207-3213	rancid	Quality[11]	_	_	
+62-25	3213-3214	,	_	_	_	
+62-26	3215-3227	disagreeable	Quality	_	_	
+62-27	3228-3233	odour	Smell\_Word	*|*|*|*|*	62-19|62-26|62-23[11_0]|62-21|58-1[10_0]	
+62-28	3233-3234	,	_	_	_	
+62-29	3235-3238	and	_	_	_	
+62-30	3239-3241	an	_	_	_	
+62-31	3242-3246	oily	_	_	_	
+62-32	3247-3252	acrid	_	_	_	
+62-33	3253-3258	taste	_	_	_	
+62-34	3258-3259	.	_	_	_	
+
+#Text=Entirely soluble in alcohol.
+63-1	3260-3268	Entirely	_	_	_	
+63-2	3269-3276	soluble	_	_	_	
+63-3	3277-3279	in	_	_	_	
+63-4	3280-3287	alcohol	_	_	_	
+63-5	3287-3288	.	_	_	_	
+
+#Text=Contains Crotonic Acid.
+64-1	3289-3297	Contains	_	_	_	
+64-2	3298-3306	Crotonic	_	_	_	
+64-3	3307-3311	Acid	_	_	_	
+64-4	3311-3312	.	_	_	_	
+
+#Text=Used in preparing Liniment um Crotonis.
+65-1	3314-3318	Used	_	_	_	
+65-2	3319-3321	in	_	_	_	
+65-3	3322-3331	preparing	_	_	_	
+65-4	3332-3340	Liniment	_	_	_	
+65-5	3341-3343	um	_	_	_	
+65-6	3344-3352	Crotonis	_	_	_	
+65-7	3352-3353	.	_	_	_	
+
+#Text=Powerful irritant, drastic purgative.
+66-1	3355-3363	Powerful	_	_	_	
+66-2	3364-3372	irritant	_	_	_	
+66-3	3372-3373	,	_	_	_	
+66-4	3374-3381	drastic	_	_	_	
+66-5	3382-3391	purgative	_	_	_	
+66-6	3391-3392	.	_	_	_	
+
+#Text=Dose. — 1/3 to 1 minim, placed on the tongue, or in pill with
+#Text=crumb of bread.
+67-1	3394-3398	Dose	_	_	_	
+67-2	3398-3399	.	_	_	_	
+67-3	3400-3401	—	_	_	_	
+67-4	3402-3403	1	_	_	_	
+67-5	3403-3404	/	_	_	_	
+67-6	3404-3405	3	_	_	_	
+67-7	3406-3408	to	_	_	_	
+67-8	3409-3410	1	_	_	_	
+67-9	3411-3416	minim	_	_	_	
+67-10	3416-3417	,	_	_	_	
+67-11	3418-3424	placed	_	_	_	
+67-12	3425-3427	on	_	_	_	
+67-13	3428-3431	the	_	_	_	
+67-14	3432-3438	tongue	_	_	_	
+67-15	3438-3439	,	_	_	_	
+67-16	3440-3442	or	_	_	_	
+67-17	3443-3445	in	_	_	_	
+67-18	3446-3450	pill	_	_	_	
+67-19	3451-3455	with	_	_	_	
+67-20	3456-3461	crumb	_	_	_	
+67-21	3462-3464	of	_	_	_	
+67-22	3465-3470	bread	_	_	_	
+67-23	3470-3471	.	_	_	_	
+
+#Text=OLEUM CUBEBAE.
+68-1	3473-3478	OLEUM	_	_	_	
+68-2	3479-3486	CUBEBAE	_	_	_	
+68-3	3486-3487	.	_	_	_	
+
+#Text=Oil of Cubebs.
+69-1	3488-3491	Oil	_	_	_	
+69-2	3492-3494	of	_	_	_	
+69-3	3495-3501	Cubebs	_	_	_	
+69-4	3501-3502	.	_	_	_	
+
+#Text=Nat.
+70-1	3503-3506	Nat	_	_	_	
+70-2	3506-3507	.	_	_	_	
+
+#Text=Ord., Piperacej:.
+71-1	3508-3511	Ord	_	_	_	
+71-2	3511-3512	.	_	_	_	
+71-3	3512-3513	,	_	_	_	
+71-4	3514-3523	Piperacej	_	_	_	
+71-5	3523-3524	:	_	_	_	
+71-6	3524-3525	.	_	_	_	
+
+#Text=The oil distilled in Britain from cubebs.
+72-1	3526-3529	The	_	_	_	
+72-2	3530-3533	oil	_	_	_	
+72-3	3534-3543	distilled	_	_	_	
+72-4	3544-3546	in	_	_	_	
+72-5	3547-3554	Britain	_	_	_	
+72-6	3555-3559	from	_	_	_	
+72-7	3560-3566	cubebs	_	_	_	
+72-8	3566-3567	.	_	_	_	
+
+#Text=Colourless or greenish-yellow, with the odour and taste of
+#Text=cubebs.
+73-1	3569-3579	Colourless	_	_	_	
+73-2	3580-3582	or	_	_	_	
+73-3	3583-3598	greenish-yellow	_	_	_	
+73-4	3598-3599	,	_	_	_	
+73-5	3600-3604	with	_	_	_	
+73-6	3605-3608	the	_	_	_	
+73-7	3609-3614	odour	Smell\_Word	*|*	73-10[12_0]|75-1[13_0]	
+73-8	3615-3618	and	_	_	_	
+73-9	3619-3624	taste	_	_	_	
+73-10	3625-3627	of	Smell\_Source[12]	_	_	
+73-11	3628-3634	cubebs	Smell\_Source[12]	_	_	
+73-12	3634-3635	.	_	_	_	
+
+#Text=Contains Cubebin.
+74-1	3636-3644	Contains	_	_	_	
+74-2	3645-3652	Cubebin	_	_	_	
+74-3	3652-3653	.	_	_	_	
+
+#Text=Stimulant to mucous membranes ; given in gonorrhoea and
+#Text=obstinate sneezing.
+75-1	3657-3666	Stimulant	Effect[13]	_	_	
+75-2	3667-3669	to	Effect[13]	_	_	
+75-3	3670-3676	mucous	Effect[13]	_	_	
+75-4	3677-3686	membranes	Effect[13]	_	_	
+75-5	3687-3688	;	_	_	_	
+75-6	3689-3694	given	_	_	_	
+75-7	3695-3697	in	_	_	_	
+75-8	3698-3708	gonorrhoea	_	_	_	
+75-9	3709-3712	and	_	_	_	
+75-10	3713-3722	obstinate	_	_	_	
+75-11	3723-3731	sneezing	_	_	_	
+75-12	3731-3732	.	_	_	_	
+
+#Text=Dose. — 5 to 20 minims.
+76-1	3734-3738	Dose	_	_	_	
+76-2	3738-3739	.	_	_	_	
+76-3	3740-3741	—	_	_	_	
+76-4	3742-3743	5	_	_	_	
+76-5	3744-3746	to	_	_	_	
+76-6	3747-3749	20	_	_	_	
+76-7	3750-3756	minims	_	_	_	
+76-8	3756-3757	.	_	_	_	
+
+#Text=OLEUM EUCALYPTI.
+77-1	3758-3763	OLEUM	_	_	_	
+77-2	3764-3773	EUCALYPTI	_	_	_	
+77-3	3773-3774	.	_	_	_	
+
+#Text=Oil of Eucalyptus.
+78-1	3775-3778	Oil	Smell\_Source[14]	_	_	
+78-2	3779-3781	of	Smell\_Source[14]	_	_	
+78-3	3782-3792	Eucalyptus	Smell\_Source[14]	_	_	
+78-4	3792-3793	.	_	_	_	
+
+#Text=Nat.
+79-1	3795-3798	Nat	_	_	_	
+79-2	3798-3799	.	_	_	_	
+
+#Text=Ord., Myrtaceae.
+80-1	3800-3803	Ord	_	_	_	
+80-2	3803-3804	.	_	_	_	
+80-3	3804-3805	,	_	_	_	
+80-4	3806-3815	Myrtaceae	_	_	_	
+80-5	3815-3816	.	_	_	_	
+
+#Text=The oil distilled from the fresh leaves of Eucalyptus Globulus,
+#Text=Eucalyptus amygdalina, and probably some other species of
+#Text=Eucalyptus.
+81-1	3817-3820	The	_	_	_	
+81-2	3821-3824	oil	_	_	_	
+81-3	3825-3834	distilled	_	_	_	
+81-4	3835-3839	from	_	_	_	
+81-5	3840-3843	the	_	_	_	
+81-6	3844-3849	fresh	_	_	_	
+81-7	3850-3856	leaves	_	_	_	
+81-8	3857-3859	of	_	_	_	
+81-9	3860-3870	Eucalyptus	_	_	_	
+81-10	3871-3879	Globulus	_	_	_	
+81-11	3879-3880	,	_	_	_	
+81-12	3881-3891	Eucalyptus	_	_	_	
+81-13	3892-3902	amygdalina	_	_	_	
+81-14	3902-3903	,	_	_	_	
+81-15	3904-3907	and	_	_	_	
+81-16	3908-3916	probably	_	_	_	
+81-17	3917-3921	some	_	_	_	
+81-18	3922-3927	other	_	_	_	
+81-19	3928-3935	species	_	_	_	
+81-20	3936-3938	of	_	_	_	
+81-21	3939-3949	Eucalyptus	_	_	_	
+81-22	3949-3950	.	_	_	_	
+
+#Text=Colourless or pale straw-coloured, becoming darker and
+#Text=thicker by exposure.
+82-1	3952-3962	Colourless	_	_	_	
+82-2	3963-3965	or	_	_	_	
+82-3	3966-3970	pale	_	_	_	
+82-4	3971-3985	straw-coloured	_	_	_	
+82-5	3985-3986	,	_	_	_	
+82-6	3987-3995	becoming	_	_	_	
+82-7	3996-4002	darker	_	_	_	
+82-8	4003-4006	and	_	_	_	
+82-9	4007-4014	thicker	_	_	_	
+82-10	4015-4017	by	_	_	_	
+82-11	4018-4026	exposure	_	_	_	
+82-12	4026-4027	.	_	_	_	
+
+#Text=It has an aromatic odour, and a spicy and
+#Text=pungent flavour, leaving a sensation of coldness in the mouth.
+83-1	4028-4030	It	_	_	_	
+83-2	4031-4034	has	_	_	_	
+83-3	4035-4037	an	_	_	_	
+83-4	4038-4046	aromatic	Quality	_	_	
+83-5	4047-4052	odour	Smell\_Word	*|*	83-4|78-1[14_0]	
+83-6	4052-4053	,	_	_	_	
+83-7	4054-4057	and	_	_	_	
+83-8	4058-4059	a	_	_	_	
+83-9	4060-4065	spicy	_	_	_	
+83-10	4066-4069	and	_	_	_	
+83-11	4070-4077	pungent	_	_	_	
+83-12	4078-4085	flavour	_	_	_	
+83-13	4085-4086	,	_	_	_	
+83-14	4087-4094	leaving	_	_	_	
+83-15	4095-4096	a	_	_	_	
+83-16	4097-4106	sensation	_	_	_	
+83-17	4107-4109	of	_	_	_	
+83-18	4110-4118	coldness	_	_	_	
+83-19	4119-4121	in	_	_	_	
+83-20	4122-4125	the	_	_	_	
+83-21	4126-4131	mouth	_	_	_	
+83-22	4131-4132	.	_	_	_	
+
+#Text=Used in preparing Ungnentuin Eucalypti.
+84-1	4134-4138	Used	_	_	_	
+84-2	4139-4141	in	_	_	_	
+84-3	4142-4151	preparing	_	_	_	
+84-4	4152-4162	Ungnentuin	_	_	_	
+84-5	4163-4172	Eucalypti	_	_	_	
+84-6	4172-4173	.	_	_	_	
+
+#Text=Possesses powerful ozonizing and anti-malarial influence ;
+#Text=destructive to low organic growths, but not caustic to the skin.
+85-1	4175-4184	Possesses	_	_	_	
+85-2	4185-4193	powerful	_	_	_	
+85-3	4194-4203	ozonizing	_	_	_	
+85-4	4204-4207	and	_	_	_	
+85-5	4208-4221	anti-malarial	_	_	_	
+85-6	4222-4231	influence	_	_	_	
+85-7	4232-4233	;	_	_	_	
+85-8	4234-4245	destructive	_	_	_	
+85-9	4246-4248	to	_	_	_	
+85-10	4249-4252	low	_	_	_	
+85-11	4253-4260	organic	_	_	_	
+85-12	4261-4268	growths	_	_	_	
+85-13	4268-4269	,	_	_	_	
+85-14	4270-4273	but	_	_	_	
+85-15	4274-4277	not	_	_	_	
+85-16	4278-4285	caustic	_	_	_	
+85-17	4286-4288	to	_	_	_	
+85-18	4289-4292	the	_	_	_	
+85-19	4293-4297	skin	_	_	_	
+85-20	4297-4298	.	_	_	_	
+
+#Text=OLEUM JUNIPEHI.
+86-1	4299-4304	OLEUM	_	_	_	
+86-2	4305-4313	JUNIPEHI	_	_	_	
+86-3	4313-4314	.	_	_	_	
+
+#Text=Oil of Juniper.
+87-1	4315-4318	Oil	_	_	_	
+87-2	4319-4321	of	_	_	_	
+87-3	4322-4329	Juniper	_	_	_	
+87-4	4329-4330	.	_	_	_	
+
+#Text=Nat.
+88-1	4331-4334	Nat	_	_	_	
+88-2	4334-4335	.	_	_	_	
+
+#Text=Ord., Coniferae.
+89-1	4336-4339	Ord	_	_	_	
+89-2	4339-4340	.	_	_	_	
+89-3	4340-4341	,	_	_	_	
+89-4	4342-4351	Coniferae	_	_	_	
+89-5	4351-4352	.	_	_	_	
+
+#Text=The oil distilled in Britain from the full-grown unripe green
+#Text=fruit of Juniperus communis.
+90-1	4354-4357	The	_	_	_	
+90-2	4358-4361	oil	_	_	_	
+90-3	4362-4371	distilled	_	_	_	
+90-4	4372-4374	in	_	_	_	
+90-5	4375-4382	Britain	_	_	_	
+90-6	4383-4387	from	_	_	_	
+90-7	4388-4391	the	Smell\_Source[15]	_	_	
+90-8	4392-4402	full-grown	Smell\_Source[15]	_	_	
+90-9	4403-4409	unripe	Smell\_Source[15]	_	_	
+90-10	4410-4415	green	Smell\_Source[15]	_	_	
+90-11	4416-4421	fruit	Smell\_Source[15]	_	_	
+90-12	4422-4424	of	Smell\_Source[15]	_	_	
+90-13	4425-4434	Juniperus	Smell\_Source[15]	_	_	
+90-14	4435-4443	communis	Smell\_Source[15]	_	_	
+90-15	4443-4444	.	_	_	_	
+
+#Text=Colourless or pale greenish-yellow, with the characteristic
+#Text=odour of the fruit, and a warm aromatic taste.
+91-1	4446-4456	Colourless	_	_	_	
+91-2	4457-4459	or	_	_	_	
+91-3	4460-4464	pale	_	_	_	
+91-4	4465-4480	greenish-yellow	_	_	_	
+91-5	4480-4481	,	_	_	_	
+91-6	4482-4486	with	_	_	_	
+91-7	4487-4490	the	_	_	_	
+91-8	4491-4505	characteristic	_	_	_	
+91-9	4506-4511	odour	Smell\_Word	*	90-7[15_0]	
+91-10	4512-4514	of	_	_	_	
+91-11	4515-4518	the	_	_	_	
+91-12	4519-4524	fruit	_	_	_	
+91-13	4524-4525	,	_	_	_	
+91-14	4526-4529	and	_	_	_	
+91-15	4530-4531	a	_	_	_	
+91-16	4532-4536	warm	_	_	_	
+91-17	4537-4545	aromatic	_	_	_	
+91-18	4546-4551	taste	_	_	_	
+91-19	4551-4552	.	_	_	_	
+
+#Text=Used in preparing Spiritius Juniperi.
+92-1	4554-4558	Used	_	_	_	
+92-2	4559-4561	in	_	_	_	
+92-3	4562-4571	preparing	_	_	_	
+92-4	4572-4581	Spiritius	_	_	_	
+92-5	4582-4590	Juniperi	_	_	_	
+92-6	4590-4591	.	_	_	_	
+
+#Text=Stimulant and diuretic.
+93-1	4593-4602	Stimulant	_	_	_	
+93-2	4603-4606	and	_	_	_	
+93-3	4607-4615	diuretic	_	_	_	
+93-4	4615-4616	.	_	_	_	
+
+#Text=OLEUM LAVANDULA.
+94-1	4617-4622	OLEUM	_	_	_	
+94-2	4623-4632	LAVANDULA	_	_	_	
+94-3	4632-4633	.	_	_	_	
+
+#Text=Oil of Lavender.
+95-1	4634-4637	Oil	_	_	_	
+95-2	4638-4640	of	_	_	_	
+95-3	4641-4649	Lavender	_	_	_	
+95-4	4649-4650	.	_	_	_	
+
+#Text=Nat.
+96-1	4651-4654	Nat	_	_	_	
+96-2	4654-4655	.	_	_	_	
+
+#Text=Ord., Labiate.
+97-1	4656-4659	Ord	_	_	_	
+97-2	4659-4660	.	_	_	_	
+97-3	4660-4661	,	_	_	_	
+97-4	4662-4669	Labiate	_	_	_	
+97-5	4669-4670	.	_	_	_	
+
+#Text=The oil distilled in Britain from the flowers of Lavandula vera.
+98-1	4672-4675	The	_	_	_	
+98-2	4676-4679	oil	_	_	_	
+98-3	4680-4689	distilled	_	_	_	
+98-4	4690-4692	in	_	_	_	
+98-5	4693-4700	Britain	_	_	_	
+98-6	4701-4705	from	_	_	_	
+98-7	4706-4709	the	Smell\_Source[16]	_	_	
+98-8	4710-4717	flowers	Smell\_Source[16]	_	_	
+98-9	4718-4720	of	Smell\_Source[16]	_	_	
+98-10	4721-4730	Lavandula	Smell\_Source[16]	_	_	
+98-11	4731-4735	vera	Smell\_Source[16]	_	_	
+98-12	4735-4736	.	_	_	_	
+
+#Text=Pale yellow or nearly colourless, with the very fragrant odour
+#Text=of the flowers, and a hot bitter aromatic taste.
+99-1	4738-4742	Pale	_	_	_	
+99-2	4743-4749	yellow	_	_	_	
+99-3	4750-4752	or	_	_	_	
+99-4	4753-4759	nearly	_	_	_	
+99-5	4760-4770	colourless	_	_	_	
+99-6	4770-4771	,	_	_	_	
+99-7	4772-4776	with	_	_	_	
+99-8	4777-4780	the	_	_	_	
+99-9	4781-4785	very	Quality[17]	_	_	
+99-10	4786-4794	fragrant	Quality[17]	_	_	
+99-11	4795-4800	odour	Smell\_Word	*|*	99-9[17_0]|98-7[16_0]	
+99-12	4801-4803	of	_	_	_	
+99-13	4804-4807	the	_	_	_	
+99-14	4808-4815	flowers	_	_	_	
+99-15	4815-4816	,	_	_	_	
+99-16	4817-4820	and	_	_	_	
+99-17	4821-4822	a	_	_	_	
+99-18	4823-4826	hot	_	_	_	
+99-19	4827-4833	bitter	_	_	_	
+99-20	4834-4842	aromatic	_	_	_	
+99-21	4843-4848	taste	_	_	_	
+99-22	4848-4849	.	_	_	_	
+
+#Text=Used in preparing Linimentum Camphorae Compositum
+#Text=Spiritus Lavandulae, and Tinctura Lavandulae Composita.
+100-1	4851-4855	Used	_	_	_	
+100-2	4856-4858	in	_	_	_	
+100-3	4859-4868	preparing	_	_	_	
+100-4	4869-4879	Linimentum	_	_	_	
+100-5	4880-4889	Camphorae	_	_	_	
+100-6	4890-4900	Compositum	_	_	_	
+100-7	4901-4909	Spiritus	_	_	_	
+100-8	4910-4920	Lavandulae	_	_	_	
+100-9	4920-4921	,	_	_	_	
+100-10	4922-4925	and	_	_	_	
+100-11	4926-4934	Tinctura	_	_	_	
+100-12	4935-4945	Lavandulae	_	_	_	
+100-13	4946-4955	Composita	_	_	_	
+100-14	4955-4956	.	_	_	_	
+
+#Text=Stimulant carminative ; given as an adjunct to purgatives
+#Text=to relieve flatulence.
+101-1	4958-4967	Stimulant	_	_	_	
+101-2	4968-4979	carminative	_	_	_	
+101-3	4980-4981	;	_	_	_	
+101-4	4982-4987	given	_	_	_	
+101-5	4988-4990	as	_	_	_	
+101-6	4991-4993	an	_	_	_	
+101-7	4994-5001	adjunct	_	_	_	
+101-8	5002-5004	to	_	_	_	
+101-9	5005-5015	purgatives	_	_	_	
+101-10	5016-5018	to	_	_	_	
+101-11	5019-5026	relieve	_	_	_	
+101-12	5027-5037	flatulence	_	_	_	
+101-13	5037-5038	.	_	_	_	
+
+#Text=OLEUM LIMONIS.
+102-1	5039-5044	OLEUM	_	_	_	
+102-2	5045-5052	LIMONIS	_	_	_	
+102-3	5052-5053	.	_	_	_	
+
+#Text=Oil of Lemon.
+103-1	5054-5057	Oil	Smell\_Source[18]	_	_	
+103-2	5058-5060	of	Smell\_Source[18]	_	_	
+103-3	5061-5066	Lemon	Smell\_Source[18]	_	_	
+103-4	5066-5067	.	_	_	_	
+
+#Text=A volatile oil obtained by mechanical means from fresh lemon
+#Text=peel.
+104-1	5069-5070	A	_	_	_	
+104-2	5071-5079	volatile	_	_	_	
+104-3	5080-5083	oil	_	_	_	
+104-4	5084-5092	obtained	_	_	_	
+104-5	5093-5095	by	_	_	_	
+104-6	5096-5106	mechanical	_	_	_	
+104-7	5107-5112	means	_	_	_	
+104-8	5113-5117	from	_	_	_	
+104-9	5118-5123	fresh	_	_	_	
+104-10	5124-5129	lemon	_	_	_	
+104-11	5130-5134	peel	_	_	_	
+104-12	5134-5135	.	_	_	_	
+
+#Text=Pale yellow, with a very fragrant odour and a warm bitterish
+#Text=aromatic taste.
+105-1	5137-5141	Pale	_	_	_	
+105-2	5142-5148	yellow	_	_	_	
+105-3	5148-5149	,	_	_	_	
+105-4	5150-5154	with	_	_	_	
+105-5	5155-5156	a	_	_	_	
+105-6	5157-5161	very	Quality[19]	_	_	
+105-7	5162-5170	fragrant	Quality[19]	_	_	
+105-8	5171-5176	odour	Smell\_Word	*|*	105-6[19_0]|103-1[18_0]	
+105-9	5177-5180	and	_	_	_	
+105-10	5181-5182	a	_	_	_	
+105-11	5183-5187	warm	_	_	_	
+105-12	5188-5197	bitterish	_	_	_	
+105-13	5198-5206	aromatic	_	_	_	
+105-14	5207-5212	taste	_	_	_	
+105-15	5212-5213	.	_	_	_	
+
+#Text=Used in preparing Linimentum Patassii Iodidi cum Sapone
+#Text=and Spirit Ammoniae Aromaticus.
+106-1	5215-5219	Used	_	_	_	
+106-2	5220-5222	in	_	_	_	
+106-3	5223-5232	preparing	_	_	_	
+106-4	5233-5243	Linimentum	_	_	_	
+106-5	5244-5252	Patassii	_	_	_	
+106-6	5253-5259	Iodidi	_	_	_	
+106-7	5260-5263	cum	_	_	_	
+106-8	5264-5270	Sapone	_	_	_	
+106-9	5271-5274	and	_	_	_	
+106-10	5275-5281	Spirit	_	_	_	
+106-11	5282-5290	Ammoniae	_	_	_	
+106-12	5291-5301	Aromaticus	_	_	_	
+106-13	5301-5302	.	_	_	_	
+
+#Text=OLEUM LINL Linseed Oil.
+107-1	5303-5308	OLEUM	_	_	_	
+107-2	5309-5313	LINL	_	_	_	
+107-3	5314-5321	Linseed	Smell\_Source[20]	_	_	
+107-4	5322-5325	Oil	Smell\_Source[20]	_	_	
+107-5	5325-5326	.	_	_	_	
+
+#Text=The oil expressed in Britain without heat from linseed.
+108-1	5328-5331	The	_	_	_	
+108-2	5332-5335	oil	_	_	_	
+108-3	5336-5345	expressed	_	_	_	
+108-4	5346-5348	in	_	_	_	
+108-5	5349-5356	Britain	_	_	_	
+108-6	5357-5364	without	_	_	_	
+108-7	5365-5369	heat	_	_	_	
+108-8	5370-5374	from	_	_	_	
+108-9	5375-5382	linseed	_	_	_	
+108-10	5382-5383	.	_	_	_	
+
+#Text=Viscid, yellow, with a faint odour, and bland oleaginous
+#Text=taste.
+109-1	5385-5391	Viscid	_	_	_	
+109-2	5391-5392	,	_	_	_	
+109-3	5393-5399	yellow	_	_	_	
+109-4	5399-5400	,	_	_	_	
+109-5	5401-5405	with	_	_	_	
+109-6	5406-5407	a	_	_	_	
+109-7	5408-5413	faint	Quality	_	_	
+109-8	5414-5419	odour	Smell\_Word	*|*	109-7|107-3[20_0]	
+109-9	5419-5420	,	_	_	_	
+109-10	5421-5424	and	_	_	_	
+109-11	5425-5430	bland	_	_	_	
+109-12	5431-5441	oleaginous	_	_	_	
+109-13	5442-5447	taste	_	_	_	
+109-14	5447-5448	.	_	_	_	
+
+#Text=It gradually thickens by exposure to the air.
+110-1	5449-5451	It	_	_	_	
+110-2	5452-5461	gradually	_	_	_	
+110-3	5462-5470	thickens	_	_	_	
+110-4	5471-5473	by	_	_	_	
+110-5	5474-5482	exposure	_	_	_	
+110-6	5483-5485	to	_	_	_	
+110-7	5486-5489	the	_	_	_	
+110-8	5490-5493	air	_	_	_	
+110-9	5493-5494	.	_	_	_	
+
+#Text=OLEUM MENTHAE PIPERITA.
+111-1	5495-5500	OLEUM	_	_	_	
+111-2	5501-5508	MENTHAE	_	_	_	
+111-3	5509-5517	PIPERITA	_	_	_	
+111-4	5517-5518	.	_	_	_	
+
+#Text=Oil of Peppermint.
+112-1	5519-5522	Oil	_	_	_	
+112-2	5523-5525	of	_	_	_	
+112-3	5526-5536	Peppermint	_	_	_	
+112-4	5536-5537	.	_	_	_	
+
+#Text=Nat.
+113-1	5539-5542	Nat	_	_	_	
+113-2	5542-5543	.	_	_	_	
+
+#Text=Ord., Labiatae.
+114-1	5544-5547	Ord	_	_	_	
+114-2	5547-5548	.	_	_	_	
+114-3	5548-5549	,	_	_	_	
+114-4	5550-5558	Labiatae	_	_	_	
+114-5	5558-5559	.	_	_	_	
+
+#Text=The oil distilled in Britain from fresh flowering peppermint,
+#Text=Mentha piperita.
+115-1	5561-5564	The	_	_	_	
+115-2	5565-5568	oil	_	_	_	
+115-3	5569-5578	distilled	_	_	_	
+115-4	5579-5581	in	_	_	_	
+115-5	5582-5589	Britain	_	_	_	
+115-6	5590-5594	from	_	_	_	
+115-7	5595-5600	fresh	_	_	_	
+115-8	5601-5610	flowering	_	_	_	
+115-9	5611-5621	peppermint	_	_	_	
+115-10	5621-5622	,	_	_	_	
+115-11	5623-5629	Mentha	_	_	_	
+115-12	5630-5638	piperita	_	_	_	
+115-13	5638-5639	.	_	_	_	
+
+#Text=Colourless, pale yellow, or greenish-yellow when recent, but
+#Text=becoming gradually thicker and reddish by age, with the odour
+#Text=of peppermint, and a strong penetrating aromatic taste, followed
+#Text=by a sensation of coldness in the mouth.
+116-1	5645-5655	Colourless	_	_	_	
+116-2	5655-5656	,	_	_	_	
+116-3	5657-5661	pale	_	_	_	
+116-4	5662-5668	yellow	_	_	_	
+116-5	5668-5669	,	_	_	_	
+116-6	5670-5672	or	_	_	_	
+116-7	5673-5688	greenish-yellow	_	_	_	
+116-8	5689-5693	when	_	_	_	
+116-9	5694-5700	recent	_	_	_	
+116-10	5700-5701	,	_	_	_	
+116-11	5702-5705	but	_	_	_	
+116-12	5706-5714	becoming	_	_	_	
+116-13	5715-5724	gradually	_	_	_	
+116-14	5725-5732	thicker	_	_	_	
+116-15	5733-5736	and	_	_	_	
+116-16	5737-5744	reddish	_	_	_	
+116-17	5745-5747	by	_	_	_	
+116-18	5748-5751	age	_	_	_	
+116-19	5751-5752	,	_	_	_	
+116-20	5753-5757	with	_	_	_	
+116-21	5758-5761	the	_	_	_	
+116-22	5762-5767	odour	Smell\_Word	*	116-23[21_0]	
+116-23	5768-5770	of	Smell\_Source[21]	_	_	
+116-24	5771-5781	peppermint	Smell\_Source[21]	_	_	
+116-25	5781-5782	,	_	_	_	
+116-26	5783-5786	and	_	_	_	
+116-27	5787-5788	a	_	_	_	
+116-28	5789-5795	strong	_	_	_	
+116-29	5796-5807	penetrating	_	_	_	
+116-30	5808-5816	aromatic	_	_	_	
+116-31	5817-5822	taste	_	_	_	
+116-32	5822-5823	,	_	_	_	
+116-33	5824-5832	followed	_	_	_	
+116-34	5833-5835	by	_	_	_	
+116-35	5836-5837	a	_	_	_	
+116-36	5838-5847	sensation	_	_	_	
+116-37	5848-5850	of	_	_	_	
+116-38	5851-5859	coldness	_	_	_	
+116-39	5860-5862	in	_	_	_	
+116-40	5863-5866	the	_	_	_	
+116-41	5867-5872	mouth	_	_	_	
+116-42	5872-5873	.	_	_	_	
+
+#Text=Contains Menthene and Menthol.
+117-1	5875-5883	Contains	_	_	_	
+117-2	5884-5892	Menthene	_	_	_	
+117-3	5893-5896	and	_	_	_	
+117-4	5897-5904	Menthol	_	_	_	
+117-5	5904-5905	.	_	_	_	
+
+#Text=Used in preparing Aqua Methae Piperitae, Essentia Menthae
+#Text=Piperitae, Pilula Rhei Composita, Spiritus Menthae Piperitae,
+#Text=and Tinctura Chloroformi et Morphinae.
+118-1	5907-5911	Used	_	_	_	
+118-2	5912-5914	in	_	_	_	
+118-3	5915-5924	preparing	_	_	_	
+118-4	5925-5929	Aqua	_	_	_	
+118-5	5930-5936	Methae	_	_	_	
+118-6	5937-5946	Piperitae	_	_	_	
+118-7	5946-5947	,	_	_	_	
+118-8	5948-5956	Essentia	_	_	_	
+118-9	5957-5964	Menthae	_	_	_	
+118-10	5965-5974	Piperitae	_	_	_	
+118-11	5974-5975	,	_	_	_	
+118-12	5976-5982	Pilula	_	_	_	
+118-13	5983-5987	Rhei	_	_	_	
+118-14	5988-5997	Composita	_	_	_	
+118-15	5997-5998	,	_	_	_	
+118-16	5999-6007	Spiritus	_	_	_	
+118-17	6008-6015	Menthae	_	_	_	
+118-18	6016-6025	Piperitae	_	_	_	
+118-19	6025-6026	,	_	_	_	
+118-20	6027-6030	and	_	_	_	
+118-21	6031-6039	Tinctura	_	_	_	
+118-22	6040-6051	Chloroformi	_	_	_	
+118-23	6052-6054	et	_	_	_	
+118-24	6055-6064	Morphinae	_	_	_	
+118-25	6064-6065	.	_	_	_	
+
+#Text=Stimulant carminative ; adjunct to purgatives to relieve
+#Text=flatulence.
+119-1	6067-6076	Stimulant	_	_	_	
+119-2	6077-6088	carminative	_	_	_	
+119-3	6089-6090	;	_	_	_	
+119-4	6091-6098	adjunct	_	_	_	
+119-5	6099-6101	to	_	_	_	
+119-6	6102-6112	purgatives	_	_	_	
+119-7	6113-6115	to	_	_	_	
+119-8	6116-6123	relieve	_	_	_	
+119-9	6124-6134	flatulence	_	_	_	
+119-10	6134-6135	.	_	_	_	
+
+#Text=OLEUM MENTHA VIRIDIS.
+120-1	6137-6142	OLEUM	_	_	_	
+120-2	6143-6149	MENTHA	_	_	_	
+120-3	6150-6157	VIRIDIS	_	_	_	
+120-4	6157-6158	.	_	_	_	
+
+#Text=Oil of Spearmint.
+121-1	6159-6162	Oil	Smell\_Source[22]	_	_	
+121-2	6163-6165	of	Smell\_Source[22]	_	_	
+121-3	6166-6175	Spearmint	Smell\_Source[22]	_	_	
+121-4	6175-6176	.	_	_	_	
+
+#Text=Nat.
+122-1	6178-6181	Nat	_	_	_	
+122-2	6181-6182	.	_	_	_	
+
+#Text=Ord., Labiatee.
+123-1	6183-6186	Ord	_	_	_	
+123-2	6186-6187	.	_	_	_	
+123-3	6187-6188	,	_	_	_	
+123-4	6189-6197	Labiatee	_	_	_	
+123-5	6197-6198	.	_	_	_	
+
+#Text=The oil distilled in Britain from fresh flowering spearmint,
+#Text=Mentha viridis.
+124-1	6199-6202	The	_	_	_	
+124-2	6203-6206	oil	_	_	_	
+124-3	6207-6216	distilled	_	_	_	
+124-4	6217-6219	in	_	_	_	
+124-5	6220-6227	Britain	_	_	_	
+124-6	6228-6232	from	_	_	_	
+124-7	6233-6238	fresh	_	_	_	
+124-8	6239-6248	flowering	_	_	_	
+124-9	6249-6258	spearmint	_	_	_	
+124-10	6258-6259	,	_	_	_	
+124-11	6260-6266	Mentha	_	_	_	
+124-12	6267-6274	viridis	_	_	_	
+124-13	6274-6275	.	_	_	_	
+
+#Text=Colourless, pale yellow, or greenish-yellow Vv^hen recent,
+#Text=but becoming reddish by age, with the odour and taste of the
+#Text=herb.
+125-1	6277-6287	Colourless	_	_	_	
+125-2	6287-6288	,	_	_	_	
+125-3	6289-6293	pale	_	_	_	
+125-4	6294-6300	yellow	_	_	_	
+125-5	6300-6301	,	_	_	_	
+125-6	6302-6304	or	_	_	_	
+125-7	6305-6320	greenish-yellow	_	_	_	
+125-8	6321-6323	Vv	_	_	_	
+125-9	6323-6324	^	_	_	_	
+125-10	6324-6327	hen	_	_	_	
+125-11	6328-6334	recent	_	_	_	
+125-12	6334-6335	,	_	_	_	
+125-13	6336-6339	but	_	_	_	
+125-14	6340-6348	becoming	_	_	_	
+125-15	6349-6356	reddish	_	_	_	
+125-16	6357-6359	by	_	_	_	
+125-17	6360-6363	age	_	_	_	
+125-18	6363-6364	,	_	_	_	
+125-19	6365-6369	with	_	_	_	
+125-20	6370-6373	the	_	_	_	
+125-21	6374-6379	odour	Smell\_Word	*	121-1[22_0]	
+125-22	6380-6383	and	_	_	_	
+125-23	6384-6389	taste	_	_	_	
+125-24	6390-6392	of	_	_	_	
+125-25	6393-6396	the	_	_	_	
+125-26	6397-6401	herb	_	_	_	
+125-27	6401-6402	.	_	_	_	
+
+#Text=Used in preparing Aqua Menthae Viridis.
+126-1	6404-6408	Used	_	_	_	
+126-2	6409-6411	in	_	_	_	
+126-3	6412-6421	preparing	_	_	_	
+126-4	6422-6426	Aqua	_	_	_	
+126-5	6427-6434	Menthae	_	_	_	
+126-6	6435-6442	Viridis	_	_	_	
+126-7	6442-6443	.	_	_	_	
+
+#Text=Given to disguise the taste of nauseous drugs.
+127-1	6444-6449	Given	_	_	_	
+127-2	6450-6452	to	_	_	_	
+127-3	6453-6461	disguise	_	_	_	
+127-4	6462-6465	the	_	_	_	
+127-5	6466-6471	taste	_	_	_	
+127-6	6472-6474	of	_	_	_	
+127-7	6475-6483	nauseous	_	_	_	
+127-8	6484-6489	drugs	_	_	_	
+127-9	6489-6490	.	_	_	_	
+
+#Text=OLEUM OLIVAE.
+128-1	6493-6498	OLEUM	_	_	_	
+128-2	6499-6505	OLIVAE	_	_	_	
+128-3	6505-6506	.	_	_	_	
+
+#Text=Olive Oil.
+129-1	6507-6512	Olive	Smell\_Source[23]	_	_	
+129-2	6513-6516	Oil	Smell\_Source[23]	_	_	
+129-3	6516-6517	.	_	_	_	
+
+#Text=Nat.
+130-1	6518-6521	Nat	_	_	_	
+130-2	6521-6522	.	_	_	_	
+
+#Text=Ord., Oleacacea.
+131-1	6523-6526	Ord	_	_	_	
+131-2	6526-6527	.	_	_	_	
+131-3	6527-6528	,	_	_	_	
+131-4	6529-6538	Oleacacea	_	_	_	
+131-5	6538-6539	.	_	_	_	
+
+#Text=The oil expressed from the ripe fruit of Olea europsea.
+132-1	6541-6544	The	_	_	_	
+132-2	6545-6548	oil	_	_	_	
+132-3	6549-6558	expressed	_	_	_	
+132-4	6559-6563	from	_	_	_	
+132-5	6564-6567	the	_	_	_	
+132-6	6568-6572	ripe	_	_	_	
+132-7	6573-6578	fruit	_	_	_	
+132-8	6579-6581	of	_	_	_	
+132-9	6582-6586	Olea	_	_	_	
+132-10	6587-6595	europsea	_	_	_	
+132-11	6595-6596	.	_	_	_	
+
+#Text=Pale yellow or greenish-yellow, with a very faint agreeable
+#Text=odour and a bland oleaginous taste ; congeals partially at about
+#Text=Fahr. (2.2° C).
+133-1	6598-6602	Pale	_	_	_	
+133-2	6603-6609	yellow	_	_	_	
+133-3	6610-6612	or	_	_	_	
+133-4	6613-6628	greenish-yellow	_	_	_	
+133-5	6628-6629	,	_	_	_	
+133-6	6630-6634	with	_	_	_	
+133-7	6635-6636	a	_	_	_	
+133-8	6637-6641	very	Quality[24]	_	_	
+133-9	6642-6647	faint	Quality[24]	_	_	
+133-10	6648-6657	agreeable	Quality	_	_	
+133-11	6658-6663	odour	Smell\_Word	*|*|*	133-10|133-8[24_0]|129-1[23_0]	
+133-12	6664-6667	and	_	_	_	
+133-13	6668-6669	a	_	_	_	
+133-14	6670-6675	bland	_	_	_	
+133-15	6676-6686	oleaginous	_	_	_	
+133-16	6687-6692	taste	_	_	_	
+133-17	6693-6694	;	_	_	_	
+133-18	6695-6703	congeals	_	_	_	
+133-19	6704-6713	partially	_	_	_	
+133-20	6714-6716	at	_	_	_	
+133-21	6717-6722	about	_	_	_	
+133-22	6723-6727	Fahr	_	_	_	
+133-23	6727-6728	.	_	_	_	
+133-24	6729-6730	(	_	_	_	
+133-25	6730-6733	2.2	_	_	_	
+133-26	6733-6734	°	_	_	_	
+133-27	6735-6736	C	_	_	_	
+133-28	6736-6737	)	_	_	_	
+133-29	6737-6738	.	_	_	_	
+
+#Text=Contains Olein (liquid) and Margarine (solid).
+134-1	6740-6748	Contains	_	_	_	
+134-2	6749-6754	Olein	_	_	_	
+134-3	6755-6756	(	_	_	_	
+134-4	6756-6762	liquid	_	_	_	
+134-5	6762-6763	)	_	_	_	
+134-6	6764-6767	and	_	_	_	
+134-7	6768-6777	Margarine	_	_	_	
+134-8	6778-6779	(	_	_	_	
+134-9	6779-6784	solid	_	_	_	
+134-10	6784-6785	)	_	_	_	
+134-11	6785-6786	.	_	_	_	
+
+#Text=Used in preparing Charta Epispastica, Cataplasma Lint,
+#Text=Enema Magaesii Sulphatis, and some plasters, liniments, and
+#Text=ointments.
+135-1	6788-6792	Used	_	_	_	
+135-2	6793-6795	in	_	_	_	
+135-3	6796-6805	preparing	_	_	_	
+135-4	6806-6812	Charta	_	_	_	
+135-5	6813-6824	Epispastica	_	_	_	
+135-6	6824-6825	,	_	_	_	
+135-7	6826-6836	Cataplasma	_	_	_	
+135-8	6837-6841	Lint	_	_	_	
+135-9	6841-6842	,	_	_	_	
+135-10	6843-6848	Enema	_	_	_	
+135-11	6849-6857	Magaesii	_	_	_	
+135-12	6858-6867	Sulphatis	_	_	_	
+135-13	6867-6868	,	_	_	_	
+135-14	6869-6872	and	_	_	_	
+135-15	6873-6877	some	_	_	_	
+135-16	6878-6886	plasters	_	_	_	
+135-17	6886-6887	,	_	_	_	
+135-18	6888-6897	liniments	_	_	_	
+135-19	6897-6898	,	_	_	_	
+135-20	6899-6902	and	_	_	_	
+135-21	6903-6912	ointments	_	_	_	
+135-22	6912-6913	.	_	_	_	
+
+#Text=OLEUM PHOSPHOEATUM.
+136-1	6915-6920	OLEUM	_	_	_	
+136-2	6921-6933	PHOSPHOEATUM	_	_	_	
+136-3	6933-6934	.	_	_	_	
+
+#Text=Phospliorated Oil.
+137-1	6935-6948	Phospliorated	_	_	_	
+137-2	6949-6952	Oil	_	_	_	
+137-3	6952-6953	.	_	_	_	
+
+#Text=Prepared from Phosphorus and Oil of Almonds heated to
+#Text=180" Fahr. (82-2° C).
+138-1	6955-6963	Prepared	_	_	_	
+138-2	6964-6968	from	_	_	_	
+138-3	6969-6979	Phosphorus	_	_	_	
+138-4	6980-6983	and	_	_	_	
+138-5	6984-6987	Oil	_	_	_	
+138-6	6988-6990	of	_	_	_	
+138-7	6991-6998	Almonds	_	_	_	
+138-8	6999-7005	heated	_	_	_	
+138-9	7006-7008	to	_	_	_	
+138-10	7009-7012	180	_	_	_	
+138-11	7012-7013	"	_	_	_	
+138-12	7014-7018	Fahr	_	_	_	
+138-13	7018-7019	.	_	_	_	
+138-14	7020-7021	(	_	_	_	
+138-15	7021-7023	82	_	_	_	
+138-16	7023-7024	-	_	_	_	
+138-17	7024-7025	2	_	_	_	
+138-18	7025-7026	°	_	_	_	
+138-19	7027-7028	C	_	_	_	
+138-20	7028-7029	)	_	_	_	
+138-21	7029-7030	.	_	_	_	
+
+#Text=A clear straw-coloured oil ; phosphorescent in the dark.
+139-1	7032-7033	A	_	_	_	
+139-2	7034-7039	clear	_	_	_	
+139-3	7040-7054	straw-coloured	_	_	_	
+139-4	7055-7058	oil	_	_	_	
+139-5	7059-7060	;	_	_	_	
+139-6	7061-7075	phosphorescent	_	_	_	
+139-7	7076-7078	in	_	_	_	
+139-8	7079-7082	the	_	_	_	
+139-9	7083-7087	dark	_	_	_	
+139-10	7087-7088	.	_	_	_	
+
+#Text=It
+#Text=contains about one per cent, of phosphorus.
+140-1	7089-7091	It	_	_	_	
+140-2	7092-7100	contains	_	_	_	
+140-3	7101-7106	about	_	_	_	
+140-4	7107-7110	one	_	_	_	
+140-5	7111-7114	per	_	_	_	
+140-6	7115-7119	cent	_	_	_	
+140-7	7119-7120	,	_	_	_	
+140-8	7121-7123	of	_	_	_	
+140-9	7124-7134	phosphorus	_	_	_	
+140-10	7134-7135	.	_	_	_	
+
+#Text=Given in neuralgia and nervous depression.
+141-1	7137-7142	Given	_	_	_	
+141-2	7143-7145	in	_	_	_	
+141-3	7146-7155	neuralgia	_	_	_	
+141-4	7156-7159	and	_	_	_	
+141-5	7160-7167	nervous	_	_	_	
+141-6	7168-7178	depression	_	_	_	
+141-7	7178-7179	.	_	_	_	
+
+#Text=Dose. — 5 to 10 minims.
+142-1	7181-7185	Dose	_	_	_	
+142-2	7185-7186	.	_	_	_	
+142-3	7187-7188	—	_	_	_	
+142-4	7189-7190	5	_	_	_	
+142-5	7191-7193	to	_	_	_	
+142-6	7194-7196	10	_	_	_	
+142-7	7197-7203	minims	_	_	_	
+142-8	7203-7204	.	_	_	_	
+
+#Text=OLEUM PIMENTJE.
+143-1	7205-7210	OLEUM	_	_	_	
+143-2	7211-7219	PIMENTJE	_	_	_	
+143-3	7219-7220	.	_	_	_	
+
+#Text=Oil of Pimento.
+144-1	7221-7224	Oil	_	_	_	
+144-2	7225-7227	of	_	_	_	
+144-3	7228-7235	Pimento	_	_	_	
+144-4	7235-7236	.	_	_	_	
+
+#Text=The oil distilled in Britain from Pimento.
+145-1	7238-7241	The	_	_	_	
+145-2	7242-7245	oil	_	_	_	
+145-3	7246-7255	distilled	_	_	_	
+145-4	7256-7258	in	_	_	_	
+145-5	7259-7266	Britain	_	_	_	
+145-6	7267-7271	from	_	_	_	
+145-7	7272-7279	Pimento	_	_	_	
+145-8	7279-7280	.	_	_	_	
+
+#Text=Colourless or slightly yellowish-red when recent, but becoming
+#Text=brown by age, having the odour and taste of pimento.
+146-1	7282-7292	Colourless	_	_	_	
+146-2	7293-7295	or	_	_	_	
+146-3	7296-7304	slightly	_	_	_	
+146-4	7305-7318	yellowish-red	_	_	_	
+146-5	7319-7323	when	_	_	_	
+146-6	7324-7330	recent	_	_	_	
+146-7	7330-7331	,	_	_	_	
+146-8	7332-7335	but	_	_	_	
+146-9	7336-7344	becoming	_	_	_	
+146-10	7345-7350	brown	_	_	_	
+146-11	7351-7353	by	_	_	_	
+146-12	7354-7357	age	_	_	_	
+146-13	7357-7358	,	_	_	_	
+146-14	7359-7365	having	_	_	_	
+146-15	7366-7369	the	_	_	_	
+146-16	7370-7375	odour	Smell\_Word	*	146-19[25_0]	
+146-17	7376-7379	and	_	_	_	
+146-18	7380-7385	taste	_	_	_	
+146-19	7386-7388	of	Smell\_Source[25]	_	_	
+146-20	7389-7396	pimento	Smell\_Source[25]	_	_	
+146-21	7396-7397	.	_	_	_	
+
+#Text=Sinks in
+#Text=water.
+147-1	7398-7403	Sinks	_	_	_	
+147-2	7404-7406	in	_	_	_	
+147-3	7407-7412	water	_	_	_	
+147-4	7412-7413	.	_	_	_	

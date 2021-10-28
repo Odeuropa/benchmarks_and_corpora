@@ -1,0 +1,2172 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=enormous tropical forests, little known to man,
+#Text=and from which he gathers here and there the treasures for
+#Text=our orchid- and greenhouses ; great island conservatories like
+#Text=Java and Ceylon and Borneo, rich in spices and lovely plant
+#Text=life : Australian Bush, with traces of plant life as if from
+#Text=\tanother world, but often most delicate in odour even in the
+#Text=fragments of them we see in our greenhouses.
+1-1	0-8	enormous	_	_	_	
+1-2	9-17	tropical	_	_	_	
+1-3	18-25	forests	_	_	_	
+1-4	25-26	,	_	_	_	
+1-5	27-33	little	_	_	_	
+1-6	34-39	known	_	_	_	
+1-7	40-42	to	_	_	_	
+1-8	43-46	man	_	_	_	
+1-9	46-47	,	_	_	_	
+1-10	48-51	and	_	_	_	
+1-11	52-56	from	_	_	_	
+1-12	57-62	which	_	_	_	
+1-13	63-65	he	_	_	_	
+1-14	66-73	gathers	_	_	_	
+1-15	74-78	here	_	_	_	
+1-16	79-82	and	_	_	_	
+1-17	83-88	there	_	_	_	
+1-18	89-92	the	_	_	_	
+1-19	93-102	treasures	_	_	_	
+1-20	103-106	for	_	_	_	
+1-21	107-110	our	_	_	_	
+1-22	111-117	orchid	_	_	_	
+1-23	117-118	-	_	_	_	
+1-24	119-122	and	_	_	_	
+1-25	123-134	greenhouses	_	_	_	
+1-26	135-136	;	_	_	_	
+1-27	137-142	great	_	_	_	
+1-28	143-149	island	_	_	_	
+1-29	150-164	conservatories	_	_	_	
+1-30	165-169	like	_	_	_	
+1-31	170-174	Java	_	_	_	
+1-32	175-178	and	_	_	_	
+1-33	179-185	Ceylon	_	_	_	
+1-34	186-189	and	_	_	_	
+1-35	190-196	Borneo	_	_	_	
+1-36	196-197	,	_	_	_	
+1-37	198-202	rich	_	_	_	
+1-38	203-205	in	_	_	_	
+1-39	206-212	spices	_	_	_	
+1-40	213-216	and	_	_	_	
+1-41	217-223	lovely	_	_	_	
+1-42	224-229	plant	_	_	_	
+1-43	230-234	life	_	_	_	
+1-44	235-236	:	_	_	_	
+1-45	237-247	Australian	Smell\_Source[1]	_	_	
+1-46	248-252	Bush	Smell\_Source[1]	_	_	
+1-47	252-253	,	_	_	_	
+1-48	254-258	with	_	_	_	
+1-49	259-265	traces	_	_	_	
+1-50	266-268	of	_	_	_	
+1-51	269-274	plant	_	_	_	
+1-52	275-279	life	_	_	_	
+1-53	280-282	as	_	_	_	
+1-54	283-285	if	_	_	_	
+1-55	286-290	from	_	_	_	
+1-56	292-299	another	_	_	_	
+1-57	300-305	world	_	_	_	
+1-58	305-306	,	_	_	_	
+1-59	307-310	but	_	_	_	
+1-60	311-316	often	_	_	_	
+1-61	317-321	most	Quality[2]	_	_	
+1-62	322-330	delicate	Quality[2]	_	_	
+1-63	331-333	in	_	_	_	
+1-64	334-339	odour	Smell\_Word	*|*	1-61[2_0]|1-45[1_0]	
+1-65	340-344	even	_	_	_	
+1-66	345-347	in	_	_	_	
+1-67	348-351	the	_	_	_	
+1-68	352-361	fragments	_	_	_	
+1-69	362-364	of	_	_	_	
+1-70	365-369	them	_	_	_	
+1-71	370-372	we	_	_	_	
+1-72	373-376	see	_	_	_	
+1-73	377-379	in	_	_	_	
+1-74	380-383	our	_	_	_	
+1-75	384-395	greenhouses	_	_	_	
+1-76	395-396	.	_	_	_	
+
+#Text=It is not only from the fragile flower-vases these sweet
+#Text=odours flow; they breathe through leaf and stem, and the
+#Text=whole being of many trees and bushes, from the stately
+#Text=Cum trees of Australia to the sweet Verbena of Chili.
+2-1	398-400	It	_	_	_	
+2-2	401-403	is	_	_	_	
+2-3	404-407	not	_	_	_	
+2-4	408-412	only	_	_	_	
+2-5	413-417	from	_	_	_	
+2-6	418-421	the	Odour\_Carrier[3]	_	_	
+2-7	422-429	fragile	Odour\_Carrier[3]	_	_	
+2-8	430-442	flower-vases	Odour\_Carrier[3]	_	_	
+2-9	443-448	these	_	_	_	
+2-10	449-454	sweet	Quality	_	_	
+2-11	455-461	odours	Smell\_Word	*|*	2-10|2-6[3_0]	
+2-12	462-466	flow	_	_	_	
+2-13	466-467	;	_	_	_	
+2-14	468-472	they	Smell\_Word	Anaphoric|*|*	2-11|2-19|2-17	
+2-15	473-480	breathe	_	_	_	
+2-16	481-488	through	_	_	_	
+2-17	489-493	leaf	Odour\_Carrier	_	_	
+2-18	494-497	and	_	_	_	
+2-19	498-502	stem	Odour\_Carrier	_	_	
+2-20	502-503	,	_	_	_	
+2-21	504-507	and	_	_	_	
+2-22	508-511	the	_	_	_	
+2-23	512-517	whole	_	_	_	
+2-24	518-523	being	_	_	_	
+2-25	524-526	of	_	_	_	
+2-26	527-531	many	_	_	_	
+2-27	532-537	trees	_	_	_	
+2-28	538-541	and	_	_	_	
+2-29	542-548	bushes	_	_	_	
+2-30	548-549	,	_	_	_	
+2-31	550-554	from	_	_	_	
+2-32	555-558	the	_	_	_	
+2-33	559-566	stately	_	_	_	
+2-34	567-570	Cum	_	_	_	
+2-35	571-576	trees	_	_	_	
+2-36	577-579	of	_	_	_	
+2-37	580-589	Australia	_	_	_	
+2-38	590-592	to	_	_	_	
+2-39	593-596	the	_	_	_	
+2-40	597-602	sweet	_	_	_	
+2-41	603-610	Verbena	_	_	_	
+2-42	611-613	of	_	_	_	
+2-43	614-619	Chili	_	_	_	
+2-44	619-620	.	_	_	_	
+
+#Text=Many
+#Text=must have felt the charm of the strange scent of the Boxbush before Oliver Wendell Holmes told us of its ‘ breathing
+#Text=the fragrance of eternity, for this is one of the odours which
+#Text=carry us out of time into the abysses of the unbeginning
+#Text=past.’
+3-1	621-625	Many	_	_	_	
+3-2	626-630	must	_	_	_	
+3-3	631-635	have	_	_	_	
+3-4	636-640	felt	_	_	_	
+3-5	641-644	the	_	_	_	
+3-6	645-650	charm	_	_	_	
+3-7	651-653	of	_	_	_	
+3-8	654-657	the	_	_	_	
+3-9	658-665	strange	Quality	_	_	
+3-10	666-671	scent	Smell\_Word	*|*	3-9|3-11[4_0]	
+3-11	672-674	of	Smell\_Source[4]	_	_	
+3-12	675-678	the	Smell\_Source[4]	_	_	
+3-13	679-686	Boxbush	Smell\_Source[4]	_	_	
+3-14	687-693	before	_	_	_	
+3-15	694-700	Oliver	Perceiver[5]	_	_	
+3-16	701-708	Wendell	Perceiver[5]	_	_	
+3-17	709-715	Holmes	Perceiver[5]	_	_	
+3-18	716-720	told	_	_	_	
+3-19	721-723	us	_	_	_	
+3-20	724-726	of	_	_	_	
+3-21	727-730	its	Smell\_Source	Anaphoric	3-11[4_0]	
+3-22	731-732	‘	_	_	_	
+3-23	733-742	breathing	_	_	_	
+3-24	743-746	the	_	_	_	
+3-25	747-756	fragrance	Smell\_Word	*|*	3-15[5_0]|3-21	
+3-26	757-759	of	_	_	_	
+3-27	760-768	eternity	_	_	_	
+3-28	768-769	,	_	_	_	
+3-29	770-773	for	_	_	_	
+3-30	774-778	this	_	_	_	
+3-31	779-781	is	_	_	_	
+3-32	782-785	one	_	_	_	
+3-33	786-788	of	_	_	_	
+3-34	789-792	the	_	_	_	
+3-35	793-799	odours	Smell\_Word	*|*	3-38[7_0]|3-36[6_0]	
+3-36	800-805	which	Effect[6]	_	_	
+3-37	806-811	carry	Effect[6]	_	_	
+3-38	812-814	us	Effect[6]|Perceiver[7]	_	_	
+3-39	815-818	out	Effect[6]	_	_	
+3-40	819-821	of	Effect[6]	_	_	
+3-41	822-826	time	Effect[6]	_	_	
+3-42	827-831	into	Effect[6]	_	_	
+3-43	832-835	the	Effect[6]	_	_	
+3-44	836-843	abysses	Effect[6]	_	_	
+3-45	844-846	of	Effect[6]	_	_	
+3-46	847-850	the	Effect[6]	_	_	
+3-47	851-862	unbeginning	Effect[6]	_	_	
+3-48	863-867	past	Effect[6]	_	_	
+3-49	867-868	.	_	_	_	
+3-50	868-869	’	_	_	_	
+
+#Text=The scent of flowers is often cloying, as of the
+#Text=Tuberose, while that of leaves is often delightful and refreshing, as in the green budding Larch, and in the leaves of Balm
+#Text=and Rosemary, while in many cases fragrance is stored in the
+#Text=wood and permeates down through the roots.
+4-1	870-873	The	_	_	_	
+4-2	874-879	scent	Smell\_Word	*|*|*	4-3[8_0]|4-7|4-10[9_0]	
+4-3	880-882	of	Smell\_Source[8]	_	_	
+4-4	883-890	flowers	Smell\_Source[8]	_	_	
+4-5	891-893	is	_	_	_	
+4-6	894-899	often	_	_	_	
+4-7	900-907	cloying	Quality	_	_	
+4-8	907-908	,	_	_	_	
+4-9	909-911	as	_	_	_	
+4-10	912-914	of	Smell\_Source[9]	_	_	
+4-11	915-918	the	Smell\_Source[9]	_	_	
+4-12	919-927	Tuberose	Smell\_Source[9]	_	_	
+4-13	927-928	,	_	_	_	
+4-14	929-934	while	_	_	_	
+4-15	935-939	that	Smell\_Word	Anaphoric|*|*|*|*|*	4-2|4-16[10_0]|4-20|4-22|4-25[11_0]|4-32[12_0]	
+4-16	940-942	of	Smell\_Source[10]	_	_	
+4-17	943-949	leaves	Smell\_Source[10]	_	_	
+4-18	950-952	is	_	_	_	
+4-19	953-958	often	_	_	_	
+4-20	959-969	delightful	Quality	_	_	
+4-21	970-973	and	_	_	_	
+4-22	974-984	refreshing	Quality	_	_	
+4-23	984-985	,	_	_	_	
+4-24	986-988	as	_	_	_	
+4-25	989-991	in	Smell\_Source[11]	_	_	
+4-26	992-995	the	Smell\_Source[11]	_	_	
+4-27	996-1001	green	Smell\_Source[11]	_	_	
+4-28	1002-1009	budding	Smell\_Source[11]	_	_	
+4-29	1010-1015	Larch	Smell\_Source[11]	_	_	
+4-30	1015-1016	,	_	_	_	
+4-31	1017-1020	and	_	_	_	
+4-32	1021-1023	in	Smell\_Source[12]	_	_	
+4-33	1024-1027	the	Smell\_Source[12]	_	_	
+4-34	1028-1034	leaves	Smell\_Source[12]	_	_	
+4-35	1035-1037	of	Smell\_Source[12]	_	_	
+4-36	1038-1042	Balm	Smell\_Source[12]	_	_	
+4-37	1043-1046	and	Smell\_Source[12]	_	_	
+4-38	1047-1055	Rosemary	Smell\_Source[12]	_	_	
+4-39	1055-1056	,	_	_	_	
+4-40	1057-1062	while	_	_	_	
+4-41	1063-1065	in	Circumstances[13]	_	_	
+4-42	1066-1070	many	Circumstances[13]	_	_	
+4-43	1071-1076	cases	Circumstances[13]	_	_	
+4-44	1077-1086	fragrance	Smell\_Word	*|*	4-41[13_0]|4-47[14_0]	
+4-45	1087-1089	is	_	_	_	
+4-46	1090-1096	stored	_	_	_	
+4-47	1097-1099	in	Odour\_Carrier[14]	_	_	
+4-48	1100-1103	the	Odour\_Carrier[14]	_	_	
+4-49	1104-1108	wood	Odour\_Carrier[14]	_	_	
+4-50	1109-1112	and	_	_	_	
+4-51	1113-1122	permeates	_	_	_	
+4-52	1123-1127	down	_	_	_	
+4-53	1128-1135	through	_	_	_	
+4-54	1136-1139	the	_	_	_	
+4-55	1140-1145	roots	_	_	_	
+4-56	1145-1146	.	_	_	_	
+
+#Text=To but few it is given to see many of these sweet plants
+#Text=in their native lands, but we who love our gardens may
+#Text=enjoy many of them about us, not merely in drawings or
+#Text=descriptions, but the living, breathing things themselves.
+5-1	1148-1150	To	_	_	_	
+5-2	1151-1154	but	_	_	_	
+5-3	1155-1158	few	_	_	_	
+5-4	1159-1161	it	_	_	_	
+5-5	1162-1164	is	_	_	_	
+5-6	1165-1170	given	_	_	_	
+5-7	1171-1173	to	_	_	_	
+5-8	1174-1177	see	_	_	_	
+5-9	1178-1182	many	_	_	_	
+5-10	1183-1185	of	_	_	_	
+5-11	1186-1191	these	_	_	_	
+5-12	1192-1197	sweet	_	_	_	
+5-13	1198-1204	plants	_	_	_	
+5-14	1205-1207	in	_	_	_	
+5-15	1208-1213	their	_	_	_	
+5-16	1214-1220	native	_	_	_	
+5-17	1221-1226	lands	_	_	_	
+5-18	1226-1227	,	_	_	_	
+5-19	1228-1231	but	_	_	_	
+5-20	1232-1234	we	_	_	_	
+5-21	1235-1238	who	_	_	_	
+5-22	1239-1243	love	_	_	_	
+5-23	1244-1247	our	_	_	_	
+5-24	1248-1255	gardens	_	_	_	
+5-25	1256-1259	may	_	_	_	
+5-26	1260-1265	enjoy	_	_	_	
+5-27	1266-1270	many	_	_	_	
+5-28	1271-1273	of	_	_	_	
+5-29	1274-1278	them	_	_	_	
+5-30	1279-1284	about	_	_	_	
+5-31	1285-1287	us	_	_	_	
+5-32	1287-1288	,	_	_	_	
+5-33	1289-1292	not	_	_	_	
+5-34	1293-1299	merely	_	_	_	
+5-35	1300-1302	in	_	_	_	
+5-36	1303-1311	drawings	_	_	_	
+5-37	1312-1314	or	_	_	_	
+5-38	1315-1327	descriptions	_	_	_	
+5-39	1327-1328	,	_	_	_	
+5-40	1329-1332	but	_	_	_	
+5-41	1333-1336	the	_	_	_	
+5-42	1337-1343	living	_	_	_	
+5-43	1343-1344	,	_	_	_	
+5-44	1345-1354	breathing	_	_	_	
+5-45	1355-1361	things	_	_	_	
+5-46	1362-1372	themselves	_	_	_	
+5-47	1372-1373	.	_	_	_	
+
+#Text=The Geraniums in the cottage window bring us the spicy
+#Text=\tfragrance of the South African hills ; the Lavender bush of
+#Text=the sunny hills of Provence, where it is at home ; the
+#Text=Roses in the garden bring near us the breath of the wild
+#Text=Roses on a thousand hills ; the aromatic pot-herbs of our
+#Text=gardens are a gift of the shore-lands of France and Italy and
+#Text=Greece.
+6-1	1374-1377	The	Smell\_Source[15]	_	_	
+6-2	1378-1387	Geraniums	Smell\_Source[15]	_	_	
+6-3	1388-1390	in	Location[16]	_	_	
+6-4	1391-1394	the	Location[16]	_	_	
+6-5	1395-1402	cottage	Location[16]	_	_	
+6-6	1403-1409	window	Location[16]	_	_	
+6-7	1410-1415	bring	_	_	_	
+6-8	1416-1418	us	_	_	_	
+6-9	1419-1422	the	_	_	_	
+6-10	1423-1428	spicy	Quality	_	_	
+6-11	1430-1439	fragrance	Smell\_Word	*|*|*|*|*|*	6-10|6-1[15_0]|6-3[16_0]|6-12[17_0]|6-18[18_0]|6-21[19_0]	
+6-12	1440-1442	of	Evoked\_Odorant[17]	_	_	
+6-13	1443-1446	the	Evoked\_Odorant[17]	_	_	
+6-14	1447-1452	South	Evoked\_Odorant[17]	_	_	
+6-15	1453-1460	African	Evoked\_Odorant[17]	_	_	
+6-16	1461-1466	hills	Evoked\_Odorant[17]	_	_	
+6-17	1467-1468	;	_	_	_	
+6-18	1469-1472	the	Smell\_Source[18]	_	_	
+6-19	1473-1481	Lavender	Smell\_Source[18]	_	_	
+6-20	1482-1486	bush	Smell\_Source[18]	_	_	
+6-21	1487-1489	of	Evoked\_Odorant[19]	_	_	
+6-22	1490-1493	the	Evoked\_Odorant[19]	_	_	
+6-23	1494-1499	sunny	Evoked\_Odorant[19]	_	_	
+6-24	1500-1505	hills	Evoked\_Odorant[19]	_	_	
+6-25	1506-1508	of	Evoked\_Odorant[19]	_	_	
+6-26	1509-1517	Provence	Evoked\_Odorant[19]	_	_	
+6-27	1517-1518	,	_	_	_	
+6-28	1519-1524	where	_	_	_	
+6-29	1525-1527	it	_	_	_	
+6-30	1528-1530	is	_	_	_	
+6-31	1531-1533	at	_	_	_	
+6-32	1534-1538	home	_	_	_	
+6-33	1539-1540	;	_	_	_	
+6-34	1541-1544	the	_	_	_	
+6-35	1545-1550	Roses	_	_	_	
+6-36	1551-1553	in	_	_	_	
+6-37	1554-1557	the	_	_	_	
+6-38	1558-1564	garden	_	_	_	
+6-39	1565-1570	bring	_	_	_	
+6-40	1571-1575	near	_	_	_	
+6-41	1576-1578	us	_	_	_	
+6-42	1579-1582	the	_	_	_	
+6-43	1583-1589	breath	_	_	_	
+6-44	1590-1592	of	_	_	_	
+6-45	1593-1596	the	_	_	_	
+6-46	1597-1601	wild	_	_	_	
+6-47	1602-1607	Roses	_	_	_	
+6-48	1608-1610	on	_	_	_	
+6-49	1611-1612	a	_	_	_	
+6-50	1613-1621	thousand	_	_	_	
+6-51	1622-1627	hills	_	_	_	
+6-52	1628-1629	;	_	_	_	
+6-53	1630-1633	the	_	_	_	
+6-54	1634-1642	aromatic	Smell\_Word[20]|Quality[21]	*|*|*	6-54[21_20]|6-55[0_20]|6-56[22_20]	
+6-55	1643-1652	pot-herbs	Smell\_Source	_	_	
+6-56	1653-1655	of	Location[22]	_	_	
+6-57	1656-1659	our	Location[22]	_	_	
+6-58	1660-1667	gardens	Location[22]	_	_	
+6-59	1668-1671	are	_	_	_	
+6-60	1672-1673	a	_	_	_	
+6-61	1674-1678	gift	_	_	_	
+6-62	1679-1681	of	_	_	_	
+6-63	1682-1685	the	_	_	_	
+6-64	1686-1697	shore-lands	_	_	_	
+6-65	1698-1700	of	_	_	_	
+6-66	1701-1707	France	_	_	_	
+6-67	1708-1711	and	_	_	_	
+6-68	1712-1717	Italy	_	_	_	
+6-69	1718-1721	and	_	_	_	
+6-70	1722-1728	Greece	_	_	_	
+6-71	1728-1729	.	_	_	_	
+
+#Text=The Sweet Bay bush in the farmer’s or cottage
+#Text=garden comes with its story from the streams of Greece,
+#Text=where it seeks moisture in a thirsty land along with the wild
+#Text=Olive and the Arbutus.
+7-1	1730-1733	The	_	_	_	
+7-2	1734-1739	Sweet	_	_	_	
+7-3	1740-1743	Bay	_	_	_	
+7-4	1744-1748	bush	_	_	_	
+7-5	1749-1751	in	_	_	_	
+7-6	1752-1755	the	_	_	_	
+7-7	1756-1762	farmer	_	_	_	
+7-8	1762-1763	’	_	_	_	
+7-9	1763-1764	s	_	_	_	
+7-10	1765-1767	or	_	_	_	
+7-11	1768-1775	cottage	_	_	_	
+7-12	1776-1782	garden	_	_	_	
+7-13	1783-1788	comes	_	_	_	
+7-14	1789-1793	with	_	_	_	
+7-15	1794-1797	its	_	_	_	
+7-16	1798-1803	story	_	_	_	
+7-17	1804-1808	from	_	_	_	
+7-18	1809-1812	the	_	_	_	
+7-19	1813-1820	streams	_	_	_	
+7-20	1821-1823	of	_	_	_	
+7-21	1824-1830	Greece	_	_	_	
+7-22	1830-1831	,	_	_	_	
+7-23	1832-1837	where	_	_	_	
+7-24	1838-1840	it	_	_	_	
+7-25	1841-1846	seeks	_	_	_	
+7-26	1847-1855	moisture	_	_	_	
+7-27	1856-1858	in	_	_	_	
+7-28	1859-1860	a	_	_	_	
+7-29	1861-1868	thirsty	_	_	_	
+7-30	1869-1873	land	_	_	_	
+7-31	1874-1879	along	_	_	_	
+7-32	1880-1884	with	_	_	_	
+7-33	1885-1888	the	_	_	_	
+7-34	1889-1893	wild	_	_	_	
+7-35	1894-1899	Olive	_	_	_	
+7-36	1900-1903	and	_	_	_	
+7-37	1904-1907	the	_	_	_	
+7-38	1908-1915	Arbutus	_	_	_	
+7-39	1915-1916	.	_	_	_	
+
+#Text=And this Sweet Bay is the Laurel
+#Text=of the poets, of the first and greatest of all poet and artist
+#Text=nations of the earth — the Laurel sacred to Apollo, and
+#Text=used in many ways in his worship, as we may see on coins,
+#Text=and in many other things that remain to us of the great
+#Text=civilisations of the past . 1 The Myrtle, of less fame, was
+#Text=also a sacred plant beloved for its leaves and blossoms, was,
+#Text=like the Laurel, seen near the temples of the race who
+#Text=built their temples as Lilies are built, whose song is deathless,
+#Text=and the fragments of its art Despair to the artist of our
+#Text=time.
+8-1	1917-1920	And	_	_	_	
+8-2	1921-1925	this	_	_	_	
+8-3	1926-1931	Sweet	_	_	_	
+8-4	1932-1935	Bay	_	_	_	
+8-5	1936-1938	is	_	_	_	
+8-6	1939-1942	the	_	_	_	
+8-7	1943-1949	Laurel	_	_	_	
+8-8	1950-1952	of	_	_	_	
+8-9	1953-1956	the	_	_	_	
+8-10	1957-1962	poets	_	_	_	
+8-11	1962-1963	,	_	_	_	
+8-12	1964-1966	of	_	_	_	
+8-13	1967-1970	the	_	_	_	
+8-14	1971-1976	first	_	_	_	
+8-15	1977-1980	and	_	_	_	
+8-16	1981-1989	greatest	_	_	_	
+8-17	1990-1992	of	_	_	_	
+8-18	1993-1996	all	_	_	_	
+8-19	1997-2001	poet	_	_	_	
+8-20	2002-2005	and	_	_	_	
+8-21	2006-2012	artist	_	_	_	
+8-22	2013-2020	nations	_	_	_	
+8-23	2021-2023	of	_	_	_	
+8-24	2024-2027	the	_	_	_	
+8-25	2028-2033	earth	_	_	_	
+8-26	2034-2035	—	_	_	_	
+8-27	2036-2039	the	_	_	_	
+8-28	2040-2046	Laurel	_	_	_	
+8-29	2047-2053	sacred	_	_	_	
+8-30	2054-2056	to	_	_	_	
+8-31	2057-2063	Apollo	_	_	_	
+8-32	2063-2064	,	_	_	_	
+8-33	2065-2068	and	_	_	_	
+8-34	2069-2073	used	_	_	_	
+8-35	2074-2076	in	_	_	_	
+8-36	2077-2081	many	_	_	_	
+8-37	2082-2086	ways	_	_	_	
+8-38	2087-2089	in	_	_	_	
+8-39	2090-2093	his	_	_	_	
+8-40	2094-2101	worship	_	_	_	
+8-41	2101-2102	,	_	_	_	
+8-42	2103-2105	as	_	_	_	
+8-43	2106-2108	we	_	_	_	
+8-44	2109-2112	may	_	_	_	
+8-45	2113-2116	see	_	_	_	
+8-46	2117-2119	on	_	_	_	
+8-47	2120-2125	coins	_	_	_	
+8-48	2125-2126	,	_	_	_	
+8-49	2127-2130	and	_	_	_	
+8-50	2131-2133	in	_	_	_	
+8-51	2134-2138	many	_	_	_	
+8-52	2139-2144	other	_	_	_	
+8-53	2145-2151	things	_	_	_	
+8-54	2152-2156	that	_	_	_	
+8-55	2157-2163	remain	_	_	_	
+8-56	2164-2166	to	_	_	_	
+8-57	2167-2169	us	_	_	_	
+8-58	2170-2172	of	_	_	_	
+8-59	2173-2176	the	_	_	_	
+8-60	2177-2182	great	_	_	_	
+8-61	2183-2196	civilisations	_	_	_	
+8-62	2197-2199	of	_	_	_	
+8-63	2200-2203	the	_	_	_	
+8-64	2204-2208	past	_	_	_	
+8-65	2209-2210	.	_	_	_	
+8-66	2211-2212	1	_	_	_	
+8-67	2213-2216	The	_	_	_	
+8-68	2217-2223	Myrtle	_	_	_	
+8-69	2223-2224	,	_	_	_	
+8-70	2225-2227	of	_	_	_	
+8-71	2228-2232	less	_	_	_	
+8-72	2233-2237	fame	_	_	_	
+8-73	2237-2238	,	_	_	_	
+8-74	2239-2242	was	_	_	_	
+8-75	2243-2247	also	_	_	_	
+8-76	2248-2249	a	_	_	_	
+8-77	2250-2256	sacred	_	_	_	
+8-78	2257-2262	plant	_	_	_	
+8-79	2263-2270	beloved	_	_	_	
+8-80	2271-2274	for	_	_	_	
+8-81	2275-2278	its	_	_	_	
+8-82	2279-2285	leaves	_	_	_	
+8-83	2286-2289	and	_	_	_	
+8-84	2290-2298	blossoms	_	_	_	
+8-85	2298-2299	,	_	_	_	
+8-86	2300-2303	was	_	_	_	
+8-87	2303-2304	,	_	_	_	
+8-88	2305-2309	like	_	_	_	
+8-89	2310-2313	the	_	_	_	
+8-90	2314-2320	Laurel	_	_	_	
+8-91	2320-2321	,	_	_	_	
+8-92	2322-2326	seen	_	_	_	
+8-93	2327-2331	near	_	_	_	
+8-94	2332-2335	the	_	_	_	
+8-95	2336-2343	temples	_	_	_	
+8-96	2344-2346	of	_	_	_	
+8-97	2347-2350	the	_	_	_	
+8-98	2351-2355	race	_	_	_	
+8-99	2356-2359	who	_	_	_	
+8-100	2360-2365	built	_	_	_	
+8-101	2366-2371	their	_	_	_	
+8-102	2372-2379	temples	_	_	_	
+8-103	2380-2382	as	_	_	_	
+8-104	2383-2389	Lilies	_	_	_	
+8-105	2390-2393	are	_	_	_	
+8-106	2394-2399	built	_	_	_	
+8-107	2399-2400	,	_	_	_	
+8-108	2401-2406	whose	_	_	_	
+8-109	2407-2411	song	_	_	_	
+8-110	2412-2414	is	_	_	_	
+8-111	2415-2424	deathless	_	_	_	
+8-112	2424-2425	,	_	_	_	
+8-113	2426-2429	and	_	_	_	
+8-114	2430-2433	the	_	_	_	
+8-115	2434-2443	fragments	_	_	_	
+8-116	2444-2446	of	_	_	_	
+8-117	2447-2450	its	_	_	_	
+8-118	2451-2454	art	_	_	_	
+8-119	2455-2462	Despair	_	_	_	
+8-120	2463-2465	to	_	_	_	
+8-121	2466-2469	the	_	_	_	
+8-122	2470-2476	artist	_	_	_	
+8-123	2477-2479	of	_	_	_	
+8-124	2480-2483	our	_	_	_	
+8-125	2484-2488	time	_	_	_	
+8-126	2488-2489	.	_	_	_	
+
+#Text=And so we see how the fragrant bushes our gardens
+#Text=may entwine for us, apart from their gift of fragrance, living
+#Text=\tassociations and beautiful thoughts for ever famous in human
+#Text=story.
+9-1	2490-2493	And	_	_	_	
+9-2	2494-2496	so	_	_	_	
+9-3	2497-2499	we	_	_	_	
+9-4	2500-2503	see	_	_	_	
+9-5	2504-2507	how	_	_	_	
+9-6	2508-2511	the	_	_	_	
+9-7	2512-2520	fragrant	Quality[23]|Smell\_Word[24]	*|*|*|*	9-7[23_24]|9-8[0_24]|9-14[0_24]|9-9[25_24]	
+9-8	2521-2527	bushes	Smell\_Source	_	_	
+9-9	2528-2531	our	Location[25]	_	_	
+9-10	2532-2539	gardens	Location[25]	_	_	
+9-11	2540-2543	may	_	_	_	
+9-12	2544-2551	entwine	_	_	_	
+9-13	2552-2555	for	_	_	_	
+9-14	2556-2558	us	Perceiver	_	_	
+9-15	2558-2559	,	_	_	_	
+9-16	2560-2565	apart	_	_	_	
+9-17	2566-2570	from	_	_	_	
+9-18	2571-2576	their	_	_	_	
+9-19	2577-2581	gift	_	_	_	
+9-20	2582-2584	of	_	_	_	
+9-21	2585-2594	fragrance	Smell\_Word	*	9-8	
+9-22	2594-2595	,	_	_	_	
+9-23	2596-2602	living	_	_	_	
+9-24	2604-2616	associations	_	_	_	
+9-25	2617-2620	and	_	_	_	
+9-26	2621-2630	beautiful	_	_	_	
+9-27	2631-2639	thoughts	_	_	_	
+9-28	2640-2643	for	_	_	_	
+9-29	2644-2648	ever	_	_	_	
+9-30	2649-2655	famous	_	_	_	
+9-31	2656-2658	in	_	_	_	
+9-32	2659-2664	human	_	_	_	
+9-33	2665-2670	story	_	_	_	
+9-34	2670-2671	.	_	_	_	
+
+#Text=It is not only these trees and climbers, loved by all for
+#Text=their odour, we have to think of, but many delicate ones,
+#Text=
+#Text=1 ‘ What you call advantageous, Solon, is for these men to be
+#Text=crowned in view of all the world, who just before were objects of pity
+#Text=from their wounds : and yet it seems they think themselves happy if
+#Text=in return for all their labours they can get a bunch of Laurel .’ — From
+#Text=the Greek of Lucian.
+#Text=little thought of, perhaps, from the blossoms that give it
+#Text=being without showy colour, as the fragrant American wild
+#Text=Vine.
+10-1	2673-2675	It	_	_	_	
+10-2	2676-2678	is	_	_	_	
+10-3	2679-2682	not	_	_	_	
+10-4	2683-2687	only	_	_	_	
+10-5	2688-2693	these	Smell\_Source[26]	_	_	
+10-6	2694-2699	trees	Smell\_Source[26]	_	_	
+10-7	2700-2703	and	Smell\_Source[26]	_	_	
+10-8	2704-2712	climbers	Smell\_Source[26]	_	_	
+10-9	2712-2713	,	_	_	_	
+10-10	2714-2719	loved	_	_	_	
+10-11	2720-2722	by	_	_	_	
+10-12	2723-2726	all	_	_	_	
+10-13	2727-2730	for	_	_	_	
+10-14	2731-2736	their	Smell\_Source	Anaphoric	10-5[26_0]	
+10-15	2737-2742	odour	Smell\_Word	*	10-14	
+10-16	2742-2743	,	_	_	_	
+10-17	2744-2746	we	_	_	_	
+10-18	2747-2751	have	_	_	_	
+10-19	2752-2754	to	_	_	_	
+10-20	2755-2760	think	_	_	_	
+10-21	2761-2763	of	_	_	_	
+10-22	2763-2764	,	_	_	_	
+10-23	2765-2768	but	_	_	_	
+10-24	2769-2773	many	_	_	_	
+10-25	2774-2782	delicate	_	_	_	
+10-26	2783-2787	ones	_	_	_	
+10-27	2787-2788	,	_	_	_	
+10-28	2790-2791	1	_	_	_	
+10-29	2792-2793	‘	_	_	_	
+10-30	2794-2798	What	_	_	_	
+10-31	2799-2802	you	_	_	_	
+10-32	2803-2807	call	_	_	_	
+10-33	2808-2820	advantageous	_	_	_	
+10-34	2820-2821	,	_	_	_	
+10-35	2822-2827	Solon	_	_	_	
+10-36	2827-2828	,	_	_	_	
+10-37	2829-2831	is	_	_	_	
+10-38	2832-2835	for	_	_	_	
+10-39	2836-2841	these	_	_	_	
+10-40	2842-2845	men	_	_	_	
+10-41	2846-2848	to	_	_	_	
+10-42	2849-2851	be	_	_	_	
+10-43	2852-2859	crowned	_	_	_	
+10-44	2860-2862	in	_	_	_	
+10-45	2863-2867	view	_	_	_	
+10-46	2868-2870	of	_	_	_	
+10-47	2871-2874	all	_	_	_	
+10-48	2875-2878	the	_	_	_	
+10-49	2879-2884	world	_	_	_	
+10-50	2884-2885	,	_	_	_	
+10-51	2886-2889	who	_	_	_	
+10-52	2890-2894	just	_	_	_	
+10-53	2895-2901	before	_	_	_	
+10-54	2902-2906	were	_	_	_	
+10-55	2907-2914	objects	_	_	_	
+10-56	2915-2917	of	_	_	_	
+10-57	2918-2922	pity	_	_	_	
+10-58	2923-2927	from	_	_	_	
+10-59	2928-2933	their	_	_	_	
+10-60	2934-2940	wounds	_	_	_	
+10-61	2941-2942	:	_	_	_	
+10-62	2943-2946	and	_	_	_	
+10-63	2947-2950	yet	_	_	_	
+10-64	2951-2953	it	_	_	_	
+10-65	2954-2959	seems	_	_	_	
+10-66	2960-2964	they	_	_	_	
+10-67	2965-2970	think	_	_	_	
+10-68	2971-2981	themselves	_	_	_	
+10-69	2982-2987	happy	_	_	_	
+10-70	2988-2990	if	_	_	_	
+10-71	2991-2993	in	_	_	_	
+10-72	2994-3000	return	_	_	_	
+10-73	3001-3004	for	_	_	_	
+10-74	3005-3008	all	_	_	_	
+10-75	3009-3014	their	_	_	_	
+10-76	3015-3022	labours	_	_	_	
+10-77	3023-3027	they	_	_	_	
+10-78	3028-3031	can	_	_	_	
+10-79	3032-3035	get	_	_	_	
+10-80	3036-3037	a	_	_	_	
+10-81	3038-3043	bunch	_	_	_	
+10-82	3044-3046	of	_	_	_	
+10-83	3047-3053	Laurel	_	_	_	
+10-84	3054-3055	.	_	_	_	
+10-85	3055-3056	’	_	_	_	
+10-86	3057-3058	—	_	_	_	
+10-87	3059-3063	From	_	_	_	
+10-88	3064-3067	the	_	_	_	
+10-89	3068-3073	Greek	_	_	_	
+10-90	3074-3076	of	_	_	_	
+10-91	3077-3083	Lucian	_	_	_	
+10-92	3083-3084	.	_	_	_	
+10-93	3085-3091	little	_	_	_	
+10-94	3092-3099	thought	_	_	_	
+10-95	3100-3102	of	_	_	_	
+10-96	3102-3103	,	_	_	_	
+10-97	3104-3111	perhaps	_	_	_	
+10-98	3111-3112	,	_	_	_	
+10-99	3113-3117	from	_	_	_	
+10-100	3118-3121	the	_	_	_	
+10-101	3122-3130	blossoms	_	_	_	
+10-102	3131-3135	that	_	_	_	
+10-103	3136-3140	give	_	_	_	
+10-104	3141-3143	it	_	_	_	
+10-105	3144-3149	being	_	_	_	
+10-106	3150-3157	without	_	_	_	
+10-107	3158-3163	showy	_	_	_	
+10-108	3164-3170	colour	_	_	_	
+10-109	3170-3171	,	_	_	_	
+10-110	3172-3174	as	_	_	_	
+10-111	3175-3178	the	_	_	_	
+10-112	3179-3187	fragrant	Smell\_Word[27]|Quality[28]	*|*	10-112[28_27]|10-113[29_27]	
+10-113	3188-3196	American	Smell\_Source[29]	_	_	
+10-114	3197-3201	wild	Smell\_Source[29]	_	_	
+10-115	3202-3206	Vine	Smell\_Source[29]	_	_	
+10-116	3206-3207	.	_	_	_	
+
+#Text=And among these modest flowers there are none more
+#Text=delicate than the blossoms of the White Willow of Britain
+#Text=and northern Europe, all the more grateful in air coming
+#Text=to us. ‘ O’er the northern moorland, o’er the northern foam. ’
+#Text=
+#Text=What is the lesson these sweet flowers have for us 1 They
+#Text=tell us — if there were no other flowers to tell us — that a
+#Text=\tgarden should be a living thing; its life not only fair in
+#Text=form and lovely in colour, but in its breath and essence
+#Text=coming from the Divine.
+11-1	3208-3211	And	_	_	_	
+11-2	3212-3217	among	_	_	_	
+11-3	3218-3223	these	_	_	_	
+11-4	3224-3230	modest	_	_	_	
+11-5	3231-3238	flowers	_	_	_	
+11-6	3239-3244	there	_	_	_	
+11-7	3245-3248	are	_	_	_	
+11-8	3249-3253	none	_	_	_	
+11-9	3254-3258	more	_	_	_	
+11-10	3259-3267	delicate	_	_	_	
+11-11	3268-3272	than	_	_	_	
+11-12	3273-3276	the	_	_	_	
+11-13	3277-3285	blossoms	_	_	_	
+11-14	3286-3288	of	_	_	_	
+11-15	3289-3292	the	_	_	_	
+11-16	3293-3298	White	_	_	_	
+11-17	3299-3305	Willow	_	_	_	
+11-18	3306-3308	of	_	_	_	
+11-19	3309-3316	Britain	_	_	_	
+11-20	3317-3320	and	_	_	_	
+11-21	3321-3329	northern	_	_	_	
+11-22	3330-3336	Europe	_	_	_	
+11-23	3336-3337	,	_	_	_	
+11-24	3338-3341	all	_	_	_	
+11-25	3342-3345	the	_	_	_	
+11-26	3346-3350	more	_	_	_	
+11-27	3351-3359	grateful	_	_	_	
+11-28	3360-3362	in	_	_	_	
+11-29	3363-3366	air	_	_	_	
+11-30	3367-3373	coming	_	_	_	
+11-31	3374-3376	to	_	_	_	
+11-32	3377-3379	us	_	_	_	
+11-33	3379-3380	.	_	_	_	
+11-34	3381-3382	‘	_	_	_	
+11-35	3383-3384	O	_	_	_	
+11-36	3384-3385	’	_	_	_	
+11-37	3385-3387	er	_	_	_	
+11-38	3388-3391	the	_	_	_	
+11-39	3392-3400	northern	_	_	_	
+11-40	3401-3409	moorland	_	_	_	
+11-41	3409-3410	,	_	_	_	
+11-42	3411-3412	o	_	_	_	
+11-43	3412-3413	’	_	_	_	
+11-44	3413-3415	er	_	_	_	
+11-45	3416-3419	the	_	_	_	
+11-46	3420-3428	northern	_	_	_	
+11-47	3429-3433	foam	_	_	_	
+11-48	3433-3434	.	_	_	_	
+11-49	3435-3436	’	_	_	_	
+11-50	3438-3442	What	_	_	_	
+11-51	3443-3445	is	_	_	_	
+11-52	3446-3449	the	_	_	_	
+11-53	3450-3456	lesson	_	_	_	
+11-54	3457-3462	these	_	_	_	
+11-55	3463-3468	sweet	_	_	_	
+11-56	3469-3476	flowers	_	_	_	
+11-57	3477-3481	have	_	_	_	
+11-58	3482-3485	for	_	_	_	
+11-59	3486-3488	us	_	_	_	
+11-60	3489-3490	1	_	_	_	
+11-61	3491-3495	They	_	_	_	
+11-62	3496-3500	tell	_	_	_	
+11-63	3501-3503	us	_	_	_	
+11-64	3504-3505	—	_	_	_	
+11-65	3506-3508	if	_	_	_	
+11-66	3509-3514	there	_	_	_	
+11-67	3515-3519	were	_	_	_	
+11-68	3520-3522	no	_	_	_	
+11-69	3523-3528	other	_	_	_	
+11-70	3529-3536	flowers	_	_	_	
+11-71	3537-3539	to	_	_	_	
+11-72	3540-3544	tell	_	_	_	
+11-73	3545-3547	us	_	_	_	
+11-74	3548-3549	—	_	_	_	
+11-75	3550-3554	that	_	_	_	
+11-76	3555-3556	a	_	_	_	
+11-77	3558-3564	garden	_	_	_	
+11-78	3565-3571	should	_	_	_	
+11-79	3572-3574	be	_	_	_	
+11-80	3575-3576	a	_	_	_	
+11-81	3577-3583	living	_	_	_	
+11-82	3584-3589	thing	_	_	_	
+11-83	3589-3590	;	_	_	_	
+11-84	3591-3594	its	_	_	_	
+11-85	3595-3599	life	_	_	_	
+11-86	3600-3603	not	_	_	_	
+11-87	3604-3608	only	_	_	_	
+11-88	3609-3613	fair	_	_	_	
+11-89	3614-3616	in	_	_	_	
+11-90	3617-3621	form	_	_	_	
+11-91	3622-3625	and	_	_	_	
+11-92	3626-3632	lovely	_	_	_	
+11-93	3633-3635	in	_	_	_	
+11-94	3636-3642	colour	_	_	_	
+11-95	3642-3643	,	_	_	_	
+11-96	3644-3647	but	_	_	_	
+11-97	3648-3650	in	_	_	_	
+11-98	3651-3654	its	_	_	_	
+11-99	3655-3661	breath	_	_	_	
+11-100	3662-3665	and	_	_	_	
+11-101	3666-3673	essence	_	_	_	
+11-102	3674-3680	coming	_	_	_	
+11-103	3681-3685	from	_	_	_	
+11-104	3686-3689	the	_	_	_	
+11-105	3690-3696	Divine	_	_	_	
+11-106	3696-3697	.	_	_	_	
+
+#Text=They tell us that the very common attempt to conform these fair lives into tile or other
+#Text=patterns, to clip or set them out as so much mere colour
+#Text=of the paper-stainer or carpet-maker, is to degrade them, and
+#Text=make our gardens ugly and ridiculous, from the point of
+#Text=view of nature or true art.
+12-1	3698-3702	They	_	_	_	
+12-2	3703-3707	tell	_	_	_	
+12-3	3708-3710	us	_	_	_	
+12-4	3711-3715	that	_	_	_	
+12-5	3716-3719	the	_	_	_	
+12-6	3720-3724	very	_	_	_	
+12-7	3725-3731	common	_	_	_	
+12-8	3732-3739	attempt	_	_	_	
+12-9	3740-3742	to	_	_	_	
+12-10	3743-3750	conform	_	_	_	
+12-11	3751-3756	these	_	_	_	
+12-12	3757-3761	fair	_	_	_	
+12-13	3762-3767	lives	_	_	_	
+12-14	3768-3772	into	_	_	_	
+12-15	3773-3777	tile	_	_	_	
+12-16	3778-3780	or	_	_	_	
+12-17	3781-3786	other	_	_	_	
+12-18	3787-3795	patterns	_	_	_	
+12-19	3795-3796	,	_	_	_	
+12-20	3797-3799	to	_	_	_	
+12-21	3800-3804	clip	_	_	_	
+12-22	3805-3807	or	_	_	_	
+12-23	3808-3811	set	_	_	_	
+12-24	3812-3816	them	_	_	_	
+12-25	3817-3820	out	_	_	_	
+12-26	3821-3823	as	_	_	_	
+12-27	3824-3826	so	_	_	_	
+12-28	3827-3831	much	_	_	_	
+12-29	3832-3836	mere	_	_	_	
+12-30	3837-3843	colour	_	_	_	
+12-31	3844-3846	of	_	_	_	
+12-32	3847-3850	the	_	_	_	
+12-33	3851-3864	paper-stainer	_	_	_	
+12-34	3865-3867	or	_	_	_	
+12-35	3868-3880	carpet-maker	_	_	_	
+12-36	3880-3881	,	_	_	_	
+12-37	3882-3884	is	_	_	_	
+12-38	3885-3887	to	_	_	_	
+12-39	3888-3895	degrade	_	_	_	
+12-40	3896-3900	them	_	_	_	
+12-41	3900-3901	,	_	_	_	
+12-42	3902-3905	and	_	_	_	
+12-43	3906-3910	make	_	_	_	
+12-44	3911-3914	our	_	_	_	
+12-45	3915-3922	gardens	_	_	_	
+12-46	3923-3927	ugly	_	_	_	
+12-47	3928-3931	and	_	_	_	
+12-48	3932-3942	ridiculous	_	_	_	
+12-49	3942-3943	,	_	_	_	
+12-50	3944-3948	from	_	_	_	
+12-51	3949-3952	the	_	_	_	
+12-52	3953-3958	point	_	_	_	
+12-53	3959-3961	of	_	_	_	
+12-54	3962-3966	view	_	_	_	
+12-55	3967-3969	of	_	_	_	
+12-56	3970-3976	nature	_	_	_	
+12-57	3977-3979	or	_	_	_	
+12-58	3980-3984	true	_	_	_	
+12-59	3985-3988	art	_	_	_	
+12-60	3988-3989	.	_	_	_	
+
+#Text=And many of these treasures for
+#Text=the open garden have been shut out of our thoughts owing
+#Text=to exclusion of almost everything that did not make showy
+#Text=colour and lend itself to carpet or other crude modes of
+#Text=setting flowers to compete with tiles and like modes of
+#Text=‘ decoration.’
+13-1	3990-3993	And	_	_	_	
+13-2	3994-3998	many	_	_	_	
+13-3	3999-4001	of	_	_	_	
+13-4	4002-4007	these	_	_	_	
+13-5	4008-4017	treasures	_	_	_	
+13-6	4018-4021	for	_	_	_	
+13-7	4022-4025	the	_	_	_	
+13-8	4026-4030	open	_	_	_	
+13-9	4031-4037	garden	_	_	_	
+13-10	4038-4042	have	_	_	_	
+13-11	4043-4047	been	_	_	_	
+13-12	4048-4052	shut	_	_	_	
+13-13	4053-4056	out	_	_	_	
+13-14	4057-4059	of	_	_	_	
+13-15	4060-4063	our	_	_	_	
+13-16	4064-4072	thoughts	_	_	_	
+13-17	4073-4078	owing	_	_	_	
+13-18	4079-4081	to	_	_	_	
+13-19	4082-4091	exclusion	_	_	_	
+13-20	4092-4094	of	_	_	_	
+13-21	4095-4101	almost	_	_	_	
+13-22	4102-4112	everything	_	_	_	
+13-23	4113-4117	that	_	_	_	
+13-24	4118-4121	did	_	_	_	
+13-25	4122-4125	not	_	_	_	
+13-26	4126-4130	make	_	_	_	
+13-27	4131-4136	showy	_	_	_	
+13-28	4137-4143	colour	_	_	_	
+13-29	4144-4147	and	_	_	_	
+13-30	4148-4152	lend	_	_	_	
+13-31	4153-4159	itself	_	_	_	
+13-32	4160-4162	to	_	_	_	
+13-33	4163-4169	carpet	_	_	_	
+13-34	4170-4172	or	_	_	_	
+13-35	4173-4178	other	_	_	_	
+13-36	4179-4184	crude	_	_	_	
+13-37	4185-4190	modes	_	_	_	
+13-38	4191-4193	of	_	_	_	
+13-39	4194-4201	setting	_	_	_	
+13-40	4202-4209	flowers	_	_	_	
+13-41	4210-4212	to	_	_	_	
+13-42	4213-4220	compete	_	_	_	
+13-43	4221-4225	with	_	_	_	
+13-44	4226-4231	tiles	_	_	_	
+13-45	4232-4235	and	_	_	_	
+13-46	4236-4240	like	_	_	_	
+13-47	4241-4246	modes	_	_	_	
+13-48	4247-4249	of	_	_	_	
+13-49	4250-4251	‘	_	_	_	
+13-50	4252-4262	decoration	_	_	_	
+13-51	4262-4263	.	_	_	_	
+13-52	4263-4264	’	_	_	_	
+
+#Text=Of the many considerations that should occur in the
+#Text=making of a beautiful garden to live in, this of fragrant
+#Text=plants and flowers is one of the first.
+14-1	4266-4268	Of	_	_	_	
+14-2	4269-4272	the	_	_	_	
+14-3	4273-4277	many	_	_	_	
+14-4	4278-4292	considerations	_	_	_	
+14-5	4293-4297	that	_	_	_	
+14-6	4298-4304	should	_	_	_	
+14-7	4305-4310	occur	_	_	_	
+14-8	4311-4313	in	_	_	_	
+14-9	4314-4317	the	_	_	_	
+14-10	4318-4324	making	_	_	_	
+14-11	4325-4327	of	_	_	_	
+14-12	4328-4329	a	_	_	_	
+14-13	4330-4339	beautiful	_	_	_	
+14-14	4340-4346	garden	_	_	_	
+14-15	4347-4349	to	_	_	_	
+14-16	4350-4354	live	_	_	_	
+14-17	4355-4357	in	_	_	_	
+14-18	4357-4358	,	_	_	_	
+14-19	4359-4363	this	_	_	_	
+14-20	4364-4366	of	_	_	_	
+14-21	4367-4375	fragrant	Smell\_Word[30]|Quality[31]	*|*|*	14-21[31_30]|14-22[0_30]|14-24[0_31]	
+14-22	4376-4382	plants	Smell\_Source	_	_	
+14-23	4383-4386	and	_	_	_	
+14-24	4387-4394	flowers	Smell\_Source	_	_	
+14-25	4395-4397	is	_	_	_	
+14-26	4398-4401	one	_	_	_	
+14-27	4402-4404	of	_	_	_	
+14-28	4405-4408	the	_	_	_	
+14-29	4409-4414	first	_	_	_	
+14-30	4414-4415	.	_	_	_	
+
+#Text=And happily among
+#Text=every class of flowers which adorn our open-air gardens,
+#Text=there are odorous things to be found.
+15-1	4416-4419	And	_	_	_	
+15-2	4420-4427	happily	_	_	_	
+15-3	4428-4433	among	_	_	_	
+15-4	4434-4439	every	_	_	_	
+15-5	4440-4445	class	_	_	_	
+15-6	4446-4448	of	_	_	_	
+15-7	4449-4456	flowers	_	_	_	
+15-8	4457-4462	which	_	_	_	
+15-9	4463-4468	adorn	_	_	_	
+15-10	4469-4472	our	Location[32]	_	_	
+15-11	4473-4481	open-air	Location[32]	_	_	
+15-12	4482-4489	gardens	Location[32]	_	_	
+15-13	4489-4490	,	_	_	_	
+15-14	4491-4496	there	_	_	_	
+15-15	4497-4500	are	_	_	_	
+15-16	4501-4508	odorous	Quality[33]|Smell\_Word[34]	*|*|*	15-16[33_34]|15-10[32_34]|15-17[0_34]	
+15-17	4509-4515	things	Smell\_Source	_	_	
+15-18	4516-4518	to	_	_	_	
+15-19	4519-4521	be	_	_	_	
+15-20	4522-4527	found	_	_	_	
+15-21	4527-4528	.	_	_	_	
+
+#Text=Apart from the
+#Text=groups of plants in which all, or nearly all, are sweet, as
+#Text=in Roses and Violets, the annual and biennial flowers of
+#Text=\tour gardens, are rich in fragrance, Stocks, Mignonette,
+#Text=Sweet Peas, Sweet Sultan and Wallflowers, Double Rockets, Sweet Scabious, and many others, the odours of which are
+#Text=not always so popular.
+16-1	4529-4534	Apart	_	_	_	
+16-2	4535-4539	from	_	_	_	
+16-3	4540-4543	the	_	_	_	
+16-4	4544-4550	groups	_	_	_	
+16-5	4551-4553	of	_	_	_	
+16-6	4554-4560	plants	_	_	_	
+16-7	4561-4563	in	_	_	_	
+16-8	4564-4569	which	_	_	_	
+16-9	4570-4573	all	_	_	_	
+16-10	4573-4574	,	_	_	_	
+16-11	4575-4577	or	_	_	_	
+16-12	4578-4584	nearly	_	_	_	
+16-13	4585-4588	all	_	_	_	
+16-14	4588-4589	,	_	_	_	
+16-15	4590-4593	are	_	_	_	
+16-16	4594-4599	sweet	Quality	_	_	
+16-17	4599-4600	,	_	_	_	
+16-18	4601-4603	as	_	_	_	
+16-19	4604-4606	in	_	_	_	
+16-20	4607-4612	Roses	Smell\_Source	_	_	
+16-21	4613-4616	and	_	_	_	
+16-22	4617-4624	Violets	Smell\_Source	_	_	
+16-23	4624-4625	,	_	_	_	
+16-24	4626-4629	the	Smell\_Source[35]	_	_	
+16-25	4630-4636	annual	Smell\_Source[35]	_	_	
+16-26	4637-4640	and	Smell\_Source[35]	_	_	
+16-27	4641-4649	biennial	Smell\_Source[35]	_	_	
+16-28	4650-4657	flowers	Smell\_Source[35]	_	_	
+16-29	4658-4660	of	Location[36]	_	_	
+16-30	4662-4665	our	Location[36]	_	_	
+16-31	4666-4673	gardens	Location[36]	_	_	
+16-32	4673-4674	,	_	_	_	
+16-33	4675-4678	are	_	_	_	
+16-34	4679-4683	rich	Quality	_	_	
+16-35	4684-4686	in	_	_	_	
+16-36	4687-4696	fragrance	Smell\_Word	*|*|*|*|*|*	16-16|16-34|16-20|16-22|16-24[35_0]|16-29[36_0]	
+16-37	4696-4697	,	_	_	_	
+16-38	4698-4704	Stocks	Smell\_Source	_	_	
+16-39	4704-4705	,	_	_	_	
+16-40	4706-4716	Mignonette	Smell\_Source	_	_	
+16-41	4716-4717	,	_	_	_	
+16-42	4718-4723	Sweet	Smell\_Source[37]	_	_	
+16-43	4724-4728	Peas	Smell\_Source[37]	_	_	
+16-44	4728-4729	,	_	_	_	
+16-45	4730-4735	Sweet	Smell\_Source[38]	_	_	
+16-46	4736-4742	Sultan	Smell\_Source[38]	_	_	
+16-47	4743-4746	and	_	_	_	
+16-48	4747-4758	Wallflowers	Smell\_Source	_	_	
+16-49	4758-4759	,	_	_	_	
+16-50	4760-4766	Double	Smell\_Source[39]	_	_	
+16-51	4767-4774	Rockets	Smell\_Source[39]	_	_	
+16-52	4774-4775	,	_	_	_	
+16-53	4776-4781	Sweet	Smell\_Source[40]	_	_	
+16-54	4782-4790	Scabious	Smell\_Source[40]	_	_	
+16-55	4790-4791	,	_	_	_	
+16-56	4792-4795	and	_	_	_	
+16-57	4796-4800	many	_	_	_	
+16-58	4801-4807	others	_	_	_	
+16-59	4807-4808	,	_	_	_	
+16-60	4809-4812	the	_	_	_	
+16-61	4813-4819	odours	Smell\_Word	*|*	16-63|16-65[41_0]	
+16-62	4820-4822	of	_	_	_	
+16-63	4823-4828	which	Smell\_Source	Anaphoric|Anaphoric|Anaphoric|Anaphoric|Anaphoric|Anaphoric|Anaphoric	16-38|16-40|16-42[37_0]|16-45[38_0]|16-48|16-50[39_0]|16-53[40_0]	
+16-64	4829-4832	are	_	_	_	
+16-65	4833-4836	not	Quality[41]	_	_	
+16-66	4837-4843	always	Quality[41]	_	_	
+16-67	4844-4846	so	Quality[41]	_	_	
+16-68	4847-4854	popular	Quality[41]	_	_	
+16-69	4854-4855	.	_	_	_	
+
+#Text=These, among the most easily raised
+#Text=of plants, are enjoyed by the simplest cottage gardeners.
+17-1	4856-4861	These	_	_	_	
+17-2	4861-4862	,	_	_	_	
+17-3	4863-4868	among	_	_	_	
+17-4	4869-4872	the	_	_	_	
+17-5	4873-4877	most	_	_	_	
+17-6	4878-4884	easily	_	_	_	
+17-7	4885-4891	raised	_	_	_	
+17-8	4892-4894	of	_	_	_	
+17-9	4895-4901	plants	_	_	_	
+17-10	4901-4902	,	_	_	_	
+17-11	4903-4906	are	_	_	_	
+17-12	4907-4914	enjoyed	_	_	_	
+17-13	4915-4917	by	_	_	_	
+17-14	4918-4921	the	_	_	_	
+17-15	4922-4930	simplest	_	_	_	
+17-16	4931-4938	cottage	_	_	_	
+17-17	4939-4948	gardeners	_	_	_	
+17-18	4948-4949	.	_	_	_	
+
+#Text=The garden borders bear for us odours as precious as
+#Text=any breath of tropic Orchid : from the Lily of the Valley
+#Text=to the Carnation — this last being perhaps the most grateful
+#Text=odour of all the flowering host in our garden land.
+18-1	4951-4954	The	Odour\_Carrier[42]	_	_	
+18-2	4955-4961	garden	Odour\_Carrier[42]	_	_	
+18-3	4962-4969	borders	Odour\_Carrier[42]	_	_	
+18-4	4970-4974	bear	_	_	_	
+18-5	4975-4978	for	_	_	_	
+18-6	4979-4981	us	Perceiver	_	_	
+18-7	4982-4988	odours	Smell\_Word	*|*|*|*	18-6|18-9|18-1[42_0]|18-10[43_0]	
+18-8	4989-4991	as	_	_	_	
+18-9	4992-5000	precious	Quality	_	_	
+18-10	5001-5003	as	Evoked\_Odorant[43]	_	_	
+18-11	5004-5007	any	Evoked\_Odorant[43]	_	_	
+18-12	5008-5014	breath	Evoked\_Odorant[43]	_	_	
+18-13	5015-5017	of	Evoked\_Odorant[43]	_	_	
+18-14	5018-5024	tropic	Evoked\_Odorant[43]	_	_	
+18-15	5025-5031	Orchid	Evoked\_Odorant[43]	_	_	
+18-16	5032-5033	:	_	_	_	
+18-17	5034-5038	from	_	_	_	
+18-18	5039-5042	the	_	_	_	
+18-19	5043-5047	Lily	_	_	_	
+18-20	5048-5050	of	_	_	_	
+18-21	5051-5054	the	_	_	_	
+18-22	5055-5061	Valley	_	_	_	
+18-23	5062-5064	to	_	_	_	
+18-24	5065-5068	the	Smell\_Source[44]	_	_	
+18-25	5069-5078	Carnation	Smell\_Source[44]	_	_	
+18-26	5079-5080	—	_	_	_	
+18-27	5081-5085	this	_	_	_	
+18-28	5086-5090	last	_	_	_	
+18-29	5091-5096	being	_	_	_	
+18-30	5097-5104	perhaps	_	_	_	
+18-31	5105-5108	the	Quality[45]	_	_	
+18-32	5109-5113	most	Quality[45]	_	_	
+18-33	5114-5122	grateful	Quality[45]	_	_	
+18-34	5123-5128	odour	Smell\_Word	*|*|*	18-31[45_0]|18-40[46_0]|18-24[44_0]	
+18-35	5129-5131	of	_	_	_	
+18-36	5132-5135	all	_	_	_	
+18-37	5136-5139	the	_	_	_	
+18-38	5140-5149	flowering	_	_	_	
+18-39	5150-5154	host	_	_	_	
+18-40	5155-5157	in	Location[46]	_	_	
+18-41	5158-5161	our	Location[46]	_	_	
+18-42	5162-5168	garden	Location[46]	_	_	
+18-43	5169-5173	land	Location[46]	_	_	
+18-44	5173-5174	.	_	_	_	
+
+#Text=Among
+#Text=these borders one meets with things sweeter than words may
+#Text=tell of — Woodruff, Balm, Pinks, Violets, garden Primroses,
+#Text=Polyanthus, day and other Lilies, early Iris, Narcissus,
+#Text=evening Primroses, Mezereon Bush, Wallflower and Pansies,
+#Text=delicate in their sweetness.
+19-1	5175-5180	Among	_	_	_	
+19-2	5181-5186	these	_	_	_	
+19-3	5187-5194	borders	_	_	_	
+19-4	5195-5198	one	_	_	_	
+19-5	5199-5204	meets	_	_	_	
+19-6	5205-5209	with	_	_	_	
+19-7	5210-5216	things	_	_	_	
+19-8	5217-5224	sweeter	_	_	_	
+19-9	5225-5229	than	_	_	_	
+19-10	5230-5235	words	_	_	_	
+19-11	5236-5239	may	_	_	_	
+19-12	5240-5244	tell	_	_	_	
+19-13	5245-5247	of	_	_	_	
+19-14	5248-5249	—	_	_	_	
+19-15	5250-5258	Woodruff	Smell\_Source	_	_	
+19-16	5258-5259	,	_	_	_	
+19-17	5260-5264	Balm	Smell\_Source	_	_	
+19-18	5264-5265	,	_	_	_	
+19-19	5266-5271	Pinks	Smell\_Source	_	_	
+19-20	5271-5272	,	_	_	_	
+19-21	5273-5280	Violets	Smell\_Source	_	_	
+19-22	5280-5281	,	_	_	_	
+19-23	5282-5288	garden	Smell\_Source[47]	_	_	
+19-24	5289-5298	Primroses	Smell\_Source[47]	_	_	
+19-25	5298-5299	,	_	_	_	
+19-26	5300-5310	Polyanthus	Smell\_Source	_	_	
+19-27	5310-5311	,	_	_	_	
+19-28	5312-5315	day	Smell\_Source[48]	_	_	
+19-29	5316-5319	and	Smell\_Source[48]	_	_	
+19-30	5320-5325	other	Smell\_Source[48]	_	_	
+19-31	5326-5332	Lilies	Smell\_Source[48]	_	_	
+19-32	5332-5333	,	_	_	_	
+19-33	5334-5339	early	Smell\_Source[49]	_	_	
+19-34	5340-5344	Iris	Smell\_Source[49]	_	_	
+19-35	5344-5345	,	_	_	_	
+19-36	5346-5355	Narcissus	Smell\_Source	_	_	
+19-37	5355-5356	,	_	_	_	
+19-38	5357-5364	evening	Smell\_Source[50]	_	_	
+19-39	5365-5374	Primroses	Smell\_Source[50]	_	_	
+19-40	5374-5375	,	_	_	_	
+19-41	5376-5384	Mezereon	Smell\_Source[51]	_	_	
+19-42	5385-5389	Bush	Smell\_Source[51]	_	_	
+19-43	5389-5390	,	_	_	_	
+19-44	5391-5401	Wallflower	Smell\_Source	_	_	
+19-45	5402-5405	and	_	_	_	
+19-46	5406-5413	Pansies	Smell\_Source	_	_	
+19-47	5413-5414	,	_	_	_	
+19-48	5415-5423	delicate	Quality	_	_	
+19-49	5424-5426	in	_	_	_	
+19-50	5427-5432	their	Smell\_Source	Anaphoric|Anaphoric|Anaphoric|Anaphoric|Anaphoric|Anaphoric|Anaphoric|Anaphoric|Anaphoric|Anaphoric|Anaphoric|Anaphoric|Anaphoric	19-15|19-17|19-19|19-21|19-23[47_0]|19-26|19-28[48_0]|19-33[49_0]|19-36|19-38[50_0]|19-41[51_0]|19-44|19-46	
+19-51	5433-5442	sweetness	Smell\_Word	*|*	19-48|19-50	
+19-52	5442-5443	.	_	_	_	
+
+#Text=No one may be richer in delicate fragrance than the wise
+#Text=man who plants hardy shrubs and flowering trees — Magnolia, Thorn, Daphne, Lilac — names each telling of whole
+#Text=families of delightful things.
+20-1	5445-5447	No	_	_	_	
+20-2	5448-5451	one	_	_	_	
+20-3	5452-5455	may	_	_	_	
+20-4	5456-5458	be	_	_	_	
+20-5	5459-5465	richer	_	_	_	
+20-6	5466-5468	in	_	_	_	
+20-7	5469-5477	delicate	Quality	_	_	
+20-8	5478-5487	fragrance	Smell\_Word	*|*|*|*|*	20-7|20-21|20-23|20-25|20-27	
+20-9	5488-5492	than	_	_	_	
+20-10	5493-5496	the	_	_	_	
+20-11	5497-5501	wise	_	_	_	
+20-12	5502-5505	man	_	_	_	
+20-13	5506-5509	who	_	_	_	
+20-14	5510-5516	plants	_	_	_	
+20-15	5517-5522	hardy	_	_	_	
+20-16	5523-5529	shrubs	_	_	_	
+20-17	5530-5533	and	_	_	_	
+20-18	5534-5543	flowering	_	_	_	
+20-19	5544-5549	trees	_	_	_	
+20-20	5550-5551	—	_	_	_	
+20-21	5552-5560	Magnolia	Smell\_Source	_	_	
+20-22	5560-5561	,	_	_	_	
+20-23	5562-5567	Thorn	Smell\_Source	_	_	
+20-24	5567-5568	,	_	_	_	
+20-25	5569-5575	Daphne	Smell\_Source	_	_	
+20-26	5575-5576	,	_	_	_	
+20-27	5577-5582	Lilac	Smell\_Source	_	_	
+20-28	5583-5584	—	_	_	_	
+20-29	5585-5590	names	_	_	_	
+20-30	5591-5595	each	_	_	_	
+20-31	5596-5603	telling	_	_	_	
+20-32	5604-5606	of	_	_	_	
+20-33	5607-5612	whole	_	_	_	
+20-34	5613-5621	families	_	_	_	
+20-35	5622-5624	of	_	_	_	
+20-36	5625-5635	delightful	_	_	_	
+20-37	5636-5642	things	_	_	_	
+20-38	5642-5643	.	_	_	_	
+
+#Text=Among shrubs, those without
+#Text=any very strong odour, like the hardy Heaths, are all the
+#Text=more pleasant to many whose memories are often touched
+#Text=\tby remembered fragrance of some plant they do not always
+#Text=know.
+21-1	5644-5649	Among	_	_	_	
+21-2	5650-5656	shrubs	Smell\_Source	_	_	
+21-3	5656-5657	,	_	_	_	
+21-4	5658-5663	those	Smell\_Source	Anaphoric	21-2	
+21-5	5664-5671	without	_	_	_	
+21-6	5672-5675	any	_	_	_	
+21-7	5676-5680	very	Quality[52]	_	_	
+21-8	5681-5687	strong	Quality[52]	_	_	
+21-9	5688-5693	odour	Smell\_Word	*|*|*	21-7[52_0]|21-4|21-12[53_0]	
+21-10	5693-5694	,	_	_	_	
+21-11	5695-5699	like	_	_	_	
+21-12	5700-5703	the	Smell\_Source[53]	_	_	
+21-13	5704-5709	hardy	Smell\_Source[53]	_	_	
+21-14	5710-5716	Heaths	Smell\_Source[53]	_	_	
+21-15	5716-5717	,	_	_	_	
+21-16	5718-5721	are	_	_	_	
+21-17	5722-5725	all	_	_	_	
+21-18	5726-5729	the	Quality[54]	_	_	
+21-19	5730-5734	more	Quality[54]	_	_	
+21-20	5735-5743	pleasant	Quality[54]	_	_	
+21-21	5744-5746	to	_	_	_	
+21-22	5747-5751	many	_	_	_	
+21-23	5752-5757	whose	_	_	_	
+21-24	5758-5766	memories	_	_	_	
+21-25	5767-5770	are	_	_	_	
+21-26	5771-5776	often	_	_	_	
+21-27	5777-5784	touched	_	_	_	
+21-28	5786-5788	by	_	_	_	
+21-29	5789-5799	remembered	Quality	_	_	
+21-30	5800-5809	fragrance	Smell\_Word	*|*|*	21-31[55_0]|21-29|21-18[54_0]	
+21-31	5810-5812	of	Smell\_Source[55]	_	_	
+21-32	5813-5817	some	Smell\_Source[55]	_	_	
+21-33	5818-5823	plant	Smell\_Source[55]	_	_	
+21-34	5824-5828	they	Smell\_Source[55]	_	_	
+21-35	5829-5831	do	Smell\_Source[55]	_	_	
+21-36	5832-5835	not	Smell\_Source[55]	_	_	
+21-37	5836-5842	always	Smell\_Source[55]	_	_	
+21-38	5843-5847	know	Smell\_Source[55]	_	_	
+21-39	5847-5848	.	_	_	_	
+
+#Text=From the same regions where we found the Laurel
+#Text=and the Myrtle we have the Laurustinus, beautiful in all
+#Text=our sea-coast and milder districts, and many other lovely
+#Text=things happy in our climate : one, the Winter Sweet, even
+#Text=pouring out delicious fragrance in mid-winter : Sweet Gale,
+#Text=that grows in any boggy place, Azalea, Allspice, and the
+#Text=delightful little Mayflower that creeps about in the woodland shades in North America.
+22-1	5849-5853	From	_	_	_	
+22-2	5854-5857	the	_	_	_	
+22-3	5858-5862	same	_	_	_	
+22-4	5863-5870	regions	_	_	_	
+22-5	5871-5876	where	_	_	_	
+22-6	5877-5879	we	_	_	_	
+22-7	5880-5885	found	_	_	_	
+22-8	5886-5889	the	_	_	_	
+22-9	5890-5896	Laurel	_	_	_	
+22-10	5897-5900	and	_	_	_	
+22-11	5901-5904	the	_	_	_	
+22-12	5905-5911	Myrtle	_	_	_	
+22-13	5912-5914	we	_	_	_	
+22-14	5915-5919	have	_	_	_	
+22-15	5920-5923	the	_	_	_	
+22-16	5924-5935	Laurustinus	_	_	_	
+22-17	5935-5936	,	_	_	_	
+22-18	5937-5946	beautiful	_	_	_	
+22-19	5947-5949	in	_	_	_	
+22-20	5950-5953	all	_	_	_	
+22-21	5954-5957	our	_	_	_	
+22-22	5958-5967	sea-coast	_	_	_	
+22-23	5968-5971	and	_	_	_	
+22-24	5972-5978	milder	_	_	_	
+22-25	5979-5988	districts	_	_	_	
+22-26	5988-5989	,	_	_	_	
+22-27	5990-5993	and	_	_	_	
+22-28	5994-5998	many	_	_	_	
+22-29	5999-6004	other	_	_	_	
+22-30	6005-6011	lovely	_	_	_	
+22-31	6012-6018	things	_	_	_	
+22-32	6019-6024	happy	_	_	_	
+22-33	6025-6027	in	_	_	_	
+22-34	6028-6031	our	_	_	_	
+22-35	6032-6039	climate	_	_	_	
+22-36	6040-6041	:	_	_	_	
+22-37	6042-6045	one	_	_	_	
+22-38	6045-6046	,	_	_	_	
+22-39	6047-6050	the	Smell\_Source[56]	_	_	
+22-40	6051-6057	Winter	Smell\_Source[56]	_	_	
+22-41	6058-6063	Sweet	Smell\_Source[56]	_	_	
+22-42	6063-6064	,	_	_	_	
+22-43	6065-6069	even	_	_	_	
+22-44	6070-6077	pouring	_	_	_	
+22-45	6078-6081	out	_	_	_	
+22-46	6082-6091	delicious	Quality	_	_	
+22-47	6092-6101	fragrance	Smell\_Word	*|*|*	22-46|22-48[57_0]|22-39[56_0]	
+22-48	6102-6104	in	Time[57]	_	_	
+22-49	6105-6115	mid-winter	Time[57]	_	_	
+22-50	6116-6117	:	_	_	_	
+22-51	6118-6123	Sweet	_	_	_	
+22-52	6124-6128	Gale	_	_	_	
+22-53	6128-6129	,	_	_	_	
+22-54	6130-6134	that	_	_	_	
+22-55	6135-6140	grows	_	_	_	
+22-56	6141-6143	in	_	_	_	
+22-57	6144-6147	any	_	_	_	
+22-58	6148-6153	boggy	_	_	_	
+22-59	6154-6159	place	_	_	_	
+22-60	6159-6160	,	_	_	_	
+22-61	6161-6167	Azalea	_	_	_	
+22-62	6167-6168	,	_	_	_	
+22-63	6169-6177	Allspice	_	_	_	
+22-64	6177-6178	,	_	_	_	
+22-65	6179-6182	and	_	_	_	
+22-66	6183-6186	the	_	_	_	
+22-67	6187-6197	delightful	_	_	_	
+22-68	6198-6204	little	_	_	_	
+22-69	6205-6214	Mayflower	_	_	_	
+22-70	6215-6219	that	_	_	_	
+22-71	6220-6226	creeps	_	_	_	
+22-72	6227-6232	about	_	_	_	
+22-73	6233-6235	in	_	_	_	
+22-74	6236-6239	the	_	_	_	
+22-75	6240-6248	woodland	_	_	_	
+22-76	6249-6255	shades	_	_	_	
+22-77	6256-6258	in	_	_	_	
+22-78	6259-6264	North	_	_	_	
+22-79	6265-6272	America	_	_	_	
+22-80	6272-6273	.	_	_	_	
+
+#Text=So, though we cannot boast
+#Text=N of Lemon or Orange groves, our climate is kind to many
+#Text=lovely and fragrant shrubs.
+23-1	6274-6276	So	_	_	_	
+23-2	6276-6277	,	_	_	_	
+23-3	6278-6284	though	_	_	_	
+23-4	6285-6287	we	_	_	_	
+23-5	6288-6294	cannot	_	_	_	
+23-6	6295-6300	boast	_	_	_	
+23-7	6301-6302	N	_	_	_	
+23-8	6303-6305	of	_	_	_	
+23-9	6306-6311	Lemon	_	_	_	
+23-10	6312-6314	or	_	_	_	
+23-11	6315-6321	Orange	_	_	_	
+23-12	6322-6328	groves	_	_	_	
+23-13	6328-6329	,	_	_	_	
+23-14	6330-6333	our	Circumstances[58]	_	_	
+23-15	6334-6341	climate	Circumstances[58]	_	_	
+23-16	6342-6344	is	Circumstances[58]	_	_	
+23-17	6345-6349	kind	Circumstances[58]	_	_	
+23-18	6350-6352	to	_	_	_	
+23-19	6353-6357	many	_	_	_	
+23-20	6358-6364	lovely	_	_	_	
+23-21	6365-6368	and	_	_	_	
+23-22	6369-6377	fragrant	Quality[59]|Smell\_Word[60]	*|*|*	23-22[59_60]|23-23[0_60]|23-14[58_60]	
+23-23	6378-6384	shrubs	Smell\_Source	_	_	
+23-24	6384-6385	.	_	_	_	
+
+#Text=Even our ugly walls may be sweet gardens with Magnolia,
+#Text=Honeysuckle, Clematis, Sweet Verbena, and the delightful
+#Text=old Jasmine, still clothing many a house in London.
+24-1	6387-6391	Even	_	_	_	
+24-2	6392-6395	our	_	_	_	
+24-3	6396-6400	ugly	_	_	_	
+24-4	6401-6406	walls	_	_	_	
+24-5	6407-6410	may	_	_	_	
+24-6	6411-6413	be	_	_	_	
+24-7	6414-6419	sweet	_	_	_	
+24-8	6420-6427	gardens	_	_	_	
+24-9	6428-6432	with	_	_	_	
+24-10	6433-6441	Magnolia	_	_	_	
+24-11	6441-6442	,	_	_	_	
+24-12	6443-6454	Honeysuckle	_	_	_	
+24-13	6454-6455	,	_	_	_	
+24-14	6456-6464	Clematis	_	_	_	
+24-15	6464-6465	,	_	_	_	
+24-16	6466-6471	Sweet	_	_	_	
+24-17	6472-6479	Verbena	_	_	_	
+24-18	6479-6480	,	_	_	_	
+24-19	6481-6484	and	_	_	_	
+24-20	6485-6488	the	_	_	_	
+24-21	6489-6499	delightful	_	_	_	
+24-22	6500-6503	old	_	_	_	
+24-23	6504-6511	Jasmine	_	_	_	
+24-24	6511-6512	,	_	_	_	
+24-25	6513-6518	still	_	_	_	
+24-26	6519-6527	clothing	_	_	_	
+24-27	6528-6532	many	_	_	_	
+24-28	6533-6534	a	_	_	_	
+24-29	6535-6540	house	_	_	_	
+24-30	6541-6543	in	_	_	_	
+24-31	6544-6550	London	_	_	_	
+24-32	6550-6551	.	_	_	_	
+
+#Text=Most
+#Text=precious of all, however, are the noble climbing Tea Roses
+#Text=raised in our own time, mostly in France within the past
+#Text=forty years or so.
+25-1	6552-6556	Most	_	_	_	
+25-2	6557-6565	precious	_	_	_	
+25-3	6566-6568	of	_	_	_	
+25-4	6569-6572	all	_	_	_	
+25-5	6572-6573	,	_	_	_	
+25-6	6574-6581	however	_	_	_	
+25-7	6581-6582	,	_	_	_	
+25-8	6583-6586	are	_	_	_	
+25-9	6587-6590	the	_	_	_	
+25-10	6591-6596	noble	_	_	_	
+25-11	6597-6605	climbing	_	_	_	
+25-12	6606-6609	Tea	_	_	_	
+25-13	6610-6615	Roses	_	_	_	
+25-14	6616-6622	raised	_	_	_	
+25-15	6623-6625	in	_	_	_	
+25-16	6626-6629	our	_	_	_	
+25-17	6630-6633	own	_	_	_	
+25-18	6634-6638	time	_	_	_	
+25-19	6638-6639	,	_	_	_	
+25-20	6640-6646	mostly	_	_	_	
+25-21	6647-6649	in	_	_	_	
+25-22	6650-6656	France	_	_	_	
+25-23	6657-6663	within	_	_	_	
+25-24	6664-6667	the	_	_	_	
+25-25	6668-6672	past	_	_	_	
+25-26	6673-6678	forty	_	_	_	
+25-27	6679-6684	years	_	_	_	
+25-28	6685-6687	or	_	_	_	
+25-29	6688-6690	so	_	_	_	
+25-30	6690-6691	.	_	_	_	
+
+#Text=Among the abortions of this century
+#Text=these are a real gain — the loveliest flowers ever raised by
+#Text=man.
+26-1	6692-6697	Among	_	_	_	
+26-2	6698-6701	the	_	_	_	
+26-3	6702-6711	abortions	_	_	_	
+26-4	6712-6714	of	_	_	_	
+26-5	6715-6719	this	_	_	_	
+26-6	6720-6727	century	_	_	_	
+26-7	6728-6733	these	_	_	_	
+26-8	6734-6737	are	_	_	_	
+26-9	6738-6739	a	_	_	_	
+26-10	6740-6744	real	_	_	_	
+26-11	6745-6749	gain	_	_	_	
+26-12	6750-6751	—	_	_	_	
+26-13	6752-6755	the	_	_	_	
+26-14	6756-6765	loveliest	_	_	_	
+26-15	6766-6773	flowers	_	_	_	
+26-16	6774-6778	ever	_	_	_	
+26-17	6779-6785	raised	_	_	_	
+26-18	6786-6788	by	_	_	_	
+26-19	6789-6792	man	_	_	_	
+26-20	6792-6793	.	_	_	_	
+
+#Text=Noble in form and colour, and scented as delicately
+#Text=as a J une morn in alpine pastures, with these most precious
+#Text=\tof garden roses we could cover all the ugly walls in England and Ireland, and Heaven knows there are many in want
+#Text=of a veil.
+27-1	6794-6799	Noble	_	_	_	
+27-2	6800-6802	in	_	_	_	
+27-3	6803-6807	form	_	_	_	
+27-4	6808-6811	and	_	_	_	
+27-5	6812-6818	colour	_	_	_	
+27-6	6818-6819	,	_	_	_	
+27-7	6820-6823	and	_	_	_	
+27-8	6824-6831	scented	_	_	_	
+27-9	6832-6834	as	_	_	_	
+27-10	6835-6845	delicately	_	_	_	
+27-11	6846-6848	as	_	_	_	
+27-12	6849-6850	a	_	_	_	
+27-13	6851-6852	J	_	_	_	
+27-14	6853-6856	une	_	_	_	
+27-15	6857-6861	morn	_	_	_	
+27-16	6862-6864	in	_	_	_	
+27-17	6865-6871	alpine	_	_	_	
+27-18	6872-6880	pastures	_	_	_	
+27-19	6880-6881	,	_	_	_	
+27-20	6882-6886	with	_	_	_	
+27-21	6887-6892	these	_	_	_	
+27-22	6893-6897	most	_	_	_	
+27-23	6898-6906	precious	_	_	_	
+27-24	6908-6910	of	_	_	_	
+27-25	6911-6917	garden	_	_	_	
+27-26	6918-6923	roses	_	_	_	
+27-27	6924-6926	we	_	_	_	
+27-28	6927-6932	could	_	_	_	
+27-29	6933-6938	cover	_	_	_	
+27-30	6939-6942	all	_	_	_	
+27-31	6943-6946	the	_	_	_	
+27-32	6947-6951	ugly	_	_	_	
+27-33	6952-6957	walls	_	_	_	
+27-34	6958-6960	in	_	_	_	
+27-35	6961-6968	England	_	_	_	
+27-36	6969-6972	and	_	_	_	
+27-37	6973-6980	Ireland	_	_	_	
+27-38	6980-6981	,	_	_	_	
+27-39	6982-6985	and	_	_	_	
+27-40	6986-6992	Heaven	_	_	_	
+27-41	6993-6998	knows	_	_	_	
+27-42	6999-7004	there	_	_	_	
+27-43	7005-7008	are	_	_	_	
+27-44	7009-7013	many	_	_	_	
+27-45	7014-7016	in	_	_	_	
+27-46	7017-7021	want	_	_	_	
+27-47	7022-7024	of	_	_	_	
+27-48	7025-7026	a	_	_	_	
+27-49	7027-7031	veil	_	_	_	
+27-50	7031-7032	.	_	_	_	
+
+#Text=The old Kent and Sussex way of having an orchard near
+#Text=the house was a good one.
+28-1	7034-7037	The	_	_	_	
+28-2	7038-7041	old	_	_	_	
+28-3	7042-7046	Kent	_	_	_	
+28-4	7047-7050	and	_	_	_	
+28-5	7051-7057	Sussex	_	_	_	
+28-6	7058-7061	way	_	_	_	
+28-7	7062-7064	of	_	_	_	
+28-8	7065-7071	having	_	_	_	
+28-9	7072-7074	an	_	_	_	
+28-10	7075-7082	orchard	_	_	_	
+28-11	7083-7087	near	_	_	_	
+28-12	7088-7091	the	_	_	_	
+28-13	7092-7097	house	_	_	_	
+28-14	7098-7101	was	_	_	_	
+28-15	7102-7103	a	_	_	_	
+28-16	7104-7108	good	_	_	_	
+28-17	7109-7112	one	_	_	_	
+28-18	7112-7113	.	_	_	_	
+
+#Text=Planted for use, it was as precious
+#Text=for its beauty, and not only when the spring winds carry
+#Text=the breath of its myriad blossoms of Cherry, Plum, Apple,
+#Text=or Pear.
+29-1	7114-7121	Planted	_	_	_	
+29-2	7122-7125	for	_	_	_	
+29-3	7126-7129	use	_	_	_	
+29-4	7129-7130	,	_	_	_	
+29-5	7131-7133	it	_	_	_	
+29-6	7134-7137	was	_	_	_	
+29-7	7138-7140	as	_	_	_	
+29-8	7141-7149	precious	_	_	_	
+29-9	7150-7153	for	_	_	_	
+29-10	7154-7157	its	_	_	_	
+29-11	7158-7164	beauty	_	_	_	
+29-12	7164-7165	,	_	_	_	
+29-13	7166-7169	and	_	_	_	
+29-14	7170-7173	not	_	_	_	
+29-15	7174-7178	only	_	_	_	
+29-16	7179-7183	when	_	_	_	
+29-17	7184-7187	the	Odour\_Carrier[61]	_	_	
+29-18	7188-7194	spring	Odour\_Carrier[61]	_	_	
+29-19	7195-7200	winds	Odour\_Carrier[61]	_	_	
+29-20	7201-7206	carry	_	_	_	
+29-21	7207-7210	the	_	_	_	
+29-22	7211-7217	breath	Smell\_Word	*|*	29-17[61_0]|29-23[62_0]	
+29-23	7218-7220	of	Smell\_Source[62]	_	_	
+29-24	7221-7224	its	Smell\_Source[62]	_	_	
+29-25	7225-7231	myriad	Smell\_Source[62]	_	_	
+29-26	7232-7240	blossoms	Smell\_Source[62]	_	_	
+29-27	7241-7243	of	Smell\_Source[62]	_	_	
+29-28	7244-7250	Cherry	Smell\_Source[62]	_	_	
+29-29	7250-7251	,	Smell\_Source[62]	_	_	
+29-30	7252-7256	Plum	Smell\_Source[62]	_	_	
+29-31	7256-7257	,	Smell\_Source[62]	_	_	
+29-32	7258-7263	Apple	Smell\_Source[62]	_	_	
+29-33	7263-7264	,	Smell\_Source[62]	_	_	
+29-34	7265-7267	or	Smell\_Source[62]	_	_	
+29-35	7268-7272	Pear	Smell\_Source[62]	_	_	
+29-36	7272-7273	.	_	_	_	
+
+#Text=We have the fruit odours too, and the faint scent
+#Text=of Strawberries, and later their leaves, and the Currant leaves.
+30-1	7274-7276	We	_	_	_	
+30-2	7277-7281	have	_	_	_	
+30-3	7282-7285	the	Smell\_Source[63]	_	_	
+30-4	7286-7291	fruit	Smell\_Source[63]	_	_	
+30-5	7292-7298	odours	Smell\_Word	*	30-3[63_0]	
+30-6	7299-7302	too	_	_	_	
+30-7	7302-7303	,	_	_	_	
+30-8	7304-7307	and	_	_	_	
+30-9	7308-7311	the	_	_	_	
+30-10	7312-7317	faint	Quality	_	_	
+30-11	7318-7323	scent	Smell\_Word	*|*|*|*|*	30-10|30-12[64_0]|30-16|30-17[65_0]|30-21[66_0]	
+30-12	7324-7326	of	Smell\_Source[64]	_	_	
+30-13	7327-7339	Strawberries	Smell\_Source[64]	_	_	
+30-14	7339-7340	,	_	_	_	
+30-15	7341-7344	and	_	_	_	
+30-16	7345-7350	later	Time	_	_	
+30-17	7351-7356	their	Smell\_Source[65]	_	_	
+30-18	7357-7363	leaves	Smell\_Source[65]	_	_	
+30-19	7363-7364	,	_	_	_	
+30-20	7365-7368	and	_	_	_	
+30-21	7369-7372	the	Smell\_Source[66]	_	_	
+30-22	7373-7380	Currant	Smell\_Source[66]	_	_	
+30-23	7381-7387	leaves	Smell\_Source[66]	_	_	
+30-24	7387-7388	.	_	_	_	
+
+#Text=It would be, in many places, charming to plant a pretty 
+#Text=orchard and have the fruit-garden near or alongside — keeping the less pleasant evidence of vegetables in the background.
+31-1	7390-7392	It	_	_	_	
+31-2	7393-7398	would	_	_	_	
+31-3	7399-7401	be	_	_	_	
+31-4	7401-7402	,	_	_	_	
+31-5	7403-7405	in	_	_	_	
+31-6	7406-7410	many	_	_	_	
+31-7	7411-7417	places	_	_	_	
+31-8	7417-7418	,	_	_	_	
+31-9	7419-7427	charming	_	_	_	
+31-10	7428-7430	to	_	_	_	
+31-11	7431-7436	plant	_	_	_	
+31-12	7437-7438	a	_	_	_	
+31-13	7439-7445	pretty	_	_	_	
+31-14	7447-7454	orchard	_	_	_	
+31-15	7455-7458	and	_	_	_	
+31-16	7459-7463	have	_	_	_	
+31-17	7464-7467	the	_	_	_	
+31-18	7468-7480	fruit-garden	_	_	_	
+31-19	7481-7485	near	_	_	_	
+31-20	7486-7488	or	_	_	_	
+31-21	7489-7498	alongside	_	_	_	
+31-22	7499-7500	—	_	_	_	
+31-23	7501-7508	keeping	_	_	_	
+31-24	7509-7512	the	_	_	_	
+31-25	7513-7517	less	_	_	_	
+31-26	7518-7526	pleasant	_	_	_	
+31-27	7527-7535	evidence	_	_	_	
+31-28	7536-7538	of	_	_	_	
+31-29	7539-7549	vegetables	_	_	_	
+31-30	7550-7552	in	_	_	_	
+31-31	7553-7556	the	_	_	_	
+31-32	7557-7567	background	_	_	_	
+31-33	7567-7568	.	_	_	_	
+
+#Text=These beautiful orchards, too, are where the early Daffodils 
+#Text=and Snowdrops appear.
+32-1	7570-7575	These	_	_	_	
+32-2	7576-7585	beautiful	_	_	_	
+32-3	7586-7594	orchards	_	_	_	
+32-4	7594-7595	,	_	_	_	
+32-5	7596-7599	too	_	_	_	
+32-6	7599-7600	,	_	_	_	
+32-7	7601-7604	are	_	_	_	
+32-8	7605-7610	where	_	_	_	
+32-9	7611-7614	the	_	_	_	
+32-10	7615-7620	early	_	_	_	
+32-11	7621-7630	Daffodils	_	_	_	
+32-12	7632-7635	and	_	_	_	
+32-13	7636-7645	Snowdrops	_	_	_	
+32-14	7646-7652	appear	_	_	_	
+32-15	7652-7653	.	_	_	_	
+
+#Text=Then, with Violets and Primroses 
+#Text=on the banks they may be delightfully sheltered from the 
+#Text=north and east by a grove of our native evergreens — Holly 
+#Text=and Yew — these, in their turn, wreathed here and there 
+#Text=with the fragrant autumn Clematis, Honeysuckles, and 
+#Text=Climbing Wild Roses.
+33-1	7654-7658	Then	_	_	_	
+33-2	7658-7659	,	_	_	_	
+33-3	7660-7664	with	_	_	_	
+33-4	7665-7672	Violets	_	_	_	
+33-5	7673-7676	and	_	_	_	
+33-6	7677-7686	Primroses	_	_	_	
+33-7	7688-7690	on	_	_	_	
+33-8	7691-7694	the	_	_	_	
+33-9	7695-7700	banks	_	_	_	
+33-10	7701-7705	they	_	_	_	
+33-11	7706-7709	may	_	_	_	
+33-12	7710-7712	be	_	_	_	
+33-13	7713-7725	delightfully	_	_	_	
+33-14	7726-7735	sheltered	_	_	_	
+33-15	7736-7740	from	_	_	_	
+33-16	7741-7744	the	_	_	_	
+33-17	7746-7751	north	_	_	_	
+33-18	7752-7755	and	_	_	_	
+33-19	7756-7760	east	_	_	_	
+33-20	7761-7763	by	_	_	_	
+33-21	7764-7765	a	_	_	_	
+33-22	7766-7771	grove	_	_	_	
+33-23	7772-7774	of	_	_	_	
+33-24	7775-7778	our	_	_	_	
+33-25	7779-7785	native	_	_	_	
+33-26	7786-7796	evergreens	_	_	_	
+33-27	7797-7798	—	_	_	_	
+33-28	7799-7804	Holly	_	_	_	
+33-29	7806-7809	and	_	_	_	
+33-30	7810-7813	Yew	_	_	_	
+33-31	7814-7815	—	_	_	_	
+33-32	7816-7821	these	_	_	_	
+33-33	7821-7822	,	_	_	_	
+33-34	7823-7825	in	_	_	_	
+33-35	7826-7831	their	_	_	_	
+33-36	7832-7836	turn	_	_	_	
+33-37	7836-7837	,	_	_	_	
+33-38	7838-7846	wreathed	_	_	_	
+33-39	7847-7851	here	_	_	_	
+33-40	7852-7855	and	_	_	_	
+33-41	7856-7861	there	_	_	_	
+33-42	7863-7867	with	_	_	_	
+33-43	7868-7871	the	_	_	_	
+33-44	7872-7880	fragrant	Smell\_Word[67]|Quality[68]	*|*|*|*	33-44[68_67]|33-45[69_67]|33-48[0_67]|33-51[70_67]	
+33-45	7881-7887	autumn	Smell\_Source[69]	_	_	
+33-46	7888-7896	Clematis	Smell\_Source[69]	_	_	
+33-47	7896-7897	,	_	_	_	
+33-48	7898-7910	Honeysuckles	Smell\_Source	_	_	
+33-49	7910-7911	,	_	_	_	
+33-50	7912-7915	and	_	_	_	
+33-51	7917-7925	Climbing	Smell\_Source[70]	_	_	
+33-52	7926-7930	Wild	Smell\_Source[70]	_	_	
+33-53	7931-7936	Roses	Smell\_Source[70]	_	_	
+33-54	7936-7937	.	_	_	_	
+
+#Text=Of all the things for garden pictures 
+#Text=there are none so good as the lovely groups of hardy trees 
+#Text=forming our hardy fruits, including the Medlar and Quince, 
+#Text=while near might be the Japanese and other handsome Crabs, 
+#Text=which have so much beauty of bloom and also brilliant fruit 
+#Text=in autumn.
+34-1	7938-7940	Of	_	_	_	
+34-2	7941-7944	all	_	_	_	
+34-3	7945-7948	the	_	_	_	
+34-4	7949-7955	things	_	_	_	
+34-5	7956-7959	for	_	_	_	
+34-6	7960-7966	garden	_	_	_	
+34-7	7967-7975	pictures	_	_	_	
+34-8	7977-7982	there	_	_	_	
+34-9	7983-7986	are	_	_	_	
+34-10	7987-7991	none	_	_	_	
+34-11	7992-7994	so	_	_	_	
+34-12	7995-7999	good	_	_	_	
+34-13	8000-8002	as	_	_	_	
+34-14	8003-8006	the	_	_	_	
+34-15	8007-8013	lovely	_	_	_	
+34-16	8014-8020	groups	_	_	_	
+34-17	8021-8023	of	_	_	_	
+34-18	8024-8029	hardy	_	_	_	
+34-19	8030-8035	trees	_	_	_	
+34-20	8037-8044	forming	_	_	_	
+34-21	8045-8048	our	_	_	_	
+34-22	8049-8054	hardy	_	_	_	
+34-23	8055-8061	fruits	_	_	_	
+34-24	8061-8062	,	_	_	_	
+34-25	8063-8072	including	_	_	_	
+34-26	8073-8076	the	_	_	_	
+34-27	8077-8083	Medlar	_	_	_	
+34-28	8084-8087	and	_	_	_	
+34-29	8088-8094	Quince	_	_	_	
+34-30	8094-8095	,	_	_	_	
+34-31	8097-8102	while	_	_	_	
+34-32	8103-8107	near	_	_	_	
+34-33	8108-8113	might	_	_	_	
+34-34	8114-8116	be	_	_	_	
+34-35	8117-8120	the	_	_	_	
+34-36	8121-8129	Japanese	_	_	_	
+34-37	8130-8133	and	_	_	_	
+34-38	8134-8139	other	_	_	_	
+34-39	8140-8148	handsome	_	_	_	
+34-40	8149-8154	Crabs	_	_	_	
+34-41	8154-8155	,	_	_	_	
+34-42	8157-8162	which	_	_	_	
+34-43	8163-8167	have	_	_	_	
+34-44	8168-8170	so	_	_	_	
+34-45	8171-8175	much	_	_	_	
+34-46	8176-8182	beauty	_	_	_	
+34-47	8183-8185	of	_	_	_	
+34-48	8186-8191	bloom	_	_	_	
+34-49	8192-8195	and	_	_	_	
+34-50	8196-8200	also	_	_	_	
+34-51	8201-8210	brilliant	_	_	_	
+34-52	8211-8216	fruit	_	_	_	
+34-53	8218-8220	in	_	_	_	
+34-54	8221-8227	autumn	_	_	_	
+34-55	8227-8228	.	_	_	_	
+
+#Text=MONO the many enjoyments this fascinating 
+#Text=world affords, none are more innocent or 
+#Text=enticing than close association with the 
+#Text=beautiful gems that so happily grace our 
+#Text=gardens, where a balmy atmosphere laden 
+#Text=with sweet perfumes and aromatic fragrance, rich and embowering foliage, with rural seclusion, are ever perfect ideas 
+#Text=of earthly felicity — 
+#Text=
+#Text=‘ In the calm retreat, 
+#Text=
+#Text=Far from the busy haunts of life, 
+#Text=
+#Text=Where Flora trains her lovely offspring up 
+#Text=To captivate and charm.’
+35-1	8231-8235	MONO	_	_	_	
+35-2	8236-8239	the	_	_	_	
+35-3	8240-8244	many	_	_	_	
+35-4	8245-8255	enjoyments	_	_	_	
+35-5	8256-8260	this	_	_	_	
+35-6	8261-8272	fascinating	_	_	_	
+35-7	8274-8279	world	_	_	_	
+35-8	8280-8287	affords	_	_	_	
+35-9	8287-8288	,	_	_	_	
+35-10	8289-8293	none	_	_	_	
+35-11	8294-8297	are	_	_	_	
+35-12	8298-8302	more	_	_	_	
+35-13	8303-8311	innocent	_	_	_	
+35-14	8312-8314	or	_	_	_	
+35-15	8316-8324	enticing	_	_	_	
+35-16	8325-8329	than	_	_	_	
+35-17	8330-8335	close	_	_	_	
+35-18	8336-8347	association	_	_	_	
+35-19	8348-8352	with	_	_	_	
+35-20	8353-8356	the	Smell\_Source[71]	_	_	
+35-21	8358-8367	beautiful	Smell\_Source[71]	_	_	
+35-22	8368-8372	gems	Smell\_Source[71]	_	_	
+35-23	8373-8377	that	_	_	_	
+35-24	8378-8380	so	_	_	_	
+35-25	8381-8388	happily	_	_	_	
+35-26	8389-8394	grace	_	_	_	
+35-27	8395-8398	our	Location[72]	_	_	
+35-28	8400-8407	gardens	Location[72]	_	_	
+35-29	8407-8408	,	_	_	_	
+35-30	8409-8414	where	_	_	_	
+35-31	8415-8416	a	Odour\_Carrier[73]	_	_	
+35-32	8417-8422	balmy	Odour\_Carrier[73]	_	_	
+35-33	8423-8433	atmosphere	Odour\_Carrier[73]	_	_	
+35-34	8434-8439	laden	_	_	_	
+35-35	8441-8445	with	_	_	_	
+35-36	8446-8451	sweet	Quality	_	_	
+35-37	8452-8460	perfumes	Smell\_Word	*|*|*|*	35-36|35-27[72_0]|35-20[71_0]|35-31[73_0]	
+35-38	8461-8464	and	_	_	_	
+35-39	8465-8473	aromatic	Quality	_	_	
+35-40	8474-8483	fragrance	Smell\_Word	*|*|*|*	35-39|35-27[72_0]|35-20[71_0]|35-31[73_0]	
+35-41	8483-8484	,	_	_	_	
+35-42	8485-8489	rich	_	_	_	
+35-43	8490-8493	and	_	_	_	
+35-44	8494-8504	embowering	_	_	_	
+35-45	8505-8512	foliage	_	_	_	
+35-46	8512-8513	,	_	_	_	
+35-47	8514-8518	with	_	_	_	
+35-48	8519-8524	rural	_	_	_	
+35-49	8525-8534	seclusion	_	_	_	
+35-50	8534-8535	,	_	_	_	
+35-51	8536-8539	are	_	_	_	
+35-52	8540-8544	ever	_	_	_	
+35-53	8545-8552	perfect	_	_	_	
+35-54	8553-8558	ideas	_	_	_	
+35-55	8560-8562	of	_	_	_	
+35-56	8563-8570	earthly	_	_	_	
+35-57	8571-8579	felicity	_	_	_	
+35-58	8580-8581	—	_	_	_	
+35-59	8584-8585	‘	_	_	_	
+35-60	8586-8588	In	_	_	_	
+35-61	8589-8592	the	_	_	_	
+35-62	8593-8597	calm	_	_	_	
+35-63	8598-8605	retreat	_	_	_	
+35-64	8605-8606	,	_	_	_	
+35-65	8609-8612	Far	_	_	_	
+35-66	8613-8617	from	_	_	_	
+35-67	8618-8621	the	_	_	_	
+35-68	8622-8626	busy	_	_	_	
+35-69	8627-8633	haunts	_	_	_	
+35-70	8634-8636	of	_	_	_	
+35-71	8637-8641	life	_	_	_	
+35-72	8641-8642	,	_	_	_	
+35-73	8645-8650	Where	_	_	_	
+35-74	8651-8656	Flora	_	_	_	
+35-75	8657-8663	trains	_	_	_	
+35-76	8664-8667	her	_	_	_	
+35-77	8668-8674	lovely	_	_	_	
+35-78	8675-8684	offspring	_	_	_	
+35-79	8685-8687	up	_	_	_	
+35-80	8689-8691	To	_	_	_	
+35-81	8692-8701	captivate	_	_	_	
+35-82	8702-8705	and	_	_	_	
+35-83	8706-8711	charm	_	_	_	
+35-84	8711-8712	.	_	_	_	
+35-85	8712-8713	’	_	_	_	
+
+#Text=In all countries, civilised and savage, in the religious festivals 
+#Text=of all creeds, and on all occasions whether of grief or rejoicing, the scented attractions of flowers and plants possess an 
+#Text=important significance, and Nature seems to have been most 
+#Text=bountiful in her munificence in scattering these odoriferous 
+#Text=treasures throughout our world, to give cheerfulness to the 
+#Text=earth and happiness to its inhabitants.
+36-1	8716-8718	In	Location[74]	_	_	
+36-2	8719-8722	all	Location[74]	_	_	
+36-3	8723-8732	countries	Location[74]	_	_	
+36-4	8732-8733	,	Location[74]	_	_	
+36-5	8734-8743	civilised	Location[74]	_	_	
+36-6	8744-8747	and	Location[74]	_	_	
+36-7	8748-8754	savage	Location[74]	_	_	
+36-8	8754-8755	,	_	_	_	
+36-9	8756-8758	in	Circumstances[75]	_	_	
+36-10	8759-8762	the	Circumstances[75]	_	_	
+36-11	8763-8772	religious	Circumstances[75]	_	_	
+36-12	8773-8782	festivals	Circumstances[75]	_	_	
+36-13	8784-8786	of	Circumstances[75]	_	_	
+36-14	8787-8790	all	Circumstances[75]	_	_	
+36-15	8791-8797	creeds	Circumstances[75]	_	_	
+36-16	8797-8798	,	_	_	_	
+36-17	8799-8802	and	_	_	_	
+36-18	8803-8805	on	Circumstances[76]	_	_	
+36-19	8806-8809	all	Circumstances[76]	_	_	
+36-20	8810-8819	occasions	Circumstances[76]	_	_	
+36-21	8820-8827	whether	Circumstances[76]	_	_	
+36-22	8828-8830	of	Circumstances[76]	_	_	
+36-23	8831-8836	grief	Circumstances[76]	_	_	
+36-24	8837-8839	or	Circumstances[76]	_	_	
+36-25	8840-8849	rejoicing	Circumstances[76]	_	_	
+36-26	8849-8850	,	_	_	_	
+36-27	8851-8854	the	_	_	_	
+36-28	8855-8862	scented	Smell\_Word[77]|Quality[78]	*|*|*|*|*|*	36-28[78_77]|36-30[79_77]|36-33[0_78]|36-18[76_77]|36-1[74_77]|36-9[75_77]	
+36-29	8863-8874	attractions	_	_	_	
+36-30	8875-8877	of	Smell\_Source[79]	_	_	
+36-31	8878-8885	flowers	Smell\_Source[79]	_	_	
+36-32	8886-8889	and	_	_	_	
+36-33	8890-8896	plants	Smell\_Source	_	_	
+36-34	8897-8904	possess	_	_	_	
+36-35	8905-8907	an	_	_	_	
+36-36	8909-8918	important	_	_	_	
+36-37	8919-8931	significance	_	_	_	
+36-38	8931-8932	,	_	_	_	
+36-39	8933-8936	and	_	_	_	
+36-40	8937-8943	Nature	_	_	_	
+36-41	8944-8949	seems	_	_	_	
+36-42	8950-8952	to	_	_	_	
+36-43	8953-8957	have	_	_	_	
+36-44	8958-8962	been	_	_	_	
+36-45	8963-8967	most	_	_	_	
+36-46	8969-8978	bountiful	_	_	_	
+36-47	8979-8981	in	_	_	_	
+36-48	8982-8985	her	_	_	_	
+36-49	8986-8997	munificence	_	_	_	
+36-50	8998-9000	in	_	_	_	
+36-51	9001-9011	scattering	_	_	_	
+36-52	9012-9017	these	_	_	_	
+36-53	9018-9029	odoriferous	Smell\_Word[80]|Quality[81]	*|*|*|*	36-53[81_80]|36-54[0_80]|36-55[82_80]|36-59[83_80]	
+36-54	9031-9040	treasures	Smell\_Source	_	_	
+36-55	9041-9051	throughout	Location[82]	_	_	
+36-56	9052-9055	our	Location[82]	_	_	
+36-57	9056-9061	world	Location[82]	_	_	
+36-58	9061-9062	,	_	_	_	
+36-59	9063-9065	to	Effect[83]	_	_	
+36-60	9066-9070	give	Effect[83]	_	_	
+36-61	9071-9083	cheerfulness	Effect[83]	_	_	
+36-62	9084-9086	to	Effect[83]	_	_	
+36-63	9087-9090	the	Effect[83]	_	_	
+36-64	9092-9097	earth	Effect[83]	_	_	
+36-65	9098-9101	and	Effect[83]	_	_	
+36-66	9102-9111	happiness	Effect[83]	_	_	
+36-67	9112-9114	to	Effect[83]	_	_	
+36-68	9115-9118	its	Effect[83]	_	_	
+36-69	9119-9130	inhabitants	Effect[83]	_	_	
+36-70	9130-9131	.	_	_	_	
+
+#Text=Every rank of people 
+#Text=seem equally to appreciate them as a gratification to the 
+#Text=organs of sight and smell.
+37-1	9132-9137	Every	Perceiver[84]	_	_	
+37-2	9138-9142	rank	Perceiver[84]	_	_	
+37-3	9143-9145	of	Perceiver[84]	_	_	
+37-4	9146-9152	people	Perceiver[84]	_	_	
+37-5	9154-9158	seem	_	_	_	
+37-6	9159-9166	equally	_	_	_	
+37-7	9167-9169	to	_	_	_	
+37-8	9170-9180	appreciate	_	_	_	
+37-9	9181-9185	them	Smell\_Source	Anaphoric	36-54	
+37-10	9186-9188	as	_	_	_	
+37-11	9189-9190	a	_	_	_	
+37-12	9191-9204	gratification	_	_	_	
+37-13	9205-9207	to	_	_	_	
+37-14	9208-9211	the	_	_	_	
+37-15	9213-9219	organs	_	_	_	
+37-16	9220-9222	of	_	_	_	
+37-17	9223-9228	sight	_	_	_	
+37-18	9229-9232	and	_	_	_	
+37-19	9233-9238	smell	Smell\_Word	*|*	37-9|37-1[84_0]	
+37-20	9238-9239	.	_	_	_	
+
+#Text=The refreshing odours prevalent in a garden, where the richest 
+#Text=perfumes shed their aromatic perfections lavishly around, are 
+#Text=the spoils from Nature’s laboratory, that dispense delicious 
+#Text=medicines to sweeten our existence.
+38-1	9242-9245	The	Quality[85]	_	_	
+38-2	9246-9256	refreshing	Quality[85]	_	_	
+38-3	9257-9263	odours	Smell\_Word	*|*	38-5[86_0]|38-1[85_0]	
+38-4	9264-9273	prevalent	_	_	_	
+38-5	9274-9276	in	Location[86]	_	_	
+38-6	9277-9278	a	Location[86]	_	_	
+38-7	9279-9285	garden	Location[86]	_	_	
+38-8	9285-9286	,	_	_	_	
+38-9	9287-9292	where	_	_	_	
+38-10	9293-9296	the	Quality[87]	_	_	
+38-11	9297-9304	richest	Quality[87]	_	_	
+38-12	9306-9314	perfumes	Smell\_Word	*	38-10[87_0]	
+38-13	9315-9319	shed	_	_	_	
+38-14	9320-9325	their	_	_	_	
+38-15	9326-9334	aromatic	Quality[88]|Smell\_Word[89]	*	38-15[88_89]	
+38-16	9335-9346	perfections	_	_	_	
+38-17	9347-9355	lavishly	_	_	_	
+38-18	9356-9362	around	_	_	_	
+38-19	9362-9363	,	_	_	_	
+38-20	9364-9367	are	_	_	_	
+38-21	9369-9372	the	_	_	_	
+38-22	9373-9379	spoils	_	_	_	
+38-23	9380-9384	from	_	_	_	
+38-24	9385-9391	Nature	_	_	_	
+38-25	9391-9392	’	_	_	_	
+38-26	9392-9393	s	_	_	_	
+38-27	9394-9404	laboratory	_	_	_	
+38-28	9404-9405	,	_	_	_	
+38-29	9406-9410	that	_	_	_	
+38-30	9411-9419	dispense	_	_	_	
+38-31	9420-9429	delicious	_	_	_	
+38-32	9431-9440	medicines	_	_	_	
+38-33	9441-9443	to	_	_	_	
+38-34	9444-9451	sweeten	_	_	_	
+38-35	9452-9455	our	_	_	_	
+38-36	9456-9465	existence	_	_	_	
+38-37	9465-9466	.	_	_	_	
+
+#Text=There are many common flowers to be found growing in 
+#Text=our meadows which diffuse a gentle fragrance most gratifying 
+#Text=to the senses : and, much as we are concerned with the odour 
+#Text=of those flowers and shrubs which are to be met with in our 
+#Text=gardens and greenhouses, the wild forms are a source of the 
+#Text=keenest pleasure to all.
+39-1	9468-9473	There	_	_	_	
+39-2	9474-9477	are	_	_	_	
+39-3	9478-9482	many	_	_	_	
+39-4	9483-9489	common	_	_	_	
+39-5	9490-9497	flowers	Smell\_Source	_	_	
+39-6	9498-9500	to	_	_	_	
+39-7	9501-9503	be	_	_	_	
+39-8	9504-9509	found	_	_	_	
+39-9	9510-9517	growing	_	_	_	
+39-10	9518-9520	in	_	_	_	
+39-11	9522-9525	our	_	_	_	
+39-12	9526-9533	meadows	_	_	_	
+39-13	9534-9539	which	Smell\_Source	Anaphoric	39-5	
+39-14	9540-9547	diffuse	_	_	_	
+39-15	9548-9549	a	_	_	_	
+39-16	9550-9556	gentle	_	_	_	
+39-17	9557-9566	fragrance	Smell\_Word	*|*	39-13|39-18[90_0]	
+39-18	9567-9571	most	Quality[90]	_	_	
+39-19	9572-9582	gratifying	Quality[90]	_	_	
+39-20	9584-9586	to	Quality[90]	_	_	
+39-21	9587-9590	the	Quality[90]	_	_	
+39-22	9591-9597	senses	Quality[90]	_	_	
+39-23	9598-9599	:	_	_	_	
+39-24	9600-9603	and	_	_	_	
+39-25	9603-9604	,	_	_	_	
+39-26	9605-9609	much	_	_	_	
+39-27	9610-9612	as	_	_	_	
+39-28	9613-9615	we	_	_	_	
+39-29	9616-9619	are	_	_	_	
+39-30	9620-9629	concerned	_	_	_	
+39-31	9630-9634	with	_	_	_	
+39-32	9635-9638	the	_	_	_	
+39-33	9639-9644	odour	Smell\_Word	*|*	39-34[91_0]|39-45[92_0]	
+39-34	9646-9648	of	Smell\_Source[91]	_	_	
+39-35	9649-9654	those	Smell\_Source[91]	_	_	
+39-36	9655-9662	flowers	Smell\_Source[91]	_	_	
+39-37	9663-9666	and	Smell\_Source[91]	_	_	
+39-38	9667-9673	shrubs	Smell\_Source[91]	_	_	
+39-39	9674-9679	which	_	_	_	
+39-40	9680-9683	are	_	_	_	
+39-41	9684-9686	to	_	_	_	
+39-42	9687-9689	be	_	_	_	
+39-43	9690-9693	met	_	_	_	
+39-44	9694-9698	with	_	_	_	
+39-45	9699-9701	in	Location[92]	_	_	
+39-46	9702-9705	our	Location[92]	_	_	
+39-47	9707-9714	gardens	Location[92]	_	_	
+39-48	9715-9718	and	Location[92]	_	_	
+39-49	9719-9730	greenhouses	Location[92]	_	_	
+39-50	9730-9731	,	_	_	_	
+39-51	9732-9735	the	_	_	_	
+39-52	9736-9740	wild	_	_	_	
+39-53	9741-9746	forms	_	_	_	
+39-54	9747-9750	are	_	_	_	
+39-55	9751-9752	a	_	_	_	
+39-56	9753-9759	source	_	_	_	
+39-57	9760-9762	of	_	_	_	
+39-58	9763-9766	the	_	_	_	
+39-59	9768-9775	keenest	_	_	_	
+39-60	9776-9784	pleasure	_	_	_	
+39-61	9785-9787	to	_	_	_	
+39-62	9788-9791	all	_	_	_	
+39-63	9791-9792	.	_	_	_	

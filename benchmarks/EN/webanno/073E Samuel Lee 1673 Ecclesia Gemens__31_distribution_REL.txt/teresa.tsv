@@ -1,0 +1,138 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=Let none stand amazed at the pageantry of false Churches,
+#Text=nor value the Whore of Rome because of her bravery.
+1-1	0-3	Let	_	_	_	
+1-2	4-8	none	_	_	_	
+1-3	9-14	stand	_	_	_	
+1-4	15-21	amazed	_	_	_	
+1-5	22-24	at	_	_	_	
+1-6	25-28	the	_	_	_	
+1-7	29-38	pageantry	_	_	_	
+1-8	39-41	of	_	_	_	
+1-9	42-47	false	_	_	_	
+1-10	48-56	Churches	_	_	_	
+1-11	56-57	,	_	_	_	
+1-12	58-61	nor	_	_	_	
+1-13	62-67	value	_	_	_	
+1-14	68-71	the	Smell\_Source[1]	_	_	
+1-15	72-77	Whore	Smell\_Source[1]	_	_	
+1-16	78-80	of	Smell\_Source[1]	_	_	
+1-17	81-85	Rome	Smell\_Source[1]	_	_	
+1-18	86-93	because	_	_	_	
+1-19	94-96	of	_	_	_	
+1-20	97-100	her	_	_	_	
+1-21	101-108	bravery	_	_	_	
+1-22	108-109	.	_	_	_	
+
+#Text=She ' s deckt with
+#Text=Pearles and precious stones, but smells strong of Aegypt.
+2-1	110-113	She	Smell\_Source	Anaphoric	1-14[1_0]	
+2-2	114-115	'	_	_	_	
+2-3	116-117	s	_	_	_	
+2-4	118-123	deckt	_	_	_	
+2-5	124-128	with	_	_	_	
+2-6	129-136	Pearles	_	_	_	
+2-7	137-140	and	_	_	_	
+2-8	141-149	precious	_	_	_	
+2-9	150-156	stones	_	_	_	
+2-10	156-157	,	_	_	_	
+2-11	158-161	but	_	_	_	
+2-12	162-168	smells	Smell\_Word	*|*|*	2-14[2_0]|2-13|2-1	
+2-13	169-175	strong	Quality	_	_	
+2-14	176-178	of	Evoked\_Odorant[2]	_	_	
+2-15	179-185	Aegypt	Evoked\_Odorant[2]	_	_	
+2-16	185-186	.	_	_	_	
+
+#Text=All
+#Text=the Persumes of Arabia can ' t hide or choak her stink
+3-1	187-190	All	_	_	_	
+3-2	191-194	the	_	_	_	
+3-3	195-203	Persumes	Smell\_Word	*	3-4[3_0]	
+3-4	204-206	of	Location[3]	_	_	
+3-5	207-213	Arabia	Location[3]	_	_	
+3-6	214-217	can	_	_	_	
+3-7	218-219	'	_	_	_	
+3-8	220-221	t	_	_	_	
+3-9	222-226	hide	_	_	_	
+3-10	227-229	or	_	_	_	
+3-11	230-235	choak	_	_	_	
+3-12	236-239	her	Smell\_Source	Anaphoric	1-14[1_0]	
+3-13	240-245	stink	Smell\_Word	*	3-12	
+
+#Text=.
+4-1	245-246	.	_	_	_	
+
+#Text=' Tis not
+#Text=Lateran Musick will consecrate her Masses into audience, nor her
+#Text=incense procure access to the Throne of Grace,
+#Text=I will not smell says the Lord in your Solemn Assemblies.
+5-1	248-249	'	_	_	_	
+5-2	250-253	Tis	_	_	_	
+5-3	254-257	not	_	_	_	
+5-4	258-265	Lateran	_	_	_	
+5-5	266-272	Musick	_	_	_	
+5-6	273-277	will	_	_	_	
+5-7	278-288	consecrate	_	_	_	
+5-8	289-292	her	_	_	_	
+5-9	293-299	Masses	_	_	_	
+5-10	300-304	into	_	_	_	
+5-11	305-313	audience	_	_	_	
+5-12	313-314	,	_	_	_	
+5-13	315-318	nor	_	_	_	
+5-14	319-322	her	Smell\_Source	Anaphoric	1-14[1_0]	
+5-15	323-330	incense	_	_	_	
+5-16	331-338	procure	_	_	_	
+5-17	339-345	access	_	_	_	
+5-18	346-348	to	_	_	_	
+5-19	349-352	the	_	_	_	
+5-20	353-359	Throne	_	_	_	
+5-21	360-362	of	_	_	_	
+5-22	363-368	Grace	_	_	_	
+5-23	368-369	,	_	_	_	
+5-24	370-371	I	_	_	_	
+5-25	372-376	will	_	_	_	
+5-26	377-380	not	_	_	_	
+5-27	381-386	smell	Smell\_Word	*|*|*	5-14|5-29[4_0]|5-31[5_0]	
+5-28	387-391	says	_	_	_	
+5-29	392-395	the	Perceiver[4]	_	_	
+5-30	396-400	Lord	Perceiver[4]	_	_	
+5-31	401-403	in	Location[5]	_	_	
+5-32	404-408	your	Location[5]	_	_	
+5-33	409-415	Solemn	Location[5]	_	_	
+5-34	416-426	Assemblies	Location[5]	_	_	
+5-35	426-427	.	_	_	_	
+
+#Text=Take away the noise of
+#Text=your Songs, the melody of your Viols, let judgment run
+#Text=down as waters and righteousness like a mighty stream.
+6-1	428-432	Take	_	_	_	
+6-2	433-437	away	_	_	_	
+6-3	438-441	the	_	_	_	
+6-4	442-447	noise	_	_	_	
+6-5	448-450	of	_	_	_	
+6-6	451-455	your	_	_	_	
+6-7	456-461	Songs	_	_	_	
+6-8	461-462	,	_	_	_	
+6-9	463-466	the	_	_	_	
+6-10	467-473	melody	_	_	_	
+6-11	474-476	of	_	_	_	
+6-12	477-481	your	_	_	_	
+6-13	482-487	Viols	_	_	_	
+6-14	487-488	,	_	_	_	
+6-15	489-492	let	_	_	_	
+6-16	493-501	judgment	_	_	_	
+6-17	502-505	run	_	_	_	
+6-18	506-510	down	_	_	_	
+6-19	511-513	as	_	_	_	
+6-20	514-520	waters	_	_	_	
+6-21	521-524	and	_	_	_	
+6-22	525-538	righteousness	_	_	_	
+6-23	539-543	like	_	_	_	
+6-24	544-545	a	_	_	_	
+6-25	546-552	mighty	_	_	_	
+6-26	553-559	stream	_	_	_	
+6-27	559-560	.	_	_	_	

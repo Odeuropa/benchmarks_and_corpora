@@ -1,0 +1,777 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=Grooms and Hostlers daily inhale a large quantity of ammoniacal gas generated in the stables.
+1-1	0-6	Grooms	Perceiver[1]	_	_	
+1-2	7-10	and	Perceiver[1]	_	_	
+1-3	11-19	Hostlers	Perceiver[1]	_	_	
+1-4	20-25	daily	_	_	_	
+1-5	26-32	inhale	Smell\_Word	*|*|*|*	1-1[1_0]|1-6[2_0]|1-13[3_0]|2-1[4_0]	
+1-6	33-34	a	Smell\_Source[2]	_	_	
+1-7	35-40	large	Smell\_Source[2]	_	_	
+1-8	41-49	quantity	Smell\_Source[2]	_	_	
+1-9	50-52	of	Smell\_Source[2]	_	_	
+1-10	53-63	ammoniacal	Smell\_Source[2]	_	_	
+1-11	64-67	gas	Smell\_Source[2]	_	_	
+1-12	68-77	generated	_	_	_	
+1-13	78-80	in	Location[3]	_	_	
+1-14	81-84	the	Location[3]	_	_	
+1-15	85-92	stables	Location[3]	_	_	
+1-16	92-93	.	_	_	_	
+
+#Text=This appears beneficial rather than injurious.
+2-1	94-98	This	Effect[4]	_	_	
+2-2	99-106	appears	Effect[4]	_	_	
+2-3	107-117	beneficial	Effect[4]	_	_	
+2-4	118-124	rather	Effect[4]	_	_	
+2-5	125-129	than	Effect[4]	_	_	
+2-6	130-139	injurious	Effect[4]	_	_	
+2-7	139-140	.	_	_	_	
+
+#Text=They
+#Text=have, moreover, full and varied muscular exertion ;
+#Text=and if they took a more moderate diet, would be almost universally robust.
+3-1	141-145	They	_	_	_	
+3-2	146-150	have	_	_	_	
+3-3	150-151	,	_	_	_	
+3-4	152-160	moreover	_	_	_	
+3-5	160-161	,	_	_	_	
+3-6	162-166	full	_	_	_	
+3-7	167-170	and	_	_	_	
+3-8	171-177	varied	_	_	_	
+3-9	178-186	muscular	_	_	_	
+3-10	187-195	exertion	_	_	_	
+3-11	196-197	;	_	_	_	
+3-12	198-201	and	_	_	_	
+3-13	202-204	if	_	_	_	
+3-14	205-209	they	_	_	_	
+3-15	210-214	took	_	_	_	
+3-16	215-216	a	_	_	_	
+3-17	217-221	more	_	_	_	
+3-18	222-230	moderate	_	_	_	
+3-19	231-235	diet	_	_	_	
+3-20	235-236	,	_	_	_	
+3-21	237-242	would	_	_	_	
+3-22	243-245	be	_	_	_	
+3-23	246-252	almost	_	_	_	
+3-24	253-264	universally	_	_	_	
+3-25	265-271	robust	_	_	_	
+3-26	271-272	.	_	_	_	
+
+#Text=Hostlers, Porters, and
+#Text=under-male servants at inns, are generally sickly,
+#Text=
+#Text=and labour under congestion (over fulness) of the vessels in the abdomen and head.
+4-1	273-281	Hostlers	_	_	_	
+4-2	281-282	,	_	_	_	
+4-3	283-290	Porters	_	_	_	
+4-4	290-291	,	_	_	_	
+4-5	292-295	and	_	_	_	
+4-6	296-306	under-male	_	_	_	
+4-7	307-315	servants	_	_	_	
+4-8	316-318	at	_	_	_	
+4-9	319-323	inns	_	_	_	
+4-10	323-324	,	_	_	_	
+4-11	325-328	are	_	_	_	
+4-12	329-338	generally	_	_	_	
+4-13	339-345	sickly	_	_	_	
+4-14	345-346	,	_	_	_	
+4-15	348-351	and	_	_	_	
+4-16	352-358	labour	_	_	_	
+4-17	359-364	under	_	_	_	
+4-18	365-375	congestion	_	_	_	
+4-19	376-377	(	_	_	_	
+4-20	377-381	over	_	_	_	
+4-21	382-389	fulness	_	_	_	
+4-22	389-390	)	_	_	_	
+4-23	391-393	of	_	_	_	
+4-24	394-397	the	_	_	_	
+4-25	398-405	vessels	_	_	_	
+4-26	406-408	in	_	_	_	
+4-27	409-412	the	_	_	_	
+4-28	413-420	abdomen	_	_	_	
+4-29	421-424	and	_	_	_	
+4-30	425-429	head	_	_	_	
+4-31	429-430	.	_	_	_	
+
+#Text=Their state evidently
+#Text=results from the ale and spirits they take so frequently.
+5-1	431-436	Their	_	_	_	
+5-2	437-442	state	_	_	_	
+5-3	443-452	evidently	_	_	_	
+5-4	453-460	results	_	_	_	
+5-5	461-465	from	_	_	_	
+5-6	466-469	the	_	_	_	
+5-7	470-473	ale	_	_	_	
+5-8	474-477	and	_	_	_	
+5-9	478-485	spirits	_	_	_	
+5-10	486-490	they	_	_	_	
+5-11	491-495	take	_	_	_	
+5-12	496-498	so	_	_	_	
+5-13	499-509	frequently	_	_	_	
+5-14	509-510	.	_	_	_	
+
+#Text=Glue and Size boilers are exposed to strong putrid and ammoniacal exhalations from the decomposition of animal refuse.
+6-1	512-516	Glue	Perceiver[5]	_	_	
+6-2	517-520	and	Perceiver[5]	_	_	
+6-3	521-525	Size	Perceiver[5]	_	_	
+6-4	526-533	boilers	Perceiver[5]	_	_	
+6-5	534-537	are	_	_	_	
+6-6	538-545	exposed	_	_	_	
+6-7	546-548	to	_	_	_	
+6-8	549-555	strong	Quality	_	_	
+6-9	556-562	putrid	Quality	_	_	
+6-10	563-566	and	_	_	_	
+6-11	567-577	ammoniacal	Quality	_	_	
+6-12	578-589	exhalations	Smell\_Word	*|*|*|*|*	6-13[6_0]|6-1[5_0]|6-11|6-9|6-8	
+6-13	590-594	from	Smell\_Source[6]	_	_	
+6-14	595-598	the	Smell\_Source[6]	_	_	
+6-15	599-612	decomposition	Smell\_Source[6]	_	_	
+6-16	613-615	of	Smell\_Source[6]	_	_	
+6-17	616-622	animal	Smell\_Source[6]	_	_	
+6-18	623-629	refuse	Smell\_Source[6]	_	_	
+6-19	629-630	.	_	_	_	
+
+#Text=The stench of the boiling
+#Text=and drying rooms is indeed well known to be highly
+#Text=offensive, even to the neighbourhood.
+7-1	631-634	The	_	_	_	
+7-2	635-641	stench	Smell\_Word	*|*|*|*	7-3[7_0]|7-15[8_0]|7-18[9_0]|8-1[10_0]	
+7-3	642-644	of	Location[7]	_	_	
+7-4	645-648	the	Location[7]	_	_	
+7-5	649-656	boiling	Location[7]	_	_	
+7-6	657-660	and	Location[7]	_	_	
+7-7	661-667	drying	Location[7]	_	_	
+7-8	668-673	rooms	Location[7]	_	_	
+7-9	674-676	is	_	_	_	
+7-10	677-683	indeed	_	_	_	
+7-11	684-688	well	_	_	_	
+7-12	689-694	known	_	_	_	
+7-13	695-697	to	_	_	_	
+7-14	698-700	be	_	_	_	
+7-15	701-707	highly	Quality[8]	_	_	
+7-16	708-717	offensive	Quality[8]	_	_	
+7-17	717-718	,	_	_	_	
+7-18	719-723	even	Perceiver[9]	_	_	
+7-19	724-726	to	Perceiver[9]	_	_	
+7-20	727-730	the	Perceiver[9]	_	_	
+7-21	731-744	neighbourhood	Perceiver[9]	_	_	
+7-22	744-745	.	_	_	_	
+
+#Text=Yet the men
+#Text=declare it agrees well with them — nay, many assert,
+#Text=that on entering this employ, they experienced a
+#Text=great increase of appetite and health.
+8-1	746-749	Yet	Effect[10]	_	_	
+8-2	750-753	the	Effect[10]	_	_	
+8-3	754-757	men	Effect[10]	_	_	
+8-4	758-765	declare	Effect[10]	_	_	
+8-5	766-768	it	Effect[10]	_	_	
+8-6	769-775	agrees	Effect[10]	_	_	
+8-7	776-780	well	Effect[10]	_	_	
+8-8	781-785	with	Effect[10]	_	_	
+8-9	786-790	them	Effect[10]	_	_	
+8-10	791-792	—	_	_	_	
+8-11	793-796	nay	_	_	_	
+8-12	796-797	,	_	_	_	
+8-13	798-802	many	_	_	_	
+8-14	803-809	assert	_	_	_	
+8-15	809-810	,	_	_	_	
+8-16	811-815	that	_	_	_	
+8-17	816-818	on	_	_	_	
+8-18	819-827	entering	_	_	_	
+8-19	828-832	this	_	_	_	
+8-20	833-839	employ	_	_	_	
+8-21	839-840	,	_	_	_	
+8-22	841-845	they	_	_	_	
+8-23	846-857	experienced	_	_	_	
+8-24	858-859	a	_	_	_	
+8-25	860-865	great	_	_	_	
+8-26	866-874	increase	_	_	_	
+8-27	875-877	of	_	_	_	
+8-28	878-886	appetite	_	_	_	
+8-29	887-890	and	_	_	_	
+8-30	891-897	health	_	_	_	
+8-31	897-898	.	_	_	_	
+
+#Text=All the glue
+#Text=and size boilers we saw, were remarkably fresh-looking and robust.
+9-1	899-902	All	_	_	_	
+9-2	903-906	the	_	_	_	
+9-3	907-911	glue	_	_	_	
+9-4	912-915	and	_	_	_	
+9-5	916-920	size	_	_	_	
+9-6	921-928	boilers	_	_	_	
+9-7	929-931	we	_	_	_	
+9-8	932-935	saw	_	_	_	
+9-9	935-936	,	_	_	_	
+9-10	937-941	were	_	_	_	
+9-11	942-952	remarkably	_	_	_	
+9-12	953-966	fresh-looking	_	_	_	
+9-13	967-970	and	_	_	_	
+9-14	971-977	robust	_	_	_	
+9-15	977-978	.	_	_	_	
+
+#Text=Though exposed to frequent and
+#Text=considerable changes of temperature, to sudden
+#Text=changes also from an atmosphere of hot vapour to
+#Text=the dry cold air, they are not subject to rheumatism,
+#Text=pulmonary inflammation or catarrh.
+10-1	979-985	Though	_	_	_	
+10-2	986-993	exposed	_	_	_	
+10-3	994-996	to	_	_	_	
+10-4	997-1005	frequent	_	_	_	
+10-5	1006-1009	and	_	_	_	
+10-6	1010-1022	considerable	_	_	_	
+10-7	1023-1030	changes	_	_	_	
+10-8	1031-1033	of	_	_	_	
+10-9	1034-1045	temperature	_	_	_	
+10-10	1045-1046	,	_	_	_	
+10-11	1047-1049	to	_	_	_	
+10-12	1050-1056	sudden	_	_	_	
+10-13	1057-1064	changes	_	_	_	
+10-14	1065-1069	also	_	_	_	
+10-15	1070-1074	from	_	_	_	
+10-16	1075-1077	an	_	_	_	
+10-17	1078-1088	atmosphere	_	_	_	
+10-18	1089-1091	of	_	_	_	
+10-19	1092-1095	hot	_	_	_	
+10-20	1096-1102	vapour	_	_	_	
+10-21	1103-1105	to	_	_	_	
+10-22	1106-1109	the	_	_	_	
+10-23	1110-1113	dry	_	_	_	
+10-24	1114-1118	cold	_	_	_	
+10-25	1119-1122	air	_	_	_	
+10-26	1122-1123	,	_	_	_	
+10-27	1124-1128	they	_	_	_	
+10-28	1129-1132	are	_	_	_	
+10-29	1133-1136	not	_	_	_	
+10-30	1137-1144	subject	_	_	_	
+10-31	1145-1147	to	_	_	_	
+10-32	1148-1158	rheumatism	_	_	_	
+10-33	1158-1159	,	_	_	_	
+10-34	1160-1169	pulmonary	_	_	_	
+10-35	1170-1182	inflammation	_	_	_	
+10-36	1183-1185	or	_	_	_	
+10-37	1186-1193	catarrh	_	_	_	
+10-38	1193-1194	.	_	_	_	
+
+#Text=The only complaints we could hear of, were occasional pains in the
+#Text=loins and hmbs, attributable to posture and exertion.
+11-1	1195-1198	The	_	_	_	
+11-2	1199-1203	only	_	_	_	
+11-3	1204-1214	complaints	_	_	_	
+11-4	1215-1217	we	_	_	_	
+11-5	1218-1223	could	_	_	_	
+11-6	1224-1228	hear	_	_	_	
+11-7	1229-1231	of	_	_	_	
+11-8	1231-1232	,	_	_	_	
+11-9	1233-1237	were	_	_	_	
+11-10	1238-1248	occasional	_	_	_	
+11-11	1249-1254	pains	_	_	_	
+11-12	1255-1257	in	_	_	_	
+11-13	1258-1261	the	_	_	_	
+11-14	1262-1267	loins	_	_	_	
+11-15	1268-1271	and	_	_	_	
+11-16	1272-1276	hmbs	_	_	_	
+11-17	1276-1277	,	_	_	_	
+11-18	1278-1290	attributable	_	_	_	
+11-19	1291-1293	to	_	_	_	
+11-20	1294-1301	posture	_	_	_	
+11-21	1302-1305	and	_	_	_	
+11-22	1306-1314	exertion	_	_	_	
+11-23	1314-1315	.	_	_	_	
+
+#Text=Buckram manufacturers are exposed to the
+#Text=odour of the glue.
+12-1	1317-1324	Buckram	Perceiver[11]	_	_	
+12-2	1325-1338	manufacturers	Perceiver[11]	_	_	
+12-3	1339-1342	are	_	_	_	
+12-4	1343-1350	exposed	_	_	_	
+12-5	1351-1353	to	_	_	_	
+12-6	1354-1357	the	_	_	_	
+12-7	1358-1363	odour	Smell\_Word	*|*|*|*	12-8[12_0]|12-1[11_0]|13-7[13_0]|13-9[14_0]	
+12-8	1364-1366	of	Smell\_Source[12]	_	_	
+12-9	1367-1370	the	Smell\_Source[12]	_	_	
+12-10	1371-1375	glue	Smell\_Source[12]	_	_	
+12-11	1375-1376	.	_	_	_	
+
+#Text=This is well known to be so great
+#Text=as to offend the neighbourhood of the manufacture.
+13-1	1377-1381	This	_	_	_	
+13-2	1382-1384	is	_	_	_	
+13-3	1385-1389	well	_	_	_	
+13-4	1390-1395	known	_	_	_	
+13-5	1396-1398	to	_	_	_	
+13-6	1399-1401	be	_	_	_	
+13-7	1402-1404	so	Quality[13]	_	_	
+13-8	1405-1410	great	Quality[13]	_	_	
+13-9	1411-1413	as	Effect[14]	_	_	
+13-10	1414-1416	to	Effect[14]	_	_	
+13-11	1417-1423	offend	Effect[14]	_	_	
+13-12	1424-1427	the	Effect[14]	_	_	
+13-13	1428-1441	neighbourhood	Effect[14]	_	_	
+13-14	1442-1444	of	Effect[14]	_	_	
+13-15	1445-1448	the	Effect[14]	_	_	
+13-16	1449-1460	manufacture	Effect[14]	_	_	
+13-17	1460-1461	.	_	_	_	
+
+#Text=Yet the men make no complaint of ill health, and
+#Text=reach considerable age.
+14-1	1462-1465	Yet	_	_	_	
+14-2	1466-1469	the	_	_	_	
+14-3	1470-1473	men	_	_	_	
+14-4	1474-1478	make	_	_	_	
+14-5	1479-1481	no	_	_	_	
+14-6	1482-1491	complaint	_	_	_	
+14-7	1492-1494	of	_	_	_	
+14-8	1495-1498	ill	_	_	_	
+14-9	1499-1505	health	_	_	_	
+14-10	1505-1506	,	_	_	_	
+14-11	1507-1510	and	_	_	_	
+14-12	1511-1516	reach	_	_	_	
+14-13	1517-1529	considerable	_	_	_	
+14-14	1530-1533	age	_	_	_	
+14-15	1533-1534	.	_	_	_	
+
+#Text=Of the seven men employed
+#Text=at the Buckram-house, in Water-lane, one is 51,
+#Text=another 58, a third 68, and the fourth 76; and these
+#Text=individuals have been at the employ from an early age.
+15-1	1535-1537	Of	_	_	_	
+15-2	1538-1541	the	_	_	_	
+15-3	1542-1547	seven	_	_	_	
+15-4	1548-1551	men	_	_	_	
+15-5	1552-1560	employed	_	_	_	
+15-6	1561-1563	at	_	_	_	
+15-7	1564-1567	the	_	_	_	
+15-8	1568-1581	Buckram-house	_	_	_	
+15-9	1581-1582	,	_	_	_	
+15-10	1583-1585	in	_	_	_	
+15-11	1586-1596	Water-lane	_	_	_	
+15-12	1596-1597	,	_	_	_	
+15-13	1598-1601	one	_	_	_	
+15-14	1602-1604	is	_	_	_	
+15-15	1605-1607	51	_	_	_	
+15-16	1607-1608	,	_	_	_	
+15-17	1609-1616	another	_	_	_	
+15-18	1617-1619	58	_	_	_	
+15-19	1619-1620	,	_	_	_	
+15-20	1621-1622	a	_	_	_	
+15-21	1623-1628	third	_	_	_	
+15-22	1629-1631	68	_	_	_	
+15-23	1631-1632	,	_	_	_	
+15-24	1633-1636	and	_	_	_	
+15-25	1637-1640	the	_	_	_	
+15-26	1641-1647	fourth	_	_	_	
+15-27	1648-1650	76	_	_	_	
+15-28	1650-1651	;	_	_	_	
+15-29	1652-1655	and	_	_	_	
+15-30	1656-1661	these	_	_	_	
+15-31	1662-1673	individuals	_	_	_	
+15-32	1674-1678	have	_	_	_	
+15-33	1679-1683	been	_	_	_	
+15-34	1684-1686	at	_	_	_	
+15-35	1687-1690	the	_	_	_	
+15-36	1691-1697	employ	_	_	_	
+15-37	1698-1702	from	_	_	_	
+15-38	1703-1705	an	_	_	_	
+15-39	1706-1711	early	_	_	_	
+15-40	1712-1715	age	_	_	_	
+15-41	1715-1716	.	_	_	_	
+
+#Text=Tallow-chandlers, subjected to an offensive
+#Text=animal odour, enjoy health, and attain a considerable
+#Text=age.
+16-1	1718-1734	Tallow-chandlers	Perceiver	_	_	
+16-2	1734-1735	,	_	_	_	
+16-3	1736-1745	subjected	_	_	_	
+16-4	1746-1748	to	_	_	_	
+16-5	1749-1751	an	_	_	_	
+16-6	1752-1761	offensive	Quality	_	_	
+16-7	1762-1768	animal	Quality	_	_	
+16-8	1769-1774	odour	Smell\_Word	*|*|*	16-7|16-6|16-1	
+16-9	1774-1775	,	_	_	_	
+16-10	1776-1781	enjoy	_	_	_	
+16-11	1782-1788	health	_	_	_	
+16-12	1788-1789	,	_	_	_	
+16-13	1790-1793	and	_	_	_	
+16-14	1794-1800	attain	_	_	_	
+16-15	1801-1802	a	_	_	_	
+16-16	1803-1815	considerable	_	_	_	
+16-17	1816-1819	age	_	_	_	
+16-18	1819-1820	.	_	_	_	
+
+#Text=During the plague in London it was remarked
+#Text=that this class of men suffered much less than others.
+17-1	1821-1827	During	_	_	_	
+17-2	1828-1831	the	_	_	_	
+17-3	1832-1838	plague	_	_	_	
+17-4	1839-1841	in	_	_	_	
+17-5	1842-1848	London	_	_	_	
+17-6	1849-1851	it	_	_	_	
+17-7	1852-1855	was	_	_	_	
+17-8	1856-1864	remarked	_	_	_	
+17-9	1865-1869	that	_	_	_	
+17-10	1870-1874	this	_	_	_	
+17-11	1875-1880	class	_	_	_	
+17-12	1881-1883	of	_	_	_	
+17-13	1884-1887	men	_	_	_	
+17-14	1888-1896	suffered	_	_	_	
+17-15	1897-1901	much	_	_	_	
+17-16	1902-1906	less	_	_	_	
+17-17	1907-1911	than	_	_	_	
+17-18	1912-1918	others	_	_	_	
+17-19	1918-1919	.	_	_	_	
+
+#Text=Tanners, it is well known, arc subject to disagreeable odours.
+18-1	1921-1928	Tanners	Perceiver	_	_	
+18-2	1928-1929	,	_	_	_	
+18-3	1930-1932	it	_	_	_	
+18-4	1933-1935	is	_	_	_	
+18-5	1936-1940	well	_	_	_	
+18-6	1941-1946	known	_	_	_	
+18-7	1946-1947	,	_	_	_	
+18-8	1948-1951	arc	_	_	_	
+18-9	1952-1959	subject	_	_	_	
+18-10	1960-1962	to	_	_	_	
+18-11	1963-1975	disagreeable	Quality	_	_	
+18-12	1976-1982	odours	Smell\_Word	*|*	18-11|18-1	
+18-13	1982-1983	.	_	_	_	
+
+#Text=They work in an atmosphere largely
+#Text=impregnated with the vapour of putrifying skins, and
+#Text=this combined with the smell of lime in one place,
+#Text=and of tan in another.
+19-1	1984-1988	They	Perceiver	Anaphoric	18-1	
+19-2	1989-1993	work	_	_	_	
+19-3	1994-1996	in	Odour\_Carrier[15]	_	_	
+19-4	1997-1999	an	Odour\_Carrier[15]	_	_	
+19-5	2000-2010	atmosphere	Odour\_Carrier[15]	_	_	
+19-6	2011-2018	largely	_	_	_	
+19-7	2019-2030	impregnated	_	_	_	
+19-8	2031-2035	with	_	_	_	
+19-9	2036-2039	the	_	_	_	
+19-10	2040-2046	vapour	Smell\_Word	*|*|*	19-11[16_0]|19-1|19-3[15_0]	
+19-11	2047-2049	of	Smell\_Source[16]	_	_	
+19-12	2050-2060	putrifying	Smell\_Source[16]	_	_	
+19-13	2061-2066	skins	Smell\_Source[16]	_	_	
+19-14	2066-2067	,	_	_	_	
+19-15	2068-2071	and	_	_	_	
+19-16	2072-2076	this	_	_	_	
+19-17	2077-2085	combined	_	_	_	
+19-18	2086-2090	with	_	_	_	
+19-19	2091-2094	the	_	_	_	
+19-20	2095-2100	smell	Smell\_Word	*|*|*|*	19-21[17_0]|19-30[20_0]|19-28[19_0]|19-23[18_0]	
+19-21	2101-2103	of	Smell\_Source[17]	_	_	
+19-22	2104-2108	lime	Smell\_Source[17]	_	_	
+19-23	2109-2111	in	Location[18]	_	_	
+19-24	2112-2115	one	Location[18]	_	_	
+19-25	2116-2121	place	Location[18]	_	_	
+19-26	2121-2122	,	_	_	_	
+19-27	2123-2126	and	_	_	_	
+19-28	2127-2129	of	Smell\_Source[19]	_	_	
+19-29	2130-2133	tan	Smell\_Source[19]	_	_	
+19-30	2134-2136	in	Location[20]	_	_	
+19-31	2137-2144	another	Location[20]	_	_	
+19-32	2144-2145	.	_	_	_	
+
+#Text=They are exposed constantly
+#Text=to wet and cold.
+20-1	2146-2150	They	_	_	_	
+20-2	2151-2154	are	_	_	_	
+20-3	2155-2162	exposed	_	_	_	
+20-4	2163-2173	constantly	_	_	_	
+20-5	2174-2176	to	_	_	_	
+20-6	2177-2180	wet	_	_	_	
+20-7	2181-2184	and	_	_	_	
+20-8	2185-2189	cold	_	_	_	
+20-9	2189-2190	.	_	_	_	
+
+#Text=Their feet are scarcely ever dry.
+21-1	2191-2196	Their	_	_	_	
+21-2	2197-2201	feet	_	_	_	
+21-3	2202-2205	are	_	_	_	
+21-4	2206-2214	scarcely	_	_	_	
+21-5	2215-2219	ever	_	_	_	
+21-6	2220-2223	dry	_	_	_	
+21-7	2223-2224	.	_	_	_	
+
+#Text=Yet they are remarkably robust; the countenance
+#Text=florid ; and disease almost unknown. t Tanners are
+#Text=said to be exempt from consumption ; and the subject
+#Text=has of late been repeatedly discussed in one of the
+#Text=medical societies of London.
+22-1	2225-2228	Yet	_	_	_	
+22-2	2229-2233	they	_	_	_	
+22-3	2234-2237	are	_	_	_	
+22-4	2238-2248	remarkably	_	_	_	
+22-5	2249-2255	robust	_	_	_	
+22-6	2255-2256	;	_	_	_	
+22-7	2257-2260	the	_	_	_	
+22-8	2261-2272	countenance	_	_	_	
+22-9	2273-2279	florid	_	_	_	
+22-10	2280-2281	;	_	_	_	
+22-11	2282-2285	and	_	_	_	
+22-12	2286-2293	disease	_	_	_	
+22-13	2294-2300	almost	_	_	_	
+22-14	2301-2308	unknown	_	_	_	
+22-15	2308-2309	.	_	_	_	
+22-16	2310-2311	t	_	_	_	
+22-17	2312-2319	Tanners	_	_	_	
+22-18	2320-2323	are	_	_	_	
+22-19	2324-2328	said	_	_	_	
+22-20	2329-2331	to	_	_	_	
+22-21	2332-2334	be	_	_	_	
+22-22	2335-2341	exempt	_	_	_	
+22-23	2342-2346	from	_	_	_	
+22-24	2347-2358	consumption	_	_	_	
+22-25	2359-2360	;	_	_	_	
+22-26	2361-2364	and	_	_	_	
+22-27	2365-2368	the	_	_	_	
+22-28	2369-2376	subject	_	_	_	
+22-29	2377-2380	has	_	_	_	
+22-30	2381-2383	of	_	_	_	
+22-31	2384-2388	late	_	_	_	
+22-32	2389-2393	been	_	_	_	
+22-33	2394-2404	repeatedly	_	_	_	
+22-34	2405-2414	discussed	_	_	_	
+22-35	2415-2417	in	_	_	_	
+22-36	2418-2421	one	_	_	_	
+22-37	2422-2424	of	_	_	_	
+22-38	2425-2428	the	_	_	_	
+22-39	2429-2436	medical	_	_	_	
+22-40	2437-2446	societies	_	_	_	
+22-41	2447-2449	of	_	_	_	
+22-42	2450-2456	London	_	_	_	
+22-43	2456-2457	.	_	_	_	
+
+#Text=We have carefully inquired at several tan-yards, and could not hear of a
+#Text=single example of this formidable disease.
+23-1	2458-2460	We	_	_	_	
+23-2	2461-2465	have	_	_	_	
+23-3	2466-2475	carefully	_	_	_	
+23-4	2476-2484	inquired	_	_	_	
+23-5	2485-2487	at	_	_	_	
+23-6	2488-2495	several	_	_	_	
+23-7	2496-2505	tan-yards	_	_	_	
+23-8	2505-2506	,	_	_	_	
+23-9	2507-2510	and	_	_	_	
+23-10	2511-2516	could	_	_	_	
+23-11	2517-2520	not	_	_	_	
+23-12	2521-2525	hear	_	_	_	
+23-13	2526-2528	of	_	_	_	
+23-14	2529-2530	a	_	_	_	
+23-15	2531-2537	single	_	_	_	
+23-16	2538-2545	example	_	_	_	
+23-17	2546-2548	of	_	_	_	
+23-18	2549-2553	this	_	_	_	
+23-19	2554-2564	formidable	_	_	_	
+23-20	2565-2572	disease	_	_	_	
+23-21	2572-2573	.	_	_	_	
+
+#Text=We do
+#Text=not find old men actually in the employ; and the
+#Text=reason assigned is, not the decline of health, but the
+#Text=inferiority of men past middle age, in undergoing the
+#Text=labour of the process.
+24-1	2574-2576	We	_	_	_	
+24-2	2577-2579	do	_	_	_	
+24-3	2580-2583	not	_	_	_	
+24-4	2584-2588	find	_	_	_	
+24-5	2589-2592	old	_	_	_	
+24-6	2593-2596	men	_	_	_	
+24-7	2597-2605	actually	_	_	_	
+24-8	2606-2608	in	_	_	_	
+24-9	2609-2612	the	_	_	_	
+24-10	2613-2619	employ	_	_	_	
+24-11	2619-2620	;	_	_	_	
+24-12	2621-2624	and	_	_	_	
+24-13	2625-2628	the	_	_	_	
+24-14	2629-2635	reason	_	_	_	
+24-15	2636-2644	assigned	_	_	_	
+24-16	2645-2647	is	_	_	_	
+24-17	2647-2648	,	_	_	_	
+24-18	2649-2652	not	_	_	_	
+24-19	2653-2656	the	_	_	_	
+24-20	2657-2664	decline	_	_	_	
+24-21	2665-2667	of	_	_	_	
+24-22	2668-2674	health	_	_	_	
+24-23	2674-2675	,	_	_	_	
+24-24	2676-2679	but	_	_	_	
+24-25	2680-2683	the	_	_	_	
+24-26	2684-2695	inferiority	_	_	_	
+24-27	2696-2698	of	_	_	_	
+24-28	2699-2702	men	_	_	_	
+24-29	2703-2707	past	_	_	_	
+24-30	2708-2714	middle	_	_	_	
+24-31	2715-2718	age	_	_	_	
+24-32	2718-2719	,	_	_	_	
+24-33	2720-2722	in	_	_	_	
+24-34	2723-2733	undergoing	_	_	_	
+24-35	2734-2737	the	_	_	_	
+24-36	2738-2744	labour	_	_	_	
+24-37	2745-2747	of	_	_	_	
+24-38	2748-2751	the	_	_	_	
+24-39	2752-2759	process	_	_	_	
+24-40	2759-2760	.	_	_	_	
+
+#Text=Persons however in advanced
+#Text=life, yet healthy, are found in other occupations, who
+#Text=have before been for many years in the tan-yards,
+#Text=and have not apparently suffered from the long continued exposure to their offensive odour.
+25-1	2761-2768	Persons	Perceiver[21]	_	_	
+25-2	2769-2776	however	Perceiver[21]	_	_	
+25-3	2777-2779	in	Perceiver[21]	_	_	
+25-4	2780-2788	advanced	Perceiver[21]	_	_	
+25-5	2789-2793	life	Perceiver[21]	_	_	
+25-6	2793-2794	,	_	_	_	
+25-7	2795-2798	yet	_	_	_	
+25-8	2799-2806	healthy	_	_	_	
+25-9	2806-2807	,	_	_	_	
+25-10	2808-2811	are	_	_	_	
+25-11	2812-2817	found	_	_	_	
+25-12	2818-2820	in	_	_	_	
+25-13	2821-2826	other	_	_	_	
+25-14	2827-2838	occupations	_	_	_	
+25-15	2838-2839	,	_	_	_	
+25-16	2840-2843	who	_	_	_	
+25-17	2844-2848	have	_	_	_	
+25-18	2849-2855	before	_	_	_	
+25-19	2856-2860	been	_	_	_	
+25-20	2861-2864	for	Time[22]	_	_	
+25-21	2865-2869	many	Time[22]	_	_	
+25-22	2870-2875	years	Time[22]	_	_	
+25-23	2876-2878	in	Smell\_Source[23]	_	_	
+25-24	2879-2882	the	Smell\_Source[23]	_	_	
+25-25	2883-2892	tan-yards	Smell\_Source[23]	_	_	
+25-26	2892-2893	,	_	_	_	
+25-27	2894-2897	and	_	_	_	
+25-28	2898-2902	have	_	_	_	
+25-29	2903-2906	not	_	_	_	
+25-30	2907-2917	apparently	_	_	_	
+25-31	2918-2926	suffered	_	_	_	
+25-32	2927-2931	from	_	_	_	
+25-33	2932-2935	the	_	_	_	
+25-34	2936-2940	long	_	_	_	
+25-35	2941-2950	continued	_	_	_	
+25-36	2951-2959	exposure	_	_	_	
+25-37	2960-2962	to	_	_	_	
+25-38	2963-2968	their	Smell\_Source	Anaphoric	25-23[23_0]	
+25-39	2969-2978	offensive	Quality	_	_	
+25-40	2979-2984	odour	Smell\_Word	*|*|*|*	25-39|25-38|25-20[22_0]|25-1[21_0]	
+25-41	2984-2985	.	_	_	_	
+
+#Text=Hence we
+#Text=may infer that this employ, while it invigorates the
+#Text=constitution in youth and middle age, does not sensibly shorten life ; does not, in other words, give temporary health at the expense of premature decline.
+26-1	2986-2991	Hence	_	_	_	
+26-2	2992-2994	we	_	_	_	
+26-3	2995-2998	may	_	_	_	
+26-4	2999-3004	infer	_	_	_	
+26-5	3005-3009	that	_	_	_	
+26-6	3010-3014	this	_	_	_	
+26-7	3015-3021	employ	_	_	_	
+26-8	3021-3022	,	_	_	_	
+26-9	3023-3028	while	_	_	_	
+26-10	3029-3031	it	_	_	_	
+26-11	3032-3043	invigorates	_	_	_	
+26-12	3044-3047	the	_	_	_	
+26-13	3048-3060	constitution	_	_	_	
+26-14	3061-3063	in	_	_	_	
+26-15	3064-3069	youth	_	_	_	
+26-16	3070-3073	and	_	_	_	
+26-17	3074-3080	middle	_	_	_	
+26-18	3081-3084	age	_	_	_	
+26-19	3084-3085	,	_	_	_	
+26-20	3086-3090	does	_	_	_	
+26-21	3091-3094	not	_	_	_	
+26-22	3095-3103	sensibly	_	_	_	
+26-23	3104-3111	shorten	_	_	_	
+26-24	3112-3116	life	_	_	_	
+26-25	3117-3118	;	_	_	_	
+26-26	3119-3123	does	_	_	_	
+26-27	3124-3127	not	_	_	_	
+26-28	3127-3128	,	_	_	_	
+26-29	3129-3131	in	_	_	_	
+26-30	3132-3137	other	_	_	_	
+26-31	3138-3143	words	_	_	_	
+26-32	3143-3144	,	_	_	_	
+26-33	3145-3149	give	_	_	_	
+26-34	3150-3159	temporary	_	_	_	
+26-35	3160-3166	health	_	_	_	
+26-36	3167-3169	at	_	_	_	
+26-37	3170-3173	the	_	_	_	
+26-38	3174-3181	expense	_	_	_	
+26-39	3182-3184	of	_	_	_	
+26-40	3185-3194	premature	_	_	_	
+26-41	3195-3202	decline	_	_	_	
+26-42	3202-3203	.	_	_	_	
+
+#Text=Ramazzini tells us, that at Padua the tan-yards
+#Text=were permitted only in the  '  suburbs.
+27-1	3205-3214	Ramazzini	_	_	_	
+27-2	3215-3220	tells	_	_	_	
+27-3	3221-3223	us	_	_	_	
+27-4	3223-3224	,	_	_	_	
+27-5	3225-3229	that	_	_	_	
+27-6	3230-3232	at	Location[24]	_	_	
+27-7	3233-3238	Padua	Location[24]	_	_	
+27-8	3239-3242	the	_	_	_	
+27-9	3243-3252	tan-yards	Smell\_Source	_	_	
+27-10	3253-3257	were	_	_	_	
+27-11	3258-3267	permitted	_	_	_	
+27-12	3268-3272	only	Location[25]	_	_	
+27-13	3273-3275	in	Location[25]	_	_	
+27-14	3276-3279	the	Location[25]	_	_	
+27-15	3281-3282	'	Location[25]	_	_	
+27-16	3284-3291	suburbs	Location[25]	_	_	
+27-17	3291-3292	.	_	_	_	
+
+#Text=Here also, as
+#Text=the stench would be considered a nuisance, tan-yards
+#Text=are at the outskirts.
+28-1	3293-3297	Here	_	_	_	
+28-2	3298-3302	also	_	_	_	
+28-3	3302-3303	,	_	_	_	
+28-4	3304-3306	as	_	_	_	
+28-5	3307-3310	the	_	_	_	
+28-6	3311-3317	stench	Smell\_Word	*|*|*|*	27-6[24_0]|27-9|27-12[25_0]|28-10[26_0]	
+28-7	3318-3323	would	_	_	_	
+28-8	3324-3326	be	_	_	_	
+28-9	3327-3337	considered	_	_	_	
+28-10	3338-3339	a	Quality[26]	_	_	
+28-11	3340-3348	nuisance	Quality[26]	_	_	
+28-12	3348-3349	,	_	_	_	
+28-13	3350-3359	tan-yards	_	_	_	
+28-14	3360-3363	are	_	_	_	
+28-15	3364-3366	at	_	_	_	
+28-16	3367-3370	the	_	_	_	
+28-17	3371-3380	outskirts	_	_	_	
+28-18	3380-3381	.	_	_	_	
+
+#Text=As a matter of medical police,
+#Text=however, we see no occasion for their exclusion from
+#Text=the town.
+29-1	3382-3384	As	_	_	_	
+29-2	3385-3386	a	_	_	_	
+29-3	3387-3393	matter	_	_	_	
+29-4	3394-3396	of	_	_	_	
+29-5	3397-3404	medical	_	_	_	
+29-6	3405-3411	police	_	_	_	
+29-7	3411-3412	,	_	_	_	
+29-8	3413-3420	however	_	_	_	
+29-9	3420-3421	,	_	_	_	
+29-10	3422-3424	we	_	_	_	
+29-11	3425-3428	see	_	_	_	
+29-12	3429-3431	no	_	_	_	
+29-13	3432-3440	occasion	_	_	_	
+29-14	3441-3444	for	_	_	_	
+29-15	3445-3450	their	_	_	_	
+29-16	3451-3460	exclusion	_	_	_	
+29-17	3461-3465	from	_	_	_	
+29-18	3466-3469	the	_	_	_	
+29-19	3470-3474	town	_	_	_	
+29-20	3474-3475	.	_	_	_	

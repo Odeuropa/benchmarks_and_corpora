@@ -1,0 +1,372 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=Why?
+1-1	0-3	Why	_	_	_	
+1-2	3-4	?	_	_	_	
+
+#Text=you may as reasonably expect to preserve your health in a Pest-house, as your Chastity in that damn ' d lascivious Town.
+2-1	5-8	you	_	_	_	
+2-2	9-12	may	_	_	_	
+2-3	13-15	as	_	_	_	
+2-4	16-26	reasonably	_	_	_	
+2-5	27-33	expect	_	_	_	
+2-6	34-36	to	_	_	_	
+2-7	37-45	preserve	_	_	_	
+2-8	46-50	your	_	_	_	
+2-9	51-57	health	_	_	_	
+2-10	58-60	in	_	_	_	
+2-11	61-62	a	_	_	_	
+2-12	63-73	Pest-house	_	_	_	
+2-13	73-74	,	_	_	_	
+2-14	75-77	as	_	_	_	
+2-15	78-82	your	_	_	_	
+2-16	83-91	Chastity	_	_	_	
+2-17	92-94	in	_	_	_	
+2-18	95-99	that	_	_	_	
+2-19	100-104	damn	_	_	_	
+2-20	105-106	'	_	_	_	
+2-21	107-108	d	_	_	_	
+2-22	109-119	lascivious	_	_	_	
+2-23	120-124	Town	_	_	_	
+2-24	124-125	.	_	_	_	
+
+#Text=Luc.
+3-1	127-130	Luc	_	_	_	
+3-2	130-131	.	_	_	_	
+
+#Text=You are rude, Sir.
+4-1	132-135	You	_	_	_	
+4-2	136-139	are	_	_	_	
+4-3	140-144	rude	_	_	_	
+4-4	144-145	,	_	_	_	
+4-5	146-149	Sir	_	_	_	
+4-6	149-150	.	_	_	_	
+
+#Text=Clodp.
+5-1	152-157	Clodp	_	_	_	
+5-2	157-158	.	_	_	_	
+
+#Text=Come, Madam, plain dealing is a jewel.
+6-1	159-163	Come	_	_	_	
+6-2	163-164	,	_	_	_	
+6-3	165-170	Madam	_	_	_	
+6-4	170-171	,	_	_	_	
+6-5	172-177	plain	_	_	_	
+6-6	178-185	dealing	_	_	_	
+6-7	186-188	is	_	_	_	
+6-8	189-190	a	_	_	_	
+6-9	191-196	jewel	_	_	_	
+6-10	196-197	.	_	_	_	
+
+#Text=But can you prefer an idle scandalous London-life, before a prety innocent huswifely-life in the Country to look to your Family, and visit your Neighbours.
+7-1	198-201	But	_	_	_	
+7-2	202-205	can	_	_	_	
+7-3	206-209	you	_	_	_	
+7-4	210-216	prefer	_	_	_	
+7-5	217-219	an	_	_	_	
+7-6	220-224	idle	_	_	_	
+7-7	225-235	scandalous	_	_	_	
+7-8	236-247	London-life	_	_	_	
+7-9	247-248	,	_	_	_	
+7-10	249-255	before	_	_	_	
+7-11	256-257	a	_	_	_	
+7-12	258-263	prety	_	_	_	
+7-13	264-272	innocent	_	_	_	
+7-14	273-287	huswifely-life	_	_	_	
+7-15	288-290	in	_	_	_	
+7-16	291-294	the	_	_	_	
+7-17	295-302	Country	_	_	_	
+7-18	303-305	to	_	_	_	
+7-19	306-310	look	_	_	_	
+7-20	311-313	to	_	_	_	
+7-21	314-318	your	_	_	_	
+7-22	319-325	Family	_	_	_	
+7-23	325-326	,	_	_	_	
+7-24	327-330	and	_	_	_	
+7-25	331-336	visit	_	_	_	
+7-26	337-341	your	_	_	_	
+7-27	342-352	Neighbours	_	_	_	
+7-28	352-353	.	_	_	_	
+
+#Text=Luc.
+8-1	355-358	Luc	_	_	_	
+8-2	358-359	.	_	_	_	
+
+#Text=To see my Ducks and Geese fed, and cram my own Chickens.
+9-1	360-362	To	_	_	_	
+9-2	363-366	see	_	_	_	
+9-3	367-369	my	_	_	_	
+9-4	370-375	Ducks	_	_	_	
+9-5	376-379	and	_	_	_	
+9-6	380-385	Geese	_	_	_	
+9-7	386-389	fed	_	_	_	
+9-8	389-390	,	_	_	_	
+9-9	391-394	and	_	_	_	
+9-10	395-399	cram	_	_	_	
+9-11	400-402	my	_	_	_	
+9-12	403-406	own	_	_	_	
+9-13	407-415	Chickens	_	_	_	
+9-14	415-416	.	_	_	_	
+
+#Text=Clodp.
+10-1	418-423	Clodp	_	_	_	
+10-2	423-424	.	_	_	_	
+
+#Text=Ay.
+11-1	425-427	Ay	_	_	_	
+11-2	427-428	.	_	_	_	
+
+#Text=Luc.
+12-1	430-433	Luc	_	_	_	
+12-2	433-434	.	_	_	_	
+
+#Text=To have my Closet stink like a Pothecaries shop with Drugs and Medicines, to administer to my sick Neighbours; and spoil the next Quacks practice with the receipt book that belongs to the family.
+13-1	435-437	To	_	_	_	
+13-2	438-442	have	_	_	_	
+13-3	443-445	my	Perceiver	_	_	
+13-4	446-452	Closet	Smell\_Source	_	_	
+13-5	453-458	stink	Smell\_Word	*|*|*	13-6[1_0]|13-4|13-3	
+13-6	459-463	like	Evoked\_Odorant[1]	_	_	
+13-7	464-465	a	Evoked\_Odorant[1]	_	_	
+13-8	466-477	Pothecaries	Evoked\_Odorant[1]	_	_	
+13-9	478-482	shop	Evoked\_Odorant[1]	_	_	
+13-10	483-487	with	Evoked\_Odorant[1]	_	_	
+13-11	488-493	Drugs	Evoked\_Odorant[1]	_	_	
+13-12	494-497	and	Evoked\_Odorant[1]	_	_	
+13-13	498-507	Medicines	Evoked\_Odorant[1]	_	_	
+13-14	507-508	,	_	_	_	
+13-15	509-511	to	_	_	_	
+13-16	512-522	administer	_	_	_	
+13-17	523-525	to	_	_	_	
+13-18	526-528	my	_	_	_	
+13-19	529-533	sick	_	_	_	
+13-20	534-544	Neighbours	_	_	_	
+13-21	544-545	;	_	_	_	
+13-22	546-549	and	_	_	_	
+13-23	550-555	spoil	_	_	_	
+13-24	556-559	the	_	_	_	
+13-25	560-564	next	_	_	_	
+13-26	565-571	Quacks	_	_	_	
+13-27	572-580	practice	_	_	_	
+13-28	581-585	with	_	_	_	
+13-29	586-589	the	_	_	_	
+13-30	590-597	receipt	_	_	_	
+13-31	598-602	book	_	_	_	
+13-32	603-607	that	_	_	_	
+13-33	608-615	belongs	_	_	_	
+13-34	616-618	to	_	_	_	
+13-35	619-622	the	_	_	_	
+13-36	623-629	family	_	_	_	
+13-37	629-630	.	_	_	_	
+
+#Text=Clodp.
+14-1	632-637	Clodp	_	_	_	
+14-2	637-638	.	_	_	_	
+
+#Text=Very well.
+15-1	639-643	Very	_	_	_	
+15-2	644-648	well	_	_	_	
+15-3	648-649	.	_	_	_	
+
+#Text=Luc.
+16-1	651-654	Luc	_	_	_	
+16-2	654-655	.	_	_	_	
+
+#Text=And then to have one approv ' d Green-salve, and dress sore legs with it; and all this to deserve the name of as good a neighbourly body as ever came into Sussex.
+17-1	656-659	And	_	_	_	
+17-2	660-664	then	_	_	_	
+17-3	665-667	to	_	_	_	
+17-4	668-672	have	_	_	_	
+17-5	673-676	one	_	_	_	
+17-6	677-683	approv	_	_	_	
+17-7	684-685	'	_	_	_	
+17-8	686-687	d	_	_	_	
+17-9	688-699	Green-salve	_	_	_	
+17-10	699-700	,	_	_	_	
+17-11	701-704	and	_	_	_	
+17-12	705-710	dress	_	_	_	
+17-13	711-715	sore	_	_	_	
+17-14	716-720	legs	_	_	_	
+17-15	721-725	with	_	_	_	
+17-16	726-728	it	_	_	_	
+17-17	728-729	;	_	_	_	
+17-18	730-733	and	_	_	_	
+17-19	734-737	all	_	_	_	
+17-20	738-742	this	_	_	_	
+17-21	743-745	to	_	_	_	
+17-22	746-753	deserve	_	_	_	
+17-23	754-757	the	_	_	_	
+17-24	758-762	name	_	_	_	
+17-25	763-765	of	_	_	_	
+17-26	766-768	as	_	_	_	
+17-27	769-773	good	_	_	_	
+17-28	774-775	a	_	_	_	
+17-29	776-787	neighbourly	_	_	_	
+17-30	788-792	body	_	_	_	
+17-31	793-795	as	_	_	_	
+17-32	796-800	ever	_	_	_	
+17-33	801-805	came	_	_	_	
+17-34	806-810	into	_	_	_	
+17-35	811-817	Sussex	_	_	_	
+17-36	817-818	.	_	_	_	
+
+#Text=Clodp.
+18-1	820-825	Clodp	_	_	_	
+18-2	825-826	.	_	_	_	
+
+#Text=Very good.
+19-1	827-831	Very	_	_	_	
+19-2	832-836	good	_	_	_	
+19-3	836-837	.	_	_	_	
+
+#Text=Luc.
+20-1	839-842	Luc	_	_	_	
+20-2	842-843	.	_	_	_	
+
+#Text=Never to hear a Fiddle, but such as sounds worse than the Tongs and Key, or a Gridiron; never to read better Poetry, than Iohn Hopkins, or Robert Wisdoms vile Metre; nor hear better singing than a company of Peasants praising God
+#Text=
+#Text=with doleful untunable hoarce voices, that are only fit to be heard under the Gallows.
+21-1	844-849	Never	_	_	_	
+21-2	850-852	to	_	_	_	
+21-3	853-857	hear	_	_	_	
+21-4	858-859	a	_	_	_	
+21-5	860-866	Fiddle	_	_	_	
+21-6	866-867	,	_	_	_	
+21-7	868-871	but	_	_	_	
+21-8	872-876	such	_	_	_	
+21-9	877-879	as	_	_	_	
+21-10	880-886	sounds	_	_	_	
+21-11	887-892	worse	_	_	_	
+21-12	893-897	than	_	_	_	
+21-13	898-901	the	_	_	_	
+21-14	902-907	Tongs	_	_	_	
+21-15	908-911	and	_	_	_	
+21-16	912-915	Key	_	_	_	
+21-17	915-916	,	_	_	_	
+21-18	917-919	or	_	_	_	
+21-19	920-921	a	_	_	_	
+21-20	922-930	Gridiron	_	_	_	
+21-21	930-931	;	_	_	_	
+21-22	932-937	never	_	_	_	
+21-23	938-940	to	_	_	_	
+21-24	941-945	read	_	_	_	
+21-25	946-952	better	_	_	_	
+21-26	953-959	Poetry	_	_	_	
+21-27	959-960	,	_	_	_	
+21-28	961-965	than	_	_	_	
+21-29	966-970	Iohn	_	_	_	
+21-30	971-978	Hopkins	_	_	_	
+21-31	978-979	,	_	_	_	
+21-32	980-982	or	_	_	_	
+21-33	983-989	Robert	_	_	_	
+21-34	990-997	Wisdoms	_	_	_	
+21-35	998-1002	vile	_	_	_	
+21-36	1003-1008	Metre	_	_	_	
+21-37	1008-1009	;	_	_	_	
+21-38	1010-1013	nor	_	_	_	
+21-39	1014-1018	hear	_	_	_	
+21-40	1019-1025	better	_	_	_	
+21-41	1026-1033	singing	_	_	_	
+21-42	1034-1038	than	_	_	_	
+21-43	1039-1040	a	_	_	_	
+21-44	1041-1048	company	_	_	_	
+21-45	1049-1051	of	_	_	_	
+21-46	1052-1060	Peasants	_	_	_	
+21-47	1061-1069	praising	_	_	_	
+21-48	1070-1073	God	_	_	_	
+21-49	1075-1079	with	_	_	_	
+21-50	1080-1087	doleful	_	_	_	
+21-51	1088-1097	untunable	_	_	_	
+21-52	1098-1104	hoarce	_	_	_	
+21-53	1105-1111	voices	_	_	_	
+21-54	1111-1112	,	_	_	_	
+21-55	1113-1117	that	_	_	_	
+21-56	1118-1121	are	_	_	_	
+21-57	1122-1126	only	_	_	_	
+21-58	1127-1130	fit	_	_	_	
+21-59	1131-1133	to	_	_	_	
+21-60	1134-1136	be	_	_	_	
+21-61	1137-1142	heard	_	_	_	
+21-62	1143-1148	under	_	_	_	
+21-63	1149-1152	the	_	_	_	
+21-64	1153-1160	Gallows	_	_	_	
+21-65	1160-1161	.	_	_	_	
+
+#Text=Clodp.
+22-1	1163-1168	Clodp	_	_	_	
+22-2	1168-1169	.	_	_	_	
+
+#Text=However you make bold with the Country, be not prophane.
+23-1	1170-1177	However	_	_	_	
+23-2	1178-1181	you	_	_	_	
+23-3	1182-1186	make	_	_	_	
+23-4	1187-1191	bold	_	_	_	
+23-5	1192-1196	with	_	_	_	
+23-6	1197-1200	the	_	_	_	
+23-7	1201-1208	Country	_	_	_	
+23-8	1208-1209	,	_	_	_	
+23-9	1210-1212	be	_	_	_	
+23-10	1213-1216	not	_	_	_	
+23-11	1217-1225	prophane	_	_	_	
+23-12	1225-1226	.	_	_	_	
+
+#Text=Is not this better than any thing in that stinking Town?
+24-1	1227-1229	Is	_	_	_	
+24-2	1230-1233	not	_	_	_	
+24-3	1234-1238	this	_	_	_	
+24-4	1239-1245	better	_	_	_	
+24-5	1246-1250	than	_	_	_	
+24-6	1251-1254	any	_	_	_	
+24-7	1255-1260	thing	_	_	_	
+24-8	1261-1263	in	_	_	_	
+24-9	1264-1268	that	_	_	_	
+24-10	1269-1277	stinking	Smell\_Word[2]|Quality[3]	*|*	24-10[3_2]|24-11[0_2]	
+24-11	1278-1282	Town	Location	_	_	
+24-12	1282-1283	?	_	_	_	
+
+#Text=Luc.
+25-1	1285-1288	Luc	_	_	_	
+25-2	1288-1289	.	_	_	_	
+
+#Text=Stinking Town!
+26-1	1290-1298	Stinking	Smell\_Word[4]|Quality[5]	*|*	26-2[0_4]|26-1[5_4]	
+26-2	1299-1303	Town	Location	_	_	
+26-3	1303-1304	!	_	_	_	
+
+#Text=I had rather be Countess of Puddledock, than Queen of Sussex.
+27-1	1305-1306	I	_	_	_	
+27-2	1307-1310	had	_	_	_	
+27-3	1311-1317	rather	_	_	_	
+27-4	1318-1320	be	_	_	_	
+27-5	1321-1329	Countess	_	_	_	
+27-6	1330-1332	of	_	_	_	
+27-7	1333-1343	Puddledock	_	_	_	
+27-8	1343-1344	,	_	_	_	
+27-9	1345-1349	than	_	_	_	
+27-10	1350-1355	Queen	_	_	_	
+27-11	1356-1358	of	_	_	_	
+27-12	1359-1365	Sussex	_	_	_	
+27-13	1365-1366	.	_	_	_	
+
+#Text=Clodp.
+28-1	1368-1373	Clodp	_	_	_	
+28-2	1373-1374	.	_	_	_	
+
+#Text=Oh foh— but ah, the excellent fresh air upon the Downs.
+29-1	1375-1377	Oh	_	_	_	
+29-2	1378-1381	foh	_	_	_	
+29-3	1381-1382	—	_	_	_	
+29-4	1383-1386	but	_	_	_	
+29-5	1387-1389	ah	_	_	_	
+29-6	1389-1390	,	_	_	_	
+29-7	1391-1394	the	_	_	_	
+29-8	1395-1404	excellent	_	_	_	
+29-9	1405-1410	fresh	_	_	_	
+29-10	1411-1414	air	_	_	_	
+29-11	1415-1419	upon	_	_	_	
+29-12	1420-1423	the	_	_	_	
+29-13	1424-1429	Downs	_	_	_	
+29-14	1429-1430	.	_	_	_	

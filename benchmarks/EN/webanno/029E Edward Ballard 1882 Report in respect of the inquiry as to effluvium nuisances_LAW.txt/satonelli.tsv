@@ -1,0 +1,861 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=The offensiveness of the several processes described varies from none
+#Text=at all to that which constitutes one of the most intolerable of nuisances.
+1-1	0-3	The	_	_	_	
+1-2	4-17	offensiveness	_	_	_	
+1-3	18-20	of	_	_	_	
+1-4	21-24	the	_	_	_	
+1-5	25-32	several	_	_	_	
+1-6	33-42	processes	_	_	_	
+1-7	43-52	described	_	_	_	
+1-8	53-59	varies	_	_	_	
+1-9	60-64	from	_	_	_	
+1-10	65-69	none	_	_	_	
+1-11	70-72	at	_	_	_	
+1-12	73-76	all	_	_	_	
+1-13	77-79	to	_	_	_	
+1-14	80-84	that	_	_	_	
+1-15	85-90	which	_	_	_	
+1-16	91-102	constitutes	_	_	_	
+1-17	103-106	one	_	_	_	
+1-18	107-109	of	_	_	_	
+1-19	110-113	the	_	_	_	
+1-20	114-118	most	_	_	_	
+1-21	119-130	intolerable	_	_	_	
+1-22	131-133	of	_	_	_	
+1-23	134-143	nuisances	_	_	_	
+1-24	143-144	.	_	_	_	
+
+#Text=On different occasions the interference or assistance of the Local
+#Text=Government Board have been solicited for the suppression of nuisances
+#Text=from works of this character.
+2-1	145-147	On	_	_	_	
+2-2	148-157	different	_	_	_	
+2-3	158-167	occasions	_	_	_	
+2-4	168-171	the	_	_	_	
+2-5	172-184	interference	_	_	_	
+2-6	185-187	or	_	_	_	
+2-7	188-198	assistance	_	_	_	
+2-8	199-201	of	_	_	_	
+2-9	202-205	the	_	_	_	
+2-10	206-211	Local	_	_	_	
+2-11	212-222	Government	_	_	_	
+2-12	223-228	Board	_	_	_	
+2-13	229-233	have	_	_	_	
+2-14	234-238	been	_	_	_	
+2-15	239-248	solicited	_	_	_	
+2-16	249-252	for	_	_	_	
+2-17	253-256	the	_	_	_	
+2-18	257-268	suppression	_	_	_	
+2-19	269-271	of	_	_	_	
+2-20	272-281	nuisances	_	_	_	
+2-21	282-286	from	_	_	_	
+2-22	287-292	works	_	_	_	
+2-23	293-295	of	_	_	_	
+2-24	296-300	this	_	_	_	
+2-25	301-310	character	_	_	_	
+2-26	310-311	.	_	_	_	
+
+#Text=The most notable instances of applications of this kind of late years have been in respect of nuisances from
+#Text=manure works along the shores of the Thames in 1873, and in respect
+#Text=of similar nuisances at Plymouth in 1875.
+3-1	312-315	The	_	_	_	
+3-2	316-320	most	_	_	_	
+3-3	321-328	notable	_	_	_	
+3-4	329-338	instances	_	_	_	
+3-5	339-341	of	_	_	_	
+3-6	342-354	applications	_	_	_	
+3-7	355-357	of	_	_	_	
+3-8	358-362	this	_	_	_	
+3-9	363-367	kind	_	_	_	
+3-10	368-370	of	_	_	_	
+3-11	371-375	late	_	_	_	
+3-12	376-381	years	_	_	_	
+3-13	382-386	have	_	_	_	
+3-14	387-391	been	_	_	_	
+3-15	392-394	in	_	_	_	
+3-16	395-402	respect	_	_	_	
+3-17	403-405	of	_	_	_	
+3-18	406-415	nuisances	_	_	_	
+3-19	416-420	from	_	_	_	
+3-20	421-427	manure	_	_	_	
+3-21	428-433	works	_	_	_	
+3-22	434-439	along	_	_	_	
+3-23	440-443	the	_	_	_	
+3-24	444-450	shores	_	_	_	
+3-25	451-453	of	_	_	_	
+3-26	454-457	the	_	_	_	
+3-27	458-464	Thames	_	_	_	
+3-28	465-467	in	_	_	_	
+3-29	468-472	1873	_	_	_	
+3-30	472-473	,	_	_	_	
+3-31	474-477	and	_	_	_	
+3-32	478-480	in	_	_	_	
+3-33	481-488	respect	_	_	_	
+3-34	489-491	of	_	_	_	
+3-35	492-499	similar	_	_	_	
+3-36	500-509	nuisances	_	_	_	
+3-37	510-512	at	_	_	_	
+3-38	513-521	Plymouth	_	_	_	
+3-39	522-524	in	_	_	_	
+3-40	525-529	1875	_	_	_	
+3-41	529-530	.	_	_	_	
+
+#Text=I reported to the Board fully
+#Text=upon the former of these cases in December 1873, but more briefly
+#Text=upon the latter of them, since at that time the present general inquiry
+#Text=had been set on foot.
+4-1	531-532	I	_	_	_	
+4-2	533-541	reported	_	_	_	
+4-3	542-544	to	_	_	_	
+4-4	545-548	the	_	_	_	
+4-5	549-554	Board	_	_	_	
+4-6	555-560	fully	_	_	_	
+4-7	561-565	upon	_	_	_	
+4-8	566-569	the	_	_	_	
+4-9	570-576	former	_	_	_	
+4-10	577-579	of	_	_	_	
+4-11	580-585	these	_	_	_	
+4-12	586-591	cases	_	_	_	
+4-13	592-594	in	_	_	_	
+4-14	595-603	December	_	_	_	
+4-15	604-608	1873	_	_	_	
+4-16	608-609	,	_	_	_	
+4-17	610-613	but	_	_	_	
+4-18	614-618	more	_	_	_	
+4-19	619-626	briefly	_	_	_	
+4-20	627-631	upon	_	_	_	
+4-21	632-635	the	_	_	_	
+4-22	636-642	latter	_	_	_	
+4-23	643-645	of	_	_	_	
+4-24	646-650	them	_	_	_	
+4-25	650-651	,	_	_	_	
+4-26	652-657	since	_	_	_	
+4-27	658-660	at	_	_	_	
+4-28	661-665	that	_	_	_	
+4-29	666-670	time	_	_	_	
+4-30	671-674	the	_	_	_	
+4-31	675-682	present	_	_	_	
+4-32	683-690	general	_	_	_	
+4-33	691-698	inquiry	_	_	_	
+4-34	699-702	had	_	_	_	
+4-35	703-707	been	_	_	_	
+4-36	708-711	set	_	_	_	
+4-37	712-714	on	_	_	_	
+4-38	715-719	foot	_	_	_	
+4-39	719-720	.	_	_	_	
+
+#Text=It is difficult to describe odours except by the use
+#Text=of similitudes.
+5-1	721-723	It	_	_	_	
+5-2	724-726	is	_	_	_	
+5-3	727-736	difficult	_	_	_	
+5-4	737-739	to	_	_	_	
+5-5	740-748	describe	_	_	_	
+5-6	749-755	odours	Smell\_Word	_	_	
+5-7	756-762	except	_	_	_	
+5-8	763-765	by	_	_	_	
+5-9	766-769	the	_	_	_	
+5-10	770-773	use	_	_	_	
+5-11	774-776	of	_	_	_	
+5-12	777-788	similitudes	_	_	_	
+5-13	788-789	.	_	_	_	
+
+#Text=The offensive odour proceeding from superphosphate
+#Text=works, from works in which animal matters are used more or less freely,
+#Text=and from “ scutch ’’ manure works is, however, so distinctive that once
+#Text=smelt it can never afterwards fail to be recognised.
+6-1	790-793	The	_	_	_	
+6-2	794-803	offensive	Quality	_	_	
+6-3	804-809	odour	Smell\_Word	*|*	6-2|6-5[1_0]	
+6-4	810-820	proceeding	_	_	_	
+6-5	821-825	from	Smell\_Source[1]	_	_	
+6-6	826-840	superphosphate	Smell\_Source[1]	_	_	
+6-7	841-846	works	Smell\_Source[1]	_	_	
+6-8	846-847	,	_	_	_	
+6-9	848-852	from	Smell\_Source[2]	_	_	
+6-10	853-858	works	Smell\_Source[2]	_	_	
+6-11	859-861	in	Smell\_Source[2]	_	_	
+6-12	862-867	which	Smell\_Source[2]	_	_	
+6-13	868-874	animal	Smell\_Source[2]	_	_	
+6-14	875-882	matters	Smell\_Source[2]	_	_	
+6-15	883-886	are	Smell\_Source[2]	_	_	
+6-16	887-891	used	Smell\_Source[2]	_	_	
+6-17	892-896	more	Smell\_Source[2]	_	_	
+6-18	897-899	or	Smell\_Source[2]	_	_	
+6-19	900-904	less	Smell\_Source[2]	_	_	
+6-20	905-911	freely	Smell\_Source[2]	_	_	
+6-21	911-912	,	_	_	_	
+6-22	913-916	and	_	_	_	
+6-23	917-921	from	Smell\_Source[3]	_	_	
+6-24	922-923	“	Smell\_Source[3]	_	_	
+6-25	924-930	scutch	Smell\_Source[3]	_	_	
+6-26	931-932	’	Smell\_Source[3]	_	_	
+6-27	932-933	’	Smell\_Source[3]	_	_	
+6-28	934-940	manure	Smell\_Source[3]	_	_	
+6-29	941-946	works	Smell\_Source[3]	_	_	
+6-30	947-949	is	_	_	_	
+6-31	949-950	,	_	_	_	
+6-32	951-958	however	_	_	_	
+6-33	958-959	,	_	_	_	
+6-34	960-962	so	Quality[4]	_	_	
+6-35	963-974	distinctive	Quality[4]	_	_	
+6-36	975-979	that	_	_	_	
+6-37	980-984	once	_	_	_	
+6-38	985-990	smelt	Smell\_Word	*|*|*|*	6-34[4_0]|6-39[5_0]|6-23[3_0]|6-9[2_0]	
+6-39	991-993	it	Effect[5]	_	_	
+6-40	994-997	can	Effect[5]	_	_	
+6-41	998-1003	never	Effect[5]	_	_	
+6-42	1004-1014	afterwards	Effect[5]	_	_	
+6-43	1015-1019	fail	Effect[5]	_	_	
+6-44	1020-1022	to	Effect[5]	_	_	
+6-45	1023-1025	be	Effect[5]	_	_	
+6-46	1026-1036	recognised	Effect[5]	_	_	
+6-47	1036-1037	.	_	_	_	
+
+#Text=That from superphosphate making is pungent and slightly acid ; by some persons it is
+#Text=called sickening, but its offensiveness and sickening quality are enhanced
+#Text=where such animal matters as blood, offal, or fish, especially if putrid,
+#Text=are employed in the manufacture of the manure.
+7-1	1038-1042	That	Smell\_Word	Anaphoric|*|*|*|*|*|*	6-3|7-2[6_0]|7-6|7-8[7_0]|7-17|7-21|7-23[8_0]	
+7-2	1043-1047	from	Smell\_Source[6]	_	_	
+7-3	1048-1062	superphosphate	Smell\_Source[6]	_	_	
+7-4	1063-1069	making	Smell\_Source[6]	_	_	
+7-5	1070-1072	is	_	_	_	
+7-6	1073-1080	pungent	Quality	_	_	
+7-7	1081-1084	and	_	_	_	
+7-8	1085-1093	slightly	Quality[7]	_	_	
+7-9	1094-1098	acid	Quality[7]	_	_	
+7-10	1099-1100	;	_	_	_	
+7-11	1101-1103	by	_	_	_	
+7-12	1104-1108	some	_	_	_	
+7-13	1109-1116	persons	_	_	_	
+7-14	1117-1119	it	_	_	_	
+7-15	1120-1122	is	_	_	_	
+7-16	1123-1129	called	_	_	_	
+7-17	1130-1139	sickening	Quality	_	_	
+7-18	1139-1140	,	_	_	_	
+7-19	1141-1144	but	_	_	_	
+7-20	1145-1148	its	_	_	_	
+7-21	1149-1162	offensiveness	Quality	_	_	
+7-22	1163-1166	and	_	_	_	
+7-23	1167-1176	sickening	Quality[8]	_	_	
+7-24	1177-1184	quality	Quality[8]	_	_	
+7-25	1185-1188	are	_	_	_	
+7-26	1189-1197	enhanced	_	_	_	
+7-27	1198-1203	where	_	_	_	
+7-28	1204-1208	such	_	_	_	
+7-29	1209-1215	animal	_	_	_	
+7-30	1216-1223	matters	_	_	_	
+7-31	1224-1226	as	_	_	_	
+7-32	1227-1232	blood	_	_	_	
+7-33	1232-1233	,	_	_	_	
+7-34	1234-1239	offal	_	_	_	
+7-35	1239-1240	,	_	_	_	
+7-36	1241-1243	or	_	_	_	
+7-37	1244-1248	fish	_	_	_	
+7-38	1248-1249	,	_	_	_	
+7-39	1250-1260	especially	_	_	_	
+7-40	1261-1263	if	_	_	_	
+7-41	1264-1270	putrid	_	_	_	
+7-42	1270-1271	,	_	_	_	
+7-43	1272-1275	are	_	_	_	
+7-44	1276-1284	employed	_	_	_	
+7-45	1285-1287	in	_	_	_	
+7-46	1288-1291	the	_	_	_	
+7-47	1292-1303	manufacture	_	_	_	
+7-48	1304-1306	of	_	_	_	
+7-49	1307-1310	the	_	_	_	
+7-50	1311-1317	manure	_	_	_	
+7-51	1317-1318	.	_	_	_	
+
+#Text=I know of no odour
+#Text=more horribly sickening than that which is evolved when sulphuric acid
+#Text=is mixed with human excrement.
+8-1	1319-1320	I	_	_	_	
+8-2	1321-1325	know	_	_	_	
+8-3	1326-1328	of	_	_	_	
+8-4	1329-1331	no	_	_	_	
+8-5	1332-1337	odour	Smell\_Word	*|*	8-6[9_0]|8-14[10_0]	
+8-6	1338-1342	more	Quality[9]	_	_	
+8-7	1343-1351	horribly	Quality[9]	_	_	
+8-8	1352-1361	sickening	Quality[9]	_	_	
+8-9	1362-1366	than	_	_	_	
+8-10	1367-1371	that	_	_	_	
+8-11	1372-1377	which	_	_	_	
+8-12	1378-1380	is	_	_	_	
+8-13	1381-1388	evolved	_	_	_	
+8-14	1389-1393	when	Circumstances[10]	_	_	
+8-15	1394-1403	sulphuric	Circumstances[10]	_	_	
+8-16	1404-1408	acid	Circumstances[10]	_	_	
+8-17	1409-1411	is	Circumstances[10]	_	_	
+8-18	1412-1417	mixed	Circumstances[10]	_	_	
+8-19	1418-1422	with	Circumstances[10]	_	_	
+8-20	1423-1428	human	Circumstances[10]	_	_	
+8-21	1429-1438	excrement	Circumstances[10]	_	_	
+8-22	1438-1439	.	_	_	_	
+
+#Text=One of the most offensive works of
+#Text=this kind that has come within my observation, where animal matter of
+#Text=various kinds, and sometimes excrement, are used, is Bradb urn’s establishment at Wednesfield, upon which I reported to the Board in my
+#Text=report on the sanitary condition of that place in 1874.
+9-1	1440-1443	One	_	_	_	
+9-2	1444-1446	of	_	_	_	
+9-3	1447-1450	the	_	_	_	
+9-4	1451-1455	most	_	_	_	
+9-5	1456-1465	offensive	_	_	_	
+9-6	1466-1471	works	_	_	_	
+9-7	1472-1474	of	_	_	_	
+9-8	1475-1479	this	_	_	_	
+9-9	1480-1484	kind	_	_	_	
+9-10	1485-1489	that	_	_	_	
+9-11	1490-1493	has	_	_	_	
+9-12	1494-1498	come	_	_	_	
+9-13	1499-1505	within	_	_	_	
+9-14	1506-1508	my	_	_	_	
+9-15	1509-1520	observation	_	_	_	
+9-16	1520-1521	,	_	_	_	
+9-17	1522-1527	where	_	_	_	
+9-18	1528-1534	animal	_	_	_	
+9-19	1535-1541	matter	_	_	_	
+9-20	1542-1544	of	_	_	_	
+9-21	1545-1552	various	_	_	_	
+9-22	1553-1558	kinds	_	_	_	
+9-23	1558-1559	,	_	_	_	
+9-24	1560-1563	and	_	_	_	
+9-25	1564-1573	sometimes	_	_	_	
+9-26	1574-1583	excrement	_	_	_	
+9-27	1583-1584	,	_	_	_	
+9-28	1585-1588	are	_	_	_	
+9-29	1589-1593	used	_	_	_	
+9-30	1593-1594	,	_	_	_	
+9-31	1595-1597	is	_	_	_	
+9-32	1598-1603	Bradb	_	_	_	
+9-33	1604-1607	urn	_	_	_	
+9-34	1607-1608	’	_	_	_	
+9-35	1608-1609	s	_	_	_	
+9-36	1610-1623	establishment	_	_	_	
+9-37	1624-1626	at	_	_	_	
+9-38	1627-1638	Wednesfield	_	_	_	
+9-39	1638-1639	,	_	_	_	
+9-40	1640-1644	upon	_	_	_	
+9-41	1645-1650	which	_	_	_	
+9-42	1651-1652	I	_	_	_	
+9-43	1653-1661	reported	_	_	_	
+9-44	1662-1664	to	_	_	_	
+9-45	1665-1668	the	_	_	_	
+9-46	1669-1674	Board	_	_	_	
+9-47	1675-1677	in	_	_	_	
+9-48	1678-1680	my	_	_	_	
+9-49	1681-1687	report	_	_	_	
+9-50	1688-1690	on	_	_	_	
+9-51	1691-1694	the	_	_	_	
+9-52	1695-1703	sanitary	_	_	_	
+9-53	1704-1713	condition	_	_	_	
+9-54	1714-1716	of	_	_	_	
+9-55	1717-1721	that	_	_	_	
+9-56	1722-1727	place	_	_	_	
+9-57	1728-1730	in	_	_	_	
+9-58	1731-1735	1874	_	_	_	
+9-59	1735-1736	.	_	_	_	
+
+#Text=The smell
+#Text=proceeding from scutch manure works is described by some persons as
+#Text=putrid as well as sickening.
+10-1	1737-1740	The	_	_	_	
+10-2	1741-1746	smell	Smell\_Word	*|*|*|*	10-4[11_0]|10-10[12_0]|10-14|10-18	
+10-3	1747-1757	proceeding	_	_	_	
+10-4	1758-1762	from	Smell\_Source[11]	_	_	
+10-5	1763-1769	scutch	Smell\_Source[11]	_	_	
+10-6	1770-1776	manure	Smell\_Source[11]	_	_	
+10-7	1777-1782	works	Smell\_Source[11]	_	_	
+10-8	1783-1785	is	_	_	_	
+10-9	1786-1795	described	_	_	_	
+10-10	1796-1798	by	Perceiver[12]	_	_	
+10-11	1799-1803	some	Perceiver[12]	_	_	
+10-12	1804-1811	persons	Perceiver[12]	_	_	
+10-13	1812-1814	as	_	_	_	
+10-14	1815-1821	putrid	Quality	_	_	
+10-15	1822-1824	as	_	_	_	
+10-16	1825-1829	well	_	_	_	
+10-17	1830-1832	as	_	_	_	
+10-18	1833-1842	sickening	Quality	_	_	
+10-19	1842-1843	.	_	_	_	
+
+#Text=Dr.
+11-1	1844-1846	Dr	_	_	_	
+11-2	1846-1847	.	_	_	_	
+
+#Text=Gordon, the principal medical officer
+#Text=of the Woolwich garrison, described to me the odour proceeding from
+#Text=the scutch manure works on Erith marshes as resembling, more than
+#Text=anything else, that which he had perceived in India when passing to
+#Text=leeward of the places in which the Hindoos burn their dead.
+12-1	1848-1854	Gordon	Perceiver[13]	_	_	
+12-2	1854-1855	,	Perceiver[13]	_	_	
+12-3	1856-1859	the	Perceiver[13]	_	_	
+12-4	1860-1869	principal	Perceiver[13]	_	_	
+12-5	1870-1877	medical	Perceiver[13]	_	_	
+12-6	1878-1885	officer	Perceiver[13]	_	_	
+12-7	1886-1888	of	Perceiver[13]	_	_	
+12-8	1889-1892	the	Perceiver[13]	_	_	
+12-9	1893-1901	Woolwich	Perceiver[13]	_	_	
+12-10	1902-1910	garrison	Perceiver[13]	_	_	
+12-11	1910-1911	,	_	_	_	
+12-12	1912-1921	described	_	_	_	
+12-13	1922-1924	to	_	_	_	
+12-14	1925-1927	me	_	_	_	
+12-15	1928-1931	the	_	_	_	
+12-16	1932-1937	odour	Smell\_Word	*|*|*|*	12-18[14_0]|12-1[13_0]|12-23[15_0]|12-34[16_0]	
+12-17	1938-1948	proceeding	_	_	_	
+12-18	1949-1953	from	Smell\_Source[14]	_	_	
+12-19	1954-1957	the	Smell\_Source[14]	_	_	
+12-20	1958-1964	scutch	Smell\_Source[14]	_	_	
+12-21	1965-1971	manure	Smell\_Source[14]	_	_	
+12-22	1972-1977	works	Smell\_Source[14]	_	_	
+12-23	1978-1980	on	Location[15]	_	_	
+12-24	1981-1986	Erith	Location[15]	_	_	
+12-25	1987-1994	marshes	Location[15]	_	_	
+12-26	1995-1997	as	_	_	_	
+12-27	1998-2008	resembling	_	_	_	
+12-28	2008-2009	,	_	_	_	
+12-29	2010-2014	more	_	_	_	
+12-30	2015-2019	than	_	_	_	
+12-31	2020-2028	anything	_	_	_	
+12-32	2029-2033	else	_	_	_	
+12-33	2033-2034	,	_	_	_	
+12-34	2035-2039	that	Evoked\_Odorant[16]|Smell\_Word[17]	Anaphoric|*|*|*	12-16[0_17]|12-36[18_17]|12-39[19_17]|12-41[20_17]	
+12-35	2040-2045	which	Evoked\_Odorant[16]	_	_	
+12-36	2046-2048	he	Evoked\_Odorant[16]|Perceiver[18]	_	_	
+12-37	2049-2052	had	Evoked\_Odorant[16]	_	_	
+12-38	2053-2062	perceived	Evoked\_Odorant[16]	_	_	
+12-39	2063-2065	in	Evoked\_Odorant[16]|Location[19]	_	_	
+12-40	2066-2071	India	Evoked\_Odorant[16]|Location[19]	_	_	
+12-41	2072-2076	when	Evoked\_Odorant[16]|Time[20]	_	_	
+12-42	2077-2084	passing	Evoked\_Odorant[16]|Time[20]	_	_	
+12-43	2085-2087	to	Evoked\_Odorant[16]|Time[20]	_	_	
+12-44	2088-2095	leeward	Evoked\_Odorant[16]|Time[20]	_	_	
+12-45	2096-2098	of	Evoked\_Odorant[16]|Time[20]	_	_	
+12-46	2099-2102	the	Evoked\_Odorant[16]|Time[20]	_	_	
+12-47	2103-2109	places	Evoked\_Odorant[16]|Time[20]	_	_	
+12-48	2110-2112	in	Evoked\_Odorant[16]|Time[20]	_	_	
+12-49	2113-2118	which	Evoked\_Odorant[16]|Time[20]	_	_	
+12-50	2119-2122	the	Evoked\_Odorant[16]|Time[20]	_	_	
+12-51	2123-2130	Hindoos	Evoked\_Odorant[16]|Time[20]	_	_	
+12-52	2131-2135	burn	Evoked\_Odorant[16]|Time[20]	_	_	
+12-53	2136-2141	their	Evoked\_Odorant[16]|Time[20]	_	_	
+12-54	2142-2146	dead	Evoked\_Odorant[16]|Time[20]	_	_	
+12-55	2146-2147	.	_	_	_	
+
+#Text=To myself
+#Text=the odour resembles that of very decayed and putrid cheese.
+13-1	2148-2150	To	_	_	_	
+13-2	2151-2157	myself	Perceiver	_	_	
+13-3	2158-2161	the	_	_	_	
+13-4	2162-2167	odour	Smell\_Word	*|*	13-2|13-6[21_0]	
+13-5	2168-2177	resembles	_	_	_	
+13-6	2178-2182	that	Evoked\_Odorant[21]	_	_	
+13-7	2183-2185	of	Evoked\_Odorant[21]	_	_	
+13-8	2186-2190	very	Evoked\_Odorant[21]	_	_	
+13-9	2191-2198	decayed	Evoked\_Odorant[21]	_	_	
+13-10	2199-2202	and	Evoked\_Odorant[21]	_	_	
+13-11	2203-2209	putrid	Evoked\_Odorant[21]|Smell\_Word[22]|Quality[23]	*|*	13-11[23_22]|13-12[24_22]	
+13-12	2210-2216	cheese	Evoked\_Odorant[21]|Smell\_Source[24]	_	_	
+13-13	2216-2217	.	_	_	_	
+
+#Text=The odour
+#Text=from superphosphate works has to my senses something of the same
+#Text=character, especially marked when animal matters are used in addition
+#Text=to bones and phosphates.
+14-1	2218-2221	The	_	_	_	
+14-2	2222-2227	odour	Smell\_Word	*|*|*	14-3[25_0]|14-16[26_0]|14-18[27_0]	
+14-3	2228-2232	from	Smell\_Source[25]	_	_	
+14-4	2233-2247	superphosphate	Smell\_Source[25]	_	_	
+14-5	2248-2253	works	Smell\_Source[25]	_	_	
+14-6	2254-2257	has	_	_	_	
+14-7	2258-2260	to	_	_	_	
+14-8	2261-2263	my	_	_	_	
+14-9	2264-2270	senses	_	_	_	
+14-10	2271-2280	something	_	_	_	
+14-11	2281-2283	of	_	_	_	
+14-12	2284-2287	the	_	_	_	
+14-13	2288-2292	same	_	_	_	
+14-14	2293-2302	character	_	_	_	
+14-15	2302-2303	,	_	_	_	
+14-16	2304-2314	especially	Quality[26]	_	_	
+14-17	2315-2321	marked	Quality[26]	_	_	
+14-18	2322-2326	when	Circumstances[27]	_	_	
+14-19	2327-2333	animal	Circumstances[27]	_	_	
+14-20	2334-2341	matters	Circumstances[27]	_	_	
+14-21	2342-2345	are	Circumstances[27]	_	_	
+14-22	2346-2350	used	Circumstances[27]	_	_	
+14-23	2351-2353	in	Circumstances[27]	_	_	
+14-24	2354-2362	addition	Circumstances[27]	_	_	
+14-25	2363-2365	to	Circumstances[27]	_	_	
+14-26	2366-2371	bones	Circumstances[27]	_	_	
+14-27	2372-2375	and	Circumstances[27]	_	_	
+14-28	2376-2386	phosphates	Circumstances[27]	_	_	
+14-29	2386-2387	.	_	_	_	
+
+#Text=The distance to which the offensive odour
+#Text=may spread beyond the works varies with the various circumstances
+#Text=mentioned in the first part of this Report.
+15-1	2388-2391	The	_	_	_	
+15-2	2392-2400	distance	_	_	_	
+15-3	2401-2403	to	_	_	_	
+15-4	2404-2409	which	_	_	_	
+15-5	2410-2413	the	_	_	_	
+15-6	2414-2423	offensive	Quality	_	_	
+15-7	2424-2429	odour	Smell\_Word	*	15-6	
+15-8	2430-2433	may	_	_	_	
+15-9	2434-2440	spread	_	_	_	
+15-10	2441-2447	beyond	_	_	_	
+15-11	2448-2451	the	_	_	_	
+15-12	2452-2457	works	_	_	_	
+15-13	2458-2464	varies	_	_	_	
+15-14	2465-2469	with	_	_	_	
+15-15	2470-2473	the	_	_	_	
+15-16	2474-2481	various	_	_	_	
+15-17	2482-2495	circumstances	_	_	_	
+15-18	2496-2505	mentioned	_	_	_	
+15-19	2506-2508	in	_	_	_	
+15-20	2509-2512	the	_	_	_	
+15-21	2513-2518	first	_	_	_	
+15-22	2519-2523	part	_	_	_	
+15-23	2524-2526	of	_	_	_	
+15-24	2527-2531	this	_	_	_	
+15-25	2532-2538	Report	_	_	_	
+15-26	2538-2539	.	_	_	_	
+
+#Text=It may be only perceived
+#Text=offensively within a radius of 100 yards or less around the works, or the
+#Text=odour may extend a mile or more beyond them.
+16-1	2540-2542	It	Smell\_Word	Anaphoric|*|*	15-7|16-6|16-7[28_0]	
+16-2	2543-2546	may	_	_	_	
+16-3	2547-2549	be	_	_	_	
+16-4	2550-2554	only	_	_	_	
+16-5	2555-2564	perceived	_	_	_	
+16-6	2565-2576	offensively	Quality	_	_	
+16-7	2577-2583	within	Location[28]	_	_	
+16-8	2584-2585	a	Location[28]	_	_	
+16-9	2586-2592	radius	Location[28]	_	_	
+16-10	2593-2595	of	Location[28]	_	_	
+16-11	2596-2599	100	Location[28]	_	_	
+16-12	2600-2605	yards	Location[28]	_	_	
+16-13	2606-2608	or	Location[28]	_	_	
+16-14	2609-2613	less	Location[28]	_	_	
+16-15	2614-2620	around	Location[28]	_	_	
+16-16	2621-2624	the	Location[28]	_	_	
+16-17	2625-2630	works	Location[28]	_	_	
+16-18	2630-2631	,	_	_	_	
+16-19	2632-2634	or	_	_	_	
+16-20	2635-2638	the	_	_	_	
+16-21	2639-2644	odour	Smell\_Word	*	16-24[29_0]	
+16-22	2645-2648	may	_	_	_	
+16-23	2649-2655	extend	_	_	_	
+16-24	2656-2657	a	Location[29]	_	_	
+16-25	2658-2662	mile	Location[29]	_	_	
+16-26	2663-2665	or	Location[29]	_	_	
+16-27	2666-2670	more	Location[29]	_	_	
+16-28	2671-2677	beyond	Location[29]	_	_	
+16-29	2678-2682	them	Location[29]	_	_	
+16-30	2682-2683	.	_	_	_	
+
+#Text=For example, the
+#Text=odour from the Avorks of Morris and Griffin at Wolverhampton is said to
+#Text=be perceived offensively at Newbridge, a distance of 1 miles ; Avhile
+#Text=that from the Erith marshes “ scutch ” manure works was, on the occasion
+#Text=of my inquiry on the Thames, saic) to be an intolerable nuisance at the
+#Text=Woolwich barracks, a distance 4 miles.
+17-1	2684-2687	For	_	_	_	
+17-2	2688-2695	example	_	_	_	
+17-3	2695-2696	,	_	_	_	
+17-4	2697-2700	the	_	_	_	
+17-5	2701-2706	odour	Smell\_Word	*|*|*|*	17-6[30_0]|17-13[31_0]|17-20|17-21[32_0]	
+17-6	2707-2711	from	Smell\_Source[30]	_	_	
+17-7	2712-2715	the	Smell\_Source[30]	_	_	
+17-8	2716-2722	Avorks	Smell\_Source[30]	_	_	
+17-9	2723-2725	of	Smell\_Source[30]	_	_	
+17-10	2726-2732	Morris	Smell\_Source[30]	_	_	
+17-11	2733-2736	and	Smell\_Source[30]	_	_	
+17-12	2737-2744	Griffin	Smell\_Source[30]	_	_	
+17-13	2745-2747	at	Location[31]	_	_	
+17-14	2748-2761	Wolverhampton	Location[31]	_	_	
+17-15	2762-2764	is	_	_	_	
+17-16	2765-2769	said	_	_	_	
+17-17	2770-2772	to	_	_	_	
+17-18	2773-2775	be	_	_	_	
+17-19	2776-2785	perceived	_	_	_	
+17-20	2786-2797	offensively	Quality	_	_	
+17-21	2798-2800	at	Location[32]	_	_	
+17-22	2801-2810	Newbridge	Location[32]	_	_	
+17-23	2810-2811	,	_	_	_	
+17-24	2812-2813	a	_	_	_	
+17-25	2814-2822	distance	_	_	_	
+17-26	2823-2825	of	_	_	_	
+17-27	2826-2827	1	_	_	_	
+17-28	2828-2833	miles	_	_	_	
+17-29	2834-2835	;	_	_	_	
+17-30	2836-2842	Avhile	_	_	_	
+17-31	2843-2847	that	Smell\_Word	Anaphoric|*|*|*	17-5|17-32[33_0]|17-60[35_0]|17-57[34_0]	
+17-32	2848-2852	from	Smell\_Source[33]	_	_	
+17-33	2853-2856	the	Smell\_Source[33]	_	_	
+17-34	2857-2862	Erith	Smell\_Source[33]	_	_	
+17-35	2863-2870	marshes	Smell\_Source[33]	_	_	
+17-36	2871-2872	“	Smell\_Source[33]	_	_	
+17-37	2873-2879	scutch	Smell\_Source[33]	_	_	
+17-38	2880-2881	”	Smell\_Source[33]	_	_	
+17-39	2882-2888	manure	Smell\_Source[33]	_	_	
+17-40	2889-2894	works	Smell\_Source[33]	_	_	
+17-41	2895-2898	was	_	_	_	
+17-42	2898-2899	,	_	_	_	
+17-43	2900-2902	on	_	_	_	
+17-44	2903-2906	the	_	_	_	
+17-45	2907-2915	occasion	_	_	_	
+17-46	2916-2918	of	_	_	_	
+17-47	2919-2921	my	_	_	_	
+17-48	2922-2929	inquiry	_	_	_	
+17-49	2930-2932	on	_	_	_	
+17-50	2933-2936	the	_	_	_	
+17-51	2937-2943	Thames	_	_	_	
+17-52	2943-2944	,	_	_	_	
+17-53	2945-2949	saic	_	_	_	
+17-54	2949-2950	)	_	_	_	
+17-55	2951-2953	to	_	_	_	
+17-56	2954-2956	be	_	_	_	
+17-57	2957-2959	an	Quality[34]	_	_	
+17-58	2960-2971	intolerable	Quality[34]	_	_	
+17-59	2972-2980	nuisance	Quality[34]	_	_	
+17-60	2981-2983	at	Location[35]	_	_	
+17-61	2984-2987	the	Location[35]	_	_	
+17-62	2988-2996	Woolwich	Location[35]	_	_	
+17-63	2997-3005	barracks	Location[35]	_	_	
+17-64	3005-3006	,	_	_	_	
+17-65	3007-3008	a	_	_	_	
+17-66	3009-3017	distance	_	_	_	
+17-67	3018-3019	4	_	_	_	
+17-68	3020-3025	miles	_	_	_	
+17-69	3025-3026	.	_	_	_	
+
+#Text=Loud and grievous complaints
+#Text=are made in the tOAvn of Plymouth, especially by persons residing about
+#Text=the Hoe, of the offensive odours from the manure works at Cattedown,
+#Text=a distance of about 1 mile, when the wind blows from that direction
+#Text=across the bay.
+18-1	3027-3031	Loud	Effect[36]	_	_	
+18-2	3032-3035	and	Effect[36]	_	_	
+18-3	3036-3044	grievous	Effect[36]	_	_	
+18-4	3045-3055	complaints	Effect[36]	_	_	
+18-5	3056-3059	are	Effect[36]	_	_	
+18-6	3060-3064	made	Effect[36]	_	_	
+18-7	3065-3067	in	Effect[36]	_	_	
+18-8	3068-3071	the	Effect[36]	_	_	
+18-9	3072-3077	tOAvn	Effect[36]	_	_	
+18-10	3078-3080	of	Effect[36]	_	_	
+18-11	3081-3089	Plymouth	Effect[36]	_	_	
+18-12	3089-3090	,	_	_	_	
+18-13	3091-3101	especially	_	_	_	
+18-14	3102-3104	by	_	_	_	
+18-15	3105-3112	persons	_	_	_	
+18-16	3113-3121	residing	_	_	_	
+18-17	3122-3127	about	_	_	_	
+18-18	3128-3131	the	_	_	_	
+18-19	3132-3135	Hoe	_	_	_	
+18-20	3135-3136	,	_	_	_	
+18-21	3137-3139	of	_	_	_	
+18-22	3140-3143	the	_	_	_	
+18-23	3144-3153	offensive	Quality	_	_	
+18-24	3154-3160	odours	Smell\_Word	*|*|*|*|*	18-23|18-1[36_0]|18-25[37_0]|18-29[38_0]|18-39[39_0]	
+18-25	3161-3165	from	Smell\_Source[37]	_	_	
+18-26	3166-3169	the	Smell\_Source[37]	_	_	
+18-27	3170-3176	manure	Smell\_Source[37]	_	_	
+18-28	3177-3182	works	Smell\_Source[37]	_	_	
+18-29	3183-3185	at	Location[38]	_	_	
+18-30	3186-3195	Cattedown	Location[38]	_	_	
+18-31	3195-3196	,	_	_	_	
+18-32	3197-3198	a	_	_	_	
+18-33	3199-3207	distance	_	_	_	
+18-34	3208-3210	of	_	_	_	
+18-35	3211-3216	about	_	_	_	
+18-36	3217-3218	1	_	_	_	
+18-37	3219-3223	mile	_	_	_	
+18-38	3223-3224	,	_	_	_	
+18-39	3225-3229	when	Time[39]	_	_	
+18-40	3230-3233	the	Time[39]	_	_	
+18-41	3234-3238	wind	Time[39]	_	_	
+18-42	3239-3244	blows	Time[39]	_	_	
+18-43	3245-3249	from	Time[39]	_	_	
+18-44	3250-3254	that	Time[39]	_	_	
+18-45	3255-3264	direction	Time[39]	_	_	
+18-46	3265-3271	across	Time[39]	_	_	
+18-47	3272-3275	the	Time[39]	_	_	
+18-48	3276-3279	bay	Time[39]	_	_	
+18-49	3279-3280	.	_	_	_	
+
+#Text=I have made such inquiries as were practicable as to the effect of
+#Text=these offensive odours upon the health of persons exposed to them.
+19-1	3282-3283	I	_	_	_	
+19-2	3284-3288	have	_	_	_	
+19-3	3289-3293	made	_	_	_	
+19-4	3294-3298	such	_	_	_	
+19-5	3299-3308	inquiries	_	_	_	
+19-6	3309-3311	as	_	_	_	
+19-7	3312-3316	were	_	_	_	
+19-8	3317-3328	practicable	_	_	_	
+19-9	3329-3331	as	_	_	_	
+19-10	3332-3334	to	_	_	_	
+19-11	3335-3338	the	_	_	_	
+19-12	3339-3345	effect	_	_	_	
+19-13	3346-3348	of	_	_	_	
+19-14	3349-3354	these	_	_	_	
+19-15	3355-3364	offensive	Quality	_	_	
+19-16	3365-3371	odours	Smell\_Word	*|*	19-15|19-18[40_0]	
+19-17	3372-3376	upon	_	_	_	
+19-18	3377-3380	the	Perceiver[40]	_	_	
+19-19	3381-3387	health	Perceiver[40]	_	_	
+19-20	3388-3390	of	Perceiver[40]	_	_	
+19-21	3391-3398	persons	Perceiver[40]	_	_	
+19-22	3399-3406	exposed	Perceiver[40]	_	_	
+19-23	3407-3409	to	Perceiver[40]	_	_	
+19-24	3410-3414	them	Perceiver[40]	_	_	
+19-25	3414-3415	.	_	_	_	
+
+#Text=Replies to individual inquiries have been to the effect that prolonged
+#Text=exposure to the offensive odours produces feelings of depression, headache, indisposition for food, nausea, or even sometimes fainting.
+20-1	3416-3423	Replies	_	_	_	
+20-2	3424-3426	to	_	_	_	
+20-3	3427-3437	individual	_	_	_	
+20-4	3438-3447	inquiries	_	_	_	
+20-5	3448-3452	have	_	_	_	
+20-6	3453-3457	been	_	_	_	
+20-7	3458-3460	to	_	_	_	
+20-8	3461-3464	the	_	_	_	
+20-9	3465-3471	effect	_	_	_	
+20-10	3472-3476	that	_	_	_	
+20-11	3477-3486	prolonged	Circumstances[41]	_	_	
+20-12	3487-3495	exposure	Circumstances[41]	_	_	
+20-13	3496-3498	to	_	_	_	
+20-14	3499-3502	the	_	_	_	
+20-15	3503-3512	offensive	Quality	_	_	
+20-16	3513-3519	odours	Smell\_Word	*|*|*|*|*|*|*	20-15|20-17[42_0]|20-22|20-24[43_0]|20-28|20-31[44_0]|20-11[41_0]	
+20-17	3520-3528	produces	Effect[42]	_	_	
+20-18	3529-3537	feelings	Effect[42]	_	_	
+20-19	3538-3540	of	Effect[42]	_	_	
+20-20	3541-3551	depression	Effect[42]	_	_	
+20-21	3551-3552	,	_	_	_	
+20-22	3553-3561	headache	Effect	_	_	
+20-23	3561-3562	,	_	_	_	
+20-24	3563-3576	indisposition	Effect[43]	_	_	
+20-25	3577-3580	for	Effect[43]	_	_	
+20-26	3581-3585	food	Effect[43]	_	_	
+20-27	3585-3586	,	_	_	_	
+20-28	3587-3593	nausea	Effect	_	_	
+20-29	3593-3594	,	_	_	_	
+20-30	3595-3597	or	_	_	_	
+20-31	3598-3602	even	Effect[44]	_	_	
+20-32	3603-3612	sometimes	Effect[44]	_	_	
+20-33	3613-3621	fainting	Effect[44]	_	_	
+20-34	3621-3622	.	_	_	_	
+
+#Text=These,
+#Text=however, are ordinary results in sensitive individuals of the impression
+#Text=made by any specially offensive odour upon the nervous system.
+21-1	3623-3628	These	_	_	_	
+21-2	3628-3629	,	_	_	_	
+21-3	3630-3637	however	_	_	_	
+21-4	3637-3638	,	_	_	_	
+21-5	3639-3642	are	_	_	_	
+21-6	3643-3651	ordinary	_	_	_	
+21-7	3652-3659	results	_	_	_	
+21-8	3660-3662	in	Perceiver[45]	_	_	
+21-9	3663-3672	sensitive	Perceiver[45]	_	_	
+21-10	3673-3684	individuals	Perceiver[45]	_	_	
+21-11	3685-3687	of	_	_	_	
+21-12	3688-3691	the	_	_	_	
+21-13	3692-3702	impression	_	_	_	
+21-14	3703-3707	made	_	_	_	
+21-15	3708-3710	by	_	_	_	
+21-16	3711-3714	any	_	_	_	
+21-17	3715-3724	specially	Quality[46]	_	_	
+21-18	3725-3734	offensive	Quality[46]	_	_	
+21-19	3735-3740	odour	Smell\_Word	*|*|*	21-17[46_0]|21-8[45_0]|21-20[47_0]	
+21-20	3741-3745	upon	Perceiver[47]	_	_	
+21-21	3746-3749	the	Perceiver[47]	_	_	
+21-22	3750-3757	nervous	Perceiver[47]	_	_	
+21-23	3758-3764	system	Perceiver[47]	_	_	
+21-24	3764-3765	.	_	_	_	
+
+#Text=They
+#Text=pass off, however, with the intermission of their cause.
+22-1	3766-3770	They	_	_	_	
+22-2	3771-3775	pass	_	_	_	
+22-3	3776-3779	off	_	_	_	
+22-4	3779-3780	,	_	_	_	
+22-5	3781-3788	however	_	_	_	
+22-6	3788-3789	,	_	_	_	
+22-7	3790-3794	with	_	_	_	
+22-8	3795-3798	the	_	_	_	
+22-9	3799-3811	intermission	_	_	_	
+22-10	3812-3814	of	_	_	_	
+22-11	3815-3820	their	_	_	_	
+22-12	3821-3826	cause	_	_	_	
+22-13	3826-3827	.	_	_	_	
+
+#Text=I have not
+#Text=been able to ascertain that any permanent injury to health has followed
+#Text=even the frequent repetition of exposure to these offensive odours.
+23-1	3828-3829	I	_	_	_	
+23-2	3830-3834	have	_	_	_	
+23-3	3835-3838	not	_	_	_	
+23-4	3839-3843	been	_	_	_	
+23-5	3844-3848	able	_	_	_	
+23-6	3849-3851	to	_	_	_	
+23-7	3852-3861	ascertain	_	_	_	
+23-8	3862-3866	that	_	_	_	
+23-9	3867-3870	any	Effect[48]	_	_	
+23-10	3871-3880	permanent	Effect[48]	_	_	
+23-11	3881-3887	injury	Effect[48]	_	_	
+23-12	3888-3890	to	Effect[48]	_	_	
+23-13	3891-3897	health	Effect[48]	_	_	
+23-14	3898-3901	has	_	_	_	
+23-15	3902-3910	followed	_	_	_	
+23-16	3911-3915	even	_	_	_	
+23-17	3916-3919	the	Circumstances[49]	_	_	
+23-18	3920-3928	frequent	Circumstances[49]	_	_	
+23-19	3929-3939	repetition	Circumstances[49]	_	_	
+23-20	3940-3942	of	Circumstances[49]	_	_	
+23-21	3943-3951	exposure	Circumstances[49]	_	_	
+23-22	3952-3954	to	_	_	_	
+23-23	3955-3960	these	_	_	_	
+23-24	3961-3970	offensive	Quality	_	_	
+23-25	3971-3977	odours	Smell\_Word	*|*|*|*	23-24|23-17[49_0]|23-9[48_0]|24-9[50_0]	
+23-26	3977-3978	.	_	_	_	
+
+#Text=Nevertheless, so long as the cause operates it does to a serious extent
+#Text=sometimes disturb the health of some individuals.
+24-1	3979-3991	Nevertheless	_	_	_	
+24-2	3991-3992	,	_	_	_	
+24-3	3993-3995	so	_	_	_	
+24-4	3996-4000	long	_	_	_	
+24-5	4001-4003	as	_	_	_	
+24-6	4004-4007	the	_	_	_	
+24-7	4008-4013	cause	_	_	_	
+24-8	4014-4022	operates	_	_	_	
+24-9	4023-4025	it	Effect[50]	_	_	
+24-10	4026-4030	does	Effect[50]	_	_	
+24-11	4031-4033	to	Effect[50]	_	_	
+24-12	4034-4035	a	Effect[50]	_	_	
+24-13	4036-4043	serious	Effect[50]	_	_	
+24-14	4044-4050	extent	Effect[50]	_	_	
+24-15	4051-4060	sometimes	Effect[50]	_	_	
+24-16	4061-4068	disturb	Effect[50]	_	_	
+24-17	4069-4072	the	Effect[50]	_	_	
+24-18	4073-4079	health	Effect[50]	_	_	
+24-19	4080-4082	of	Effect[50]	_	_	
+24-20	4083-4087	some	Effect[50]	_	_	
+24-21	4088-4099	individuals	Effect[50]	_	_	
+24-22	4099-4100	.	_	_	_	

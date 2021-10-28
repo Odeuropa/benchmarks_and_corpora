@@ -1,0 +1,662 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=“The Five Senses”\r
+#Text=\r
+#Text=Seeinge\r
+#Text=From such a face whose Excellence\r
+#Text=May Captivate my Soveraignes sence\r
+#Text=And make him Phœbus like his throne\r
+#Text=Resigne to him younge Phaëton\r
+#Text=Whose skillesse and unsteaddie hand\r
+#Text=May prove the ruine of a land\r
+#Text=Unlesse great Jove downe from the skye\r
+#Text=Beholding Earthes Calamitie\r
+#Text=Strike with his hand that cannot err\r
+#Text=The proud Usurping Charioter\r
+#Text=And cure though Phœbus greive our woe\r
+#Text=From such a face that cann worke soe\r
+#Text=Wheresoere thou hast a beeing\r
+#Text=Blesse my Soveraigne, and his seeing.\r
+#Text=\r
+#Text=2.
+1-1	2-3	“	_	_	_	
+1-2	3-6	The	_	_	_	
+1-3	7-11	Five	_	_	_	
+1-4	12-18	Senses	_	_	_	
+1-5	18-19	”	_	_	_	
+1-6	23-30	Seeinge	_	_	_	
+1-7	32-36	From	_	_	_	
+1-8	37-41	such	_	_	_	
+1-9	42-43	a	_	_	_	
+1-10	44-48	face	_	_	_	
+1-11	49-54	whose	_	_	_	
+1-12	55-65	Excellence	_	_	_	
+1-13	67-70	May	_	_	_	
+1-14	71-80	Captivate	_	_	_	
+1-15	81-83	my	_	_	_	
+1-16	84-95	Soveraignes	_	_	_	
+1-17	96-101	sence	_	_	_	
+1-18	103-106	And	_	_	_	
+1-19	107-111	make	_	_	_	
+1-20	112-115	him	_	_	_	
+1-21	116-122	Phœbus	_	_	_	
+1-22	123-127	like	_	_	_	
+1-23	128-131	his	_	_	_	
+1-24	132-138	throne	_	_	_	
+1-25	140-147	Resigne	_	_	_	
+1-26	148-150	to	_	_	_	
+1-27	151-154	him	_	_	_	
+1-28	155-161	younge	_	_	_	
+1-29	162-169	Phaëton	_	_	_	
+1-30	171-176	Whose	_	_	_	
+1-31	177-186	skillesse	_	_	_	
+1-32	187-190	and	_	_	_	
+1-33	191-201	unsteaddie	_	_	_	
+1-34	202-206	hand	_	_	_	
+1-35	208-211	May	_	_	_	
+1-36	212-217	prove	_	_	_	
+1-37	218-221	the	_	_	_	
+1-38	222-227	ruine	_	_	_	
+1-39	228-230	of	_	_	_	
+1-40	231-232	a	_	_	_	
+1-41	233-237	land	_	_	_	
+1-42	239-246	Unlesse	_	_	_	
+1-43	247-252	great	_	_	_	
+1-44	253-257	Jove	_	_	_	
+1-45	258-263	downe	_	_	_	
+1-46	264-268	from	_	_	_	
+1-47	269-272	the	_	_	_	
+1-48	273-277	skye	_	_	_	
+1-49	279-288	Beholding	_	_	_	
+1-50	289-296	Earthes	_	_	_	
+1-51	297-306	Calamitie	_	_	_	
+1-52	308-314	Strike	_	_	_	
+1-53	315-319	with	_	_	_	
+1-54	320-323	his	_	_	_	
+1-55	324-328	hand	_	_	_	
+1-56	329-333	that	_	_	_	
+1-57	334-340	cannot	_	_	_	
+1-58	341-344	err	_	_	_	
+1-59	346-349	The	_	_	_	
+1-60	350-355	proud	_	_	_	
+1-61	356-364	Usurping	_	_	_	
+1-62	365-374	Charioter	_	_	_	
+1-63	376-379	And	_	_	_	
+1-64	380-384	cure	_	_	_	
+1-65	385-391	though	_	_	_	
+1-66	392-398	Phœbus	_	_	_	
+1-67	399-405	greive	_	_	_	
+1-68	406-409	our	_	_	_	
+1-69	410-413	woe	_	_	_	
+1-70	415-419	From	_	_	_	
+1-71	420-424	such	_	_	_	
+1-72	425-426	a	_	_	_	
+1-73	427-431	face	_	_	_	
+1-74	432-436	that	_	_	_	
+1-75	437-441	cann	_	_	_	
+1-76	442-447	worke	_	_	_	
+1-77	448-451	soe	_	_	_	
+1-78	453-463	Wheresoere	_	_	_	
+1-79	464-468	thou	_	_	_	
+1-80	469-473	hast	_	_	_	
+1-81	474-475	a	_	_	_	
+1-82	476-482	beeing	_	_	_	
+1-83	484-490	Blesse	_	_	_	
+1-84	491-493	my	_	_	_	
+1-85	494-504	Soveraigne	_	_	_	
+1-86	504-505	,	_	_	_	
+1-87	506-509	and	_	_	_	
+1-88	510-513	his	_	_	_	
+1-89	514-520	seeing	_	_	_	
+1-90	520-521	.	_	_	_	
+1-91	525-526	2	_	_	_	
+1-92	526-527	.	_	_	_	
+
+#Text=Heareinge\r
+#Text=From Jeasts prophane, from flattering tongues\r
+#Text=From bawdy tales from beastly soungs\r
+#Text=From after supper suits that feare\r
+#Text=A Parliament or Councells eare\r
+#Text=From Spanish treaties that may wound\r
+#Text=Our Countries peace the gospell sound\r
+#Text=From Jobs false frends that would entice\r
+#Text=My Soveraigne from Heavens paradise\r
+#Text=From Prophetts such as Ahabs weere6\r
+#Text=Whose flatterings sooth my soveraignes eare\r
+#Text=His frownes more then his makers fearing\r
+#Text=Blesse my soveraigne, and his heareing.
+2-1	528-537	Heareinge	_	_	_	
+2-2	539-543	From	_	_	_	
+2-3	544-550	Jeasts	_	_	_	
+2-4	551-559	prophane	_	_	_	
+2-5	559-560	,	_	_	_	
+2-6	561-565	from	_	_	_	
+2-7	566-576	flattering	_	_	_	
+2-8	577-584	tongues	_	_	_	
+2-9	586-590	From	_	_	_	
+2-10	591-596	bawdy	_	_	_	
+2-11	597-602	tales	_	_	_	
+2-12	603-607	from	_	_	_	
+2-13	608-615	beastly	_	_	_	
+2-14	616-622	soungs	_	_	_	
+2-15	624-628	From	_	_	_	
+2-16	629-634	after	_	_	_	
+2-17	635-641	supper	_	_	_	
+2-18	642-647	suits	_	_	_	
+2-19	648-652	that	_	_	_	
+2-20	653-658	feare	_	_	_	
+2-21	660-661	A	_	_	_	
+2-22	662-672	Parliament	_	_	_	
+2-23	673-675	or	_	_	_	
+2-24	676-685	Councells	_	_	_	
+2-25	686-690	eare	_	_	_	
+2-26	692-696	From	_	_	_	
+2-27	697-704	Spanish	_	_	_	
+2-28	705-713	treaties	_	_	_	
+2-29	714-718	that	_	_	_	
+2-30	719-722	may	_	_	_	
+2-31	723-728	wound	_	_	_	
+2-32	730-733	Our	_	_	_	
+2-33	734-743	Countries	_	_	_	
+2-34	744-749	peace	_	_	_	
+2-35	750-753	the	_	_	_	
+2-36	754-761	gospell	_	_	_	
+2-37	762-767	sound	_	_	_	
+2-38	769-773	From	_	_	_	
+2-39	774-778	Jobs	_	_	_	
+2-40	779-784	false	_	_	_	
+2-41	785-791	frends	_	_	_	
+2-42	792-796	that	_	_	_	
+2-43	797-802	would	_	_	_	
+2-44	803-809	entice	_	_	_	
+2-45	811-813	My	_	_	_	
+2-46	814-824	Soveraigne	_	_	_	
+2-47	825-829	from	_	_	_	
+2-48	830-837	Heavens	_	_	_	
+2-49	838-846	paradise	_	_	_	
+2-50	848-852	From	_	_	_	
+2-51	853-862	Prophetts	_	_	_	
+2-52	863-867	such	_	_	_	
+2-53	868-870	as	_	_	_	
+2-54	871-876	Ahabs	_	_	_	
+2-55	877-883	weere6	_	_	_	
+2-56	885-890	Whose	_	_	_	
+2-57	891-902	flatterings	_	_	_	
+2-58	903-908	sooth	_	_	_	
+2-59	909-911	my	_	_	_	
+2-60	912-923	soveraignes	_	_	_	
+2-61	924-928	eare	_	_	_	
+2-62	930-933	His	_	_	_	
+2-63	934-941	frownes	_	_	_	
+2-64	942-946	more	_	_	_	
+2-65	947-951	then	_	_	_	
+2-66	952-955	his	_	_	_	
+2-67	956-962	makers	_	_	_	
+2-68	963-970	fearing	_	_	_	
+2-69	972-978	Blesse	_	_	_	
+2-70	979-981	my	_	_	_	
+2-71	982-992	soveraigne	_	_	_	
+2-72	992-993	,	_	_	_	
+2-73	994-997	and	_	_	_	
+2-74	998-1001	his	_	_	_	
+2-75	1002-1010	heareing	_	_	_	
+2-76	1010-1011	.	_	_	_	
+
+#Text=Tastinge\r
+#Text=From all fruite that is forbidden\r
+#Text=Such for which old Eve was chidden\r
+#Text=From bread of Laborers sweat, and toyle\r
+#Text=From the widdowes meale, and oyle\r
+#Text=From the Canded poyson’d baites\r
+#Text=Of Jesuites and their deceipts\r
+#Text=Italian Salletts, Romish druggs\r
+#Text=The milke of Babells proud whore duggs\r
+#Text=From wyne that can destroye the braine\r
+#Text=And from the daingerous figg of Spaine\r
+#Text=Att all banquetts, and all feasting\r
+#Text=Blesse my Soveraigne, and his tasting.
+3-1	1015-1023	Tastinge	_	_	_	
+3-2	1025-1029	From	_	_	_	
+3-3	1030-1033	all	_	_	_	
+3-4	1034-1040	fruite	_	_	_	
+3-5	1041-1045	that	_	_	_	
+3-6	1046-1048	is	_	_	_	
+3-7	1049-1058	forbidden	_	_	_	
+3-8	1060-1064	Such	_	_	_	
+3-9	1065-1068	for	_	_	_	
+3-10	1069-1074	which	_	_	_	
+3-11	1075-1078	old	_	_	_	
+3-12	1079-1082	Eve	_	_	_	
+3-13	1083-1086	was	_	_	_	
+3-14	1087-1094	chidden	_	_	_	
+3-15	1096-1100	From	_	_	_	
+3-16	1101-1106	bread	_	_	_	
+3-17	1107-1109	of	_	_	_	
+3-18	1110-1118	Laborers	_	_	_	
+3-19	1119-1124	sweat	_	_	_	
+3-20	1124-1125	,	_	_	_	
+3-21	1126-1129	and	_	_	_	
+3-22	1130-1135	toyle	_	_	_	
+3-23	1137-1141	From	_	_	_	
+3-24	1142-1145	the	_	_	_	
+3-25	1146-1154	widdowes	_	_	_	
+3-26	1155-1160	meale	_	_	_	
+3-27	1160-1161	,	_	_	_	
+3-28	1162-1165	and	_	_	_	
+3-29	1166-1170	oyle	_	_	_	
+3-30	1172-1176	From	_	_	_	
+3-31	1177-1180	the	_	_	_	
+3-32	1181-1187	Canded	_	_	_	
+3-33	1188-1194	poyson	_	_	_	
+3-34	1194-1195	’	_	_	_	
+3-35	1195-1196	d	_	_	_	
+3-36	1197-1203	baites	_	_	_	
+3-37	1205-1207	Of	_	_	_	
+3-38	1208-1216	Jesuites	_	_	_	
+3-39	1217-1220	and	_	_	_	
+3-40	1221-1226	their	_	_	_	
+3-41	1227-1235	deceipts	_	_	_	
+3-42	1237-1244	Italian	_	_	_	
+3-43	1245-1253	Salletts	_	_	_	
+3-44	1253-1254	,	_	_	_	
+3-45	1255-1261	Romish	_	_	_	
+3-46	1262-1268	druggs	_	_	_	
+3-47	1270-1273	The	_	_	_	
+3-48	1274-1279	milke	_	_	_	
+3-49	1280-1282	of	_	_	_	
+3-50	1283-1290	Babells	_	_	_	
+3-51	1291-1296	proud	_	_	_	
+3-52	1297-1302	whore	_	_	_	
+3-53	1303-1308	duggs	_	_	_	
+3-54	1310-1314	From	_	_	_	
+3-55	1315-1319	wyne	_	_	_	
+3-56	1320-1324	that	_	_	_	
+3-57	1325-1328	can	_	_	_	
+3-58	1329-1337	destroye	_	_	_	
+3-59	1338-1341	the	_	_	_	
+3-60	1342-1348	braine	_	_	_	
+3-61	1350-1353	And	_	_	_	
+3-62	1354-1358	from	_	_	_	
+3-63	1359-1362	the	_	_	_	
+3-64	1363-1373	daingerous	_	_	_	
+3-65	1374-1378	figg	_	_	_	
+3-66	1379-1381	of	_	_	_	
+3-67	1382-1388	Spaine	_	_	_	
+3-68	1390-1393	Att	_	_	_	
+3-69	1394-1397	all	_	_	_	
+3-70	1398-1407	banquetts	_	_	_	
+3-71	1407-1408	,	_	_	_	
+3-72	1409-1412	and	_	_	_	
+3-73	1413-1416	all	_	_	_	
+3-74	1417-1425	feasting	_	_	_	
+3-75	1427-1433	Blesse	_	_	_	
+3-76	1434-1436	my	_	_	_	
+3-77	1437-1447	Soveraigne	_	_	_	
+3-78	1447-1448	,	_	_	_	
+3-79	1449-1452	and	_	_	_	
+3-80	1453-1456	his	_	_	_	
+3-81	1457-1464	tasting	_	_	_	
+3-82	1464-1465	.	_	_	_	
+
+#Text=Feelinge\r
+#Text=From prick of Conscience such a sting\r
+#Text=As staines the Soule, heavens blesse my King\r
+#Text=From such a tribe as may with drawe\r
+#Text=His thoughts from equitie, and lawe\r
+#Text=From such a smooth, and beardlesse Chinn\r
+#Text=As may provoke, or tempt to sinn\r
+#Text=From such a hand whose moyst palme may\r
+#Text=My soveraigne lead out of the way\r
+#Text=From things polluted, and uncleane\r
+#Text=From all thats beastly, and obsceane\r
+#Text=From what may sett his Soule a reeling\r
+#Text=Blesse my Soveraigne, and his feeling.
+4-1	1469-1477	Feelinge	_	_	_	
+4-2	1479-1483	From	_	_	_	
+4-3	1484-1489	prick	_	_	_	
+4-4	1490-1492	of	_	_	_	
+4-5	1493-1503	Conscience	_	_	_	
+4-6	1504-1508	such	_	_	_	
+4-7	1509-1510	a	_	_	_	
+4-8	1511-1516	sting	_	_	_	
+4-9	1518-1520	As	_	_	_	
+4-10	1521-1528	staines	_	_	_	
+4-11	1529-1532	the	_	_	_	
+4-12	1533-1538	Soule	_	_	_	
+4-13	1538-1539	,	_	_	_	
+4-14	1540-1547	heavens	_	_	_	
+4-15	1548-1554	blesse	_	_	_	
+4-16	1555-1557	my	_	_	_	
+4-17	1558-1562	King	_	_	_	
+4-18	1564-1568	From	_	_	_	
+4-19	1569-1573	such	_	_	_	
+4-20	1574-1575	a	_	_	_	
+4-21	1576-1581	tribe	_	_	_	
+4-22	1582-1584	as	_	_	_	
+4-23	1585-1588	may	_	_	_	
+4-24	1589-1593	with	_	_	_	
+4-25	1594-1599	drawe	_	_	_	
+4-26	1601-1604	His	_	_	_	
+4-27	1605-1613	thoughts	_	_	_	
+4-28	1614-1618	from	_	_	_	
+4-29	1619-1626	equitie	_	_	_	
+4-30	1626-1627	,	_	_	_	
+4-31	1628-1631	and	_	_	_	
+4-32	1632-1636	lawe	_	_	_	
+4-33	1638-1642	From	_	_	_	
+4-34	1643-1647	such	_	_	_	
+4-35	1648-1649	a	_	_	_	
+4-36	1650-1656	smooth	_	_	_	
+4-37	1656-1657	,	_	_	_	
+4-38	1658-1661	and	_	_	_	
+4-39	1662-1672	beardlesse	_	_	_	
+4-40	1673-1678	Chinn	_	_	_	
+4-41	1680-1682	As	_	_	_	
+4-42	1683-1686	may	_	_	_	
+4-43	1687-1694	provoke	_	_	_	
+4-44	1694-1695	,	_	_	_	
+4-45	1696-1698	or	_	_	_	
+4-46	1699-1704	tempt	_	_	_	
+4-47	1705-1707	to	_	_	_	
+4-48	1708-1712	sinn	_	_	_	
+4-49	1714-1718	From	_	_	_	
+4-50	1719-1723	such	_	_	_	
+4-51	1724-1725	a	_	_	_	
+4-52	1726-1730	hand	_	_	_	
+4-53	1731-1736	whose	_	_	_	
+4-54	1737-1742	moyst	_	_	_	
+4-55	1743-1748	palme	_	_	_	
+4-56	1749-1752	may	_	_	_	
+4-57	1754-1756	My	_	_	_	
+4-58	1757-1767	soveraigne	_	_	_	
+4-59	1768-1772	lead	_	_	_	
+4-60	1773-1776	out	_	_	_	
+4-61	1777-1779	of	_	_	_	
+4-62	1780-1783	the	_	_	_	
+4-63	1784-1787	way	_	_	_	
+4-64	1789-1793	From	_	_	_	
+4-65	1794-1800	things	_	_	_	
+4-66	1801-1809	polluted	_	_	_	
+4-67	1809-1810	,	_	_	_	
+4-68	1811-1814	and	_	_	_	
+4-69	1815-1823	uncleane	_	_	_	
+4-70	1825-1829	From	_	_	_	
+4-71	1830-1833	all	_	_	_	
+4-72	1834-1839	thats	_	_	_	
+4-73	1840-1847	beastly	_	_	_	
+4-74	1847-1848	,	_	_	_	
+4-75	1849-1852	and	_	_	_	
+4-76	1853-1861	obsceane	_	_	_	
+4-77	1863-1867	From	_	_	_	
+4-78	1868-1872	what	_	_	_	
+4-79	1873-1876	may	_	_	_	
+4-80	1877-1881	sett	_	_	_	
+4-81	1882-1885	his	_	_	_	
+4-82	1886-1891	Soule	_	_	_	
+4-83	1892-1893	a	_	_	_	
+4-84	1894-1901	reeling	_	_	_	
+4-85	1903-1909	Blesse	_	_	_	
+4-86	1910-1912	my	_	_	_	
+4-87	1913-1923	Soveraigne	_	_	_	
+4-88	1923-1924	,	_	_	_	
+4-89	1925-1928	and	_	_	_	
+4-90	1929-1932	his	_	_	_	
+4-91	1933-1940	feeling	_	_	_	
+4-92	1940-1941	.	_	_	_	
+
+#Text=Smellinge\r
+#Text=Where Mirrhe, and frankinsence is throwne\r
+#Text=The altars built to Gods unknowne\r
+#Text=Oh lett my Soveraigne never smell\r
+#Text=Such damn’d perfumes are fitt for hell\r
+#Text=Let noe such scent his nostrills staine\r
+#Text=From smells that poyson may the braine\r
+#Text=Heavens still preserve him, Next I crave\r
+#Text=Thou wilt be pleas’d great God to save\r
+#Text=My Soveraigne from a Ganimede\r
+#Text=Whose whoreish breath hath power to lead\r
+#Text=His excellence which way it list\r
+#Text=O lett such lipps be never kist\r
+#Text=From a breath soe farr excelling\r
+#Text=Blesse my Soveraigne and his smelling.
+5-1	1945-1954	Smellinge	Smell\_Word	*|*	5-3|5-6	
+5-2	1956-1961	Where	_	_	_	
+5-3	1962-1968	Mirrhe	Smell\_Source	_	_	
+5-4	1968-1969	,	_	_	_	
+5-5	1970-1973	and	_	_	_	
+5-6	1974-1986	frankinsence	Smell\_Source	_	_	
+5-7	1987-1989	is	_	_	_	
+5-8	1990-1997	throwne	_	_	_	
+5-9	1999-2002	The	_	_	_	
+5-10	2003-2009	altars	_	_	_	
+5-11	2010-2015	built	_	_	_	
+5-12	2016-2018	to	_	_	_	
+5-13	2019-2023	Gods	_	_	_	
+5-14	2024-2032	unknowne	_	_	_	
+5-15	2034-2036	Oh	_	_	_	
+5-16	2037-2041	lett	_	_	_	
+5-17	2042-2044	my	Perceiver[1]	_	_	
+5-18	2045-2055	Soveraigne	Perceiver[1]	_	_	
+5-19	2056-2061	never	_	_	_	
+5-20	2062-2067	smell	Smell\_Word	*	5-17[1_0]	
+5-21	2069-2073	Such	_	_	_	
+5-22	2074-2078	damn	Quality[2]	_	_	
+5-23	2078-2079	’	Quality[2]	_	_	
+5-24	2079-2080	d	Quality[2]	_	_	
+5-25	2081-2089	perfumes	Smell\_Word	*|*	5-22[2_0]|5-27[3_0]	
+5-26	2090-2093	are	_	_	_	
+5-27	2094-2098	fitt	Quality[3]	_	_	
+5-28	2099-2102	for	Quality[3]	_	_	
+5-29	2103-2107	hell	Quality[3]	_	_	
+5-30	2109-2112	Let	_	_	_	
+5-31	2113-2116	noe	_	_	_	
+5-32	2117-2121	such	Quality	_	_	
+5-33	2122-2127	scent	Smell\_Word	*|*	5-32|5-34[4_0]	
+5-34	2128-2131	his	Perceiver[4]	_	_	
+5-35	2132-2141	nostrills	Perceiver[4]	_	_	
+5-36	2142-2148	staine	_	_	_	
+5-37	2150-2154	From	_	_	_	
+5-38	2155-2161	smells	Smell\_Word	*	5-39[5_0]	
+5-39	2162-2166	that	Effect[5]	_	_	
+5-40	2167-2173	poyson	Effect[5]	_	_	
+5-41	2174-2177	may	Effect[5]	_	_	
+5-42	2178-2181	the	Effect[5]	_	_	
+5-43	2182-2188	braine	Effect[5]	_	_	
+5-44	2190-2197	Heavens	_	_	_	
+5-45	2198-2203	still	_	_	_	
+5-46	2204-2212	preserve	_	_	_	
+5-47	2213-2216	him	_	_	_	
+5-48	2216-2217	,	_	_	_	
+5-49	2218-2222	Next	_	_	_	
+5-50	2223-2224	I	_	_	_	
+5-51	2225-2230	crave	_	_	_	
+5-52	2232-2236	Thou	_	_	_	
+5-53	2237-2241	wilt	_	_	_	
+5-54	2242-2244	be	_	_	_	
+5-55	2245-2250	pleas	_	_	_	
+5-56	2250-2251	’	_	_	_	
+5-57	2251-2252	d	_	_	_	
+5-58	2253-2258	great	_	_	_	
+5-59	2259-2262	God	_	_	_	
+5-60	2263-2265	to	_	_	_	
+5-61	2266-2270	save	_	_	_	
+5-62	2272-2274	My	_	_	_	
+5-63	2275-2285	Soveraigne	_	_	_	
+5-64	2286-2290	from	Smell\_Source[6]	_	_	
+5-65	2291-2292	a	Smell\_Source[6]	_	_	
+5-66	2293-2301	Ganimede	Smell\_Source[6]	_	_	
+5-67	2303-2308	Whose	_	_	_	
+5-68	2309-2317	whoreish	Quality	_	_	
+5-69	2318-2324	breath	Smell\_Word	*|*|*	5-68|5-64[6_0]|5-70[7_0]	
+5-70	2325-2329	hath	Effect[7]	_	_	
+5-71	2330-2335	power	Effect[7]	_	_	
+5-72	2336-2338	to	Effect[7]	_	_	
+5-73	2339-2343	lead	Effect[7]	_	_	
+5-74	2345-2348	His	Effect[7]	_	_	
+5-75	2349-2359	excellence	Effect[7]	_	_	
+5-76	2360-2365	which	Effect[7]	_	_	
+5-77	2366-2369	way	Effect[7]	_	_	
+5-78	2370-2372	it	Effect[7]	_	_	
+5-79	2373-2377	list	Effect[7]	_	_	
+5-80	2379-2380	O	_	_	_	
+5-81	2381-2385	lett	_	_	_	
+5-82	2386-2390	such	_	_	_	
+5-83	2391-2396	lipps	_	_	_	
+5-84	2397-2399	be	_	_	_	
+5-85	2400-2405	never	_	_	_	
+5-86	2406-2410	kist	_	_	_	
+5-87	2412-2416	From	_	_	_	
+5-88	2417-2418	a	_	_	_	
+5-89	2419-2425	breath	Smell\_Word	*	5-90[8_0]	
+5-90	2426-2429	soe	Quality[8]	_	_	
+5-91	2430-2434	farr	Quality[8]	_	_	
+5-92	2435-2444	excelling	Quality[8]	_	_	
+5-93	2446-2452	Blesse	_	_	_	
+5-94	2453-2455	my	Perceiver[9]	_	_	
+5-95	2456-2466	Soveraigne	Perceiver[9]	_	_	
+5-96	2467-2470	and	_	_	_	
+5-97	2471-2474	his	_	_	_	
+5-98	2475-2483	smelling	Smell\_Word	*	5-94[9_0]	
+5-99	2483-2484	.	_	_	_	
+
+#Text=On all the Sences\r
+#Text=And just God I humblie pray\r
+#Text=That thou wilt take the Filme away\r
+#Text=That keepes my Soveraignes eyes from vieweing\r
+#Text=The things that wilbe our undoeing\r
+#Text=Then lett him Heare good God the sounds\r
+#Text=Aswell of Men, as of his hounds\r
+#Text=Give him a Taste and tymely too\r
+#Text=Of what his Subjects undergoe\r
+#Text=Give him a Feelinge of there woes\r
+#Text=And noe doubt his royall nose\r
+#Text=Will quickely Smell those rascalls forth\r
+#Text=Whose blacke deeds have ecclips’t his worth.
+6-1	2488-2490	On	_	_	_	
+6-2	2491-2494	all	_	_	_	
+6-3	2495-2498	the	_	_	_	
+6-4	2499-2505	Sences	_	_	_	
+6-5	2507-2510	And	_	_	_	
+6-6	2511-2515	just	_	_	_	
+6-7	2516-2519	God	_	_	_	
+6-8	2520-2521	I	_	_	_	
+6-9	2522-2529	humblie	_	_	_	
+6-10	2530-2534	pray	_	_	_	
+6-11	2536-2540	That	_	_	_	
+6-12	2541-2545	thou	_	_	_	
+6-13	2546-2550	wilt	_	_	_	
+6-14	2551-2555	take	_	_	_	
+6-15	2556-2559	the	_	_	_	
+6-16	2560-2565	Filme	_	_	_	
+6-17	2566-2570	away	_	_	_	
+6-18	2572-2576	That	_	_	_	
+6-19	2577-2583	keepes	_	_	_	
+6-20	2584-2586	my	_	_	_	
+6-21	2587-2598	Soveraignes	_	_	_	
+6-22	2599-2603	eyes	_	_	_	
+6-23	2604-2608	from	_	_	_	
+6-24	2609-2617	vieweing	_	_	_	
+6-25	2619-2622	The	_	_	_	
+6-26	2623-2629	things	_	_	_	
+6-27	2630-2634	that	_	_	_	
+6-28	2635-2640	wilbe	_	_	_	
+6-29	2641-2644	our	_	_	_	
+6-30	2645-2653	undoeing	_	_	_	
+6-31	2655-2659	Then	_	_	_	
+6-32	2660-2664	lett	_	_	_	
+6-33	2665-2668	him	_	_	_	
+6-34	2669-2674	Heare	_	_	_	
+6-35	2675-2679	good	_	_	_	
+6-36	2680-2683	God	_	_	_	
+6-37	2684-2687	the	_	_	_	
+6-38	2688-2694	sounds	_	_	_	
+6-39	2696-2702	Aswell	_	_	_	
+6-40	2703-2705	of	_	_	_	
+6-41	2706-2709	Men	_	_	_	
+6-42	2709-2710	,	_	_	_	
+6-43	2711-2713	as	_	_	_	
+6-44	2714-2716	of	_	_	_	
+6-45	2717-2720	his	_	_	_	
+6-46	2721-2727	hounds	_	_	_	
+6-47	2729-2733	Give	_	_	_	
+6-48	2734-2737	him	_	_	_	
+6-49	2738-2739	a	_	_	_	
+6-50	2740-2745	Taste	_	_	_	
+6-51	2746-2749	and	_	_	_	
+6-52	2750-2756	tymely	_	_	_	
+6-53	2757-2760	too	_	_	_	
+6-54	2762-2764	Of	_	_	_	
+6-55	2765-2769	what	_	_	_	
+6-56	2770-2773	his	_	_	_	
+6-57	2774-2782	Subjects	_	_	_	
+6-58	2783-2791	undergoe	_	_	_	
+6-59	2793-2797	Give	_	_	_	
+6-60	2798-2801	him	_	_	_	
+6-61	2802-2803	a	_	_	_	
+6-62	2804-2812	Feelinge	_	_	_	
+6-63	2813-2815	of	_	_	_	
+6-64	2816-2821	there	_	_	_	
+6-65	2822-2826	woes	_	_	_	
+6-66	2828-2831	And	_	_	_	
+6-67	2832-2835	noe	_	_	_	
+6-68	2836-2841	doubt	_	_	_	
+6-69	2842-2845	his	_	_	_	
+6-70	2846-2852	royall	_	_	_	
+6-71	2853-2857	nose	_	_	_	
+6-72	2859-2863	Will	_	_	_	
+6-73	2864-2872	quickely	_	_	_	
+6-74	2873-2878	Smell	_	_	_	
+6-75	2879-2884	those	_	_	_	
+6-76	2885-2893	rascalls	_	_	_	
+6-77	2894-2899	forth	_	_	_	
+6-78	2901-2906	Whose	_	_	_	
+6-79	2907-2913	blacke	_	_	_	
+6-80	2914-2919	deeds	_	_	_	
+6-81	2920-2924	have	_	_	_	
+6-82	2925-2932	ecclips	_	_	_	
+6-83	2932-2933	’	_	_	_	
+6-84	2933-2934	t	_	_	_	
+6-85	2935-2938	his	_	_	_	
+6-86	2939-2944	worth	_	_	_	
+6-87	2944-2945	.	_	_	_	
+
+#Text=These found, and scourg’d for their offences\r
+#Text=Heavens blesse my Soveraigne, and his sences.
+7-1	2947-2952	These	_	_	_	
+7-2	2953-2958	found	_	_	_	
+7-3	2958-2959	,	_	_	_	
+7-4	2960-2963	and	_	_	_	
+7-5	2964-2970	scourg	_	_	_	
+7-6	2970-2971	’	_	_	_	
+7-7	2971-2972	d	_	_	_	
+7-8	2973-2976	for	_	_	_	
+7-9	2977-2982	their	_	_	_	
+7-10	2983-2991	offences	_	_	_	
+7-11	2993-3000	Heavens	_	_	_	
+7-12	3001-3007	blesse	_	_	_	
+7-13	3008-3010	my	_	_	_	
+7-14	3011-3021	Soveraigne	_	_	_	
+7-15	3021-3022	,	_	_	_	
+7-16	3023-3026	and	_	_	_	
+7-17	3027-3030	his	_	_	_	
+7-18	3031-3037	sences	_	_	_	
+7-19	3037-3038	.	_	_	_	
+
+#Text=Source.
+8-1	3042-3048	Source	_	_	_	
+8-2	3048-3049	.	_	_	_	
+
+#Text=Bodleian MS Malone 23, pp. 28-31
+9-1	3050-3058	Bodleian	_	_	_	
+9-2	3059-3061	MS	_	_	_	
+9-3	3062-3068	Malone	_	_	_	
+9-4	3069-3071	23	_	_	_	
+9-5	3071-3072	,	_	_	_	
+9-6	3073-3075	pp	_	_	_	
+9-7	3075-3076	.	_	_	_	
+9-8	3077-3079	28	_	_	_	
+9-9	3079-3080	-	_	_	_	
+9-10	3080-3082	31	_	_	_	

@@ -1,0 +1,584 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=Curry Powder is ordinarily a mixture of turmeric, black
+#Text=pepper, coriander seeds, cayenne, cardamoms, cumin, fenugreek, ginger, allspice, and cloves.
+1-1	0-5	Curry	_	_	_	
+1-2	6-12	Powder	_	_	_	
+1-3	13-15	is	_	_	_	
+1-4	16-26	ordinarily	_	_	_	
+1-5	27-28	a	_	_	_	
+1-6	29-36	mixture	_	_	_	
+1-7	37-39	of	_	_	_	
+1-8	40-48	turmeric	_	_	_	
+1-9	48-49	,	_	_	_	
+1-10	50-55	black	_	_	_	
+1-11	56-62	pepper	_	_	_	
+1-12	62-63	,	_	_	_	
+1-13	64-73	coriander	_	_	_	
+1-14	74-79	seeds	_	_	_	
+1-15	79-80	,	_	_	_	
+1-16	81-88	cayenne	_	_	_	
+1-17	88-89	,	_	_	_	
+1-18	90-99	cardamoms	_	_	_	
+1-19	99-100	,	_	_	_	
+1-20	101-106	cumin	_	_	_	
+1-21	106-107	,	_	_	_	
+1-22	108-117	fenugreek	_	_	_	
+1-23	117-118	,	_	_	_	
+1-24	119-125	ginger	_	_	_	
+1-25	125-126	,	_	_	_	
+1-26	127-135	allspice	_	_	_	
+1-27	135-136	,	_	_	_	
+1-28	137-140	and	_	_	_	
+1-29	141-147	cloves	_	_	_	
+1-30	147-148	.	_	_	_	
+
+#Text=Turmeric, the ingredient
+#Text=furnishing the colouring matter, forms the largest proportion.
+2-1	149-157	Turmeric	_	_	_	
+2-2	157-158	,	_	_	_	
+2-3	159-162	the	_	_	_	
+2-4	163-173	ingredient	_	_	_	
+2-5	174-184	furnishing	_	_	_	
+2-6	185-188	the	_	_	_	
+2-7	189-198	colouring	_	_	_	
+2-8	199-205	matter	_	_	_	
+2-9	205-206	,	_	_	_	
+2-10	207-212	forms	_	_	_	
+2-11	213-216	the	_	_	_	
+2-12	217-224	largest	_	_	_	
+2-13	225-235	proportion	_	_	_	
+2-14	235-236	.	_	_	_	
+
+#Text=There is only a small quantity of cayenne, cardamoms,
+#Text=cumin, and fenugreek.
+3-1	237-242	There	_	_	_	
+3-2	243-245	is	_	_	_	
+3-3	246-250	only	_	_	_	
+3-4	251-252	a	_	_	_	
+3-5	253-258	small	_	_	_	
+3-6	259-267	quantity	_	_	_	
+3-7	268-270	of	_	_	_	
+3-8	271-278	cayenne	_	_	_	
+3-9	278-279	,	_	_	_	
+3-10	280-289	cardamoms	_	_	_	
+3-11	289-290	,	_	_	_	
+3-12	291-296	cumin	_	_	_	
+3-13	296-297	,	_	_	_	
+3-14	298-301	and	_	_	_	
+3-15	302-311	fenugreek	_	_	_	
+3-16	311-312	.	_	_	_	
+
+#Text=Ginger, allspice, and cloves are often
+#Text=omitted.
+4-1	313-319	Ginger	_	_	_	
+4-2	319-320	,	_	_	_	
+4-3	321-329	allspice	_	_	_	
+4-4	329-330	,	_	_	_	
+4-5	331-334	and	_	_	_	
+4-6	335-341	cloves	_	_	_	
+4-7	342-345	are	_	_	_	
+4-8	346-351	often	_	_	_	
+4-9	352-359	omitted	_	_	_	
+4-10	359-360	.	_	_	_	
+
+#Text=Turmeric powder is obtained from the Curucma
+#Text=longa.
+5-1	361-369	Turmeric	_	_	_	
+5-2	370-376	powder	_	_	_	
+5-3	377-379	is	_	_	_	
+5-4	380-388	obtained	_	_	_	
+5-5	389-393	from	_	_	_	
+5-6	394-397	the	_	_	_	
+5-7	398-405	Curucma	_	_	_	
+5-8	406-411	longa	_	_	_	
+5-9	411-412	.	_	_	_	
+
+#Text=The ground turners of the plant are dried and
+#Text=ground to flour.
+6-1	413-416	The	_	_	_	
+6-2	417-423	ground	_	_	_	
+6-3	424-431	turners	_	_	_	
+6-4	432-434	of	_	_	_	
+6-5	435-438	the	_	_	_	
+6-6	439-444	plant	_	_	_	
+6-7	445-448	are	_	_	_	
+6-8	449-454	dried	_	_	_	
+6-9	455-458	and	_	_	_	
+6-10	459-465	ground	_	_	_	
+6-11	466-468	to	_	_	_	
+6-12	469-474	flour	_	_	_	
+6-13	474-475	.	_	_	_	
+
+#Text=It is said to be adulterated with alkali to
+#Text=heighten the colour, and with yellow ochre.
+7-1	476-478	It	_	_	_	
+7-2	479-481	is	_	_	_	
+7-3	482-486	said	_	_	_	
+7-4	487-489	to	_	_	_	
+7-5	490-492	be	_	_	_	
+7-6	493-504	adulterated	_	_	_	
+7-7	505-509	with	_	_	_	
+7-8	510-516	alkali	_	_	_	
+7-9	517-519	to	_	_	_	
+7-10	520-528	heighten	_	_	_	
+7-11	529-532	the	_	_	_	
+7-12	533-539	colour	_	_	_	
+7-13	539-540	,	_	_	_	
+7-14	541-544	and	_	_	_	
+7-15	545-549	with	_	_	_	
+7-16	550-556	yellow	_	_	_	
+7-17	557-562	ochre	_	_	_	
+7-18	562-563	.	_	_	_	
+
+#Text=The fruit of the coriander is round, and nearly as large as white pepper.
+8-1	565-568	The	_	_	_	
+8-2	569-574	fruit	_	_	_	
+8-3	575-577	of	_	_	_	
+8-4	578-581	the	_	_	_	
+8-5	582-591	coriander	_	_	_	
+8-6	592-594	is	_	_	_	
+8-7	595-600	round	_	_	_	
+8-8	600-601	,	_	_	_	
+8-9	602-605	and	_	_	_	
+8-10	606-612	nearly	_	_	_	
+8-11	613-615	as	_	_	_	
+8-12	616-621	large	_	_	_	
+8-13	622-624	as	_	_	_	
+8-14	625-630	white	_	_	_	
+8-15	631-637	pepper	_	_	_	
+8-16	637-638	.	_	_	_	
+
+#Text=It contains two brown-coloured hemispherical seeds, having
+#Text=an aromatic taste and odour.
+9-1	639-641	It	_	_	_	
+9-2	642-650	contains	_	_	_	
+9-3	651-654	two	Smell\_Source[1]	_	_	
+9-4	655-669	brown-coloured	Smell\_Source[1]	_	_	
+9-5	670-683	hemispherical	Smell\_Source[1]	_	_	
+9-6	684-689	seeds	Smell\_Source[1]	_	_	
+9-7	689-690	,	_	_	_	
+9-8	691-697	having	_	_	_	
+9-9	698-700	an	_	_	_	
+9-10	701-709	aromatic	_	_	_	
+9-11	710-715	taste	_	_	_	
+9-12	716-719	and	_	_	_	
+9-13	720-725	odour	Smell\_Word	*	9-3[1_0]	
+9-14	725-726	.	_	_	_	
+
+#Text=The seed-vessels, or pods, of
+#Text=cardamom are of triangular form, each containing several
+#Text=hard, reddish-brown seeds, having a pungent taste, and
+#Text=popularly known as "grains of paradise."
+10-1	727-730	The	_	_	_	
+10-2	731-743	seed-vessels	_	_	_	
+10-3	743-744	,	_	_	_	
+10-4	745-747	or	_	_	_	
+10-5	748-752	pods	_	_	_	
+10-6	752-753	,	_	_	_	
+10-7	754-756	of	_	_	_	
+10-8	757-765	cardamom	_	_	_	
+10-9	766-769	are	_	_	_	
+10-10	770-772	of	_	_	_	
+10-11	773-783	triangular	_	_	_	
+10-12	784-788	form	_	_	_	
+10-13	788-789	,	_	_	_	
+10-14	790-794	each	_	_	_	
+10-15	795-805	containing	_	_	_	
+10-16	806-813	several	_	_	_	
+10-17	814-818	hard	_	_	_	
+10-18	818-819	,	_	_	_	
+10-19	820-833	reddish-brown	_	_	_	
+10-20	834-839	seeds	_	_	_	
+10-21	839-840	,	_	_	_	
+10-22	841-847	having	_	_	_	
+10-23	848-849	a	_	_	_	
+10-24	850-857	pungent	_	_	_	
+10-25	858-863	taste	_	_	_	
+10-26	863-864	,	_	_	_	
+10-27	865-868	and	_	_	_	
+10-28	869-878	popularly	_	_	_	
+10-29	879-884	known	_	_	_	
+10-30	885-887	as	_	_	_	
+10-31	888-889	"	_	_	_	
+10-32	889-895	grains	_	_	_	
+10-33	896-898	of	_	_	_	
+10-34	899-907	paradise	_	_	_	
+10-35	907-908	.	_	_	_	
+10-36	908-909	"	_	_	_	
+
+#Text=Cumin and fenugreek seeds are aromatic seeds having a peculiar medicinal
+#Text=taste and odour.
+11-1	910-915	Cumin	Smell\_Source[2]	_	_	
+11-2	916-919	and	Smell\_Source[2]	_	_	
+11-3	920-929	fenugreek	Smell\_Source[2]	_	_	
+11-4	930-935	seeds	Smell\_Source[2]	_	_	
+11-5	936-939	are	_	_	_	
+11-6	940-948	aromatic	Smell\_Word[3]|Quality[4]	*|*	11-6[4_3]|11-1[2_3]	
+11-7	949-954	seeds	_	_	_	
+11-8	955-961	having	_	_	_	
+11-9	962-963	a	_	_	_	
+11-10	964-972	peculiar	Quality	_	_	
+11-11	973-982	medicinal	Quality	_	_	
+11-12	983-988	taste	_	_	_	
+11-13	989-992	and	_	_	_	
+11-14	993-998	odour	Smell\_Word	*|*|*	11-11|11-10|11-1[2_0]	
+11-15	998-999	.	_	_	_	
+
+#Text=The characteristic flavour of curry is due
+#Text=largely to the cumin it contains.
+12-1	1000-1003	The	_	_	_	
+12-2	1004-1018	characteristic	_	_	_	
+12-3	1019-1026	flavour	_	_	_	
+12-4	1027-1029	of	_	_	_	
+12-5	1030-1035	curry	_	_	_	
+12-6	1036-1038	is	_	_	_	
+12-7	1039-1042	due	_	_	_	
+12-8	1043-1050	largely	_	_	_	
+12-9	1051-1053	to	_	_	_	
+12-10	1054-1057	the	_	_	_	
+12-11	1058-1063	cumin	_	_	_	
+12-12	1064-1066	it	_	_	_	
+12-13	1067-1075	contains	_	_	_	
+12-14	1075-1076	.	_	_	_	
+
+#Text=Curry has been found to
+#Text=be adulterated with ground rice, potato starch, common salt,
+#Text=red lead, and ferruginous earths.
+13-1	1077-1082	Curry	_	_	_	
+13-2	1083-1086	has	_	_	_	
+13-3	1087-1091	been	_	_	_	
+13-4	1092-1097	found	_	_	_	
+13-5	1098-1100	to	_	_	_	
+13-6	1101-1103	be	_	_	_	
+13-7	1104-1115	adulterated	_	_	_	
+13-8	1116-1120	with	_	_	_	
+13-9	1121-1127	ground	_	_	_	
+13-10	1128-1132	rice	_	_	_	
+13-11	1132-1133	,	_	_	_	
+13-12	1134-1140	potato	_	_	_	
+13-13	1141-1147	starch	_	_	_	
+13-14	1147-1148	,	_	_	_	
+13-15	1149-1155	common	_	_	_	
+13-16	1156-1160	salt	_	_	_	
+13-17	1160-1161	,	_	_	_	
+13-18	1162-1165	red	_	_	_	
+13-19	1166-1170	lead	_	_	_	
+13-20	1170-1171	,	_	_	_	
+13-21	1172-1175	and	_	_	_	
+13-22	1176-1187	ferruginous	_	_	_	
+13-23	1188-1194	earths	_	_	_	
+13-24	1194-1195	.	_	_	_	
+
+#Text=Olive Oil is expressed from olives, the fruit of a well-known
+#Text=tree cultivated in many European countries.
+14-1	1197-1202	Olive	_	_	_	
+14-2	1203-1206	Oil	_	_	_	
+14-3	1207-1209	is	_	_	_	
+14-4	1210-1219	expressed	_	_	_	
+14-5	1220-1224	from	_	_	_	
+14-6	1225-1231	olives	_	_	_	
+14-7	1231-1232	,	_	_	_	
+14-8	1233-1236	the	_	_	_	
+14-9	1237-1242	fruit	_	_	_	
+14-10	1243-1245	of	_	_	_	
+14-11	1246-1247	a	_	_	_	
+14-12	1248-1258	well-known	_	_	_	
+14-13	1259-1263	tree	_	_	_	
+14-14	1264-1274	cultivated	_	_	_	
+14-15	1275-1277	in	_	_	_	
+14-16	1278-1282	many	_	_	_	
+14-17	1283-1291	European	_	_	_	
+14-18	1292-1301	countries	_	_	_	
+14-19	1301-1302	.	_	_	_	
+
+#Text=Olives should
+#Text=furnish from 20 to 25 per cent, of their weight of oil, but
+#Text=the whole yield is not usually of the same quality.
+15-1	1303-1309	Olives	_	_	_	
+15-2	1310-1316	should	_	_	_	
+15-3	1317-1324	furnish	_	_	_	
+15-4	1325-1329	from	_	_	_	
+15-5	1330-1332	20	_	_	_	
+15-6	1333-1335	to	_	_	_	
+15-7	1336-1338	25	_	_	_	
+15-8	1339-1342	per	_	_	_	
+15-9	1343-1347	cent	_	_	_	
+15-10	1347-1348	,	_	_	_	
+15-11	1349-1351	of	_	_	_	
+15-12	1352-1357	their	_	_	_	
+15-13	1358-1364	weight	_	_	_	
+15-14	1365-1367	of	_	_	_	
+15-15	1368-1371	oil	_	_	_	
+15-16	1371-1372	,	_	_	_	
+15-17	1373-1376	but	_	_	_	
+15-18	1377-1380	the	_	_	_	
+15-19	1381-1386	whole	_	_	_	
+15-20	1387-1392	yield	_	_	_	
+15-21	1393-1395	is	_	_	_	
+15-22	1396-1399	not	_	_	_	
+15-23	1400-1407	usually	_	_	_	
+15-24	1408-1410	of	_	_	_	
+15-25	1411-1414	the	_	_	_	
+15-26	1415-1419	same	_	_	_	
+15-27	1420-1427	quality	_	_	_	
+15-28	1427-1428	.	_	_	_	
+
+#Text=The
+#Text=pure oil is pale yellow, transparent, of agreeable odour and
+#Text=bland taste.
+16-1	1429-1432	The	Smell\_Source[5]	_	_	
+16-2	1433-1437	pure	Smell\_Source[5]	_	_	
+16-3	1438-1441	oil	Smell\_Source[5]	_	_	
+16-4	1442-1444	is	_	_	_	
+16-5	1445-1449	pale	_	_	_	
+16-6	1450-1456	yellow	_	_	_	
+16-7	1456-1457	,	_	_	_	
+16-8	1458-1469	transparent	_	_	_	
+16-9	1469-1470	,	_	_	_	
+16-10	1471-1473	of	_	_	_	
+16-11	1474-1483	agreeable	Quality	_	_	
+16-12	1484-1489	odour	Smell\_Word	*|*	16-11|16-1[5_0]	
+16-13	1490-1493	and	_	_	_	
+16-14	1494-1499	bland	_	_	_	
+16-15	1500-1505	taste	_	_	_	
+16-16	1505-1506	.	_	_	_	
+
+#Text=It keeps well, being little liable to become
+#Text=rancid.
+17-1	1507-1509	It	_	_	_	
+17-2	1510-1515	keeps	_	_	_	
+17-3	1516-1520	well	_	_	_	
+17-4	1520-1521	,	_	_	_	
+17-5	1522-1527	being	_	_	_	
+17-6	1528-1534	little	_	_	_	
+17-7	1535-1541	liable	_	_	_	
+17-8	1542-1544	to	_	_	_	
+17-9	1545-1551	become	_	_	_	
+17-10	1552-1558	rancid	_	_	_	
+17-11	1558-1559	.	_	_	_	
+
+#Text=Olive oil is not infrequently adulterated with cotton-seed
+#Text=oil, rape oil, and other cheap vegetable oils.
+18-1	1562-1567	Olive	_	_	_	
+18-2	1568-1571	oil	_	_	_	
+18-3	1572-1574	is	_	_	_	
+18-4	1575-1578	not	_	_	_	
+18-5	1579-1591	infrequently	_	_	_	
+18-6	1592-1603	adulterated	_	_	_	
+18-7	1604-1608	with	_	_	_	
+18-8	1609-1620	cotton-seed	_	_	_	
+18-9	1621-1624	oil	_	_	_	
+18-10	1624-1625	,	_	_	_	
+18-11	1626-1630	rape	_	_	_	
+18-12	1631-1634	oil	_	_	_	
+18-13	1634-1635	,	_	_	_	
+18-14	1636-1639	and	_	_	_	
+18-15	1640-1645	other	_	_	_	
+18-16	1646-1651	cheap	_	_	_	
+18-17	1652-1661	vegetable	_	_	_	
+18-18	1662-1666	oils	_	_	_	
+18-19	1666-1667	.	_	_	_	
+
+#Text=Taking the
+#Text=specific gravity is often sufficient to show there is an adulterant present, and to warrant the food inspector in sending
+#Text=a sample to an expert.
+19-1	1668-1674	Taking	_	_	_	
+19-2	1675-1678	the	_	_	_	
+19-3	1679-1687	specific	_	_	_	
+19-4	1688-1695	gravity	_	_	_	
+19-5	1696-1698	is	_	_	_	
+19-6	1699-1704	often	_	_	_	
+19-7	1705-1715	sufficient	_	_	_	
+19-8	1716-1718	to	_	_	_	
+19-9	1719-1723	show	_	_	_	
+19-10	1724-1729	there	_	_	_	
+19-11	1730-1732	is	_	_	_	
+19-12	1733-1735	an	_	_	_	
+19-13	1736-1746	adulterant	_	_	_	
+19-14	1747-1754	present	_	_	_	
+19-15	1754-1755	,	_	_	_	
+19-16	1756-1759	and	_	_	_	
+19-17	1760-1762	to	_	_	_	
+19-18	1763-1770	warrant	_	_	_	
+19-19	1771-1774	the	_	_	_	
+19-20	1775-1779	food	_	_	_	
+19-21	1780-1789	inspector	_	_	_	
+19-22	1790-1792	in	_	_	_	
+19-23	1793-1800	sending	_	_	_	
+19-24	1801-1802	a	_	_	_	
+19-25	1803-1809	sample	_	_	_	
+19-26	1810-1812	to	_	_	_	
+19-27	1813-1815	an	_	_	_	
+19-28	1816-1822	expert	_	_	_	
+19-29	1822-1823	.	_	_	_	
+
+#Text=The specific gravity of olive oil is
+#Text=917-6 at 59 deg.
+20-1	1824-1827	The	_	_	_	
+20-2	1828-1836	specific	_	_	_	
+20-3	1837-1844	gravity	_	_	_	
+20-4	1845-1847	of	_	_	_	
+20-5	1848-1853	olive	_	_	_	
+20-6	1854-1857	oil	_	_	_	
+20-7	1858-1860	is	_	_	_	
+20-8	1861-1864	917	_	_	_	
+20-9	1864-1865	-	_	_	_	
+20-10	1865-1866	6	_	_	_	
+20-11	1867-1869	at	_	_	_	
+20-12	1870-1872	59	_	_	_	
+20-13	1873-1876	deg	_	_	_	
+20-14	1876-1877	.	_	_	_	
+
+#Text=Fah.
+21-1	1878-1881	Fah	_	_	_	
+21-2	1881-1882	.	_	_	_	
+
+#Text=Vinegar. — Commercial vinegar is a more or less impure
+#Text=acetic acid.
+22-1	1884-1891	Vinegar	_	_	_	
+22-2	1891-1892	.	_	_	_	
+22-3	1893-1894	—	_	_	_	
+22-4	1895-1905	Commercial	_	_	_	
+22-5	1906-1913	vinegar	_	_	_	
+22-6	1914-1916	is	_	_	_	
+22-7	1917-1918	a	_	_	_	
+22-8	1919-1923	more	_	_	_	
+22-9	1924-1926	or	_	_	_	
+22-10	1927-1931	less	_	_	_	
+22-11	1932-1938	impure	_	_	_	
+22-12	1939-1945	acetic	_	_	_	
+22-13	1946-1950	acid	_	_	_	
+22-14	1950-1951	.	_	_	_	
+
+#Text=Besides acetic acid it usually contains some
+#Text=alcohol, acetic ether, sugar, gum, various salts, &c, its composition depending to some extent on the substances from
+#Text=which it has been produced.
+23-1	1952-1959	Besides	_	_	_	
+23-2	1960-1966	acetic	_	_	_	
+23-3	1967-1971	acid	_	_	_	
+23-4	1972-1974	it	_	_	_	
+23-5	1975-1982	usually	_	_	_	
+23-6	1983-1991	contains	_	_	_	
+23-7	1992-1996	some	_	_	_	
+23-8	1997-2004	alcohol	_	_	_	
+23-9	2004-2005	,	_	_	_	
+23-10	2006-2012	acetic	_	_	_	
+23-11	2013-2018	ether	_	_	_	
+23-12	2018-2019	,	_	_	_	
+23-13	2020-2025	sugar	_	_	_	
+23-14	2025-2026	,	_	_	_	
+23-15	2027-2030	gum	_	_	_	
+23-16	2030-2031	,	_	_	_	
+23-17	2032-2039	various	_	_	_	
+23-18	2040-2045	salts	_	_	_	
+23-19	2045-2046	,	_	_	_	
+23-20	2047-2048	&	_	_	_	
+23-21	2048-2049	c	_	_	_	
+23-22	2049-2050	,	_	_	_	
+23-23	2051-2054	its	_	_	_	
+23-24	2055-2066	composition	_	_	_	
+23-25	2067-2076	depending	_	_	_	
+23-26	2077-2079	to	_	_	_	
+23-27	2080-2084	some	_	_	_	
+23-28	2085-2091	extent	_	_	_	
+23-29	2092-2094	on	_	_	_	
+23-30	2095-2098	the	_	_	_	
+23-31	2099-2109	substances	_	_	_	
+23-32	2110-2114	from	_	_	_	
+23-33	2115-2120	which	_	_	_	
+23-34	2121-2123	it	_	_	_	
+23-35	2124-2127	has	_	_	_	
+23-36	2128-2132	been	_	_	_	
+23-37	2133-2141	produced	_	_	_	
+23-38	2141-2142	.	_	_	_	
+
+#Text=The different varieties of vinegar, according to their
+#Text=source, are malt, wine, cider, beet, sugar, and wood vinegars.
+24-1	2144-2147	The	_	_	_	
+24-2	2148-2157	different	_	_	_	
+24-3	2158-2167	varieties	_	_	_	
+24-4	2168-2170	of	_	_	_	
+24-5	2171-2178	vinegar	_	_	_	
+24-6	2178-2179	,	_	_	_	
+24-7	2180-2189	according	_	_	_	
+24-8	2190-2192	to	_	_	_	
+24-9	2193-2198	their	_	_	_	
+24-10	2199-2205	source	_	_	_	
+24-11	2205-2206	,	_	_	_	
+24-12	2207-2210	are	_	_	_	
+24-13	2211-2215	malt	_	_	_	
+24-14	2215-2216	,	_	_	_	
+24-15	2217-2221	wine	_	_	_	
+24-16	2221-2222	,	_	_	_	
+24-17	2223-2228	cider	_	_	_	
+24-18	2228-2229	,	_	_	_	
+24-19	2230-2234	beet	_	_	_	
+24-20	2234-2235	,	_	_	_	
+24-21	2236-2241	sugar	_	_	_	
+24-22	2241-2242	,	_	_	_	
+24-23	2243-2246	and	_	_	_	
+24-24	2247-2251	wood	_	_	_	
+24-25	2252-2260	vinegars	_	_	_	
+24-26	2260-2261	.	_	_	_	
+
+#Text=Acetic acid is the volatile principle in all, to the presence of
+#Text=which vinegar mainly owes its aroma and pungency.
+25-1	2262-2268	Acetic	_	_	_	
+25-2	2269-2273	acid	_	_	_	
+25-3	2274-2276	is	_	_	_	
+25-4	2277-2280	the	_	_	_	
+25-5	2281-2289	volatile	_	_	_	
+25-6	2290-2299	principle	_	_	_	
+25-7	2300-2302	in	_	_	_	
+25-8	2303-2306	all	_	_	_	
+25-9	2306-2307	,	_	_	_	
+25-10	2308-2310	to	_	_	_	
+25-11	2311-2314	the	_	_	_	
+25-12	2315-2323	presence	_	_	_	
+25-13	2324-2326	of	_	_	_	
+25-14	2327-2332	which	_	_	_	
+25-15	2333-2340	vinegar	Smell\_Source	_	_	
+25-16	2341-2347	mainly	_	_	_	
+25-17	2348-2352	owes	_	_	_	
+25-18	2353-2356	its	Smell\_Source	Anaphoric	25-15	
+25-19	2357-2362	aroma	Smell\_Word	*	25-18	
+25-20	2363-2366	and	_	_	_	
+25-21	2367-2375	pungency	_	_	_	
+25-22	2375-2376	.	_	_	_	
+
+#Text=It
+#Text=may be generated by the fermentation  of many vegetable
+#Text=and some animal substances.
+26-1	2377-2379	It	_	_	_	
+26-2	2380-2383	may	_	_	_	
+26-3	2384-2386	be	_	_	_	
+26-4	2387-2396	generated	_	_	_	
+26-5	2397-2399	by	_	_	_	
+26-6	2400-2403	the	_	_	_	
+26-7	2404-2416	fermentation	_	_	_	
+26-8	2418-2420	of	_	_	_	
+26-9	2421-2425	many	_	_	_	
+26-10	2426-2435	vegetable	_	_	_	
+26-11	2436-2439	and	_	_	_	
+26-12	2440-2444	some	_	_	_	
+26-13	2445-2451	animal	_	_	_	
+26-14	2452-2462	substances	_	_	_	
+26-15	2462-2463	.	_	_	_	
+
+#Text=Any vegetable infusion
+#Text=capable of yielding alcohol will furnish vinegar.
+27-1	2464-2467	Any	_	_	_	
+27-2	2468-2477	vegetable	_	_	_	
+27-3	2478-2486	infusion	_	_	_	
+27-4	2487-2494	capable	_	_	_	
+27-5	2495-2497	of	_	_	_	
+27-6	2498-2506	yielding	_	_	_	
+27-7	2507-2514	alcohol	_	_	_	
+27-8	2515-2519	will	_	_	_	
+27-9	2520-2527	furnish	_	_	_	
+27-10	2528-2535	vinegar	_	_	_	
+27-11	2535-2536	.	_	_	_	

@@ -1,0 +1,513 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=The Musk Rat.
+1-1	0-3	The	_	_	_	
+1-2	4-8	Musk	_	_	_	
+1-3	9-12	Rat	_	_	_	
+1-4	12-13	.	_	_	_	
+
+#Text=In the Memoirs of the French Academy of Sciences 
+#Text=for the year 1725, there is a complete description of 
+#Text=piece of cookery , from Holland.
+2-1	17-19	In	_	_	_	
+2-2	20-23	the	_	_	_	
+2-3	24-31	Memoirs	_	_	_	
+2-4	32-34	of	_	_	_	
+2-5	35-38	the	_	_	_	
+2-6	39-45	French	_	_	_	
+2-7	46-53	Academy	_	_	_	
+2-8	54-56	of	_	_	_	
+2-9	57-65	Sciences	_	_	_	
+2-10	67-70	for	_	_	_	
+2-11	71-74	the	_	_	_	
+2-12	75-79	year	_	_	_	
+2-13	80-84	1725	_	_	_	
+2-14	84-85	,	_	_	_	
+2-15	86-91	there	_	_	_	
+2-16	92-94	is	_	_	_	
+2-17	95-96	a	_	_	_	
+2-18	97-105	complete	_	_	_	
+2-19	106-117	description	_	_	_	
+2-20	118-120	of	_	_	_	
+2-21	122-127	piece	_	_	_	
+2-22	128-130	of	_	_	_	
+2-23	131-138	cookery	_	_	_	
+2-24	139-140	,	_	_	_	
+2-25	141-145	from	_	_	_	
+2-26	146-153	Holland	_	_	_	
+2-27	153-154	.	_	_	_	
+
+#Text=It comes to England in leaden pots, sewed up in 
+#Text=canvas : this is of a very deep brick colour, 
+#Text=and is assuredly nothing else than blood 
+#Text=dried and mixed up with oil and spirit
+#Text=(tincture) of true musk.
+3-1	156-158	It	_	_	_	
+3-2	159-164	comes	_	_	_	
+3-3	165-167	to	_	_	_	
+3-4	168-175	England	_	_	_	
+3-5	176-178	in	_	_	_	
+3-6	179-185	leaden	_	_	_	
+3-7	186-190	pots	_	_	_	
+3-8	190-191	,	_	_	_	
+3-9	192-197	sewed	_	_	_	
+3-10	198-200	up	_	_	_	
+3-11	201-203	in	_	_	_	
+3-12	205-211	canvas	_	_	_	
+3-13	212-213	:	_	_	_	
+3-14	214-218	this	_	_	_	
+3-15	219-221	is	_	_	_	
+3-16	222-224	of	_	_	_	
+3-17	225-226	a	_	_	_	
+3-18	227-231	very	_	_	_	
+3-19	232-236	deep	_	_	_	
+3-20	237-242	brick	_	_	_	
+3-21	243-249	colour	_	_	_	
+3-22	249-250	,	_	_	_	
+3-23	252-255	and	_	_	_	
+3-24	256-258	is	_	_	_	
+3-25	259-268	assuredly	_	_	_	
+3-26	269-276	nothing	_	_	_	
+3-27	277-281	else	_	_	_	
+3-28	282-286	than	_	_	_	
+3-29	287-292	blood	_	_	_	
+3-30	294-299	dried	_	_	_	
+3-31	300-303	and	_	_	_	
+3-32	304-309	mixed	_	_	_	
+3-33	310-312	up	_	_	_	
+3-34	313-317	with	_	_	_	
+3-35	318-321	oil	_	_	_	
+3-36	322-325	and	_	_	_	
+3-37	326-332	spirit	_	_	_	
+3-38	333-334	(	_	_	_	
+3-39	334-342	tincture	_	_	_	
+3-40	342-343	)	_	_	_	
+3-41	344-346	of	_	_	_	
+3-42	347-351	true	_	_	_	
+3-43	352-356	musk	_	_	_	
+3-44	356-357	.	_	_	_	
+
+#Text=This sort is frequently sold to the perfumers by pretended
+#Text=sailors, at so low a price as two or three
+#Text=shillings per ounce ; whereas, one ounce
+#Text=of true China musk, at sixteen shillings, is
+#Text=by far the cheapest, for this quantity of the
+#Text=true musk is as much as may be supposed
+#Text=to enter into the composition of a whole
+#Text=pound of the other.
+4-1	358-362	This	_	_	_	
+4-2	363-367	sort	_	_	_	
+4-3	368-370	is	_	_	_	
+4-4	371-381	frequently	_	_	_	
+4-5	382-386	sold	_	_	_	
+4-6	387-389	to	_	_	_	
+4-7	390-393	the	_	_	_	
+4-8	394-403	perfumers	_	_	_	
+4-9	404-406	by	_	_	_	
+4-10	407-416	pretended	_	_	_	
+4-11	417-424	sailors	_	_	_	
+4-12	424-425	,	_	_	_	
+4-13	426-428	at	_	_	_	
+4-14	429-431	so	_	_	_	
+4-15	432-435	low	_	_	_	
+4-16	436-437	a	_	_	_	
+4-17	438-443	price	_	_	_	
+4-18	444-446	as	_	_	_	
+4-19	447-450	two	_	_	_	
+4-20	451-453	or	_	_	_	
+4-21	454-459	three	_	_	_	
+4-22	460-469	shillings	_	_	_	
+4-23	470-473	per	_	_	_	
+4-24	474-479	ounce	_	_	_	
+4-25	480-481	;	_	_	_	
+4-26	482-489	whereas	_	_	_	
+4-27	489-490	,	_	_	_	
+4-28	491-494	one	_	_	_	
+4-29	495-500	ounce	_	_	_	
+4-30	501-503	of	_	_	_	
+4-31	504-508	true	_	_	_	
+4-32	509-514	China	_	_	_	
+4-33	515-519	musk	_	_	_	
+4-34	519-520	,	_	_	_	
+4-35	521-523	at	_	_	_	
+4-36	524-531	sixteen	_	_	_	
+4-37	532-541	shillings	_	_	_	
+4-38	541-542	,	_	_	_	
+4-39	543-545	is	_	_	_	
+4-40	546-548	by	_	_	_	
+4-41	549-552	far	_	_	_	
+4-42	553-556	the	_	_	_	
+4-43	557-565	cheapest	_	_	_	
+4-44	565-566	,	_	_	_	
+4-45	567-570	for	_	_	_	
+4-46	571-575	this	_	_	_	
+4-47	576-584	quantity	_	_	_	
+4-48	585-587	of	_	_	_	
+4-49	588-591	the	_	_	_	
+4-50	592-596	true	_	_	_	
+4-51	597-601	musk	_	_	_	
+4-52	602-604	is	_	_	_	
+4-53	605-607	as	_	_	_	
+4-54	608-612	much	_	_	_	
+4-55	613-615	as	_	_	_	
+4-56	616-619	may	_	_	_	
+4-57	620-622	be	_	_	_	
+4-58	623-631	supposed	_	_	_	
+4-59	632-634	to	_	_	_	
+4-60	635-640	enter	_	_	_	
+4-61	641-645	into	_	_	_	
+4-62	646-649	the	_	_	_	
+4-63	650-661	composition	_	_	_	
+4-64	662-664	of	_	_	_	
+4-65	665-666	a	_	_	_	
+4-66	667-672	whole	_	_	_	
+4-67	673-678	pound	_	_	_	
+4-68	679-681	of	_	_	_	
+4-69	682-685	the	_	_	_	
+4-70	686-691	other	_	_	_	
+4-71	691-692	.	_	_	_	
+
+#Text=The true China musk
+#Text=is of the colour of an old brown nutmeg : it
+#Text=is generally rolled up, or contained in the
+#Text=pod, in the form of little round pills, and
+#Text=has a very strong, fine, and agreeable,
+#Text=though singular, smell.
+5-1	693-696	The	Smell\_Source[1]	_	_	
+5-2	697-701	true	Smell\_Source[1]	_	_	
+5-3	702-707	China	Smell\_Source[1]	_	_	
+5-4	708-712	musk	Smell\_Source[1]	_	_	
+5-5	713-715	is	_	_	_	
+5-6	716-718	of	_	_	_	
+5-7	719-722	the	_	_	_	
+5-8	723-729	colour	_	_	_	
+5-9	730-732	of	_	_	_	
+5-10	733-735	an	_	_	_	
+5-11	736-739	old	_	_	_	
+5-12	740-745	brown	_	_	_	
+5-13	746-752	nutmeg	_	_	_	
+5-14	753-754	:	_	_	_	
+5-15	755-757	it	_	_	_	
+5-16	758-760	is	_	_	_	
+5-17	761-770	generally	_	_	_	
+5-18	771-777	rolled	_	_	_	
+5-19	778-780	up	_	_	_	
+5-20	780-781	,	_	_	_	
+5-21	782-784	or	_	_	_	
+5-22	785-794	contained	_	_	_	
+5-23	795-797	in	_	_	_	
+5-24	798-801	the	_	_	_	
+5-25	802-805	pod	_	_	_	
+5-26	805-806	,	_	_	_	
+5-27	807-809	in	_	_	_	
+5-28	810-813	the	_	_	_	
+5-29	814-818	form	_	_	_	
+5-30	819-821	of	_	_	_	
+5-31	822-828	little	_	_	_	
+5-32	829-834	round	_	_	_	
+5-33	835-840	pills	_	_	_	
+5-34	840-841	,	_	_	_	
+5-35	842-845	and	_	_	_	
+5-36	846-849	has	_	_	_	
+5-37	850-851	a	_	_	_	
+5-38	852-856	very	Quality[2]	_	_	
+5-39	857-863	strong	Quality[2]	_	_	
+5-40	863-864	,	_	_	_	
+5-41	865-869	fine	Quality	_	_	
+5-42	869-870	,	_	_	_	
+5-43	871-874	and	_	_	_	
+5-44	875-884	agreeable	Quality	_	_	
+5-45	884-885	,	_	_	_	
+5-46	886-892	though	_	_	_	
+5-47	893-901	singular	Quality	_	_	
+5-48	901-902	,	_	_	_	
+5-49	903-908	smell	Smell\_Word	*|*|*|*|*	5-47|5-44|5-41|5-38[2_0]|5-1[1_0]	
+5-50	908-909	.	_	_	_	
+
+#Text=The musk imported from China (which,
+#Text=if possessed of the above characters, is by
+#Text=far the best) is contained in caddies, or
+#Text=cabinets, in quantities of from 20 to 50 and
+#Text=100 ounces, each.
+6-1	912-915	The	_	_	_	
+6-2	916-920	musk	_	_	_	
+6-3	921-929	imported	_	_	_	
+6-4	930-934	from	_	_	_	
+6-5	935-940	China	_	_	_	
+6-6	941-942	(	_	_	_	
+6-7	942-947	which	_	_	_	
+6-8	947-948	,	_	_	_	
+6-9	949-951	if	_	_	_	
+6-10	952-961	possessed	_	_	_	
+6-11	962-964	of	_	_	_	
+6-12	965-968	the	_	_	_	
+6-13	969-974	above	_	_	_	
+6-14	975-985	characters	_	_	_	
+6-15	985-986	,	_	_	_	
+6-16	987-989	is	_	_	_	
+6-17	990-992	by	_	_	_	
+6-18	993-996	far	_	_	_	
+6-19	997-1000	the	_	_	_	
+6-20	1001-1005	best	_	_	_	
+6-21	1005-1006	)	_	_	_	
+6-22	1007-1009	is	_	_	_	
+6-23	1010-1019	contained	_	_	_	
+6-24	1020-1022	in	_	_	_	
+6-25	1023-1030	caddies	_	_	_	
+6-26	1030-1031	,	_	_	_	
+6-27	1032-1034	or	_	_	_	
+6-28	1035-1043	cabinets	_	_	_	
+6-29	1043-1044	,	_	_	_	
+6-30	1045-1047	in	_	_	_	
+6-31	1048-1058	quantities	_	_	_	
+6-32	1059-1061	of	_	_	_	
+6-33	1062-1066	from	_	_	_	
+6-34	1067-1069	20	_	_	_	
+6-35	1070-1072	to	_	_	_	
+6-36	1073-1075	50	_	_	_	
+6-37	1076-1079	and	_	_	_	
+6-38	1080-1083	100	_	_	_	
+6-39	1084-1090	ounces	_	_	_	
+6-40	1090-1091	,	_	_	_	
+6-41	1092-1096	each	_	_	_	
+6-42	1096-1097	.	_	_	_	
+
+#Text=Some, likewise, is
+#Text=imported from Bengal.
+7-1	1098-1102	Some	_	_	_	
+7-2	1102-1103	,	_	_	_	
+7-3	1104-1112	likewise	_	_	_	
+7-4	1112-1113	,	_	_	_	
+7-5	1114-1116	is	_	_	_	
+7-6	1117-1125	imported	_	_	_	
+7-7	1126-1130	from	_	_	_	
+7-8	1131-1137	Bengal	_	_	_	
+7-9	1137-1138	.	_	_	_	
+
+#Text=The true Russian musk, in pod, mentioned above, is more loose, and has none
+#Text=
+#Text=
+#Text=of the round balls or pills, like that from
+#Text=China.
+8-1	1141-1144	The	Smell\_Source[3]	_	_	
+8-2	1145-1149	true	Smell\_Source[3]	_	_	
+8-3	1150-1157	Russian	Smell\_Source[3]	_	_	
+8-4	1158-1162	musk	Smell\_Source[3]	_	_	
+8-5	1162-1163	,	_	_	_	
+8-6	1164-1166	in	_	_	_	
+8-7	1167-1170	pod	_	_	_	
+8-8	1170-1171	,	_	_	_	
+8-9	1172-1181	mentioned	_	_	_	
+8-10	1182-1187	above	_	_	_	
+8-11	1187-1188	,	_	_	_	
+8-12	1189-1191	is	_	_	_	
+8-13	1192-1196	more	_	_	_	
+8-14	1197-1202	loose	_	_	_	
+8-15	1202-1203	,	_	_	_	
+8-16	1204-1207	and	_	_	_	
+8-17	1208-1211	has	_	_	_	
+8-18	1212-1216	none	_	_	_	
+8-19	1219-1221	of	_	_	_	
+8-20	1222-1225	the	_	_	_	
+8-21	1226-1231	round	_	_	_	
+8-22	1232-1237	balls	_	_	_	
+8-23	1238-1240	or	_	_	_	
+8-24	1241-1246	pills	_	_	_	
+8-25	1246-1247	,	_	_	_	
+8-26	1248-1252	like	_	_	_	
+8-27	1253-1257	that	_	_	_	
+8-28	1258-1262	from	_	_	_	
+8-29	1263-1268	China	_	_	_	
+8-30	1268-1269	.	_	_	_	
+
+#Text=It has also, with its own proper
+#Text=perfume, a very distinguishing smell of
+#Text=urine.
+9-1	1270-1272	It	Smell\_Source	Anaphoric	8-1[3_0]	
+9-2	1273-1276	has	_	_	_	
+9-3	1277-1281	also	_	_	_	
+9-4	1281-1282	,	_	_	_	
+9-5	1283-1287	with	_	_	_	
+9-6	1288-1291	its	_	_	_	
+9-7	1292-1295	own	Quality[4]	_	_	
+9-8	1296-1302	proper	Quality[4]	_	_	
+9-9	1303-1310	perfume	Smell\_Word	*|*	9-1|9-7[4_0]	
+9-10	1310-1311	,	_	_	_	
+9-11	1312-1313	a	Quality[5]	_	_	
+9-12	1314-1318	very	Quality[5]	_	_	
+9-13	1319-1333	distinguishing	Quality[5]	_	_	
+9-14	1334-1339	smell	Smell\_Word	*|*|*	9-15[6_0]|9-11[5_0]|9-1	
+9-15	1340-1342	of	Evoked\_Odorant[6]	_	_	
+9-16	1343-1348	urine	Evoked\_Odorant[6]	_	_	
+9-17	1348-1349	.	_	_	_	
+
+#Text=As for the other Russian, or rather Dutch
+#Text=musk, in pots ; it is generally very moist
+#Text=and exhales a most disagreeable and predominant ammoniacal smell, whenever the
+#Text=pots are opened.
+10-1	1352-1354	As	_	_	_	
+10-2	1355-1358	for	_	_	_	
+10-3	1359-1362	the	Smell\_Source[7]	_	_	
+10-4	1363-1368	other	Smell\_Source[7]	_	_	
+10-5	1369-1376	Russian	Smell\_Source[7]	_	_	
+10-6	1376-1377	,	Smell\_Source[7]	_	_	
+10-7	1378-1380	or	Smell\_Source[7]	_	_	
+10-8	1381-1387	rather	Smell\_Source[7]	_	_	
+10-9	1388-1393	Dutch	Smell\_Source[7]	_	_	
+10-10	1394-1398	musk	Smell\_Source[7]	_	_	
+10-11	1398-1399	,	_	_	_	
+10-12	1400-1402	in	_	_	_	
+10-13	1403-1407	pots	_	_	_	
+10-14	1408-1409	;	_	_	_	
+10-15	1410-1412	it	Smell\_Source	Anaphoric	10-3[7_0]	
+10-16	1413-1415	is	_	_	_	
+10-17	1416-1425	generally	_	_	_	
+10-18	1426-1430	very	_	_	_	
+10-19	1431-1436	moist	_	_	_	
+10-20	1437-1440	and	_	_	_	
+10-21	1441-1448	exhales	_	_	_	
+10-22	1449-1450	a	Quality[8]	_	_	
+10-23	1451-1455	most	Quality[8]	_	_	
+10-24	1456-1468	disagreeable	Quality[8]	_	_	
+10-25	1469-1472	and	Quality[8]	_	_	
+10-26	1473-1484	predominant	Quality[8]	_	_	
+10-27	1485-1495	ammoniacal	Quality[8]	_	_	
+10-28	1496-1501	smell	Smell\_Word	*|*|*	10-22[8_0]|10-15|10-30[9_0]	
+10-29	1501-1502	,	_	_	_	
+10-30	1503-1511	whenever	Circumstances[9]	_	_	
+10-31	1512-1515	the	Circumstances[9]	_	_	
+10-32	1516-1520	pots	Circumstances[9]	_	_	
+10-33	1521-1524	are	Circumstances[9]	_	_	
+10-34	1525-1531	opened	Circumstances[9]	_	_	
+10-35	1531-1532	.	_	_	_	
+
+#Text=This sort is of so little
+#Text=value, that any thing need hardly be said
+#Text=about it, further, than that it should never
+#Text=be used at all.
+11-1	1533-1537	This	_	_	_	
+11-2	1538-1542	sort	_	_	_	
+11-3	1543-1545	is	_	_	_	
+11-4	1546-1548	of	_	_	_	
+11-5	1549-1551	so	_	_	_	
+11-6	1552-1558	little	_	_	_	
+11-7	1559-1564	value	_	_	_	
+11-8	1564-1565	,	_	_	_	
+11-9	1566-1570	that	_	_	_	
+11-10	1571-1574	any	_	_	_	
+11-11	1575-1580	thing	_	_	_	
+11-12	1581-1585	need	_	_	_	
+11-13	1586-1592	hardly	_	_	_	
+11-14	1593-1595	be	_	_	_	
+11-15	1596-1600	said	_	_	_	
+11-16	1601-1606	about	_	_	_	
+11-17	1607-1609	it	_	_	_	
+11-18	1609-1610	,	_	_	_	
+11-19	1611-1618	further	_	_	_	
+11-20	1618-1619	,	_	_	_	
+11-21	1620-1624	than	_	_	_	
+11-22	1625-1629	that	_	_	_	
+11-23	1630-1632	it	_	_	_	
+11-24	1633-1639	should	_	_	_	
+11-25	1640-1645	never	_	_	_	
+11-26	1646-1648	be	_	_	_	
+11-27	1649-1653	used	_	_	_	
+11-28	1654-1656	at	_	_	_	
+11-29	1657-1660	all	_	_	_	
+11-30	1660-1661	.	_	_	_	
+
+#Text=The Musk Bags , or Pods.
+12-1	1664-1667	The	_	_	_	
+12-2	1668-1672	Musk	_	_	_	
+12-3	1673-1677	Bags	_	_	_	
+12-4	1678-1679	,	_	_	_	
+12-5	1680-1682	or	_	_	_	
+12-6	1683-1687	Pods	_	_	_	
+12-7	1687-1688	.	_	_	_	
+
+#Text=When the musk is taken out of the pod,
+#Text=the pod may be cut in very small pieces, or
+#Text=grated very fine by means of a tin grater.
+13-1	1691-1695	When	_	_	_	
+13-2	1696-1699	the	_	_	_	
+13-3	1700-1704	musk	_	_	_	
+13-4	1705-1707	is	_	_	_	
+13-5	1708-1713	taken	_	_	_	
+13-6	1714-1717	out	_	_	_	
+13-7	1718-1720	of	_	_	_	
+13-8	1721-1724	the	_	_	_	
+13-9	1725-1728	pod	_	_	_	
+13-10	1728-1729	,	_	_	_	
+13-11	1730-1733	the	_	_	_	
+13-12	1734-1737	pod	_	_	_	
+13-13	1738-1741	may	_	_	_	
+13-14	1742-1744	be	_	_	_	
+13-15	1745-1748	cut	_	_	_	
+13-16	1749-1751	in	_	_	_	
+13-17	1752-1756	very	_	_	_	
+13-18	1757-1762	small	_	_	_	
+13-19	1763-1769	pieces	_	_	_	
+13-20	1769-1770	,	_	_	_	
+13-21	1771-1773	or	_	_	_	
+13-22	1774-1780	grated	_	_	_	
+13-23	1781-1785	very	_	_	_	
+13-24	1786-1790	fine	_	_	_	
+13-25	1791-1793	by	_	_	_	
+13-26	1794-1799	means	_	_	_	
+13-27	1800-1802	of	_	_	_	
+13-28	1803-1804	a	_	_	_	
+13-29	1805-1808	tin	_	_	_	
+13-30	1809-1815	grater	_	_	_	
+13-31	1815-1816	.	_	_	_	
+
+#Text=This powder will be of great use in several
+#Text=perfumery compositions, as will be afterwards directed ; for it has the odour of the
+#Text=finest parts of the musk, without that of the
+#Text=disagreeable ingredients which may happen to be present.
+14-1	1818-1822	This	Odour\_Carrier[10]	_	_	
+14-2	1823-1829	powder	Odour\_Carrier[10]	_	_	
+14-3	1830-1834	will	_	_	_	
+14-4	1835-1837	be	_	_	_	
+14-5	1838-1840	of	_	_	_	
+14-6	1841-1846	great	_	_	_	
+14-7	1847-1850	use	_	_	_	
+14-8	1851-1853	in	_	_	_	
+14-9	1854-1861	several	_	_	_	
+14-10	1862-1871	perfumery	_	_	_	
+14-11	1872-1884	compositions	_	_	_	
+14-12	1884-1885	,	_	_	_	
+14-13	1886-1888	as	_	_	_	
+14-14	1889-1893	will	_	_	_	
+14-15	1894-1896	be	_	_	_	
+14-16	1897-1907	afterwards	_	_	_	
+14-17	1908-1916	directed	_	_	_	
+14-18	1917-1918	;	_	_	_	
+14-19	1919-1922	for	_	_	_	
+14-20	1923-1925	it	Odour\_Carrier	Anaphoric	14-1[10_0]	
+14-21	1926-1929	has	_	_	_	
+14-22	1930-1933	the	_	_	_	
+14-23	1934-1939	odour	Smell\_Word	*|*	14-24[11_0]|14-20	
+14-24	1940-1942	of	Smell\_Source[11]	_	_	
+14-25	1943-1946	the	Smell\_Source[11]	_	_	
+14-26	1947-1953	finest	Smell\_Source[11]	_	_	
+14-27	1954-1959	parts	Smell\_Source[11]	_	_	
+14-28	1960-1962	of	Smell\_Source[11]	_	_	
+14-29	1963-1966	the	Smell\_Source[11]	_	_	
+14-30	1967-1971	musk	Smell\_Source[11]	_	_	
+14-31	1971-1972	,	_	_	_	
+14-32	1973-1980	without	_	_	_	
+14-33	1981-1985	that	_	_	_	
+14-34	1986-1988	of	_	_	_	
+14-35	1989-1992	the	_	_	_	
+14-36	1993-2005	disagreeable	_	_	_	
+14-37	2006-2017	ingredients	_	_	_	
+14-38	2018-2023	which	_	_	_	
+14-39	2024-2027	may	_	_	_	
+14-40	2028-2034	happen	_	_	_	
+14-41	2035-2037	to	_	_	_	
+14-42	2038-2040	be	_	_	_	
+14-43	2041-2048	present	_	_	_	
+14-44	2048-2049	.	_	_	_	

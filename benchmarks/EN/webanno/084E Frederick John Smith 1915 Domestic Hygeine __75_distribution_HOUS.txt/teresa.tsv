@@ -1,0 +1,288 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=DRAINAGE.
+1-1	0-8	DRAINAGE	_	_	_	
+1-2	8-9	.	_	_	_	
+
+#Text=A nurse is not, in her avocation, consulted as to
+#Text=how to build a house-drain, and I see no reason
+#Text=therefore why she should be burdened with details
+#Text=of dry or wet removal of sewage, nor the course,
+#Text=material, and shape of drains; these are the province
+#Text=of the architect and sanitary engineer.
+2-1	12-13	A	_	_	_	
+2-2	14-19	nurse	_	_	_	
+2-3	20-22	is	_	_	_	
+2-4	23-26	not	_	_	_	
+2-5	26-27	,	_	_	_	
+2-6	28-30	in	_	_	_	
+2-7	31-34	her	_	_	_	
+2-8	35-44	avocation	_	_	_	
+2-9	44-45	,	_	_	_	
+2-10	46-55	consulted	_	_	_	
+2-11	56-58	as	_	_	_	
+2-12	59-61	to	_	_	_	
+2-13	62-65	how	_	_	_	
+2-14	66-68	to	_	_	_	
+2-15	69-74	build	_	_	_	
+2-16	75-76	a	_	_	_	
+2-17	77-88	house-drain	_	_	_	
+2-18	88-89	,	_	_	_	
+2-19	90-93	and	_	_	_	
+2-20	94-95	I	_	_	_	
+2-21	96-99	see	_	_	_	
+2-22	100-102	no	_	_	_	
+2-23	103-109	reason	_	_	_	
+2-24	110-119	therefore	_	_	_	
+2-25	120-123	why	_	_	_	
+2-26	124-127	she	_	_	_	
+2-27	128-134	should	_	_	_	
+2-28	135-137	be	_	_	_	
+2-29	138-146	burdened	_	_	_	
+2-30	147-151	with	_	_	_	
+2-31	152-159	details	_	_	_	
+2-32	160-162	of	_	_	_	
+2-33	163-166	dry	_	_	_	
+2-34	167-169	or	_	_	_	
+2-35	170-173	wet	_	_	_	
+2-36	174-181	removal	_	_	_	
+2-37	182-184	of	_	_	_	
+2-38	185-191	sewage	_	_	_	
+2-39	191-192	,	_	_	_	
+2-40	193-196	nor	_	_	_	
+2-41	197-200	the	_	_	_	
+2-42	201-207	course	_	_	_	
+2-43	207-208	,	_	_	_	
+2-44	209-217	material	_	_	_	
+2-45	217-218	,	_	_	_	
+2-46	219-222	and	_	_	_	
+2-47	223-228	shape	_	_	_	
+2-48	229-231	of	_	_	_	
+2-49	232-238	drains	_	_	_	
+2-50	238-239	;	_	_	_	
+2-51	240-245	these	_	_	_	
+2-52	246-249	are	_	_	_	
+2-53	250-253	the	_	_	_	
+2-54	254-262	province	_	_	_	
+2-55	263-265	of	_	_	_	
+2-56	266-269	the	_	_	_	
+2-57	270-279	architect	_	_	_	
+2-58	280-283	and	_	_	_	
+2-59	284-292	sanitary	_	_	_	
+2-60	293-301	engineer	_	_	_	
+2-61	301-302	.	_	_	_	
+
+#Text=We may,
+#Text=however, state, enpassant on such subjects, that when
+#Text=her nose persistently, or even casually, suggests to
+#Text=her that there is an offensive smell in a certain room
+#Text=in the house in which she is nursing, she might think
+#Text=of a gas-jet not turned off, of leaking gas or soil-pipes, or an old forgotten cesspool, or leaking drain,
+#Text=and mention her suspicions to the doctor or to the
+#Text=responsible head of the house.
+3-1	303-305	We	_	_	_	
+3-2	306-309	may	_	_	_	
+3-3	309-310	,	_	_	_	
+3-4	311-318	however	_	_	_	
+3-5	318-319	,	_	_	_	
+3-6	320-325	state	_	_	_	
+3-7	325-326	,	_	_	_	
+3-8	327-336	enpassant	_	_	_	
+3-9	337-339	on	_	_	_	
+3-10	340-344	such	_	_	_	
+3-11	345-353	subjects	_	_	_	
+3-12	353-354	,	_	_	_	
+3-13	355-359	that	_	_	_	
+3-14	360-364	when	_	_	_	
+3-15	365-368	her	_	_	_	
+3-16	369-373	nose	_	_	_	
+3-17	374-386	persistently	_	_	_	
+3-18	386-387	,	_	_	_	
+3-19	388-390	or	_	_	_	
+3-20	391-395	even	_	_	_	
+3-21	396-404	casually	_	_	_	
+3-22	404-405	,	_	_	_	
+3-23	406-414	suggests	_	_	_	
+3-24	415-417	to	_	_	_	
+3-25	418-421	her	Perceiver	_	_	
+3-26	422-426	that	_	_	_	
+3-27	427-432	there	_	_	_	
+3-28	433-435	is	_	_	_	
+3-29	436-438	an	_	_	_	
+3-30	439-448	offensive	Quality	_	_	
+3-31	449-454	smell	Smell\_Word	*|*|*	3-32[1_0]|3-30|3-25	
+3-32	455-457	in	Location[1]	_	_	
+3-33	458-459	a	Location[1]	_	_	
+3-34	460-467	certain	Location[1]	_	_	
+3-35	468-472	room	Location[1]	_	_	
+3-36	473-475	in	Location[1]	_	_	
+3-37	476-479	the	Location[1]	_	_	
+3-38	480-485	house	Location[1]	_	_	
+3-39	486-488	in	_	_	_	
+3-40	489-494	which	_	_	_	
+3-41	495-498	she	_	_	_	
+3-42	499-501	is	_	_	_	
+3-43	502-509	nursing	_	_	_	
+3-44	509-510	,	_	_	_	
+3-45	511-514	she	_	_	_	
+3-46	515-520	might	_	_	_	
+3-47	521-526	think	_	_	_	
+3-48	527-529	of	_	_	_	
+3-49	530-531	a	_	_	_	
+3-50	532-539	gas-jet	_	_	_	
+3-51	540-543	not	_	_	_	
+3-52	544-550	turned	_	_	_	
+3-53	551-554	off	_	_	_	
+3-54	554-555	,	_	_	_	
+3-55	556-558	of	_	_	_	
+3-56	559-566	leaking	_	_	_	
+3-57	567-570	gas	_	_	_	
+3-58	571-573	or	_	_	_	
+3-59	574-584	soil-pipes	_	_	_	
+3-60	584-585	,	_	_	_	
+3-61	586-588	or	_	_	_	
+3-62	589-591	an	_	_	_	
+3-63	592-595	old	_	_	_	
+3-64	596-605	forgotten	_	_	_	
+3-65	606-614	cesspool	_	_	_	
+3-66	614-615	,	_	_	_	
+3-67	616-618	or	_	_	_	
+3-68	619-626	leaking	_	_	_	
+3-69	627-632	drain	_	_	_	
+3-70	632-633	,	_	_	_	
+3-71	634-637	and	_	_	_	
+3-72	638-645	mention	_	_	_	
+3-73	646-649	her	_	_	_	
+3-74	650-660	suspicions	_	_	_	
+3-75	661-663	to	_	_	_	
+3-76	664-667	the	_	_	_	
+3-77	668-674	doctor	_	_	_	
+3-78	675-677	or	_	_	_	
+3-79	678-680	to	_	_	_	
+3-80	681-684	the	_	_	_	
+3-81	685-696	responsible	_	_	_	
+3-82	697-701	head	_	_	_	
+3-83	702-704	of	_	_	_	
+3-84	705-708	the	_	_	_	
+3-85	709-714	house	_	_	_	
+3-86	714-715	.	_	_	_	
+
+#Text=But here, in my
+#Text=opinion, her duty and responsibility end so far as
+#Text=smells and drains are concerned.
+4-1	716-719	But	_	_	_	
+4-2	720-724	here	_	_	_	
+4-3	724-725	,	_	_	_	
+4-4	726-728	in	_	_	_	
+4-5	729-731	my	_	_	_	
+4-6	732-739	opinion	_	_	_	
+4-7	739-740	,	_	_	_	
+4-8	741-744	her	Perceiver	_	_	
+4-9	745-749	duty	_	_	_	
+4-10	750-753	and	_	_	_	
+4-11	754-768	responsibility	_	_	_	
+4-12	769-772	end	_	_	_	
+4-13	773-775	so	_	_	_	
+4-14	776-779	far	_	_	_	
+4-15	780-782	as	_	_	_	
+4-16	783-789	smells	Smell\_Word	*	4-8	
+4-17	790-793	and	_	_	_	
+4-18	794-800	drains	_	_	_	
+4-19	801-804	are	_	_	_	
+4-20	805-814	concerned	_	_	_	
+4-21	814-815	.	_	_	_	
+
+#Text=Her duties with regard to what I may term the
+#Text=drainage of the sick room include the disposal of:
+#Text=
+#Text=(1) Motions, urine, and clothes soiled with the
+#Text=same, from the sick room
+5-1	817-820	Her	_	_	_	
+5-2	821-827	duties	_	_	_	
+5-3	828-832	with	_	_	_	
+5-4	833-839	regard	_	_	_	
+5-5	840-842	to	_	_	_	
+5-6	843-847	what	_	_	_	
+5-7	848-849	I	_	_	_	
+5-8	850-853	may	_	_	_	
+5-9	854-858	term	_	_	_	
+5-10	859-862	the	_	_	_	
+5-11	863-871	drainage	_	_	_	
+5-12	872-874	of	_	_	_	
+5-13	875-878	the	_	_	_	
+5-14	879-883	sick	_	_	_	
+5-15	884-888	room	_	_	_	
+5-16	889-896	include	_	_	_	
+5-17	897-900	the	_	_	_	
+5-18	901-909	disposal	_	_	_	
+5-19	910-912	of	_	_	_	
+5-20	912-913	:	_	_	_	
+5-21	915-916	(	_	_	_	
+5-22	916-917	1	_	_	_	
+5-23	917-918	)	_	_	_	
+5-24	919-926	Motions	_	_	_	
+5-25	926-927	,	_	_	_	
+5-26	928-933	urine	_	_	_	
+5-27	933-934	,	_	_	_	
+5-28	935-938	and	_	_	_	
+5-29	939-946	clothes	_	_	_	
+5-30	947-953	soiled	_	_	_	
+5-31	954-958	with	_	_	_	
+5-32	959-962	the	_	_	_	
+5-33	963-967	same	_	_	_	
+5-34	967-968	,	_	_	_	
+5-35	969-973	from	_	_	_	
+5-36	974-977	the	_	_	_	
+5-37	978-982	sick	_	_	_	
+5-38	983-987	room	_	_	_	
+
+#Text=.
+6-1	987-988	.	_	_	_	
+
+#Text=(2) Refuse, bits and ends of food, from the same
+7-1	990-991	(	_	_	_	
+7-2	991-992	2	_	_	_	
+7-3	992-993	)	_	_	_	
+7-4	994-1000	Refuse	_	_	_	
+7-5	1000-1001	,	_	_	_	
+7-6	1002-1006	bits	_	_	_	
+7-7	1007-1010	and	_	_	_	
+7-8	1011-1015	ends	_	_	_	
+7-9	1016-1018	of	_	_	_	
+7-10	1019-1023	food	_	_	_	
+7-11	1023-1024	,	_	_	_	
+7-12	1025-1029	from	_	_	_	
+7-13	1030-1033	the	_	_	_	
+7-14	1034-1038	same	_	_	_	
+
+#Text=.
+8-1	1038-1039	.	_	_	_	
+
+#Text=(3) Utensils used in the same
+9-1	1041-1042	(	_	_	_	
+9-2	1042-1043	3	_	_	_	
+9-3	1043-1044	)	_	_	_	
+9-4	1045-1053	Utensils	_	_	_	
+9-5	1054-1058	used	_	_	_	
+9-6	1059-1061	in	_	_	_	
+9-7	1062-1065	the	_	_	_	
+9-8	1066-1070	same	_	_	_	
+
+#Text=.
+10-1	1070-1071	.	_	_	_	
+
+#Text=(4) Dust collected in sweeping the sick room.
+11-1	1073-1074	(	_	_	_	
+11-2	1074-1075	4	_	_	_	
+11-3	1075-1076	)	_	_	_	
+11-4	1077-1081	Dust	_	_	_	
+11-5	1082-1091	collected	_	_	_	
+11-6	1092-1094	in	_	_	_	
+11-7	1095-1103	sweeping	_	_	_	
+11-8	1104-1107	the	_	_	_	
+11-9	1108-1112	sick	_	_	_	
+11-10	1113-1117	room	_	_	_	
+11-11	1117-1118	.	_	_	_	

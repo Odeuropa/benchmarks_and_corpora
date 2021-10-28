@@ -1,0 +1,645 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=All those who have travelled in that season on
+#Text=the coast of Genoa will no doubt remember what
+#Text=charming bouquets and garlands are made of the cassie
+#Text=intermixed with other flowers.
+1-1	0-3	All	_	_	_	
+1-2	4-9	those	_	_	_	
+1-3	10-13	who	_	_	_	
+1-4	14-18	have	_	_	_	
+1-5	19-28	travelled	_	_	_	
+1-6	29-31	in	_	_	_	
+1-7	32-36	that	_	_	_	
+1-8	37-43	season	_	_	_	
+1-9	44-46	on	_	_	_	
+1-10	47-50	the	_	_	_	
+1-11	51-56	coast	_	_	_	
+1-12	57-59	of	_	_	_	
+1-13	60-65	Genoa	_	_	_	
+1-14	66-70	will	_	_	_	
+1-15	71-73	no	_	_	_	
+1-16	74-79	doubt	_	_	_	
+1-17	80-88	remember	_	_	_	
+1-18	89-93	what	_	_	_	
+1-19	94-102	charming	_	_	_	
+1-20	103-111	bouquets	_	_	_	
+1-21	112-115	and	_	_	_	
+1-22	116-124	garlands	_	_	_	
+1-23	125-128	are	_	_	_	
+1-24	129-133	made	_	_	_	
+1-25	134-136	of	_	_	_	
+1-26	137-140	the	Smell\_Source[1]	_	_	
+1-27	141-147	cassie	Smell\_Source[1]	_	_	
+1-28	148-158	intermixed	_	_	_	
+1-29	159-163	with	_	_	_	
+1-30	164-169	other	_	_	_	
+1-31	170-177	flowers	_	_	_	
+1-32	177-178	.	_	_	_	
+
+#Text=To perfumers it is a
+#Text=most valuable assistant, possessing in the highest degree
+#Text=a fresh floral fragrance, which
+#Text=renders it highly useful in
+#Text=compounds.
+2-1	179-181	To	_	_	_	
+2-2	182-191	perfumers	Perceiver	_	_	
+2-3	192-194	it	Smell\_Source	Anaphoric	1-26[1_0]	
+2-4	195-197	is	_	_	_	
+2-5	198-199	a	_	_	_	
+2-6	200-204	most	_	_	_	
+2-7	205-213	valuable	_	_	_	
+2-8	214-223	assistant	_	_	_	
+2-9	223-224	,	_	_	_	
+2-10	225-235	possessing	_	_	_	
+2-11	236-238	in	_	_	_	
+2-12	239-242	the	_	_	_	
+2-13	243-250	highest	_	_	_	
+2-14	251-257	degree	_	_	_	
+2-15	258-259	a	_	_	_	
+2-16	260-265	fresh	Quality	_	_	
+2-17	266-272	floral	Quality	_	_	
+2-18	273-282	fragrance	Smell\_Word	*|*|*|*	2-17|2-16|2-2|2-3	
+2-19	282-283	,	_	_	_	
+2-20	284-289	which	_	_	_	
+2-21	290-297	renders	_	_	_	
+2-22	298-300	it	_	_	_	
+2-23	301-307	highly	_	_	_	
+2-24	308-314	useful	_	_	_	
+2-25	315-317	in	_	_	_	
+2-26	318-327	compounds	_	_	_	
+2-27	327-328	.	_	_	_	
+
+#Text=It bears some
+#Text=resemblance to the violet, and,
+#Text=being much stronger, is often
+#Text=used to fortify that scent,
+#Text=which is naturally weak.
+3-1	329-331	It	Smell\_Source	Anaphoric	1-26[1_0]	
+3-2	332-337	bears	_	_	_	
+3-3	338-342	some	_	_	_	
+3-4	343-354	resemblance	Evoked\_Odorant[2]	_	_	
+3-5	355-357	to	Evoked\_Odorant[2]	_	_	
+3-6	358-361	the	Evoked\_Odorant[2]	_	_	
+3-7	362-368	violet	Evoked\_Odorant[2]	_	_	
+3-8	368-369	,	_	_	_	
+3-9	370-373	and	_	_	_	
+3-10	373-374	,	_	_	_	
+3-11	375-380	being	_	_	_	
+3-12	381-385	much	_	_	_	
+3-13	386-394	stronger	_	_	_	
+3-14	394-395	,	_	_	_	
+3-15	396-398	is	_	_	_	
+3-16	399-404	often	_	_	_	
+3-17	405-409	used	_	_	_	
+3-18	410-412	to	_	_	_	
+3-19	413-420	fortify	_	_	_	
+3-20	421-425	that	_	_	_	
+3-21	426-431	scent	Smell\_Word	*|*|*	3-26|3-4[2_0]|3-1	
+3-22	431-432	,	_	_	_	
+3-23	433-438	which	_	_	_	
+3-24	439-441	is	_	_	_	
+3-25	442-451	naturally	_	_	_	
+3-26	452-456	weak	Quality	_	_	
+3-27	456-457	.	_	_	_	
+
+#Text=The cassie requires a very
+#Text=dry soil, well exposed to the
+#Text=sun’s rays.
+4-1	459-462	The	_	_	_	
+4-2	463-469	cassie	_	_	_	
+4-3	470-478	requires	_	_	_	
+4-4	479-480	a	_	_	_	
+4-5	481-485	very	_	_	_	
+4-6	486-489	dry	_	_	_	
+4-7	490-494	soil	_	_	_	
+4-8	494-495	,	_	_	_	
+4-9	496-500	well	_	_	_	
+4-10	501-508	exposed	_	_	_	
+4-11	509-511	to	_	_	_	
+4-12	512-515	the	_	_	_	
+4-13	516-519	sun	_	_	_	
+4-14	519-520	’	_	_	_	
+4-15	520-521	s	_	_	_	
+4-16	522-526	rays	_	_	_	
+4-17	526-527	.	_	_	_	
+
+#Text=The tree does
+#Text=five or six years old.
+5-1	528-531	The	_	_	_	
+5-2	532-536	tree	_	_	_	
+5-3	537-541	does	_	_	_	
+5-4	542-546	five	_	_	_	
+5-5	547-549	or	_	_	_	
+5-6	550-553	six	_	_	_	
+5-7	554-559	years	_	_	_	
+5-8	560-563	old	_	_	_	
+5-9	563-564	.	_	_	_	
+
+#Text=The
+#Text=yield varies from 1 lb. to 20 lbs. for every tree, according to age and position.
+6-1	565-568	The	_	_	_	
+6-2	569-574	yield	_	_	_	
+6-3	575-581	varies	_	_	_	
+6-4	582-586	from	_	_	_	
+6-5	587-588	1	_	_	_	
+6-6	589-591	lb	_	_	_	
+6-7	591-592	.	_	_	_	
+6-8	593-595	to	_	_	_	
+6-9	596-598	20	_	_	_	
+6-10	599-602	lbs	_	_	_	
+6-11	602-603	.	_	_	_	
+6-12	604-607	for	_	_	_	
+6-13	608-613	every	_	_	_	
+6-14	614-618	tree	_	_	_	
+6-15	618-619	,	_	_	_	
+6-16	620-629	according	_	_	_	
+6-17	630-632	to	_	_	_	
+6-18	633-636	age	_	_	_	
+6-19	637-640	and	_	_	_	
+6-20	641-649	position	_	_	_	
+6-21	649-650	.	_	_	_	
+
+#Text=The blossoms are gathered
+#Text=three times a week after sunrise: a very strong oil
+#Text=and pomade is obtained from them by maceration.
+7-1	653-656	The	_	_	_	
+7-2	657-665	blossoms	_	_	_	
+7-3	666-669	are	_	_	_	
+7-4	670-678	gathered	_	_	_	
+7-5	679-684	three	_	_	_	
+7-6	685-690	times	_	_	_	
+7-7	691-692	a	_	_	_	
+7-8	693-697	week	_	_	_	
+7-9	698-703	after	_	_	_	
+7-10	704-711	sunrise	_	_	_	
+7-11	711-712	:	_	_	_	
+7-12	713-714	a	_	_	_	
+7-13	715-719	very	_	_	_	
+7-14	720-726	strong	_	_	_	
+7-15	727-730	oil	_	_	_	
+7-16	731-734	and	_	_	_	
+7-17	735-741	pomade	_	_	_	
+7-18	742-744	is	_	_	_	
+7-19	745-753	obtained	_	_	_	
+7-20	754-758	from	_	_	_	
+7-21	759-763	them	_	_	_	
+7-22	764-766	by	_	_	_	
+7-23	767-777	maceration	_	_	_	
+7-24	777-778	.	_	_	_	
+
+#Text=In
+#Text=Africa, and principally in Tunis, an essential oil of
+#Text=cassie is made, which is sold at about £4 per ounce; but
+#Text=French and Italian flowers are not sufficiently powerful
+#Text=to yield an essence.
+8-1	779-781	In	Location[3]	_	_	
+8-2	782-788	Africa	Location[3]	_	_	
+8-3	788-789	,	_	_	_	
+8-4	790-793	and	_	_	_	
+8-5	794-805	principally	_	_	_	
+8-6	806-808	in	Location[4]	_	_	
+8-7	809-814	Tunis	Location[4]	_	_	
+8-8	814-815	,	_	_	_	
+8-9	816-818	an	_	_	_	
+8-10	819-828	essential	Smell\_Word	*|*|*|*	8-12[5_0]|8-11|8-1[3_0]|8-6[4_0]	
+8-11	829-832	oil	Odour\_Carrier	_	_	
+8-12	833-835	of	Smell\_Source[5]	_	_	
+8-13	836-842	cassie	Smell\_Source[5]	_	_	
+8-14	843-845	is	_	_	_	
+8-15	846-850	made	_	_	_	
+8-16	850-851	,	_	_	_	
+8-17	852-857	which	_	_	_	
+8-18	858-860	is	_	_	_	
+8-19	861-865	sold	_	_	_	
+8-20	866-868	at	_	_	_	
+8-21	869-874	about	_	_	_	
+8-22	875-877	£4	_	_	_	
+8-23	878-881	per	_	_	_	
+8-24	882-887	ounce	_	_	_	
+8-25	887-888	;	_	_	_	
+8-26	889-892	but	_	_	_	
+8-27	893-899	French	_	_	_	
+8-28	900-903	and	_	_	_	
+8-29	904-911	Italian	_	_	_	
+8-30	912-919	flowers	_	_	_	
+8-31	920-923	are	_	_	_	
+8-32	924-927	not	_	_	_	
+8-33	928-940	sufficiently	_	_	_	
+8-34	941-949	powerful	_	_	_	
+8-35	950-952	to	_	_	_	
+8-36	953-958	yield	_	_	_	
+8-37	959-961	an	_	_	_	
+8-38	962-969	essence	_	_	_	
+8-39	969-970	.	_	_	_	
+
+#Text=The violet is one of the most charming odours in
+#Text=nature, and well might Shakspeare exclaim—
+#Text=
+#Text="Sweet thief, whence didst thou steal thy sweet that smells.
+9-1	972-975	The	Smell\_Source[6]	_	_	
+9-2	976-982	violet	Smell\_Source[6]	_	_	
+9-3	983-985	is	_	_	_	
+9-4	986-989	one	Quality[7]	_	_	
+9-5	990-992	of	Quality[7]	_	_	
+9-6	993-996	the	Quality[7]	_	_	
+9-7	997-1001	most	Quality[7]	_	_	
+9-8	1002-1010	charming	Quality[7]	_	_	
+9-9	1011-1017	odours	Smell\_Word	*|*	9-4[7_0]|9-1[6_0]	
+9-10	1018-1020	in	_	_	_	
+9-11	1021-1027	nature	_	_	_	
+9-12	1027-1028	,	_	_	_	
+9-13	1029-1032	and	_	_	_	
+9-14	1033-1037	well	_	_	_	
+9-15	1038-1043	might	_	_	_	
+9-16	1044-1054	Shakspeare	_	_	_	
+9-17	1055-1062	exclaim	_	_	_	
+9-18	1062-1063	—	_	_	_	
+9-19	1065-1066	"	_	_	_	
+9-20	1066-1071	Sweet	_	_	_	
+9-21	1072-1077	thief	_	_	_	
+9-22	1077-1078	,	_	_	_	
+9-23	1079-1085	whence	_	_	_	
+9-24	1086-1091	didst	_	_	_	
+9-25	1092-1096	thou	_	_	_	
+9-26	1097-1102	steal	_	_	_	
+9-27	1103-1106	thy	_	_	_	
+9-28	1107-1112	sweet	Quality	_	_	
+9-29	1113-1117	that	_	_	_	
+9-30	1118-1124	smells	Smell\_Word	*|*	9-28|9-1[6_0]	
+9-31	1124-1125	.	_	_	_	
+
+#Text=If not from my lore’s breath ?"
+10-1	1126-1128	If	_	_	_	
+10-2	1129-1132	not	_	_	_	
+10-3	1133-1137	from	_	_	_	
+10-4	1138-1140	my	_	_	_	
+10-5	1141-1145	lore	_	_	_	
+10-6	1145-1146	’	_	_	_	
+10-7	1146-1147	s	_	_	_	
+10-8	1148-1154	breath	_	_	_	
+10-9	1155-1156	?	_	_	_	
+10-10	1156-1157	"	_	_	_	
+
+#Text=It is a scent which pleases all, even the most delicate
+#Text=and nervous, and it is no wonder that it should be in
+#Text=such universal request.
+11-1	1159-1161	It	Smell\_Source	Anaphoric	9-1[6_0]	
+11-2	1162-1164	is	_	_	_	
+11-3	1165-1166	a	_	_	_	
+11-4	1167-1172	scent	Smell\_Word	*|*|*	11-1|11-7|11-5[8_0]	
+11-5	1173-1178	which	Effect[8]	_	_	
+11-6	1179-1186	pleases	Effect[8]	_	_	
+11-7	1187-1190	all	Perceiver	_	_	
+11-8	1190-1191	,	_	_	_	
+11-9	1192-1196	even	_	_	_	
+11-10	1197-1200	the	_	_	_	
+11-11	1201-1205	most	_	_	_	
+11-12	1206-1214	delicate	_	_	_	
+11-13	1215-1218	and	_	_	_	
+11-14	1219-1226	nervous	_	_	_	
+11-15	1226-1227	,	_	_	_	
+11-16	1228-1231	and	_	_	_	
+11-17	1232-1234	it	_	_	_	
+11-18	1235-1237	is	_	_	_	
+11-19	1238-1240	no	_	_	_	
+11-20	1241-1247	wonder	_	_	_	
+11-21	1248-1252	that	_	_	_	
+11-22	1253-1255	it	_	_	_	
+11-23	1256-1262	should	_	_	_	
+11-24	1263-1265	be	_	_	_	
+11-25	1266-1268	in	_	_	_	
+11-26	1269-1273	such	_	_	_	
+11-27	1274-1283	universal	_	_	_	
+11-28	1284-1291	request	_	_	_	
+11-29	1291-1292	.	_	_	_	
+
+#Text=The largest and almost only
+#Text=violet plantations have hitherto been at Nice, its exceptional position rendering it the most available spot for
+#Text=them.
+12-1	1293-1296	The	_	_	_	
+12-2	1297-1304	largest	_	_	_	
+12-3	1305-1308	and	_	_	_	
+12-4	1309-1315	almost	_	_	_	
+12-5	1316-1320	only	_	_	_	
+12-6	1321-1327	violet	_	_	_	
+12-7	1328-1339	plantations	_	_	_	
+12-8	1340-1344	have	_	_	_	
+12-9	1345-1353	hitherto	_	_	_	
+12-10	1354-1358	been	_	_	_	
+12-11	1359-1361	at	_	_	_	
+12-12	1362-1366	Nice	_	_	_	
+12-13	1366-1367	,	_	_	_	
+12-14	1368-1371	its	_	_	_	
+12-15	1372-1383	exceptional	_	_	_	
+12-16	1384-1392	position	_	_	_	
+12-17	1393-1402	rendering	_	_	_	
+12-18	1403-1405	it	_	_	_	
+12-19	1406-1409	the	_	_	_	
+12-20	1410-1414	most	_	_	_	
+12-21	1415-1424	available	_	_	_	
+12-22	1425-1429	spot	_	_	_	
+12-23	1430-1433	for	_	_	_	
+12-24	1434-1438	them	_	_	_	
+12-25	1438-1439	.	_	_	_	
+
+#Text=The species used is the double Parma violet
+#Text=(Viola odorata).
+13-1	1440-1443	The	_	_	_	
+13-2	1444-1451	species	_	_	_	
+13-3	1452-1456	used	_	_	_	
+13-4	1457-1459	is	_	_	_	
+13-5	1460-1463	the	_	_	_	
+13-6	1464-1470	double	_	_	_	
+13-7	1471-1476	Parma	_	_	_	
+13-8	1477-1483	violet	_	_	_	
+13-9	1484-1485	(	_	_	_	
+13-10	1485-1490	Viola	_	_	_	
+13-11	1491-1498	odorata	_	_	_	
+13-12	1498-1499	)	_	_	_	
+13-13	1499-1500	.	_	_	_	
+
+#Text=It requires a very cool and shady
+#Text=ground, and is generally placed in the orange and
+#Text=citron groves, at the foot of the trees, which screen it
+#Text=with their thick foliage from the heat of the sun.
+14-1	1501-1503	It	_	_	_	
+14-2	1504-1512	requires	_	_	_	
+14-3	1513-1514	a	_	_	_	
+14-4	1515-1519	very	_	_	_	
+14-5	1520-1524	cool	_	_	_	
+14-6	1525-1528	and	_	_	_	
+14-7	1529-1534	shady	_	_	_	
+14-8	1535-1541	ground	_	_	_	
+14-9	1541-1542	,	_	_	_	
+14-10	1543-1546	and	_	_	_	
+14-11	1547-1549	is	_	_	_	
+14-12	1550-1559	generally	_	_	_	
+14-13	1560-1566	placed	_	_	_	
+14-14	1567-1569	in	_	_	_	
+14-15	1570-1573	the	_	_	_	
+14-16	1574-1580	orange	_	_	_	
+14-17	1581-1584	and	_	_	_	
+14-18	1585-1591	citron	_	_	_	
+14-19	1592-1598	groves	_	_	_	
+14-20	1598-1599	,	_	_	_	
+14-21	1600-1602	at	_	_	_	
+14-22	1603-1606	the	_	_	_	
+14-23	1607-1611	foot	_	_	_	
+14-24	1612-1614	of	_	_	_	
+14-25	1615-1618	the	_	_	_	
+14-26	1619-1624	trees	_	_	_	
+14-27	1624-1625	,	_	_	_	
+14-28	1626-1631	which	_	_	_	
+14-29	1632-1638	screen	_	_	_	
+14-30	1639-1641	it	_	_	_	
+14-31	1642-1646	with	_	_	_	
+14-32	1647-1652	their	_	_	_	
+14-33	1653-1658	thick	_	_	_	
+14-34	1659-1666	foliage	_	_	_	
+14-35	1667-1671	from	_	_	_	
+14-36	1672-1675	the	_	_	_	
+14-37	1676-1680	heat	_	_	_	
+14-38	1681-1683	of	_	_	_	
+14-39	1684-1687	the	_	_	_	
+14-40	1688-1691	sun	_	_	_	
+14-41	1691-1692	.	_	_	_	
+
+#Text=It
+#Text=flowers from the beginning of February to the middle
+#Text=of April, and each plant yields but a few ounces of
+#Text=blossoms, which are culled twice a week after sunrise.
+15-1	1693-1695	It	_	_	_	
+15-2	1696-1703	flowers	_	_	_	
+15-3	1704-1708	from	_	_	_	
+15-4	1709-1712	the	_	_	_	
+15-5	1713-1722	beginning	_	_	_	
+15-6	1723-1725	of	_	_	_	
+15-7	1726-1734	February	_	_	_	
+15-8	1735-1737	to	_	_	_	
+15-9	1738-1741	the	_	_	_	
+15-10	1742-1748	middle	_	_	_	
+15-11	1749-1751	of	_	_	_	
+15-12	1752-1757	April	_	_	_	
+15-13	1757-1758	,	_	_	_	
+15-14	1759-1762	and	_	_	_	
+15-15	1763-1767	each	_	_	_	
+15-16	1768-1773	plant	_	_	_	
+15-17	1774-1780	yields	_	_	_	
+15-18	1781-1784	but	_	_	_	
+15-19	1785-1786	a	_	_	_	
+15-20	1787-1790	few	_	_	_	
+15-21	1791-1797	ounces	_	_	_	
+15-22	1798-1800	of	_	_	_	
+15-23	1801-1809	blossoms	_	_	_	
+15-24	1809-1810	,	_	_	_	
+15-25	1811-1816	which	_	_	_	
+15-26	1817-1820	are	_	_	_	
+15-27	1821-1827	culled	_	_	_	
+15-28	1828-1833	twice	_	_	_	
+15-29	1834-1835	a	_	_	_	
+15-30	1836-1840	week	_	_	_	
+15-31	1841-1846	after	_	_	_	
+15-32	1847-1854	sunrise	_	_	_	
+15-33	1854-1855	.	_	_	_	
+
+#Text=Jonquil (Narcissus jonquila), and narcissus (Narcissus
+#Text=odor at a), are two bulbous plants which are also cultivated for perfumery purposes, but in much smaller
+#Text=quantities than any of those already mentioned, their
+#Text=peculiar aroma rendering their use limited.
+16-1	1857-1864	Jonquil	Smell\_Source[9]	_	_	
+16-2	1865-1866	(	Smell\_Source[9]	_	_	
+16-3	1866-1875	Narcissus	Smell\_Source[9]	_	_	
+16-4	1876-1884	jonquila	Smell\_Source[9]	_	_	
+16-5	1884-1885	)	_	_	_	
+16-6	1885-1886	,	_	_	_	
+16-7	1887-1890	and	_	_	_	
+16-8	1891-1900	narcissus	Smell\_Source[10]	_	_	
+16-9	1901-1902	(	Smell\_Source[10]	_	_	
+16-10	1902-1911	Narcissus	Smell\_Source[10]	_	_	
+16-11	1912-1916	odor	Smell\_Source[10]	_	_	
+16-12	1917-1919	at	Smell\_Source[10]	_	_	
+16-13	1920-1921	a	Smell\_Source[10]	_	_	
+16-14	1921-1922	)	_	_	_	
+16-15	1922-1923	,	_	_	_	
+16-16	1924-1927	are	_	_	_	
+16-17	1928-1931	two	_	_	_	
+16-18	1932-1939	bulbous	_	_	_	
+16-19	1940-1946	plants	_	_	_	
+16-20	1947-1952	which	_	_	_	
+16-21	1953-1956	are	_	_	_	
+16-22	1957-1961	also	_	_	_	
+16-23	1962-1972	cultivated	_	_	_	
+16-24	1973-1976	for	_	_	_	
+16-25	1977-1986	perfumery	_	_	_	
+16-26	1987-1995	purposes	_	_	_	
+16-27	1995-1996	,	_	_	_	
+16-28	1997-2000	but	_	_	_	
+16-29	2001-2003	in	_	_	_	
+16-30	2004-2008	much	_	_	_	
+16-31	2009-2016	smaller	_	_	_	
+16-32	2017-2027	quantities	_	_	_	
+16-33	2028-2032	than	_	_	_	
+16-34	2033-2036	any	_	_	_	
+16-35	2037-2039	of	_	_	_	
+16-36	2040-2045	those	_	_	_	
+16-37	2046-2053	already	_	_	_	
+16-38	2054-2063	mentioned	_	_	_	
+16-39	2063-2064	,	_	_	_	
+16-40	2065-2070	their	Smell\_Source	Anaphoric|Anaphoric	16-8[10_0]|16-1[9_0]	
+16-41	2071-2079	peculiar	Quality	_	_	
+16-42	2080-2085	aroma	Smell\_Word	*|*	16-41|16-40	
+16-43	2086-2095	rendering	_	_	_	
+16-44	2096-2101	their	_	_	_	
+16-45	2102-2105	use	_	_	_	
+16-46	2106-2113	limited	_	_	_	
+16-47	2113-2114	.	_	_	_	
+
+#Text=The former
+#Text=is to be found chiefly in the south of France, and the
+#Text=latter in Algeria.
+17-1	2115-2118	The	_	_	_	
+17-2	2119-2125	former	_	_	_	
+17-3	2126-2128	is	_	_	_	
+17-4	2129-2131	to	_	_	_	
+17-5	2132-2134	be	_	_	_	
+17-6	2135-2140	found	_	_	_	
+17-7	2141-2148	chiefly	_	_	_	
+17-8	2149-2151	in	_	_	_	
+17-9	2152-2155	the	_	_	_	
+17-10	2156-2161	south	_	_	_	
+17-11	2162-2164	of	_	_	_	
+17-12	2165-2171	France	_	_	_	
+17-13	2171-2172	,	_	_	_	
+17-14	2173-2176	and	_	_	_	
+17-15	2177-2180	the	_	_	_	
+17-16	2181-2187	latter	_	_	_	
+17-17	2188-2190	in	_	_	_	
+17-18	2191-2198	Algeria	_	_	_	
+17-19	2198-2199	.	_	_	_	
+
+#Text=Mignonnette, lilac, and hawthorn
+#Text=are also sometimes worked into pomades, but on such
+#Text=a small scale that they are not worth mentioning.
+18-1	2200-2211	Mignonnette	_	_	_	
+18-2	2211-2212	,	_	_	_	
+18-3	2213-2218	lilac	_	_	_	
+18-4	2218-2219	,	_	_	_	
+18-5	2220-2223	and	_	_	_	
+18-6	2224-2232	hawthorn	_	_	_	
+18-7	2233-2236	are	_	_	_	
+18-8	2237-2241	also	_	_	_	
+18-9	2242-2251	sometimes	_	_	_	
+18-10	2252-2258	worked	_	_	_	
+18-11	2259-2263	into	_	_	_	
+18-12	2264-2271	pomades	_	_	_	
+18-13	2271-2272	,	_	_	_	
+18-14	2273-2276	but	_	_	_	
+18-15	2277-2279	on	_	_	_	
+18-16	2280-2284	such	_	_	_	
+18-17	2285-2286	a	_	_	_	
+18-18	2287-2292	small	_	_	_	
+18-19	2293-2298	scale	_	_	_	
+18-20	2299-2303	that	_	_	_	
+18-21	2304-2308	they	_	_	_	
+18-22	2309-2312	are	_	_	_	
+18-23	2313-2316	not	_	_	_	
+18-24	2317-2322	worth	_	_	_	
+18-25	2323-2333	mentioning	_	_	_	
+18-26	2333-2334	.	_	_	_	
+
+#Text=The
+#Text=extracts named after those flowers are generally produced by combination.
+19-1	2335-2338	The	_	_	_	
+19-2	2339-2347	extracts	_	_	_	
+19-3	2348-2353	named	_	_	_	
+19-4	2354-2359	after	_	_	_	
+19-5	2360-2365	those	_	_	_	
+19-6	2366-2373	flowers	_	_	_	
+19-7	2374-2377	are	_	_	_	
+19-8	2378-2387	generally	_	_	_	
+19-9	2388-2396	produced	_	_	_	
+19-10	2397-2399	by	_	_	_	
+19-11	2400-2411	combination	_	_	_	
+19-12	2411-2412	.	_	_	_	
+
+#Text=The herbal series comprises all aromatic plants, such
+#Text=as lavender, spike, peppermint, rosemary, thyme, marjoram, geranium, patchouly, and wintergreen, which
+#Text=yield essential oils by distillation.
+20-1	2414-2417	The	_	_	_	
+20-2	2418-2424	herbal	_	_	_	
+20-3	2425-2431	series	_	_	_	
+20-4	2432-2441	comprises	_	_	_	
+20-5	2442-2445	all	_	_	_	
+20-6	2446-2454	aromatic	Quality[11]|Smell\_Word[12]	*|*|*|*|*|*|*|*|*|*|*	20-6[11_12]|20-7[0_12]|20-11[0_12]|20-13[0_12]|20-17[0_12]|20-15[0_12]|20-19[0_12]|20-21[0_12]|20-23[0_12]|20-25[0_12]|20-28[0_12]	
+20-7	2455-2461	plants	Smell\_Source	_	_	
+20-8	2461-2462	,	_	_	_	
+20-9	2463-2467	such	_	_	_	
+20-10	2468-2470	as	_	_	_	
+20-11	2471-2479	lavender	Smell\_Source	_	_	
+20-12	2479-2480	,	_	_	_	
+20-13	2481-2486	spike	Smell\_Source	_	_	
+20-14	2486-2487	,	_	_	_	
+20-15	2488-2498	peppermint	Smell\_Source	_	_	
+20-16	2498-2499	,	_	_	_	
+20-17	2500-2508	rosemary	Smell\_Source	_	_	
+20-18	2508-2509	,	_	_	_	
+20-19	2510-2515	thyme	Smell\_Source	_	_	
+20-20	2515-2516	,	_	_	_	
+20-21	2517-2525	marjoram	Smell\_Source	_	_	
+20-22	2525-2526	,	_	_	_	
+20-23	2527-2535	geranium	Smell\_Source	_	_	
+20-24	2535-2536	,	_	_	_	
+20-25	2537-2546	patchouly	Smell\_Source	_	_	
+20-26	2546-2547	,	_	_	_	
+20-27	2548-2551	and	_	_	_	
+20-28	2552-2563	wintergreen	Smell\_Source	_	_	
+20-29	2563-2564	,	_	_	_	
+20-30	2565-2570	which	_	_	_	
+20-31	2571-2576	yield	_	_	_	
+20-32	2577-2586	essential	_	_	_	
+20-33	2587-2591	oils	_	_	_	
+20-34	2592-2594	by	_	_	_	
+20-35	2595-2607	distillation	_	_	_	
+20-36	2607-2608	.	_	_	_	
+
+#Text=Lavender was extensively used by the Romans in
+#Text=their baths, whence it derived its name.
+21-1	2609-2617	Lavender	Smell\_Source	_	_	
+21-2	2618-2621	was	_	_	_	
+21-3	2622-2633	extensively	_	_	_	
+21-4	2634-2638	used	_	_	_	
+21-5	2639-2641	by	_	_	_	
+21-6	2642-2645	the	_	_	_	
+21-7	2646-2652	Romans	_	_	_	
+21-8	2653-2655	in	_	_	_	
+21-9	2656-2661	their	_	_	_	
+21-10	2662-2667	baths	_	_	_	
+21-11	2667-2668	,	_	_	_	
+21-12	2669-2675	whence	_	_	_	
+21-13	2676-2678	it	_	_	_	
+21-14	2679-2686	derived	_	_	_	
+21-15	2687-2690	its	_	_	_	
+21-16	2691-2695	name	_	_	_	
+21-17	2695-2696	.	_	_	_	
+
+#Text=It is a nice,
+#Text=clean scent, and an old and deserving favourite.
+22-1	2697-2699	It	Smell\_Source	Anaphoric	21-1	
+22-2	2700-2702	is	_	_	_	
+22-3	2703-2704	a	_	_	_	
+22-4	2705-2709	nice	Quality	_	_	
+22-5	2709-2710	,	_	_	_	
+22-6	2711-2716	clean	Quality	_	_	
+22-7	2717-2722	scent	Smell\_Word	*|*|*	22-4|22-6|22-1	
+22-8	2722-2723	,	_	_	_	
+22-9	2724-2727	and	_	_	_	
+22-10	2728-2730	an	_	_	_	
+22-11	2731-2734	old	_	_	_	
+22-12	2735-2738	and	_	_	_	
+22-13	2739-2748	deserving	_	_	_	
+22-14	2749-2758	favourite	_	_	_	
+22-15	2758-2759	.	_	_	_	

@@ -1,0 +1,281 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=They make an excellent fire— bright,
+#Text=clear, and free from blaze, and particularly suited for
+#Text=broiling, and for burning refuse.
+1-1	0-4	They	_	_	_	
+1-2	5-9	make	_	_	_	
+1-3	10-12	an	_	_	_	
+1-4	13-22	excellent	_	_	_	
+1-5	23-27	fire	_	_	_	
+1-6	27-28	—	_	_	_	
+1-7	29-35	bright	_	_	_	
+1-8	35-36	,	_	_	_	
+1-9	37-42	clear	_	_	_	
+1-10	42-43	,	_	_	_	
+1-11	44-47	and	_	_	_	
+1-12	48-52	free	_	_	_	
+1-13	53-57	from	_	_	_	
+1-14	58-63	blaze	_	_	_	
+1-15	63-64	,	_	_	_	
+1-16	65-68	and	_	_	_	
+1-17	69-81	particularly	_	_	_	
+1-18	82-88	suited	_	_	_	
+1-19	89-92	for	_	_	_	
+1-20	93-101	broiling	_	_	_	
+1-21	101-102	,	_	_	_	
+1-22	103-106	and	_	_	_	
+1-23	107-110	for	_	_	_	
+1-24	111-118	burning	_	_	_	
+1-25	119-125	refuse	_	_	_	
+1-26	125-126	.	_	_	_	
+
+#Text=One of the difficulties associated with the burning of refuse is that
+#Text=servants say they cannot dispose of it thus because
+#Text=it makes a bad smell.
+2-1	127-130	One	_	_	_	
+2-2	131-133	of	_	_	_	
+2-3	134-137	the	_	_	_	
+2-4	138-150	difficulties	_	_	_	
+2-5	151-161	associated	_	_	_	
+2-6	162-166	with	_	_	_	
+2-7	167-170	the	Circumstances[1]	_	_	
+2-8	171-178	burning	Circumstances[1]	_	_	
+2-9	179-181	of	Circumstances[1]	_	_	
+2-10	182-188	refuse	Smell\_Source	_	_	
+2-11	189-191	is	_	_	_	
+2-12	192-196	that	_	_	_	
+2-13	197-205	servants	_	_	_	
+2-14	206-209	say	_	_	_	
+2-15	210-214	they	_	_	_	
+2-16	215-221	cannot	_	_	_	
+2-17	222-229	dispose	_	_	_	
+2-18	230-232	of	_	_	_	
+2-19	233-235	it	_	_	_	
+2-20	236-240	thus	_	_	_	
+2-21	241-248	because	_	_	_	
+2-22	249-251	it	Smell\_Source	Anaphoric	2-10	
+2-23	252-257	makes	_	_	_	
+2-24	258-259	a	_	_	_	
+2-25	260-263	bad	Quality	_	_	
+2-26	264-269	smell	Smell\_Word	*|*|*	2-25|2-22|2-7[1_0]	
+2-27	269-270	.	_	_	_	
+
+#Text=If, however, the mistress
+#Text=will insist upon having it burnt in small quantities
+#Text=at a time, as it is produced, have it put on the fire
+#Text=when the latter is low, but before it gets dull, and
+#Text=then covered with cinders and a little damp coaldust, and it will burn away without causing any bad
+#Text=smell.
+3-1	271-273	If	_	_	_	
+3-2	273-274	,	_	_	_	
+3-3	275-282	however	_	_	_	
+3-4	282-283	,	_	_	_	
+3-5	284-287	the	_	_	_	
+3-6	288-296	mistress	_	_	_	
+3-7	297-301	will	_	_	_	
+3-8	302-308	insist	_	_	_	
+3-9	309-313	upon	_	_	_	
+3-10	314-320	having	_	_	_	
+3-11	321-323	it	_	_	_	
+3-12	324-329	burnt	Circumstances[2]	_	_	
+3-13	330-332	in	Circumstances[2]	_	_	
+3-14	333-338	small	Circumstances[2]	_	_	
+3-15	339-349	quantities	Circumstances[2]	_	_	
+3-16	350-352	at	Circumstances[2]	_	_	
+3-17	353-354	a	Circumstances[2]	_	_	
+3-18	355-359	time	Circumstances[2]	_	_	
+3-19	359-360	,	Circumstances[2]	_	_	
+3-20	361-363	as	Circumstances[2]	_	_	
+3-21	364-366	it	Circumstances[2]	_	_	
+3-22	367-369	is	Circumstances[2]	_	_	
+3-23	370-378	produced	Circumstances[2]	_	_	
+3-24	378-379	,	Circumstances[2]	_	_	
+3-25	380-384	have	Circumstances[2]	_	_	
+3-26	385-387	it	Circumstances[2]	_	_	
+3-27	388-391	put	Circumstances[2]	_	_	
+3-28	392-394	on	Circumstances[2]	_	_	
+3-29	395-398	the	Circumstances[2]	_	_	
+3-30	399-403	fire	Circumstances[2]	_	_	
+3-31	404-408	when	Circumstances[2]	_	_	
+3-32	409-412	the	Circumstances[2]	_	_	
+3-33	413-419	latter	Circumstances[2]	_	_	
+3-34	420-422	is	Circumstances[2]	_	_	
+3-35	423-426	low	Circumstances[2]	_	_	
+3-36	426-427	,	Circumstances[2]	_	_	
+3-37	428-431	but	Circumstances[2]	_	_	
+3-38	432-438	before	Circumstances[2]	_	_	
+3-39	439-441	it	Circumstances[2]	_	_	
+3-40	442-446	gets	Circumstances[2]	_	_	
+3-41	447-451	dull	Circumstances[2]	_	_	
+3-42	451-452	,	Circumstances[2]	_	_	
+3-43	453-456	and	Circumstances[2]	_	_	
+3-44	457-461	then	Circumstances[2]	_	_	
+3-45	462-469	covered	Circumstances[2]	_	_	
+3-46	470-474	with	Circumstances[2]	_	_	
+3-47	475-482	cinders	Circumstances[2]	_	_	
+3-48	483-486	and	Circumstances[2]	_	_	
+3-49	487-488	a	Circumstances[2]	_	_	
+3-50	489-495	little	Circumstances[2]	_	_	
+3-51	496-500	damp	Circumstances[2]	_	_	
+3-52	501-509	coaldust	Circumstances[2]	_	_	
+3-53	509-510	,	_	_	_	
+3-54	511-514	and	_	_	_	
+3-55	515-517	it	Smell\_Source	Anaphoric	2-10	
+3-56	518-522	will	_	_	_	
+3-57	523-527	burn	_	_	_	
+3-58	528-532	away	_	_	_	
+3-59	533-540	without	_	_	_	
+3-60	541-548	causing	_	_	_	
+3-61	549-552	any	_	_	_	
+3-62	553-556	bad	Quality	_	_	
+3-63	557-562	smell	Smell\_Word	*|*	3-62|3-12[2_0]	
+3-64	562-563	.	_	_	_	
+
+#Text=It is when rubbish is allowed to accumulate, and when the attempt is made to burn a
+#Text=quantity at once, that the fire goes out, and
+#Text=an unpleasant odour is created.
+4-1	564-566	It	Circumstances[3]	_	_	
+4-2	567-569	is	Circumstances[3]	_	_	
+4-3	570-574	when	Circumstances[3]	_	_	
+4-4	575-582	rubbish	Circumstances[3]	_	_	
+4-5	583-585	is	Circumstances[3]	_	_	
+4-6	586-593	allowed	Circumstances[3]	_	_	
+4-7	594-596	to	Circumstances[3]	_	_	
+4-8	597-607	accumulate	Circumstances[3]	_	_	
+4-9	607-608	,	Circumstances[3]	_	_	
+4-10	609-612	and	Circumstances[3]	_	_	
+4-11	613-617	when	Circumstances[3]	_	_	
+4-12	618-621	the	Circumstances[3]	_	_	
+4-13	622-629	attempt	Circumstances[3]	_	_	
+4-14	630-632	is	Circumstances[3]	_	_	
+4-15	633-637	made	Circumstances[3]	_	_	
+4-16	638-640	to	Circumstances[3]	_	_	
+4-17	641-645	burn	Circumstances[3]	_	_	
+4-18	646-647	a	Circumstances[3]	_	_	
+4-19	648-656	quantity	Circumstances[3]	_	_	
+4-20	657-659	at	Circumstances[3]	_	_	
+4-21	660-664	once	Circumstances[3]	_	_	
+4-22	664-665	,	_	_	_	
+4-23	666-670	that	_	_	_	
+4-24	671-674	the	_	_	_	
+4-25	675-679	fire	_	_	_	
+4-26	680-684	goes	_	_	_	
+4-27	685-688	out	_	_	_	
+4-28	688-689	,	_	_	_	
+4-29	690-693	and	_	_	_	
+4-30	694-696	an	_	_	_	
+4-31	697-707	unpleasant	Quality	_	_	
+4-32	708-713	odour	Smell\_Word	*|*	4-31|4-1[3_0]	
+4-33	714-716	is	_	_	_	
+4-34	717-724	created	_	_	_	
+4-35	724-725	.	_	_	_	
+
+#Text=With a little
+#Text=management, everything that cannot bo used may
+#Text=be burnt either at the copper fire or the kitchen
+#Text=fire — bones (broken up), tea-leaves, fragments, and
+#Text=everything else ; and as a result, instead of bad
+#Text=smells being produced, they will be avoided ; because damp refuse put into a dust-bin very speedily
+#Text=ferments or decomposes, and causes a smell which
+#Text=is dangerous as welt as unpleasant, and is the cause
+#Text=of cholera and typhoid ; while refuse burnt is rendered quite harmless.
+5-1	726-730	With	_	_	_	
+5-2	731-732	a	_	_	_	
+5-3	733-739	little	_	_	_	
+5-4	740-750	management	_	_	_	
+5-5	750-751	,	_	_	_	
+5-6	752-762	everything	Circumstances[4]	_	_	
+5-7	763-767	that	Circumstances[4]	_	_	
+5-8	768-774	cannot	Circumstances[4]	_	_	
+5-9	775-777	bo	Circumstances[4]	_	_	
+5-10	778-782	used	Circumstances[4]	_	_	
+5-11	783-786	may	Circumstances[4]	_	_	
+5-12	787-789	be	Circumstances[4]	_	_	
+5-13	790-795	burnt	Circumstances[4]	_	_	
+5-14	796-802	either	Circumstances[4]	_	_	
+5-15	803-805	at	Circumstances[4]	_	_	
+5-16	806-809	the	Circumstances[4]	_	_	
+5-17	810-816	copper	Circumstances[4]	_	_	
+5-18	817-821	fire	Circumstances[4]	_	_	
+5-19	822-824	or	Circumstances[4]	_	_	
+5-20	825-828	the	Circumstances[4]	_	_	
+5-21	829-836	kitchen	Circumstances[4]	_	_	
+5-22	837-841	fire	Circumstances[4]	_	_	
+5-23	842-843	—	Circumstances[4]	_	_	
+5-24	844-849	bones	Circumstances[4]	_	_	
+5-25	850-851	(	Circumstances[4]	_	_	
+5-26	851-857	broken	Circumstances[4]	_	_	
+5-27	858-860	up	Circumstances[4]	_	_	
+5-28	860-861	)	Circumstances[4]	_	_	
+5-29	861-862	,	Circumstances[4]	_	_	
+5-30	863-873	tea-leaves	Circumstances[4]	_	_	
+5-31	873-874	,	Circumstances[4]	_	_	
+5-32	875-884	fragments	Circumstances[4]	_	_	
+5-33	884-885	,	Circumstances[4]	_	_	
+5-34	886-889	and	Circumstances[4]	_	_	
+5-35	890-900	everything	Circumstances[4]	_	_	
+5-36	901-905	else	Circumstances[4]	_	_	
+5-37	906-907	;	_	_	_	
+5-38	908-911	and	_	_	_	
+5-39	912-914	as	_	_	_	
+5-40	915-916	a	_	_	_	
+5-41	917-923	result	_	_	_	
+5-42	923-924	,	_	_	_	
+5-43	925-932	instead	_	_	_	
+5-44	933-935	of	_	_	_	
+5-45	936-939	bad	Quality	_	_	
+5-46	940-946	smells	Smell\_Word	*|*	5-45|5-6[4_0]	
+5-47	947-952	being	_	_	_	
+5-48	953-961	produced	_	_	_	
+5-49	961-962	,	_	_	_	
+5-50	963-967	they	_	_	_	
+5-51	968-972	will	_	_	_	
+5-52	973-975	be	_	_	_	
+5-53	976-983	avoided	_	_	_	
+5-54	984-985	;	_	_	_	
+5-55	986-993	because	_	_	_	
+5-56	994-998	damp	Smell\_Source[5]	_	_	
+5-57	999-1005	refuse	Smell\_Source[5]	_	_	
+5-58	1006-1009	put	Circumstances[6]	_	_	
+5-59	1010-1014	into	Circumstances[6]	_	_	
+5-60	1015-1016	a	Circumstances[6]	_	_	
+5-61	1017-1025	dust-bin	Circumstances[6]	_	_	
+5-62	1026-1030	very	Circumstances[6]	_	_	
+5-63	1031-1039	speedily	Circumstances[6]	_	_	
+5-64	1040-1048	ferments	Circumstances[6]	_	_	
+5-65	1049-1051	or	Circumstances[6]	_	_	
+5-66	1052-1062	decomposes	Circumstances[6]	_	_	
+5-67	1062-1063	,	_	_	_	
+5-68	1064-1067	and	_	_	_	
+5-69	1068-1074	causes	_	_	_	
+5-70	1075-1076	a	_	_	_	
+5-71	1077-1082	smell	Smell\_Word	*|*|*|*|*	5-58[6_0]|5-56[5_0]|5-74|5-78|5-81[7_0]	
+5-72	1083-1088	which	_	_	_	
+5-73	1089-1091	is	_	_	_	
+5-74	1092-1101	dangerous	Quality	_	_	
+5-75	1102-1104	as	_	_	_	
+5-76	1105-1109	welt	_	_	_	
+5-77	1110-1112	as	_	_	_	
+5-78	1113-1123	unpleasant	Quality	_	_	
+5-79	1123-1124	,	_	_	_	
+5-80	1125-1128	and	_	_	_	
+5-81	1129-1131	is	Effect[7]	_	_	
+5-82	1132-1135	the	Effect[7]	_	_	
+5-83	1136-1141	cause	Effect[7]	_	_	
+5-84	1142-1144	of	Effect[7]	_	_	
+5-85	1145-1152	cholera	Effect[7]	_	_	
+5-86	1153-1156	and	Effect[7]	_	_	
+5-87	1157-1164	typhoid	Effect[7]	_	_	
+5-88	1165-1166	;	_	_	_	
+5-89	1167-1172	while	_	_	_	
+5-90	1173-1179	refuse	_	_	_	
+5-91	1180-1185	burnt	_	_	_	
+5-92	1186-1188	is	_	_	_	
+5-93	1189-1197	rendered	_	_	_	
+5-94	1198-1203	quite	_	_	_	
+5-95	1204-1212	harmless	_	_	_	
+5-96	1212-1213	.	_	_	_	

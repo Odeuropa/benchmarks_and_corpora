@@ -1,0 +1,475 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=He coughed slightly and said, ‘Yes,’ and the way
+#Text=he said it told me that it was going to be a romantic
+#Text=occasion.
+1-1	0-2	He	_	_	_	
+1-2	3-10	coughed	_	_	_	
+1-3	11-19	slightly	_	_	_	
+1-4	20-23	and	_	_	_	
+1-5	24-28	said	_	_	_	
+1-6	28-29	,	_	_	_	
+1-7	30-31	‘	_	_	_	
+1-8	31-34	Yes	_	_	_	
+1-9	34-35	,	_	_	_	
+1-10	35-36	’	_	_	_	
+1-11	37-40	and	_	_	_	
+1-12	41-44	the	_	_	_	
+1-13	45-48	way	_	_	_	
+1-14	49-51	he	_	_	_	
+1-15	52-56	said	_	_	_	
+1-16	57-59	it	_	_	_	
+1-17	60-64	told	_	_	_	
+1-18	65-67	me	_	_	_	
+1-19	68-72	that	_	_	_	
+1-20	73-75	it	_	_	_	
+1-21	76-79	was	_	_	_	
+1-22	80-85	going	_	_	_	
+1-23	86-88	to	_	_	_	
+1-24	89-91	be	_	_	_	
+1-25	92-93	a	_	_	_	
+1-26	94-102	romantic	_	_	_	
+1-27	103-111	occasion	_	_	_	
+1-28	111-112	.	_	_	_	
+
+#Text=Then dawn.
+2-1	114-118	Then	_	_	_	
+2-2	119-123	dawn	_	_	_	
+2-3	123-124	.	_	_	_	
+
+#Text=If there is anything more wonderful in London
+#Text=than dawn coming up over the tangled shipping of the docks
+#Text=I would like to know of it.
+3-1	125-127	If	_	_	_	
+3-2	128-133	there	_	_	_	
+3-3	134-136	is	_	_	_	
+3-4	137-145	anything	_	_	_	
+3-5	146-150	more	_	_	_	
+3-6	151-160	wonderful	_	_	_	
+3-7	161-163	in	_	_	_	
+3-8	164-170	London	_	_	_	
+3-9	171-175	than	_	_	_	
+3-10	176-180	dawn	_	_	_	
+3-11	181-187	coming	_	_	_	
+3-12	188-190	up	_	_	_	
+3-13	191-195	over	_	_	_	
+3-14	196-199	the	_	_	_	
+3-15	200-207	tangled	_	_	_	
+3-16	208-216	shipping	_	_	_	
+3-17	217-219	of	_	_	_	
+3-18	220-223	the	_	_	_	
+3-19	224-229	docks	_	_	_	
+3-20	230-231	I	_	_	_	
+3-21	232-237	would	_	_	_	
+3-22	238-242	like	_	_	_	
+3-23	243-245	to	_	_	_	
+3-24	246-250	know	_	_	_	
+3-25	251-253	of	_	_	_	
+3-26	254-256	it	_	_	_	
+3-27	256-257	.	_	_	_	
+
+#Text=First a silvery light in the air, a
+#Text=chilly greyness, then a flush in the east, and, with startling
+#Text=suddenness, every mast, every funnel, every leaning crane is
+#Text=suhouetted jet-black against the pearl-coloured sky... .
+4-1	258-263	First	_	_	_	
+4-2	264-265	a	_	_	_	
+4-3	266-273	silvery	_	_	_	
+4-4	274-279	light	_	_	_	
+4-5	280-282	in	_	_	_	
+4-6	283-286	the	_	_	_	
+4-7	287-290	air	_	_	_	
+4-8	290-291	,	_	_	_	
+4-9	292-293	a	_	_	_	
+4-10	294-300	chilly	_	_	_	
+4-11	301-309	greyness	_	_	_	
+4-12	309-310	,	_	_	_	
+4-13	311-315	then	_	_	_	
+4-14	316-317	a	_	_	_	
+4-15	318-323	flush	_	_	_	
+4-16	324-326	in	_	_	_	
+4-17	327-330	the	_	_	_	
+4-18	331-335	east	_	_	_	
+4-19	335-336	,	_	_	_	
+4-20	337-340	and	_	_	_	
+4-21	340-341	,	_	_	_	
+4-22	342-346	with	_	_	_	
+4-23	347-356	startling	_	_	_	
+4-24	357-367	suddenness	_	_	_	
+4-25	367-368	,	_	_	_	
+4-26	369-374	every	_	_	_	
+4-27	375-379	mast	_	_	_	
+4-28	379-380	,	_	_	_	
+4-29	381-386	every	_	_	_	
+4-30	387-393	funnel	_	_	_	
+4-31	393-394	,	_	_	_	
+4-32	395-400	every	_	_	_	
+4-33	401-408	leaning	_	_	_	
+4-34	409-414	crane	_	_	_	
+4-35	415-417	is	_	_	_	
+4-36	418-428	suhouetted	_	_	_	
+4-37	429-438	jet-black	_	_	_	
+4-38	439-446	against	_	_	_	
+4-39	447-450	the	_	_	_	
+4-40	451-465	pearl-coloured	_	_	_	
+4-41	466-469	sky	_	_	_	
+4-42	469-470	.	_	_	_	
+4-43	470-471	.	_	_	_	
+4-44	471-472	.	_	_	_	
+4-45	473-474	.	_	_	_	
+
+#Text=Unreal... still... silent.
+5-1	475-481	Unreal	_	_	_	
+5-2	481-482	.	_	_	_	
+5-3	482-483	.	_	_	_	
+5-4	483-484	.	_	_	_	
+5-5	485-490	still	_	_	_	
+5-6	490-491	.	_	_	_	
+5-7	491-492	.	_	_	_	
+5-8	492-493	.	_	_	_	
+5-9	494-500	silent	_	_	_	
+5-10	500-501	.	_	_	_	
+
+#Text=Gradually the docks awaken.
+6-1	503-512	Gradually	_	_	_	
+6-2	513-516	the	_	_	_	
+6-3	517-522	docks	_	_	_	
+6-4	523-529	awaken	_	_	_	
+6-5	529-530	.	_	_	_	
+
+#Text=Men walk along the wharf-side, doors are opened.
+7-1	531-534	Men	_	_	_	
+7-2	535-539	walk	_	_	_	
+7-3	540-545	along	_	_	_	
+7-4	546-549	the	_	_	_	
+7-5	550-560	wharf-side	_	_	_	
+7-6	560-561	,	_	_	_	
+7-7	562-567	doors	_	_	_	
+7-8	568-571	are	_	_	_	
+7-9	572-578	opened	_	_	_	
+7-10	578-579	.	_	_	_	
+
+#Text=In the depths of little ships men rise
+#Text=and become busy with ropes; there is, from some, a smell of
+#Text=frying bacon; on tall ships mast lights grow pale in the dawn
+#Text=light, men in swinging cradles yawn and start painting a
+#Text=ship’s hull, and from far off comes the ring of the first hammer
+#Text=of a new day.
+8-1	580-582	In	_	_	_	
+8-2	583-586	the	_	_	_	
+8-3	587-593	depths	_	_	_	
+8-4	594-596	of	_	_	_	
+8-5	597-603	little	_	_	_	
+8-6	604-609	ships	_	_	_	
+8-7	610-613	men	_	_	_	
+8-8	614-618	rise	_	_	_	
+8-9	619-622	and	_	_	_	
+8-10	623-629	become	_	_	_	
+8-11	630-634	busy	_	_	_	
+8-12	635-639	with	_	_	_	
+8-13	640-645	ropes	_	_	_	
+8-14	645-646	;	_	_	_	
+8-15	647-652	there	_	_	_	
+8-16	653-655	is	_	_	_	
+8-17	655-656	,	_	_	_	
+8-18	657-661	from	Location[1]	_	_	
+8-19	662-666	some	Location[1]	_	_	
+8-20	666-667	,	_	_	_	
+8-21	668-669	a	_	_	_	
+8-22	670-675	smell	Smell\_Word	*|*	8-23[2_0]|8-18[1_0]	
+8-23	676-678	of	Smell\_Source[2]	_	_	
+8-24	679-685	frying	Smell\_Source[2]	_	_	
+8-25	686-691	bacon	Smell\_Source[2]	_	_	
+8-26	691-692	;	_	_	_	
+8-27	693-695	on	_	_	_	
+8-28	696-700	tall	_	_	_	
+8-29	701-706	ships	_	_	_	
+8-30	707-711	mast	_	_	_	
+8-31	712-718	lights	_	_	_	
+8-32	719-723	grow	_	_	_	
+8-33	724-728	pale	_	_	_	
+8-34	729-731	in	_	_	_	
+8-35	732-735	the	_	_	_	
+8-36	736-740	dawn	_	_	_	
+8-37	741-746	light	_	_	_	
+8-38	746-747	,	_	_	_	
+8-39	748-751	men	_	_	_	
+8-40	752-754	in	_	_	_	
+8-41	755-763	swinging	_	_	_	
+8-42	764-771	cradles	_	_	_	
+8-43	772-776	yawn	_	_	_	
+8-44	777-780	and	_	_	_	
+8-45	781-786	start	_	_	_	
+8-46	787-795	painting	_	_	_	
+8-47	796-797	a	_	_	_	
+8-48	798-802	ship	_	_	_	
+8-49	802-803	’	_	_	_	
+8-50	803-804	s	_	_	_	
+8-51	805-809	hull	_	_	_	
+8-52	809-810	,	_	_	_	
+8-53	811-814	and	_	_	_	
+8-54	815-819	from	_	_	_	
+8-55	820-823	far	_	_	_	
+8-56	824-827	off	_	_	_	
+8-57	828-833	comes	_	_	_	
+8-58	834-837	the	_	_	_	
+8-59	838-842	ring	_	_	_	
+8-60	843-845	of	_	_	_	
+8-61	846-849	the	_	_	_	
+8-62	850-855	first	_	_	_	
+8-63	856-862	hammer	_	_	_	
+8-64	863-865	of	_	_	_	
+8-65	866-867	a	_	_	_	
+8-66	868-871	new	_	_	_	
+8-67	872-875	day	_	_	_	
+8-68	875-876	.	_	_	_	
+
+#Text=As the light grows, one’s sense of smell improves.
+9-1	878-880	As	Circumstances[3]	_	_	
+9-2	881-884	the	Circumstances[3]	_	_	
+9-3	885-890	light	Circumstances[3]	_	_	
+9-4	891-896	grows	Circumstances[3]	_	_	
+9-5	896-897	,	_	_	_	
+9-6	898-901	one	Perceiver[4]	_	_	
+9-7	901-902	’	Perceiver[4]	_	_	
+9-8	902-903	s	Perceiver[4]	_	_	
+9-9	904-909	sense	_	_	_	
+9-10	910-912	of	_	_	_	
+9-11	913-918	smell	Smell\_Word	*|*	9-1[3_0]|9-6[4_0]	
+9-12	919-927	improves	_	_	_	
+9-13	927-928	.	_	_	_	
+
+#Text=This is
+#Text=strange.
+10-1	929-933	This	_	_	_	
+10-2	934-936	is	_	_	_	
+10-3	937-944	strange	_	_	_	
+10-4	944-945	.	_	_	_	
+
+#Text=The air is now full of a pungent smell of hemp and
+#Text=tow and tar, and even distant docks, stored with their
+#Text=merchandise, seem to contribute their part as the dawn
+#Text=wind blows.
+11-1	946-949	The	Odour\_Carrier[5]	_	_	
+11-2	950-953	air	Odour\_Carrier[5]	_	_	
+11-3	954-956	is	_	_	_	
+11-4	957-960	now	_	_	_	
+11-5	961-965	full	_	_	_	
+11-6	966-968	of	_	_	_	
+11-7	969-970	a	_	_	_	
+11-8	971-978	pungent	Quality	_	_	
+11-9	979-984	smell	Smell\_Word	*|*|*|*|*|*	11-8|11-1[5_0]|11-10[6_0]|11-13|11-15|11-18[7_0]	
+11-10	985-987	of	Smell\_Source[6]	_	_	
+11-11	988-992	hemp	Smell\_Source[6]	_	_	
+11-12	993-996	and	_	_	_	
+11-13	997-1000	tow	Smell\_Source	_	_	
+11-14	1001-1004	and	_	_	_	
+11-15	1005-1008	tar	Smell\_Source	_	_	
+11-16	1008-1009	,	_	_	_	
+11-17	1010-1013	and	_	_	_	
+11-18	1014-1018	even	Location[7]	_	_	
+11-19	1019-1026	distant	Location[7]	_	_	
+11-20	1027-1032	docks	Location[7]	_	_	
+11-21	1032-1033	,	_	_	_	
+11-22	1034-1040	stored	_	_	_	
+11-23	1041-1045	with	_	_	_	
+11-24	1046-1051	their	_	_	_	
+11-25	1052-1063	merchandise	_	_	_	
+11-26	1063-1064	,	_	_	_	
+11-27	1065-1069	seem	_	_	_	
+11-28	1070-1072	to	_	_	_	
+11-29	1073-1083	contribute	_	_	_	
+11-30	1084-1089	their	_	_	_	
+11-31	1090-1094	part	_	_	_	
+11-32	1095-1097	as	_	_	_	
+11-33	1098-1101	the	_	_	_	
+11-34	1102-1106	dawn	_	_	_	
+11-35	1107-1111	wind	_	_	_	
+11-36	1112-1117	blows	_	_	_	
+11-37	1117-1118	.	_	_	_	
+
+#Text=There is a flush of pink cloud high up in the sky, such a
+#Text=delicate flamingo pink that changes, spreads, and fades even
+#Text=as you look.
+12-1	1120-1125	There	_	_	_	
+12-2	1126-1128	is	_	_	_	
+12-3	1129-1130	a	_	_	_	
+12-4	1131-1136	flush	_	_	_	
+12-5	1137-1139	of	_	_	_	
+12-6	1140-1144	pink	_	_	_	
+12-7	1145-1150	cloud	_	_	_	
+12-8	1151-1155	high	_	_	_	
+12-9	1156-1158	up	_	_	_	
+12-10	1159-1161	in	_	_	_	
+12-11	1162-1165	the	_	_	_	
+12-12	1166-1169	sky	_	_	_	
+12-13	1169-1170	,	_	_	_	
+12-14	1171-1175	such	_	_	_	
+12-15	1176-1177	a	_	_	_	
+12-16	1178-1186	delicate	_	_	_	
+12-17	1187-1195	flamingo	_	_	_	
+12-18	1196-1200	pink	_	_	_	
+12-19	1201-1205	that	_	_	_	
+12-20	1206-1213	changes	_	_	_	
+12-21	1213-1214	,	_	_	_	
+12-22	1215-1222	spreads	_	_	_	
+12-23	1222-1223	,	_	_	_	
+12-24	1224-1227	and	_	_	_	
+12-25	1228-1233	fades	_	_	_	
+12-26	1234-1238	even	_	_	_	
+12-27	1239-1241	as	_	_	_	
+12-28	1242-1245	you	_	_	_	
+12-29	1246-1250	look	_	_	_	
+12-30	1250-1251	.	_	_	_	
+
+#Text=It becomes gold, and you know that at any
+#Text=
+#Text=
+#Text=
+#Text=moment the sun may nise up like a tocsin and call the world
+#Text=to work.
+13-1	1252-1254	It	_	_	_	
+13-2	1255-1262	becomes	_	_	_	
+13-3	1263-1267	gold	_	_	_	
+13-4	1267-1268	,	_	_	_	
+13-5	1269-1272	and	_	_	_	
+13-6	1273-1276	you	_	_	_	
+13-7	1277-1281	know	_	_	_	
+13-8	1282-1286	that	_	_	_	
+13-9	1287-1289	at	_	_	_	
+13-10	1290-1293	any	_	_	_	
+13-11	1297-1303	moment	_	_	_	
+13-12	1304-1307	the	_	_	_	
+13-13	1308-1311	sun	_	_	_	
+13-14	1312-1315	may	_	_	_	
+13-15	1316-1320	nise	_	_	_	
+13-16	1321-1323	up	_	_	_	
+13-17	1324-1328	like	_	_	_	
+13-18	1329-1330	a	_	_	_	
+13-19	1331-1337	tocsin	_	_	_	
+13-20	1338-1341	and	_	_	_	
+13-21	1342-1346	call	_	_	_	
+13-22	1347-1350	the	_	_	_	
+13-23	1351-1356	world	_	_	_	
+13-24	1357-1359	to	_	_	_	
+13-25	1360-1364	work	_	_	_	
+13-26	1364-1365	.	_	_	_	
+
+#Text=We found the ship.
+14-1	1368-1370	We	_	_	_	
+14-2	1371-1376	found	_	_	_	
+14-3	1377-1380	the	Location[8]	_	_	
+14-4	1381-1385	ship	Location[8]	_	_	
+14-5	1385-1386	.	_	_	_	
+
+#Text=A mountain she was, towering up above
+#Text=us with tiny holes in her side like the entrances to caves.
+15-1	1387-1388	A	_	_	_	
+15-2	1389-1397	mountain	_	_	_	
+15-3	1398-1401	she	_	_	_	
+15-4	1402-1405	was	_	_	_	
+15-5	1405-1406	,	_	_	_	
+15-6	1407-1415	towering	_	_	_	
+15-7	1416-1418	up	_	_	_	
+15-8	1419-1424	above	_	_	_	
+15-9	1425-1427	us	_	_	_	
+15-10	1428-1432	with	_	_	_	
+15-11	1433-1437	tiny	_	_	_	
+15-12	1438-1443	holes	_	_	_	
+15-13	1444-1446	in	_	_	_	
+15-14	1447-1450	her	_	_	_	
+15-15	1451-1455	side	_	_	_	
+15-16	1456-1460	like	_	_	_	
+15-17	1461-1464	the	_	_	_	
+15-18	1465-1474	entrances	_	_	_	
+15-19	1475-1477	to	_	_	_	
+15-20	1478-1483	caves	_	_	_	
+15-21	1483-1484	.	_	_	_	
+
+#Text=She
+#Text=smelt of fried fish, bacon and eggs and coffee... .
+16-1	1485-1488	She	Location	Anaphoric	14-3[8_0]	
+16-2	1489-1494	smelt	Smell\_Word	*|*|*|*	16-3[9_0]|16-7|16-9|16-11	
+16-3	1495-1497	of	Smell\_Source[9]	_	_	
+16-4	1498-1503	fried	Smell\_Source[9]	_	_	
+16-5	1504-1508	fish	Smell\_Source[9]	_	_	
+16-6	1508-1509	,	_	_	_	
+16-7	1510-1515	bacon	Smell\_Source	_	_	
+16-8	1516-1519	and	_	_	_	
+16-9	1520-1524	eggs	Smell\_Source	_	_	
+16-10	1525-1528	and	_	_	_	
+16-11	1529-1535	coffee	Smell\_Source	_	_	
+16-12	1535-1536	.	_	_	_	
+16-13	1536-1537	.	_	_	_	
+16-14	1537-1538	.	_	_	_	
+16-15	1539-1540	.	_	_	_	
+
+#Text=Soon after I was aboard I had to look the other way, for
+#Text=I had seen my friend holding a girl in his arms and I had heard
+#Text=himm Say:
+#Text=
+#Text=‘And how are you, darling?’
+17-1	1542-1546	Soon	_	_	_	
+17-2	1547-1552	after	_	_	_	
+17-3	1553-1554	I	_	_	_	
+17-4	1555-1558	was	_	_	_	
+17-5	1559-1565	aboard	_	_	_	
+17-6	1566-1567	I	_	_	_	
+17-7	1568-1571	had	_	_	_	
+17-8	1572-1574	to	_	_	_	
+17-9	1575-1579	look	_	_	_	
+17-10	1580-1583	the	_	_	_	
+17-11	1584-1589	other	_	_	_	
+17-12	1590-1593	way	_	_	_	
+17-13	1593-1594	,	_	_	_	
+17-14	1595-1598	for	_	_	_	
+17-15	1599-1600	I	_	_	_	
+17-16	1601-1604	had	_	_	_	
+17-17	1605-1609	seen	_	_	_	
+17-18	1610-1612	my	_	_	_	
+17-19	1613-1619	friend	_	_	_	
+17-20	1620-1627	holding	_	_	_	
+17-21	1628-1629	a	_	_	_	
+17-22	1630-1634	girl	_	_	_	
+17-23	1635-1637	in	_	_	_	
+17-24	1638-1641	his	_	_	_	
+17-25	1642-1646	arms	_	_	_	
+17-26	1647-1650	and	_	_	_	
+17-27	1651-1652	I	_	_	_	
+17-28	1653-1656	had	_	_	_	
+17-29	1657-1662	heard	_	_	_	
+17-30	1663-1667	himm	_	_	_	
+17-31	1668-1671	Say	_	_	_	
+17-32	1671-1672	:	_	_	_	
+17-33	1674-1675	‘	_	_	_	
+17-34	1675-1678	And	_	_	_	
+17-35	1679-1682	how	_	_	_	
+17-36	1683-1686	are	_	_	_	
+17-37	1687-1690	you	_	_	_	
+17-38	1690-1691	,	_	_	_	
+17-39	1692-1699	darling	_	_	_	
+17-40	1699-1700	?	_	_	_	
+17-41	1700-1701	’	_	_	_	
+
+#Text=‘Splendid!’
+18-1	1703-1704	‘	_	_	_	
+18-2	1704-1712	Splendid	_	_	_	
+18-3	1712-1713	!	_	_	_	
+18-4	1713-1714	’	_	_	_	
+
+#Text=she cried.
+19-1	1715-1718	she	_	_	_	
+19-2	1719-1724	cried	_	_	_	
+19-3	1724-1725	.	_	_	_	
+
+#Text=‘Let me look at you!
+20-1	1726-1727	‘	_	_	_	
+20-2	1727-1730	Let	_	_	_	
+20-3	1731-1733	me	_	_	_	
+20-4	1734-1738	look	_	_	_	
+20-5	1739-1741	at	_	_	_	
+20-6	1742-1745	you	_	_	_	
+20-7	1745-1746	!	_	_	_	

@@ -1,0 +1,352 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=320.
+1-1	0-3	320	_	_	_	
+1-2	3-4	.	_	_	_	
+
+#Text=Italian Snuffs 
+#Text= 
+#Text=Put into a mortar, or other convenient 
+#Text=vestel, a quantity of Snuff already scented 
+#Text=with some Flower, pour on it a little White 
+#Text=Wine, and add, if agreeable, some Essence 
+#Text=of Ambergrise, Musk, or any other Perfume 
+#Text=you like best ; stir the Snuff and rub it well 
+#Text=between your hands.
+2-1	5-12	Italian	_	_	_	
+2-2	13-19	Snuffs	_	_	_	
+2-3	23-26	Put	_	_	_	
+2-4	27-31	into	_	_	_	
+2-5	32-33	a	_	_	_	
+2-6	34-40	mortar	_	_	_	
+2-7	40-41	,	_	_	_	
+2-8	42-44	or	_	_	_	
+2-9	45-50	other	_	_	_	
+2-10	51-61	convenient	_	_	_	
+2-11	63-69	vestel	_	_	_	
+2-12	69-70	,	_	_	_	
+2-13	71-72	a	_	_	_	
+2-14	73-81	quantity	_	_	_	
+2-15	82-84	of	_	_	_	
+2-16	85-90	Snuff	Odour\_Carrier	_	_	
+2-17	91-98	already	_	_	_	
+2-18	99-106	scented	Smell\_Word[1]|Quality[2]	*|*|*	2-18[2_1]|2-16[0_1]|2-19[3_1]	
+2-19	108-112	with	Smell\_Source[3]	_	_	
+2-20	113-117	some	Smell\_Source[3]	_	_	
+2-21	118-124	Flower	Smell\_Source[3]	_	_	
+2-22	124-125	,	_	_	_	
+2-23	126-130	pour	_	_	_	
+2-24	131-133	on	_	_	_	
+2-25	134-136	it	_	_	_	
+2-26	137-138	a	_	_	_	
+2-27	139-145	little	_	_	_	
+2-28	146-151	White	_	_	_	
+2-29	153-157	Wine	_	_	_	
+2-30	157-158	,	_	_	_	
+2-31	159-162	and	_	_	_	
+2-32	163-166	add	_	_	_	
+2-33	166-167	,	_	_	_	
+2-34	168-170	if	_	_	_	
+2-35	171-180	agreeable	Quality	_	_	
+2-36	180-181	,	_	_	_	
+2-37	182-186	some	_	_	_	
+2-38	187-194	Essence	Smell\_Word	*|*|*	2-35|2-39[4_0]|2-42	
+2-39	196-198	of	Smell\_Source[4]	_	_	
+2-40	199-209	Ambergrise	Smell\_Source[4]	_	_	
+2-41	209-210	,	_	_	_	
+2-42	211-215	Musk	Smell\_Source	_	_	
+2-43	215-216	,	_	_	_	
+2-44	217-219	or	_	_	_	
+2-45	220-223	any	_	_	_	
+2-46	224-229	other	Quality	_	_	
+2-47	230-237	Perfume	Smell\_Word	*|*	2-48|2-46	
+2-48	239-242	you	Perceiver	_	_	
+2-49	243-247	like	_	_	_	
+2-50	248-252	best	_	_	_	
+2-51	253-254	;	_	_	_	
+2-52	255-259	stir	_	_	_	
+2-53	260-263	the	_	_	_	
+2-54	264-269	Snuff	_	_	_	
+2-55	270-273	and	_	_	_	
+2-56	274-277	rub	_	_	_	
+2-57	278-280	it	_	_	_	
+2-58	281-285	well	_	_	_	
+2-59	287-294	between	_	_	_	
+2-60	295-299	your	_	_	_	
+2-61	300-305	hands	_	_	_	
+2-62	305-306	.	_	_	_	
+
+#Text=Scent Snuff in this
+#Text=manner with any particular flavour, and put 
+#Text=the different scented Snuffs in separate boxes, 
+#Text=which are to be marked, to prevent mistakes. 
+#Text= 
+#Text=321.
+3-1	307-312	Scent	Smell\_Word	*|*	3-2|3-6[5_0]	
+3-2	313-318	Snuff	Odour\_Carrier	_	_	
+3-3	319-321	in	_	_	_	
+3-4	322-326	this	_	_	_	
+3-5	327-333	manner	_	_	_	
+3-6	334-338	with	Smell\_Source[5]	_	_	
+3-7	339-342	any	Smell\_Source[5]	_	_	
+3-8	343-353	particular	Smell\_Source[5]	_	_	
+3-9	354-361	flavour	Smell\_Source[5]	_	_	
+3-10	361-362	,	_	_	_	
+3-11	363-366	and	_	_	_	
+3-12	367-370	put	_	_	_	
+3-13	372-375	the	_	_	_	
+3-14	376-385	different	Quality	_	_	
+3-15	386-393	scented	Smell\_Word[6]|Quality[7]	*|*|*|*	3-15[7_6]|3-16[0_6]|3-14[0_6]|3-17[8_6]	
+3-16	394-400	Snuffs	Odour\_Carrier	_	_	
+3-17	401-403	in	Location[8]	_	_	
+3-18	404-412	separate	Location[8]	_	_	
+3-19	413-418	boxes	Location[8]	_	_	
+3-20	418-419	,	_	_	_	
+3-21	421-426	which	_	_	_	
+3-22	427-430	are	_	_	_	
+3-23	431-433	to	_	_	_	
+3-24	434-436	be	_	_	_	
+3-25	437-443	marked	_	_	_	
+3-26	443-444	,	_	_	_	
+3-27	445-447	to	_	_	_	
+3-28	448-455	prevent	_	_	_	
+3-29	456-464	mistakes	_	_	_	
+3-30	464-465	.	_	_	_	
+3-31	469-472	321	_	_	_	
+3-32	472-473	.	_	_	_	
+
+#Text=Snuff scented after the Spanish Manner
+#Text= 
+#Text=Take a lump of double-refined Sugar, 
+#Text=rub it in a mortar with twenty grains of  
+#Text=Musk; add by little and little a pound of 
+#Text=Snuff, and grind the whole with ten grains 
+#Text=of Civet, rubbing it afterwards well between your hands.
+4-1	474-479	Snuff	Odour\_Carrier	_	_	
+4-2	480-487	scented	Smell\_Word[9]|Quality[10]	*|*	4-2[10_9]|4-1[0_9]	
+4-3	488-493	after	_	_	_	
+4-4	494-497	the	_	_	_	
+4-5	498-505	Spanish	_	_	_	
+4-6	506-512	Manner	_	_	_	
+4-7	515-519	Take	_	_	_	
+4-8	520-521	a	_	_	_	
+4-9	522-526	lump	_	_	_	
+4-10	527-529	of	_	_	_	
+4-11	530-544	double-refined	_	_	_	
+4-12	545-550	Sugar	_	_	_	
+4-13	550-551	,	_	_	_	
+4-14	553-556	rub	_	_	_	
+4-15	557-559	it	_	_	_	
+4-16	560-562	in	_	_	_	
+4-17	563-564	a	_	_	_	
+4-18	565-571	mortar	_	_	_	
+4-19	572-576	with	_	_	_	
+4-20	577-583	twenty	_	_	_	
+4-21	584-590	grains	_	_	_	
+4-22	591-593	of	_	_	_	
+4-23	596-600	Musk	_	_	_	
+4-24	600-601	;	_	_	_	
+4-25	602-605	add	_	_	_	
+4-26	606-608	by	_	_	_	
+4-27	609-615	little	_	_	_	
+4-28	616-619	and	_	_	_	
+4-29	620-626	little	_	_	_	
+4-30	627-628	a	_	_	_	
+4-31	629-634	pound	_	_	_	
+4-32	635-637	of	_	_	_	
+4-33	639-644	Snuff	_	_	_	
+4-34	644-645	,	_	_	_	
+4-35	646-649	and	_	_	_	
+4-36	650-655	grind	_	_	_	
+4-37	656-659	the	_	_	_	
+4-38	660-665	whole	_	_	_	
+4-39	666-670	with	_	_	_	
+4-40	671-674	ten	_	_	_	
+4-41	675-681	grains	_	_	_	
+4-42	683-685	of	_	_	_	
+4-43	686-691	Civet	_	_	_	
+4-44	691-692	,	_	_	_	
+4-45	693-700	rubbing	_	_	_	
+4-46	701-703	it	_	_	_	
+4-47	704-714	afterwards	_	_	_	
+4-48	715-719	well	_	_	_	
+4-49	720-727	between	_	_	_	
+4-50	728-732	your	_	_	_	
+4-51	733-738	hands	_	_	_	
+4-52	738-739	.	_	_	_	
+
+#Text=Seville Snuff is scented with twenty 
+#Text=grains of Vanilloes only.
+5-1	742-749	Seville	_	_	_	
+5-2	750-755	Snuff	_	_	_	
+5-3	756-758	is	_	_	_	
+5-4	759-766	scented	_	_	_	
+5-5	767-771	with	_	_	_	
+5-6	772-778	twenty	_	_	_	
+5-7	780-786	grains	_	_	_	
+5-8	787-789	of	_	_	_	
+5-9	790-799	Vanilloes	_	_	_	
+5-10	800-804	only	_	_	_	
+5-11	804-805	.	_	_	_	
+
+#Text=Keep your Snuff 
+#Text=in canisters closely syopped, to prevent the 
+#Text=scent from exhaling.
+6-1	806-810	Keep	_	_	_	
+6-2	811-815	your	Perceiver	_	_	
+6-3	816-821	Snuff	Odour\_Carrier	_	_	
+6-4	823-825	in	Location[11]	_	_	
+6-5	826-835	canisters	Location[11]	_	_	
+6-6	836-843	closely	Location[11]	_	_	
+6-7	844-851	syopped	Location[11]	_	_	
+6-8	851-852	,	_	_	_	
+6-9	853-855	to	_	_	_	
+6-10	856-863	prevent	_	_	_	
+6-11	864-867	the	_	_	_	
+6-12	869-874	scent	Smell\_Word	*|*|*	6-4[11_0]|6-3|6-2	
+6-13	875-879	from	_	_	_	
+6-14	880-888	exhaling	_	_	_	
+6-15	888-889	.	_	_	_	
+
+#Text=As Spanish Snuff is very fine and of a 
+#Text=redish colour, to imitate it nicely, take 
+#Text=the best Dutch Snuff, well cleansed, granulated, and coloured red; beat it fine, 
+#Text=and sift it through a very fine lawn sieve.
+7-1	893-895	As	_	_	_	
+7-2	896-903	Spanish	_	_	_	
+7-3	904-909	Snuff	_	_	_	
+7-4	910-912	is	_	_	_	
+7-5	913-917	very	_	_	_	
+7-6	918-922	fine	_	_	_	
+7-7	923-926	and	_	_	_	
+7-8	927-929	of	_	_	_	
+7-9	930-931	a	_	_	_	
+7-10	933-939	redish	_	_	_	
+7-11	940-946	colour	_	_	_	
+7-12	946-947	,	_	_	_	
+7-13	948-950	to	_	_	_	
+7-14	951-958	imitate	_	_	_	
+7-15	959-961	it	_	_	_	
+7-16	962-968	nicely	_	_	_	
+7-17	968-969	,	_	_	_	
+7-18	970-974	take	_	_	_	
+7-19	976-979	the	Odour\_Carrier[12]	_	_	
+7-20	980-984	best	Odour\_Carrier[12]	_	_	
+7-21	985-990	Dutch	Odour\_Carrier[12]	_	_	
+7-22	991-996	Snuff	Odour\_Carrier[12]	_	_	
+7-23	996-997	,	_	_	_	
+7-24	998-1002	well	_	_	_	
+7-25	1003-1011	cleansed	_	_	_	
+7-26	1011-1012	,	_	_	_	
+7-27	1013-1023	granulated	_	_	_	
+7-28	1023-1024	,	_	_	_	
+7-29	1025-1028	and	_	_	_	
+7-30	1029-1037	coloured	_	_	_	
+7-31	1038-1041	red	_	_	_	
+7-32	1041-1042	;	_	_	_	
+7-33	1043-1047	beat	_	_	_	
+7-34	1048-1050	it	_	_	_	
+7-35	1051-1055	fine	_	_	_	
+7-36	1055-1056	,	_	_	_	
+7-37	1058-1061	and	_	_	_	
+7-38	1062-1066	sift	_	_	_	
+7-39	1067-1069	it	_	_	_	
+7-40	1070-1077	through	_	_	_	
+7-41	1078-1079	a	_	_	_	
+7-42	1080-1084	very	_	_	_	
+7-43	1085-1089	fine	_	_	_	
+7-44	1090-1094	lawn	_	_	_	
+7-45	1095-1100	sieve	_	_	_	
+7-46	1100-1101	.	_	_	_	
+
+#Text=After it has been cleansed according to the 
+#Text=foregoing directions, it is fit to take any 
+#Text=scent whatever.
+8-1	1103-1108	After	_	_	_	
+8-2	1109-1111	it	_	_	_	
+8-3	1112-1115	has	_	_	_	
+8-4	1116-1120	been	_	_	_	
+8-5	1121-1129	cleansed	_	_	_	
+8-6	1130-1139	according	_	_	_	
+8-7	1140-1142	to	_	_	_	
+8-8	1143-1146	the	_	_	_	
+8-9	1148-1157	foregoing	_	_	_	
+8-10	1158-1168	directions	_	_	_	
+8-11	1168-1169	,	_	_	_	
+8-12	1170-1172	it	Odour\_Carrier	Anaphoric	7-19[12_0]	
+8-13	1173-1175	is	_	_	_	
+8-14	1176-1179	fit	_	_	_	
+8-15	1180-1182	to	_	_	_	
+8-16	1183-1187	take	_	_	_	
+8-17	1188-1191	any	_	_	_	
+8-18	1193-1198	scent	Smell\_Word	*	8-12	
+8-19	1199-1207	whatever	_	_	_	
+8-20	1207-1208	.	_	_	_	
+
+#Text=There is no rilk in using a sieve that 
+#Text=retains the scent of any Flower, to perfume 
+#Text=your Snuff with the flavour of Musk, 
+#Text= Ambergrise, or any other Perfume.
+9-1	1212-1217	There	_	_	_	
+9-2	1218-1220	is	_	_	_	
+9-3	1221-1223	no	_	_	_	
+9-4	1224-1228	rilk	_	_	_	
+9-5	1229-1231	in	_	_	_	
+9-6	1232-1237	using	_	_	_	
+9-7	1238-1239	a	Odour\_Carrier[13]	_	_	
+9-8	1240-1245	sieve	Odour\_Carrier[13]	_	_	
+9-9	1246-1250	that	_	_	_	
+9-10	1252-1259	retains	_	_	_	
+9-11	1260-1263	the	_	_	_	
+9-12	1264-1269	scent	Smell\_Word	*|*	9-13[14_0]|9-7[13_0]	
+9-13	1270-1272	of	Smell\_Source[14]	_	_	
+9-14	1273-1276	any	Smell\_Source[14]	_	_	
+9-15	1277-1283	Flower	Smell\_Source[14]	_	_	
+9-16	1283-1284	,	_	_	_	
+9-17	1285-1287	to	_	_	_	
+9-18	1288-1295	perfume	Smell\_Word	*|*|*|*|*	9-19|9-20|9-21[15_0]|9-27|9-30[16_0]	
+9-19	1297-1301	your	Perceiver	_	_	
+9-20	1302-1307	Snuff	Odour\_Carrier	_	_	
+9-21	1308-1312	with	Smell\_Source[15]	_	_	
+9-22	1313-1316	the	Smell\_Source[15]	_	_	
+9-23	1317-1324	flavour	Smell\_Source[15]	_	_	
+9-24	1325-1327	of	Smell\_Source[15]	_	_	
+9-25	1328-1332	Musk	Smell\_Source[15]	_	_	
+9-26	1332-1333	,	_	_	_	
+9-27	1336-1346	Ambergrise	Smell\_Source	_	_	
+9-28	1346-1347	,	_	_	_	
+9-29	1348-1350	or	_	_	_	
+9-30	1351-1354	any	Smell\_Source[16]	_	_	
+9-31	1355-1360	other	Smell\_Source[16]	_	_	
+9-32	1361-1368	Perfume	Smell\_Source[16]	_	_	
+9-33	1368-1369	.	_	_	_	
+
+#Text=On 
+#Text=the contrary, the Snuff receives the Perfume the more readily, and preserves its 
+#Text=flavour the longer on that account.
+10-1	1370-1372	On	_	_	_	
+10-2	1374-1377	the	_	_	_	
+10-3	1378-1386	contrary	_	_	_	
+10-4	1386-1387	,	_	_	_	
+10-5	1388-1391	the	Odour\_Carrier[17]	_	_	
+10-6	1392-1397	Snuff	Odour\_Carrier[17]	_	_	
+10-7	1398-1406	receives	_	_	_	
+10-8	1407-1410	the	_	_	_	
+10-9	1411-1418	Perfume	Smell\_Word	*	10-5[17_0]	
+10-10	1419-1422	the	_	_	_	
+10-11	1423-1427	more	_	_	_	
+10-12	1428-1435	readily	_	_	_	
+10-13	1435-1436	,	_	_	_	
+10-14	1437-1440	and	_	_	_	
+10-15	1441-1450	preserves	_	_	_	
+10-16	1451-1454	its	_	_	_	
+10-17	1456-1463	flavour	_	_	_	
+10-18	1464-1467	the	_	_	_	
+10-19	1468-1474	longer	_	_	_	
+10-20	1475-1477	on	_	_	_	
+10-21	1478-1482	that	_	_	_	
+10-22	1483-1490	account	_	_	_	
+10-23	1490-1491	.	_	_	_	

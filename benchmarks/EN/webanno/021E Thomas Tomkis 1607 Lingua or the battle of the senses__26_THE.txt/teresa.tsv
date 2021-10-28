@@ -1,0 +1,1469 @@
+#FORMAT=WebAnno TSV 3.3
+
+
+#Text=At end whereof is placed a costly portall:
+#Text=Resembling much the figure of a drumme,
+#Text=Granting slow entrance to a priuate closet:
+#Text=Where daily with a mallet in my hand,
+#Text=I set and frame all words and sounds that come,
+#Text=Vpon an Anuile and so make them fit:
+#Text=For the pere: vinckling poore; that winding leades,
+#Text=From my close chamber to your Lordships cell.
+1-1	0-2	At	
+1-2	3-6	end	
+1-3	7-14	whereof	
+1-4	15-17	is	
+1-5	18-24	placed	
+1-6	25-26	a	
+1-7	27-33	costly	
+1-8	34-41	portall	
+1-9	41-42	:	
+1-10	43-53	Resembling	
+1-11	54-58	much	
+1-12	59-62	the	
+1-13	63-69	figure	
+1-14	70-72	of	
+1-15	73-74	a	
+1-16	75-81	drumme	
+1-17	81-82	,	
+1-18	83-91	Granting	
+1-19	92-96	slow	
+1-20	97-105	entrance	
+1-21	106-108	to	
+1-22	109-110	a	
+1-23	111-118	priuate	
+1-24	119-125	closet	
+1-25	125-126	:	
+1-26	127-132	Where	
+1-27	133-138	daily	
+1-28	139-143	with	
+1-29	144-145	a	
+1-30	146-152	mallet	
+1-31	153-155	in	
+1-32	156-158	my	
+1-33	159-163	hand	
+1-34	163-164	,	
+1-35	165-166	I	
+1-36	167-170	set	
+1-37	171-174	and	
+1-38	175-180	frame	
+1-39	181-184	all	
+1-40	185-190	words	
+1-41	191-194	and	
+1-42	195-201	sounds	
+1-43	202-206	that	
+1-44	207-211	come	
+1-45	211-212	,	
+1-46	213-217	Vpon	
+1-47	218-220	an	
+1-48	221-227	Anuile	
+1-49	228-231	and	
+1-50	232-234	so	
+1-51	235-239	make	
+1-52	240-244	them	
+1-53	245-248	fit	
+1-54	248-249	:	
+1-55	250-253	For	
+1-56	254-257	the	
+1-57	258-262	pere	
+1-58	262-263	:	
+1-59	264-273	vinckling	
+1-60	274-279	poore	
+1-61	279-280	;	
+1-62	281-285	that	
+1-63	286-293	winding	
+1-64	294-300	leades	
+1-65	300-301	,	
+1-66	302-306	From	
+1-67	307-309	my	
+1-68	310-315	close	
+1-69	316-323	chamber	
+1-70	324-326	to	
+1-71	327-331	your	
+1-72	332-341	Lordships	
+1-73	342-346	cell	
+1-74	346-347	.	
+
+#Text=Thither do I chiefe Iustice of all accents,
+#Text=Psyches next porter, Microcosmes front:
+#Text=Learnings ritch treasure, bring discipline,
+#Text=Reasons discourse, knowledge of foraigne states,
+#Text=Lowd fame of great Heroes vertuous deeds:
+#Text=The marrowe of graue speeches and the flowers:
+#Text=Of quickest Wits, neat Iests, and pure Conceits,
+#Text=And often times to ease the heauy burthen,
+#Text=Of gouernment, your Lordships shoulder beare,
+#Text=I thither do conduce the pleasing Nuptialls:
+#Text=Of sweetest iustruments with heauenly noise.
+2-1	348-355	Thither	
+2-2	356-358	do	
+2-3	359-360	I	
+2-4	361-367	chiefe	
+2-5	368-375	Iustice	
+2-6	376-378	of	
+2-7	379-382	all	
+2-8	383-390	accents	
+2-9	390-391	,	
+2-10	392-399	Psyches	
+2-11	400-404	next	
+2-12	405-411	porter	
+2-13	411-412	,	
+2-14	413-424	Microcosmes	
+2-15	425-430	front	
+2-16	430-431	:	
+2-17	432-441	Learnings	
+2-18	442-447	ritch	
+2-19	448-456	treasure	
+2-20	456-457	,	
+2-21	458-463	bring	
+2-22	464-474	discipline	
+2-23	474-475	,	
+2-24	476-483	Reasons	
+2-25	484-493	discourse	
+2-26	493-494	,	
+2-27	495-504	knowledge	
+2-28	505-507	of	
+2-29	508-516	foraigne	
+2-30	517-523	states	
+2-31	523-524	,	
+2-32	525-529	Lowd	
+2-33	530-534	fame	
+2-34	535-537	of	
+2-35	538-543	great	
+2-36	544-550	Heroes	
+2-37	551-559	vertuous	
+2-38	560-565	deeds	
+2-39	565-566	:	
+2-40	567-570	The	
+2-41	571-578	marrowe	
+2-42	579-581	of	
+2-43	582-587	graue	
+2-44	588-596	speeches	
+2-45	597-600	and	
+2-46	601-604	the	
+2-47	605-612	flowers	
+2-48	612-613	:	
+2-49	614-616	Of	
+2-50	617-625	quickest	
+2-51	626-630	Wits	
+2-52	630-631	,	
+2-53	632-636	neat	
+2-54	637-642	Iests	
+2-55	642-643	,	
+2-56	644-647	and	
+2-57	648-652	pure	
+2-58	653-661	Conceits	
+2-59	661-662	,	
+2-60	663-666	And	
+2-61	667-672	often	
+2-62	673-678	times	
+2-63	679-681	to	
+2-64	682-686	ease	
+2-65	687-690	the	
+2-66	691-696	heauy	
+2-67	697-704	burthen	
+2-68	704-705	,	
+2-69	706-708	Of	
+2-70	709-719	gouernment	
+2-71	719-720	,	
+2-72	721-725	your	
+2-73	726-735	Lordships	
+2-74	736-744	shoulder	
+2-75	745-750	beare	
+2-76	750-751	,	
+2-77	752-753	I	
+2-78	754-761	thither	
+2-79	762-764	do	
+2-80	765-772	conduce	
+2-81	773-776	the	
+2-82	777-785	pleasing	
+2-83	786-795	Nuptialls	
+2-84	795-796	:	
+2-85	797-799	Of	
+2-86	800-808	sweetest	
+2-87	809-820	iustruments	
+2-88	821-825	with	
+2-89	826-834	heauenly	
+2-90	835-840	noise	
+2-91	840-841	.	
+
+#Text=If then A•ditus, haue deseru ' d the best:
+#Text=Let him be dignified before the rest.
+3-1	842-844	If	
+3-2	845-849	then	
+3-3	850-851	A	
+3-4	851-852	•	
+3-5	852-857	ditus	
+3-6	857-858	,	
+3-7	859-863	haue	
+3-8	864-870	deseru	
+3-9	871-872	'	
+3-10	873-874	d	
+3-11	875-878	the	
+3-12	879-883	best	
+3-13	883-884	:	
+3-14	885-888	Let	
+3-15	889-892	him	
+3-16	893-895	be	
+3-17	896-905	dignified	
+3-18	906-912	before	
+3-19	913-916	the	
+3-20	917-921	rest	
+3-21	921-922	.	
+
+#Text=COM.
+4-1	923-926	COM	
+4-2	926-927	.	
+
+#Text=SEN.
+5-1	928-931	SEN	
+5-2	931-932	.	
+
+#Text=Auditus I am almost a Skepticke in this matter,
+#Text=scarce knowing which way the ballance of the cause will decline,
+#Text=when I haue heard the rest, I will dispatch iudgement, meane
+#Text=while you may depart.
+6-1	933-940	Auditus	
+6-2	941-942	I	
+6-3	943-945	am	
+6-4	946-952	almost	
+6-5	953-954	a	
+6-6	955-964	Skepticke	
+6-7	965-967	in	
+6-8	968-972	this	
+6-9	973-979	matter	
+6-10	979-980	,	
+6-11	981-987	scarce	
+6-12	988-995	knowing	
+6-13	996-1001	which	
+6-14	1002-1005	way	
+6-15	1006-1009	the	
+6-16	1010-1018	ballance	
+6-17	1019-1021	of	
+6-18	1022-1025	the	
+6-19	1026-1031	cause	
+6-20	1032-1036	will	
+6-21	1037-1044	decline	
+6-22	1044-1045	,	
+6-23	1046-1050	when	
+6-24	1051-1052	I	
+6-25	1053-1057	haue	
+6-26	1058-1063	heard	
+6-27	1064-1067	the	
+6-28	1068-1072	rest	
+6-29	1072-1073	,	
+6-30	1074-1075	I	
+6-31	1076-1080	will	
+6-32	1081-1089	dispatch	
+6-33	1090-1099	iudgement	
+6-34	1099-1100	,	
+6-35	1101-1106	meane	
+6-36	1107-1112	while	
+6-37	1113-1116	you	
+6-38	1117-1120	may	
+6-39	1121-1127	depart	
+6-40	1127-1128	.	
+
+#Text=Auditus leads his showe about the stage, and then goes out.
+7-1	1130-1137	Auditus	
+7-2	1138-1143	leads	
+7-3	1144-1147	his	
+7-4	1148-1153	showe	
+7-5	1154-1159	about	
+7-6	1160-1163	the	
+7-7	1164-1169	stage	
+7-8	1169-1170	,	
+7-9	1171-1174	and	
+7-10	1175-1179	then	
+7-11	1180-1184	goes	
+7-12	1185-1188	out	
+7-13	1188-1189	.	
+
+#Text=ACTVS. 4.
+8-1	1190-1195	ACTVS	
+8-2	1195-1196	.	
+8-3	1197-1198	4	
+8-4	1198-1199	.	
+
+#Text=SCENA. 3.
+9-1	1200-1205	SCENA	
+9-2	1205-1206	.	
+9-3	1207-1208	3	
+9-4	1208-1209	.	
+
+#Text=COMMVNIS SENSVS, Memoria, Phantastes, Anamnestes, Heuresis as before, Olfactus in a garland of seuerall flowers, a page before him, bearing his target, his field vert, around argent, two Boyes with casting bottells, and two with censors with incense, another with a veluet cushion stuck with slowers, an other with a basket of hearbes, an other with a box of Oyntment, Olfactus leads them about, and making obeysance presents them before the bench.
+10-1	1210-1218	COMMVNIS	
+10-2	1219-1225	SENSVS	
+10-3	1225-1226	,	
+10-4	1227-1234	Memoria	
+10-5	1234-1235	,	
+10-6	1236-1246	Phantastes	
+10-7	1246-1247	,	
+10-8	1248-1258	Anamnestes	
+10-9	1258-1259	,	
+10-10	1260-1268	Heuresis	
+10-11	1269-1271	as	
+10-12	1272-1278	before	
+10-13	1278-1279	,	
+10-14	1280-1288	Olfactus	
+10-15	1289-1291	in	
+10-16	1292-1293	a	
+10-17	1294-1301	garland	
+10-18	1302-1304	of	
+10-19	1305-1313	seuerall	
+10-20	1314-1321	flowers	
+10-21	1321-1322	,	
+10-22	1323-1324	a	
+10-23	1325-1329	page	
+10-24	1330-1336	before	
+10-25	1337-1340	him	
+10-26	1340-1341	,	
+10-27	1342-1349	bearing	
+10-28	1350-1353	his	
+10-29	1354-1360	target	
+10-30	1360-1361	,	
+10-31	1362-1365	his	
+10-32	1366-1371	field	
+10-33	1372-1376	vert	
+10-34	1376-1377	,	
+10-35	1378-1384	around	
+10-36	1385-1391	argent	
+10-37	1391-1392	,	
+10-38	1393-1396	two	
+10-39	1397-1402	Boyes	
+10-40	1403-1407	with	
+10-41	1408-1415	casting	
+10-42	1416-1424	bottells	
+10-43	1424-1425	,	
+10-44	1426-1429	and	
+10-45	1430-1433	two	
+10-46	1434-1438	with	
+10-47	1439-1446	censors	
+10-48	1447-1451	with	
+10-49	1452-1459	incense	
+10-50	1459-1460	,	
+10-51	1461-1468	another	
+10-52	1469-1473	with	
+10-53	1474-1475	a	
+10-54	1476-1482	veluet	
+10-55	1483-1490	cushion	
+10-56	1491-1496	stuck	
+10-57	1497-1501	with	
+10-58	1502-1509	slowers	
+10-59	1509-1510	,	
+10-60	1511-1513	an	
+10-61	1514-1519	other	
+10-62	1520-1524	with	
+10-63	1525-1526	a	
+10-64	1527-1533	basket	
+10-65	1534-1536	of	
+10-66	1537-1544	hearbes	
+10-67	1544-1545	,	
+10-68	1546-1548	an	
+10-69	1549-1554	other	
+10-70	1555-1559	with	
+10-71	1560-1561	a	
+10-72	1562-1565	box	
+10-73	1566-1568	of	
+10-74	1569-1577	Oyntment	
+10-75	1577-1578	,	
+10-76	1579-1587	Olfactus	
+10-77	1588-1593	leads	
+10-78	1594-1598	them	
+10-79	1599-1604	about	
+10-80	1604-1605	,	
+10-81	1606-1609	and	
+10-82	1610-1616	making	
+10-83	1617-1626	obeysance	
+10-84	1627-1635	presents	
+10-85	1636-1640	them	
+10-86	1641-1647	before	
+10-87	1648-1651	the	
+10-88	1652-1657	bench	
+10-89	1657-1658	.	
+
+#Text=I.
+11-1	1659-1660	I	
+11-2	1660-1661	.	
+
+#Text=BOY.
+12-1	1662-1665	BOY	
+12-2	1665-1666	.	
+
+#Text=Your onely way to make a good pomander, is this,
+#Text=take an ownce of the purest garden mould, clensed and steeped
+#Text=seauen daies in change of motherlesse rose water, then
+#Text=take the best Labdanum, Benioine, both Storaxes, amber
+#Text=greece, and Ciuet, and mus ke, incorporate them together, and
+#Text=work them into what forme you please, this if your breath bee
+#Text=not to valiant, will make you smell as sweete as my Ladies
+#Text=dogge.
+13-1	1667-1671	Your	
+13-2	1672-1677	onely	
+13-3	1678-1681	way	
+13-4	1682-1684	to	
+13-5	1685-1689	make	
+13-6	1690-1691	a	
+13-7	1692-1696	good	
+13-8	1697-1705	pomander	
+13-9	1705-1706	,	
+13-10	1707-1709	is	
+13-11	1710-1714	this	
+13-12	1714-1715	,	
+13-13	1716-1720	take	
+13-14	1721-1723	an	
+13-15	1724-1729	ownce	
+13-16	1730-1732	of	
+13-17	1733-1736	the	
+13-18	1737-1743	purest	
+13-19	1744-1750	garden	
+13-20	1751-1756	mould	
+13-21	1756-1757	,	
+13-22	1758-1765	clensed	
+13-23	1766-1769	and	
+13-24	1770-1777	steeped	
+13-25	1778-1784	seauen	
+13-26	1785-1790	daies	
+13-27	1791-1793	in	
+13-28	1794-1800	change	
+13-29	1801-1803	of	
+13-30	1804-1815	motherlesse	
+13-31	1816-1820	rose	
+13-32	1821-1826	water	
+13-33	1826-1827	,	
+13-34	1828-1832	then	
+13-35	1833-1837	take	
+13-36	1838-1841	the	
+13-37	1842-1846	best	
+13-38	1847-1855	Labdanum	
+13-39	1855-1856	,	
+13-40	1857-1865	Benioine	
+13-41	1865-1866	,	
+13-42	1867-1871	both	
+13-43	1872-1880	Storaxes	
+13-44	1880-1881	,	
+13-45	1882-1887	amber	
+13-46	1888-1894	greece	
+13-47	1894-1895	,	
+13-48	1896-1899	and	
+13-49	1900-1905	Ciuet	
+13-50	1905-1906	,	
+13-51	1907-1910	and	
+13-52	1911-1914	mus	
+13-53	1915-1917	ke	
+13-54	1917-1918	,	
+13-55	1919-1930	incorporate	
+13-56	1931-1935	them	
+13-57	1936-1944	together	
+13-58	1944-1945	,	
+13-59	1946-1949	and	
+13-60	1950-1954	work	
+13-61	1955-1959	them	
+13-62	1960-1964	into	
+13-63	1965-1969	what	
+13-64	1970-1975	forme	
+13-65	1976-1979	you	
+13-66	1980-1986	please	
+13-67	1986-1987	,	
+13-68	1988-1992	this	
+13-69	1993-1995	if	
+13-70	1996-2000	your	
+13-71	2001-2007	breath	
+13-72	2008-2011	bee	
+13-73	2012-2015	not	
+13-74	2016-2018	to	
+13-75	2019-2026	valiant	
+13-76	2026-2027	,	
+13-77	2028-2032	will	
+13-78	2033-2037	make	
+13-79	2038-2041	you	
+13-80	2042-2047	smell	
+13-81	2048-2050	as	
+13-82	2051-2057	sweete	
+13-83	2058-2060	as	
+13-84	2061-2063	my	
+13-85	2064-2070	Ladies	
+13-86	2071-2076	dogge	
+13-87	2076-2077	.	
+
+#Text=PHA.
+14-1	2079-2082	PHA	
+14-2	2082-2083	.	
+
+#Text=This Boy it should seeme represents Odor, hee is so
+#Text=perfect a persumer.
+15-1	2084-2088	This	
+15-2	2089-2092	Boy	
+15-3	2093-2095	it	
+15-4	2096-2102	should	
+15-5	2103-2108	seeme	
+15-6	2109-2119	represents	
+15-7	2120-2124	Odor	
+15-8	2124-2125	,	
+15-9	2126-2129	hee	
+15-10	2130-2132	is	
+15-11	2133-2135	so	
+15-12	2136-2143	perfect	
+15-13	2144-2145	a	
+15-14	2146-2154	persumer	
+15-15	2154-2155	.	
+
+#Text=ODOR.
+16-1	2157-2161	ODOR	
+16-2	2161-2162	.	
+
+#Text=I do my Lord, and haue at my command,
+#Text=The smell of flowers, and Odoriferous drugs,
+#Text=Of oyntments sweete, and excellent perfumes,
+#Text=And Court-like waters, which if once you smell,
+#Text=You in your heart would wish as I suppose:
+#Text=That all your Body were transsformed to Nose.
+17-1	2163-2164	I	
+17-2	2165-2167	do	
+17-3	2168-2170	my	
+17-4	2171-2175	Lord	
+17-5	2175-2176	,	
+17-6	2177-2180	and	
+17-7	2181-2185	haue	
+17-8	2186-2188	at	
+17-9	2189-2191	my	
+17-10	2192-2199	command	
+17-11	2199-2200	,	
+17-12	2201-2204	The	
+17-13	2205-2210	smell	
+17-14	2211-2213	of	
+17-15	2214-2221	flowers	
+17-16	2221-2222	,	
+17-17	2223-2226	and	
+17-18	2227-2238	Odoriferous	
+17-19	2239-2244	drugs	
+17-20	2244-2245	,	
+17-21	2246-2248	Of	
+17-22	2249-2258	oyntments	
+17-23	2259-2265	sweete	
+17-24	2265-2266	,	
+17-25	2267-2270	and	
+17-26	2271-2280	excellent	
+17-27	2281-2289	perfumes	
+17-28	2289-2290	,	
+17-29	2291-2294	And	
+17-30	2295-2305	Court-like	
+17-31	2306-2312	waters	
+17-32	2312-2313	,	
+17-33	2314-2319	which	
+17-34	2320-2322	if	
+17-35	2323-2327	once	
+17-36	2328-2331	you	
+17-37	2332-2337	smell	
+17-38	2337-2338	,	
+17-39	2339-2342	You	
+17-40	2343-2345	in	
+17-41	2346-2350	your	
+17-42	2351-2356	heart	
+17-43	2357-2362	would	
+17-44	2363-2367	wish	
+17-45	2368-2370	as	
+17-46	2371-2372	I	
+17-47	2373-2380	suppose	
+17-48	2380-2381	:	
+17-49	2382-2386	That	
+17-50	2387-2390	all	
+17-51	2391-2395	your	
+17-52	2396-2400	Body	
+17-53	2401-2405	were	
+17-54	2406-2418	transsformed	
+17-55	2419-2421	to	
+17-56	2422-2426	Nose	
+17-57	2426-2427	.	
+
+#Text=PHA.
+18-1	2428-2431	PHA	
+18-2	2431-2432	.	
+
+#Text=Olfactus of all the Senses, your obiects haue the worst
+#Text=luck, they are alwaies iarring with their contraries, for none
+#Text=can weare Ciuet, but they are suspected of a proper badde
+#Text=sent, where the prouerbe springs, hee smelleth best, that doth of
+#Text=nothing smell.
+19-1	2433-2441	Olfactus	
+19-2	2442-2444	of	
+19-3	2445-2448	all	
+19-4	2449-2452	the	
+19-5	2453-2459	Senses	
+19-6	2459-2460	,	
+19-7	2461-2465	your	
+19-8	2466-2473	obiects	
+19-9	2474-2478	haue	
+19-10	2479-2482	the	
+19-11	2483-2488	worst	
+19-12	2489-2493	luck	
+19-13	2493-2494	,	
+19-14	2495-2499	they	
+19-15	2500-2503	are	
+19-16	2504-2511	alwaies	
+19-17	2512-2519	iarring	
+19-18	2520-2524	with	
+19-19	2525-2530	their	
+19-20	2531-2541	contraries	
+19-21	2541-2542	,	
+19-22	2543-2546	for	
+19-23	2547-2551	none	
+19-24	2552-2555	can	
+19-25	2556-2561	weare	
+19-26	2562-2567	Ciuet	
+19-27	2567-2568	,	
+19-28	2569-2572	but	
+19-29	2573-2577	they	
+19-30	2578-2581	are	
+19-31	2582-2591	suspected	
+19-32	2592-2594	of	
+19-33	2595-2596	a	
+19-34	2597-2603	proper	
+19-35	2604-2609	badde	
+19-36	2610-2614	sent	
+19-37	2614-2615	,	
+19-38	2616-2621	where	
+19-39	2622-2625	the	
+19-40	2626-2634	prouerbe	
+19-41	2635-2642	springs	
+19-42	2642-2643	,	
+19-43	2644-2647	hee	
+19-44	2648-2656	smelleth	
+19-45	2657-2661	best	
+19-46	2661-2662	,	
+19-47	2663-2667	that	
+19-48	2668-2672	doth	
+19-49	2673-2675	of	
+19-50	2676-2683	nothing	
+19-51	2684-2689	smell	
+19-52	2689-2690	.	
+
+#Text=ACT. 4.
+20-1	2692-2695	ACT	
+20-2	2695-2696	.	
+20-3	2697-2698	4	
+20-4	2698-2699	.	
+
+#Text=SCENA 4.
+21-1	2700-2705	SCENA	
+21-2	2706-2707	4	
+21-3	2707-2708	.	
+
+#Text=The bench and Olfactus as before, Tobacco apparelled in a taffata mantle, his armes browne and naked, buskins made of the pilling of Osiers, his necke bare, hung with Indian leanes, his face browne painted with blewe stripes, in his nose swines teeth, on his head a painted wicker crowne, with Tobacco pipes set in it, •lumes of Tobacco leaues, lead by two Indian boyes naked, with tapers in their hands, Tobacco boxes and pipes lighted.
+22-1	2709-2712	The	
+22-2	2713-2718	bench	
+22-3	2719-2722	and	
+22-4	2723-2731	Olfactus	
+22-5	2732-2734	as	
+22-6	2735-2741	before	
+22-7	2741-2742	,	
+22-8	2743-2750	Tobacco	
+22-9	2751-2761	apparelled	
+22-10	2762-2764	in	
+22-11	2765-2766	a	
+22-12	2767-2774	taffata	
+22-13	2775-2781	mantle	
+22-14	2781-2782	,	
+22-15	2783-2786	his	
+22-16	2787-2792	armes	
+22-17	2793-2799	browne	
+22-18	2800-2803	and	
+22-19	2804-2809	naked	
+22-20	2809-2810	,	
+22-21	2811-2818	buskins	
+22-22	2819-2823	made	
+22-23	2824-2826	of	
+22-24	2827-2830	the	
+22-25	2831-2838	pilling	
+22-26	2839-2841	of	
+22-27	2842-2848	Osiers	
+22-28	2848-2849	,	
+22-29	2850-2853	his	
+22-30	2854-2859	necke	
+22-31	2860-2864	bare	
+22-32	2864-2865	,	
+22-33	2866-2870	hung	
+22-34	2871-2875	with	
+22-35	2876-2882	Indian	
+22-36	2883-2889	leanes	
+22-37	2889-2890	,	
+22-38	2891-2894	his	
+22-39	2895-2899	face	
+22-40	2900-2906	browne	
+22-41	2907-2914	painted	
+22-42	2915-2919	with	
+22-43	2920-2925	blewe	
+22-44	2926-2933	stripes	
+22-45	2933-2934	,	
+22-46	2935-2937	in	
+22-47	2938-2941	his	
+22-48	2942-2946	nose	
+22-49	2947-2953	swines	
+22-50	2954-2959	teeth	
+22-51	2959-2960	,	
+22-52	2961-2963	on	
+22-53	2964-2967	his	
+22-54	2968-2972	head	
+22-55	2973-2974	a	
+22-56	2975-2982	painted	
+22-57	2983-2989	wicker	
+22-58	2990-2996	crowne	
+22-59	2996-2997	,	
+22-60	2998-3002	with	
+22-61	3003-3010	Tobacco	
+22-62	3011-3016	pipes	
+22-63	3017-3020	set	
+22-64	3021-3023	in	
+22-65	3024-3026	it	
+22-66	3026-3027	,	
+22-67	3028-3029	•	
+22-68	3029-3034	lumes	
+22-69	3035-3037	of	
+22-70	3038-3045	Tobacco	
+22-71	3046-3052	leaues	
+22-72	3052-3053	,	
+22-73	3054-3058	lead	
+22-74	3059-3061	by	
+22-75	3062-3065	two	
+22-76	3066-3072	Indian	
+22-77	3073-3078	boyes	
+22-78	3079-3084	naked	
+22-79	3084-3085	,	
+22-80	3086-3090	with	
+22-81	3091-3097	tapers	
+22-82	3098-3100	in	
+22-83	3101-3106	their	
+22-84	3107-3112	hands	
+22-85	3112-3113	,	
+22-86	3114-3121	Tobacco	
+22-87	3122-3127	boxes	
+22-88	3128-3131	and	
+22-89	3132-3137	pipes	
+22-90	3138-3145	lighted	
+22-91	3145-3146	.	
+
+#Text=PHA.
+23-1	3147-3150	PHA	
+23-2	3150-3151	.	
+
+#Text=Foh, foh, what a smell is heare?
+24-1	3152-3155	Foh	
+24-2	3155-3156	,	
+24-3	3157-3160	foh	
+24-4	3160-3161	,	
+24-5	3162-3166	what	
+24-6	3167-3168	a	
+24-7	3169-3174	smell	
+24-8	3175-3177	is	
+24-9	3178-3183	heare	
+24-10	3183-3184	?	
+
+#Text=is this one of your delightfull
+#Text=obiects?
+25-1	3185-3187	is	
+25-2	3188-3192	this	
+25-3	3193-3196	one	
+25-4	3197-3199	of	
+25-5	3200-3204	your	
+25-6	3205-3216	delightfull	
+25-7	3217-3224	obiects	
+25-8	3224-3225	?	
+
+#Text=OLF.
+26-1	3227-3230	OLF	
+26-2	3230-3231	.	
+
+#Text=It is your onely sent in request Sir.
+27-1	3232-3234	It	
+27-2	3235-3237	is	
+27-3	3238-3242	your	
+27-4	3243-3248	onely	
+27-5	3249-3253	sent	
+27-6	3254-3256	in	
+27-7	3257-3264	request	
+27-8	3265-3268	Sir	
+27-9	3268-3269	.	
+
+#Text=COM.
+28-1	3271-3274	COM	
+28-2	3274-3275	.	
+
+#Text=SEN.
+29-1	3276-3279	SEN	
+29-2	3279-3280	.	
+
+#Text=What fiery fellow is that, which smokes so
+#Text=much in the mouth?
+30-1	3281-3285	What	
+30-2	3286-3291	fiery	
+30-3	3292-3298	fellow	
+30-4	3299-3301	is	
+30-5	3302-3306	that	
+30-6	3306-3307	,	
+30-7	3308-3313	which	
+30-8	3314-3320	smokes	
+30-9	3321-3323	so	
+30-10	3324-3328	much	
+30-11	3329-3331	in	
+30-12	3332-3335	the	
+30-13	3336-3341	mouth	
+30-14	3341-3342	?	
+
+#Text=OLF.
+31-1	3344-3347	OLF	
+31-2	3347-3348	.	
+
+#Text=It is the great and puissant God of Tobacco.
+32-1	3349-3351	It	
+32-2	3352-3354	is	
+32-3	3355-3358	the	
+32-4	3359-3364	great	
+32-5	3365-3368	and	
+32-6	3369-3377	puissant	
+32-7	3378-3381	God	
+32-8	3382-3384	of	
+32-9	3385-3392	Tobacco	
+32-10	3392-3393	.	
+
+#Text=TOB.
+33-1	3395-3398	TOB	
+33-2	3398-3399	.	
+
+#Text=Ladoch guevarroh pusuer shelvar baggon,
+#Text=Olfia di quanon, Indi cortilo uraggon.
+34-1	3400-3406	Ladoch	
+34-2	3407-3416	guevarroh	
+34-3	3417-3423	pusuer	
+34-4	3424-3431	shelvar	
+34-5	3432-3438	baggon	
+34-6	3438-3439	,	
+34-7	3440-3445	Olfia	
+34-8	3446-3448	di	
+34-9	3449-3455	quanon	
+34-10	3455-3456	,	
+34-11	3457-3461	Indi	
+34-12	3462-3469	cortilo	
+34-13	3470-3477	uraggon	
+34-14	3477-3478	.	
+
+#Text=PHA.
+35-1	3480-3483	PHA	
+35-2	3483-3484	.	
+
+#Text=Ha, ha, ha, ha, this in my opinion is the tongue of the Antipodes.
+36-1	3485-3487	Ha	
+36-2	3487-3488	,	
+36-3	3489-3491	ha	
+36-4	3491-3492	,	
+36-5	3493-3495	ha	
+36-6	3495-3496	,	
+36-7	3497-3499	ha	
+36-8	3499-3500	,	
+36-9	3501-3505	this	
+36-10	3506-3508	in	
+36-11	3509-3511	my	
+36-12	3512-3519	opinion	
+36-13	3520-3522	is	
+36-14	3523-3526	the	
+36-15	3527-3533	tongue	
+36-16	3534-3536	of	
+36-17	3537-3540	the	
+36-18	3541-3550	Antipodes	
+36-19	3550-3551	.	
+
+#Text=MEM,
+#Text=No I remember it very well, it was the language the
+#Text=Arcadians spake, that siued long before the Moon.
+37-1	3553-3556	MEM	
+37-2	3556-3557	,	
+37-3	3558-3560	No	
+37-4	3561-3562	I	
+37-5	3563-3571	remember	
+37-6	3572-3574	it	
+37-7	3575-3579	very	
+37-8	3580-3584	well	
+37-9	3584-3585	,	
+37-10	3586-3588	it	
+37-11	3589-3592	was	
+37-12	3593-3596	the	
+37-13	3597-3605	language	
+37-14	3606-3609	the	
+37-15	3610-3619	Arcadians	
+37-16	3620-3625	spake	
+37-17	3625-3626	,	
+37-18	3627-3631	that	
+37-19	3632-3637	siued	
+37-20	3638-3642	long	
+37-21	3643-3649	before	
+37-22	3650-3653	the	
+37-23	3654-3658	Moon	
+37-24	3658-3659	.	
+
+#Text=COM.
+38-1	3660-3663	COM	
+38-2	3663-3664	.	
+
+#Text=SEN.
+39-1	3665-3668	SEN	
+39-2	3668-3669	.	
+
+#Text=What signifies it Olfactus?
+40-1	3670-3674	What	
+40-2	3675-3684	signifies	
+40-3	3685-3687	it	
+40-4	3688-3696	Olfactus	
+40-5	3696-3697	?	
+
+#Text=OLF.
+41-1	3698-3701	OLF	
+41-2	3701-3702	.	
+
+#Text=This is the mighty Emperour Tobacco, King of Trinidado,
+#Text=that in being conquered, conquered all Europe, in making
+#Text=them pay tribute for their smoake.
+42-1	3703-3707	This	
+42-2	3708-3710	is	
+42-3	3711-3714	the	
+42-4	3715-3721	mighty	
+42-5	3722-3730	Emperour	
+42-6	3731-3738	Tobacco	
+42-7	3738-3739	,	
+42-8	3740-3744	King	
+42-9	3745-3747	of	
+42-10	3748-3757	Trinidado	
+42-11	3757-3758	,	
+42-12	3759-3763	that	
+42-13	3764-3766	in	
+42-14	3767-3772	being	
+42-15	3773-3782	conquered	
+42-16	3782-3783	,	
+42-17	3784-3793	conquered	
+42-18	3794-3797	all	
+42-19	3798-3804	Europe	
+42-20	3804-3805	,	
+42-21	3806-3808	in	
+42-22	3809-3815	making	
+42-23	3816-3820	them	
+42-24	3821-3824	pay	
+42-25	3825-3832	tribute	
+42-26	3833-3836	for	
+42-27	3837-3842	their	
+42-28	3843-3849	smoake	
+42-29	3849-3850	.	
+
+#Text=TOB.
+43-1	3852-3855	TOB	
+43-2	3855-3856	.	
+
+#Text=Erfronge inglues conde hifinge,
+#Text=Develin floscoth ma pu cocthinge.
+44-1	3857-3865	Erfronge	
+44-2	3866-3873	inglues	
+44-3	3874-3879	conde	
+44-4	3880-3887	hifinge	
+44-5	3887-3888	,	
+44-6	3889-3896	Develin	
+44-7	3897-3905	floscoth	
+44-8	3906-3908	ma	
+44-9	3909-3911	pu	
+44-10	3912-3921	cocthinge	
+44-11	3921-3922	.	
+
+#Text=OLF.
+45-1	3923-3926	OLF	
+45-2	3926-3927	.	
+
+#Text=Expeller of Catarhes, banisher of all agues, your guts
+#Text=onely salue for the green wounds of a non plus.
+46-1	3928-3936	Expeller	
+46-2	3937-3939	of	
+46-3	3940-3948	Catarhes	
+46-4	3948-3949	,	
+46-5	3950-3958	banisher	
+46-6	3959-3961	of	
+46-7	3962-3965	all	
+46-8	3966-3971	agues	
+46-9	3971-3972	,	
+46-10	3973-3977	your	
+46-11	3978-3982	guts	
+46-12	3983-3988	onely	
+46-13	3989-3994	salue	
+46-14	3995-3998	for	
+46-15	3999-4002	the	
+46-16	4003-4008	green	
+46-17	4009-4015	wounds	
+46-18	4016-4018	of	
+46-19	4019-4020	a	
+46-20	4021-4024	non	
+46-21	4025-4029	plus	
+46-22	4029-4030	.	
+
+#Text=TOB.
+47-1	4032-4035	TOB	
+47-2	4035-4036	.	
+
+#Text=Alvulcam vercu, I parda poraside gratam, kafamala
+#Text=mara, che Bau•o respartera, quirara?
+48-1	4038-4046	Alvulcam	
+48-2	4047-4052	vercu	
+48-3	4052-4053	,	
+48-4	4054-4055	I	
+48-5	4056-4061	parda	
+48-6	4062-4070	poraside	
+48-7	4071-4077	gratam	
+48-8	4077-4078	,	
+48-9	4079-4087	kafamala	
+48-10	4088-4092	mara	
+48-11	4092-4093	,	
+48-12	4094-4097	che	
+48-13	4098-4101	Bau	
+48-14	4101-4102	•	
+48-15	4102-4103	o	
+48-16	4104-4114	respartera	
+48-17	4114-4115	,	
+48-18	4116-4123	quirara	
+48-19	4123-4124	?	
+
+#Text=OLF.
+49-1	4126-4129	OLF	
+49-2	4129-4130	.	
+
+#Text=Sonne to the God Vulcan, and Tellus, kinne to the father
+#Text=of Myrth, called Bacchiu?
+50-1	4131-4136	Sonne	
+50-2	4137-4139	to	
+50-3	4140-4143	the	
+50-4	4144-4147	God	
+50-5	4148-4154	Vulcan	
+50-6	4154-4155	,	
+50-7	4156-4159	and	
+50-8	4160-4166	Tellus	
+50-9	4166-4167	,	
+50-10	4168-4173	kinne	
+50-11	4174-4176	to	
+50-12	4177-4180	the	
+50-13	4181-4187	father	
+50-14	4188-4190	of	
+50-15	4191-4196	Myrth	
+50-16	4196-4197	,	
+50-17	4198-4204	called	
+50-18	4205-4212	Bacchiu	
+50-19	4212-4213	?	
+
+#Text=TOB.
+51-1	4215-4218	TOB	
+51-2	4218-4219	.	
+
+#Text=Viscardonok, pillostuphe, pascano •inaromagas,
+#Text=Pagidagon stollisinfe, carociba•o scribas.
+52-1	4220-4231	Viscardonok	
+52-2	4231-4232	,	
+52-3	4233-4244	pillostuphe	
+52-4	4244-4245	,	
+52-5	4246-4253	pascano	
+52-6	4254-4255	•	
+52-7	4255-4265	inaromagas	
+52-8	4265-4266	,	
+52-9	4267-4276	Pagidagon	
+52-10	4277-4288	stollisinfe	
+52-11	4288-4289	,	
+52-12	4290-4298	carociba	
+52-13	4298-4299	•	
+52-14	4299-4300	o	
+52-15	4301-4308	scribas	
+52-16	4308-4309	.	
+
+#Text=OLF.
+53-1	4310-4313	OLF	
+53-2	4313-4314	.	
+
+#Text=Genius of all Swaggerers, profest enemy to Physitions,
+#Text=sweete ointment for sowre teeth, firme knot of good fellowship,
+#Text=Adamant of Company, switt winde, to spred the
+#Text=wings of Time, hated of none, but those that know him not,
+#Text=and of so great deserts, that who so is acquainted with him,
+#Text=can hardly forsake him.
+54-1	4315-4321	Genius	
+54-2	4322-4324	of	
+54-3	4325-4328	all	
+54-4	4329-4339	Swaggerers	
+54-5	4339-4340	,	
+54-6	4341-4348	profest	
+54-7	4349-4354	enemy	
+54-8	4355-4357	to	
+54-9	4358-4368	Physitions	
+54-10	4368-4369	,	
+54-11	4370-4376	sweete	
+54-12	4377-4385	ointment	
+54-13	4386-4389	for	
+54-14	4390-4395	sowre	
+54-15	4396-4401	teeth	
+54-16	4401-4402	,	
+54-17	4403-4408	firme	
+54-18	4409-4413	knot	
+54-19	4414-4416	of	
+54-20	4417-4421	good	
+54-21	4422-4432	fellowship	
+54-22	4432-4433	,	
+54-23	4434-4441	Adamant	
+54-24	4442-4444	of	
+54-25	4445-4452	Company	
+54-26	4452-4453	,	
+54-27	4454-4459	switt	
+54-28	4460-4465	winde	
+54-29	4465-4466	,	
+54-30	4467-4469	to	
+54-31	4470-4475	spred	
+54-32	4476-4479	the	
+54-33	4480-4485	wings	
+54-34	4486-4488	of	
+54-35	4489-4493	Time	
+54-36	4493-4494	,	
+54-37	4495-4500	hated	
+54-38	4501-4503	of	
+54-39	4504-4508	none	
+54-40	4508-4509	,	
+54-41	4510-4513	but	
+54-42	4514-4519	those	
+54-43	4520-4524	that	
+54-44	4525-4529	know	
+54-45	4530-4533	him	
+54-46	4534-4537	not	
+54-47	4537-4538	,	
+54-48	4539-4542	and	
+54-49	4543-4545	of	
+54-50	4546-4548	so	
+54-51	4549-4554	great	
+54-52	4555-4562	deserts	
+54-53	4562-4563	,	
+54-54	4564-4568	that	
+54-55	4569-4572	who	
+54-56	4573-4575	so	
+54-57	4576-4578	is	
+54-58	4579-4589	acquainted	
+54-59	4590-4594	with	
+54-60	4595-4598	him	
+54-61	4598-4599	,	
+54-62	4600-4603	can	
+54-63	4604-4610	hardly	
+54-64	4611-4618	forsake	
+54-65	4619-4622	him	
+54-66	4622-4623	.	
+
+#Text=PHA.
+55-1	4625-4628	PHA	
+55-2	4628-4629	.	
+
+#Text=It seemes these last words were very significant, I
+#Text=promise you a God of great denomination, he may be my Lord
+#Text=Tappes for his large Titles.
+56-1	4630-4632	It	
+56-2	4633-4639	seemes	
+56-3	4640-4645	these	
+56-4	4646-4650	last	
+56-5	4651-4656	words	
+56-6	4657-4661	were	
+56-7	4662-4666	very	
+56-8	4667-4678	significant	
+56-9	4678-4679	,	
+56-10	4680-4681	I	
+56-11	4682-4689	promise	
+56-12	4690-4693	you	
+56-13	4694-4695	a	
+56-14	4696-4699	God	
+56-15	4700-4702	of	
+56-16	4703-4708	great	
+56-17	4709-4721	denomination	
+56-18	4721-4722	,	
+56-19	4723-4725	he	
+56-20	4726-4729	may	
+56-21	4730-4732	be	
+56-22	4733-4735	my	
+56-23	4736-4740	Lord	
+56-24	4741-4747	Tappes	
+56-25	4748-4751	for	
+56-26	4752-4755	his	
+56-27	4756-4761	large	
+56-28	4762-4768	Titles	
+56-29	4768-4769	.	
+
+#Text=COM.
+57-1	4771-4774	COM	
+57-2	4774-4775	.	
+
+#Text=SEN.
+58-1	4776-4779	SEN	
+58-2	4779-4780	.	
+
+#Text=But forward Olfactus, as they haue done before
+#Text=you, with your discription
+#Text=
+#Text=OLF.
+#Text=lust in the mid ' st of Cephalons round face
+#Text=As  ' twere a frontis-spice vnto the hill,
+#Text=Olfactus lodging built in figure long,
+#Text=Doubly dis-parted with two precious vaults,
+#Text=The rootes whereof most richly are inclos ' d,
+#Text=With Orient Pearles, and sparkling Diamonds:
+#Text=Beset at the end with Emerauds and Turchois,
+#Text=And Rubies red, and flaming Crisolits,
+#Text=At vpper end whereof in costly manner,
+#Text=I lay my head betweene two spungeous pillowes,
+#Text=Like faire Adonis twixt the paps of Venus,
+#Text=Where I conducting in and out the wind,
+#Text=Daily examine all the ayre inspir ' d.
+59-1	4781-4784	But	
+59-2	4785-4792	forward	
+59-3	4793-4801	Olfactus	
+59-4	4801-4802	,	
+59-5	4803-4805	as	
+59-6	4806-4810	they	
+59-7	4811-4815	haue	
+59-8	4816-4820	done	
+59-9	4821-4827	before	
+59-10	4828-4831	you	
+59-11	4831-4832	,	
+59-12	4833-4837	with	
+59-13	4838-4842	your	
+59-14	4843-4854	discription	
+59-15	4856-4859	OLF	
+59-16	4859-4860	.	
+59-17	4861-4865	lust	
+59-18	4866-4868	in	
+59-19	4869-4872	the	
+59-20	4873-4876	mid	
+59-21	4877-4878	'	
+59-22	4879-4881	st	
+59-23	4882-4884	of	
+59-24	4885-4894	Cephalons	
+59-25	4895-4900	round	
+59-26	4901-4905	face	
+59-27	4906-4908	As	
+59-28	4910-4911	'	
+59-29	4912-4917	twere	
+59-30	4918-4919	a	
+59-31	4920-4933	frontis-spice	
+59-32	4934-4938	vnto	
+59-33	4939-4942	the	
+59-34	4943-4947	hill	
+59-35	4947-4948	,	
+59-36	4949-4957	Olfactus	
+59-37	4958-4965	lodging	
+59-38	4966-4971	built	
+59-39	4972-4974	in	
+59-40	4975-4981	figure	
+59-41	4982-4986	long	
+59-42	4986-4987	,	
+59-43	4988-4994	Doubly	
+59-44	4995-5005	dis-parted	
+59-45	5006-5010	with	
+59-46	5011-5014	two	
+59-47	5015-5023	precious	
+59-48	5024-5030	vaults	
+59-49	5030-5031	,	
+59-50	5032-5035	The	
+59-51	5036-5042	rootes	
+59-52	5043-5050	whereof	
+59-53	5051-5055	most	
+59-54	5056-5062	richly	
+59-55	5063-5066	are	
+59-56	5067-5073	inclos	
+59-57	5074-5075	'	
+59-58	5076-5077	d	
+59-59	5077-5078	,	
+59-60	5079-5083	With	
+59-61	5084-5090	Orient	
+59-62	5091-5098	Pearles	
+59-63	5098-5099	,	
+59-64	5100-5103	and	
+59-65	5104-5113	sparkling	
+59-66	5114-5122	Diamonds	
+59-67	5122-5123	:	
+59-68	5124-5129	Beset	
+59-69	5130-5132	at	
+59-70	5133-5136	the	
+59-71	5137-5140	end	
+59-72	5141-5145	with	
+59-73	5146-5154	Emerauds	
+59-74	5155-5158	and	
+59-75	5159-5167	Turchois	
+59-76	5167-5168	,	
+59-77	5169-5172	And	
+59-78	5173-5179	Rubies	
+59-79	5180-5183	red	
+59-80	5183-5184	,	
+59-81	5185-5188	and	
+59-82	5189-5196	flaming	
+59-83	5197-5206	Crisolits	
+59-84	5206-5207	,	
+59-85	5208-5210	At	
+59-86	5211-5216	vpper	
+59-87	5217-5220	end	
+59-88	5221-5228	whereof	
+59-89	5229-5231	in	
+59-90	5232-5238	costly	
+59-91	5239-5245	manner	
+59-92	5245-5246	,	
+59-93	5247-5248	I	
+59-94	5249-5252	lay	
+59-95	5253-5255	my	
+59-96	5256-5260	head	
+59-97	5261-5269	betweene	
+59-98	5270-5273	two	
+59-99	5274-5283	spungeous	
+59-100	5284-5292	pillowes	
+59-101	5292-5293	,	
+59-102	5294-5298	Like	
+59-103	5299-5304	faire	
+59-104	5305-5311	Adonis	
+59-105	5312-5317	twixt	
+59-106	5318-5321	the	
+59-107	5322-5326	paps	
+59-108	5327-5329	of	
+59-109	5330-5335	Venus	
+59-110	5335-5336	,	
+59-111	5337-5342	Where	
+59-112	5343-5344	I	
+59-113	5345-5355	conducting	
+59-114	5356-5358	in	
+59-115	5359-5362	and	
+59-116	5363-5366	out	
+59-117	5367-5370	the	
+59-118	5371-5375	wind	
+59-119	5375-5376	,	
+59-120	5377-5382	Daily	
+59-121	5383-5390	examine	
+59-122	5391-5394	all	
+59-123	5395-5398	the	
+59-124	5399-5403	ayre	
+59-125	5404-5410	inspir	
+59-126	5411-5412	'	
+59-127	5413-5414	d	
+59-128	5414-5415	.	
+
+#Text=By my pure searching, if it be pure,
+#Text=And sit to serue the lungs with liuely breath:
+#Text=Hence do I likewise minister perfume
+#Text=Vnto the neighbour brayne, perfumes of force
+#Text=To clense your head, and make your fantasie
+#Text=To refine wit, and sharpe inuention
+#Text=And strengthen memory, from whence it came,
+#Text=That old deuotion, incence did ordaine
+#Text=To make mans spirits more apt for things diuine,
+#Text=Besides a thousand more commodities,
+#Text=In leiw whereof your Lordships I request,
+#Text=Giue me the crowne if I deserue it best.
+60-1	5416-5418	By	
+60-2	5419-5421	my	
+60-3	5422-5426	pure	
+60-4	5427-5436	searching	
+60-5	5436-5437	,	
+60-6	5438-5440	if	
+60-7	5441-5443	it	
+60-8	5444-5446	be	
+60-9	5447-5451	pure	
+60-10	5451-5452	,	
+60-11	5453-5456	And	
+60-12	5457-5460	sit	
+60-13	5461-5463	to	
+60-14	5464-5469	serue	
+60-15	5470-5473	the	
+60-16	5474-5479	lungs	
+60-17	5480-5484	with	
+60-18	5485-5491	liuely	
+60-19	5492-5498	breath	
+60-20	5498-5499	:	
+60-21	5500-5505	Hence	
+60-22	5506-5508	do	
+60-23	5509-5510	I	
+60-24	5511-5519	likewise	
+60-25	5520-5528	minister	
+60-26	5529-5536	perfume	
+60-27	5537-5541	Vnto	
+60-28	5542-5545	the	
+60-29	5546-5555	neighbour	
+60-30	5556-5562	brayne	
+60-31	5562-5563	,	
+60-32	5564-5572	perfumes	
+60-33	5573-5575	of	
+60-34	5576-5581	force	
+60-35	5582-5584	To	
+60-36	5585-5591	clense	
+60-37	5592-5596	your	
+60-38	5597-5601	head	
+60-39	5601-5602	,	
+60-40	5603-5606	and	
+60-41	5607-5611	make	
+60-42	5612-5616	your	
+60-43	5617-5625	fantasie	
+60-44	5626-5628	To	
+60-45	5629-5635	refine	
+60-46	5636-5639	wit	
+60-47	5639-5640	,	
+60-48	5641-5644	and	
+60-49	5645-5651	sharpe	
+60-50	5652-5661	inuention	
+60-51	5662-5665	And	
+60-52	5666-5676	strengthen	
+60-53	5677-5683	memory	
+60-54	5683-5684	,	
+60-55	5685-5689	from	
+60-56	5690-5696	whence	
+60-57	5697-5699	it	
+60-58	5700-5704	came	
+60-59	5704-5705	,	
+60-60	5706-5710	That	
+60-61	5711-5714	old	
+60-62	5715-5723	deuotion	
+60-63	5723-5724	,	
+60-64	5725-5732	incence	
+60-65	5733-5736	did	
+60-66	5737-5744	ordaine	
+60-67	5745-5747	To	
+60-68	5748-5752	make	
+60-69	5753-5757	mans	
+60-70	5758-5765	spirits	
+60-71	5766-5770	more	
+60-72	5771-5774	apt	
+60-73	5775-5778	for	
+60-74	5779-5785	things	
+60-75	5786-5792	diuine	
+60-76	5792-5793	,	
+60-77	5794-5801	Besides	
+60-78	5802-5803	a	
+60-79	5804-5812	thousand	
+60-80	5813-5817	more	
+60-81	5818-5829	commodities	
+60-82	5829-5830	,	
+60-83	5831-5833	In	
+60-84	5834-5838	leiw	
+60-85	5839-5846	whereof	
+60-86	5847-5851	your	
+60-87	5852-5861	Lordships	
+60-88	5862-5863	I	
+60-89	5864-5871	request	
+60-90	5871-5872	,	
+60-91	5873-5877	Giue	
+60-92	5878-5880	me	
+60-93	5881-5884	the	
+60-94	5885-5891	crowne	
+60-95	5892-5894	if	
+60-96	5895-5896	I	
+60-97	5897-5904	deserue	
+60-98	5905-5907	it	
+60-99	5908-5912	best	
+60-100	5912-5913	.	
+
+#Text=Olfactus leades his company about the Stage, and goes out.
+61-1	5914-5922	Olfactus	
+61-2	5923-5929	leades	
+61-3	5930-5933	his	
+61-4	5934-5941	company	
+61-5	5942-5947	about	
+61-6	5948-5951	the	
+61-7	5952-5957	Stage	
+61-8	5957-5958	,	
+61-9	5959-5962	and	
+61-10	5963-5967	goes	
+61-11	5968-5971	out	
+61-12	5971-5972	.	

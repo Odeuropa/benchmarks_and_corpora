@@ -1,0 +1,348 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=These lodgings have spaces, like streets, between them, large enough to give the
+#Text=bees a free passage in and out; and yet narrow enough
+#Text=to preserve the necessary heat.
+1-1	1-6	These	_	_	_	
+1-2	7-15	lodgings	_	_	_	
+1-3	16-20	have	_	_	_	
+1-4	21-27	spaces	_	_	_	
+1-5	27-28	,	_	_	_	
+1-6	29-33	like	_	_	_	
+1-7	34-41	streets	_	_	_	
+1-8	41-42	,	_	_	_	
+1-9	43-50	between	_	_	_	
+1-10	51-55	them	_	_	_	
+1-11	55-56	,	_	_	_	
+1-12	57-62	large	_	_	_	
+1-13	63-69	enough	_	_	_	
+1-14	70-72	to	_	_	_	
+1-15	73-77	give	_	_	_	
+1-16	78-81	the	_	_	_	
+1-17	82-86	bees	_	_	_	
+1-18	87-88	a	_	_	_	
+1-19	89-93	free	_	_	_	
+1-20	94-101	passage	_	_	_	
+1-21	102-104	in	_	_	_	
+1-22	105-108	and	_	_	_	
+1-23	109-112	out	_	_	_	
+1-24	112-113	;	_	_	_	
+1-25	114-117	and	_	_	_	
+1-26	118-121	yet	_	_	_	
+1-27	122-128	narrow	_	_	_	
+1-28	129-135	enough	_	_	_	
+1-29	136-138	to	_	_	_	
+1-30	139-147	preserve	_	_	_	
+1-31	148-151	the	_	_	_	
+1-32	152-161	necessary	_	_	_	
+1-33	162-166	heat	_	_	_	
+1-34	166-167	.	_	_	_	
+
+#Text=The mouth of every cell is defended by a
+#Text=border, which makes the door a little less than the inside of the cell,
+#Text=which serves to strengthen the whole.
+2-1	168-171	The	_	_	_	
+2-2	172-177	mouth	_	_	_	
+2-3	178-180	of	_	_	_	
+2-4	181-186	every	_	_	_	
+2-5	187-191	cell	_	_	_	
+2-6	192-194	is	_	_	_	
+2-7	195-203	defended	_	_	_	
+2-8	204-206	by	_	_	_	
+2-9	207-208	a	_	_	_	
+2-10	209-215	border	_	_	_	
+2-11	215-216	,	_	_	_	
+2-12	217-222	which	_	_	_	
+2-13	223-228	makes	_	_	_	
+2-14	229-232	the	_	_	_	
+2-15	233-237	door	_	_	_	
+2-16	238-239	a	_	_	_	
+2-17	240-246	little	_	_	_	
+2-18	247-251	less	_	_	_	
+2-19	252-256	than	_	_	_	
+2-20	257-260	the	_	_	_	
+2-21	261-267	inside	_	_	_	
+2-22	268-270	of	_	_	_	
+2-23	271-274	the	_	_	_	
+2-24	275-279	cell	_	_	_	
+2-25	279-280	,	_	_	_	
+2-26	281-286	which	_	_	_	
+2-27	287-293	serves	_	_	_	
+2-28	294-296	to	_	_	_	
+2-29	297-307	strengthen	_	_	_	
+2-30	308-311	the	_	_	_	
+2-31	312-317	whole	_	_	_	
+2-32	317-318	.	_	_	_	
+
+#Text=These cells serve for different
+#Text=purposes: for laying up their young; for their wax, which in winter becomes
+#Text=a part of their food; and for their honey, which makes their principal
+#Text=subsistence.
+3-1	319-324	These	_	_	_	
+3-2	325-330	cells	_	_	_	
+3-3	331-336	serve	_	_	_	
+3-4	337-340	for	_	_	_	
+3-5	341-350	different	_	_	_	
+3-6	351-359	purposes	_	_	_	
+3-7	359-360	:	_	_	_	
+3-8	361-364	for	_	_	_	
+3-9	365-371	laying	_	_	_	
+3-10	372-374	up	_	_	_	
+3-11	375-380	their	_	_	_	
+3-12	381-386	young	_	_	_	
+3-13	386-387	;	_	_	_	
+3-14	388-391	for	_	_	_	
+3-15	392-397	their	_	_	_	
+3-16	398-401	wax	_	_	_	
+3-17	401-402	,	_	_	_	
+3-18	403-408	which	_	_	_	
+3-19	409-411	in	_	_	_	
+3-20	412-418	winter	_	_	_	
+3-21	419-426	becomes	_	_	_	
+3-22	427-428	a	_	_	_	
+3-23	429-433	part	_	_	_	
+3-24	434-436	of	_	_	_	
+3-25	437-442	their	_	_	_	
+3-26	443-447	food	_	_	_	
+3-27	447-448	;	_	_	_	
+3-28	449-452	and	_	_	_	
+3-29	453-456	for	_	_	_	
+3-30	457-462	their	_	_	_	
+3-31	463-468	honey	_	_	_	
+3-32	468-469	,	_	_	_	
+3-33	470-475	which	_	_	_	
+3-34	476-481	makes	_	_	_	
+3-35	482-487	their	_	_	_	
+3-36	488-497	principal	_	_	_	
+3-37	498-509	subsistence	_	_	_	
+3-38	509-510	.	_	_	_	
+
+#Text=It is well known that the habitation of bees ought to be very
+#Text=close; and what their hives want, from the negligence or unskilfulness of
+#Text=man, these animals supply by their own industry: so that it is their
+#Text=principal care, when first hived, to stop up all the crannies.
+4-1	512-514	It	_	_	_	
+4-2	515-517	is	_	_	_	
+4-3	518-522	well	_	_	_	
+4-4	523-528	known	_	_	_	
+4-5	529-533	that	_	_	_	
+4-6	534-537	the	_	_	_	
+4-7	538-548	habitation	_	_	_	
+4-8	549-551	of	_	_	_	
+4-9	552-556	bees	_	_	_	
+4-10	557-562	ought	_	_	_	
+4-11	563-565	to	_	_	_	
+4-12	566-568	be	_	_	_	
+4-13	569-573	very	_	_	_	
+4-14	574-579	close	_	_	_	
+4-15	579-580	;	_	_	_	
+4-16	581-584	and	_	_	_	
+4-17	585-589	what	_	_	_	
+4-18	590-595	their	_	_	_	
+4-19	596-601	hives	_	_	_	
+4-20	602-606	want	_	_	_	
+4-21	606-607	,	_	_	_	
+4-22	608-612	from	_	_	_	
+4-23	613-616	the	_	_	_	
+4-24	617-627	negligence	_	_	_	
+4-25	628-630	or	_	_	_	
+4-26	631-644	unskilfulness	_	_	_	
+4-27	645-647	of	_	_	_	
+4-28	648-651	man	_	_	_	
+4-29	651-652	,	_	_	_	
+4-30	653-658	these	_	_	_	
+4-31	659-666	animals	_	_	_	
+4-32	667-673	supply	_	_	_	
+4-33	674-676	by	_	_	_	
+4-34	677-682	their	_	_	_	
+4-35	683-686	own	_	_	_	
+4-36	687-695	industry	_	_	_	
+4-37	695-696	:	_	_	_	
+4-38	697-699	so	_	_	_	
+4-39	700-704	that	_	_	_	
+4-40	705-707	it	_	_	_	
+4-41	708-710	is	_	_	_	
+4-42	711-716	their	_	_	_	
+4-43	717-726	principal	_	_	_	
+4-44	727-731	care	_	_	_	
+4-45	731-732	,	_	_	_	
+4-46	733-737	when	_	_	_	
+4-47	738-743	first	_	_	_	
+4-48	744-749	hived	_	_	_	
+4-49	749-750	,	_	_	_	
+4-50	751-753	to	_	_	_	
+4-51	754-758	stop	_	_	_	
+4-52	759-761	up	_	_	_	
+4-53	762-765	all	_	_	_	
+4-54	766-769	the	_	_	_	
+4-55	770-778	crannies	_	_	_	
+4-56	778-779	.	_	_	_	
+
+#Text=For this
+#Text=purpose they make use of a resinous gum, which is more tenacious than
+#Text=wax, and differs greatly from it.
+5-1	780-783	For	_	_	_	
+5-2	784-788	this	_	_	_	
+5-3	789-796	purpose	_	_	_	
+5-4	797-801	they	_	_	_	
+5-5	802-806	make	_	_	_	
+5-6	807-810	use	_	_	_	
+5-7	811-813	of	_	_	_	
+5-8	814-815	a	_	_	_	
+5-9	816-824	resinous	_	_	_	
+5-10	825-828	gum	_	_	_	
+5-11	828-829	,	_	_	_	
+5-12	830-835	which	_	_	_	
+5-13	836-838	is	_	_	_	
+5-14	839-843	more	_	_	_	
+5-15	844-853	tenacious	_	_	_	
+5-16	854-858	than	_	_	_	
+5-17	859-862	wax	_	_	_	
+5-18	862-863	,	_	_	_	
+5-19	864-867	and	_	_	_	
+5-20	868-875	differs	_	_	_	
+5-21	876-883	greatly	_	_	_	
+5-22	884-888	from	_	_	_	
+5-23	889-891	it	_	_	_	
+5-24	891-892	.	_	_	_	
+
+#Text=This the ancients called Propolis: it will
+#Text=grow considerably hard in June; though it will in some measure soften
+#Text=by heat; and is often found different in consistence, colour and smell.
+6-1	893-897	This	_	_	_	
+6-2	898-901	the	_	_	_	
+6-3	902-910	ancients	_	_	_	
+6-4	911-917	called	_	_	_	
+6-5	918-926	Propolis	Smell\_Source	_	_	
+6-6	926-927	:	_	_	_	
+6-7	928-930	it	_	_	_	
+6-8	931-935	will	_	_	_	
+6-9	936-940	grow	_	_	_	
+6-10	941-953	considerably	_	_	_	
+6-11	954-958	hard	_	_	_	
+6-12	959-961	in	_	_	_	
+6-13	962-966	June	_	_	_	
+6-14	966-967	;	_	_	_	
+6-15	968-974	though	_	_	_	
+6-16	975-977	it	_	_	_	
+6-17	978-982	will	_	_	_	
+6-18	983-985	in	_	_	_	
+6-19	986-990	some	_	_	_	
+6-20	991-998	measure	_	_	_	
+6-21	999-1005	soften	_	_	_	
+6-22	1006-1008	by	_	_	_	
+6-23	1009-1013	heat	_	_	_	
+6-24	1013-1014	;	_	_	_	
+6-25	1015-1018	and	_	_	_	
+6-26	1019-1021	is	_	_	_	
+6-27	1022-1027	often	_	_	_	
+6-28	1028-1033	found	_	_	_	
+6-29	1034-1043	different	_	_	_	
+6-30	1044-1046	in	_	_	_	
+6-31	1047-1058	consistence	_	_	_	
+6-32	1058-1059	,	_	_	_	
+6-33	1060-1066	colour	_	_	_	
+6-34	1067-1070	and	_	_	_	
+6-35	1071-1076	smell	Smell\_Word	*	6-5	
+6-36	1076-1077	.	_	_	_	
+
+#Text=It has generally an agreeable aromatic odour when it is warmed; and by some
+#Text=it is considered as a most grateful perfume.
+7-1	1078-1080	It	Smell\_Source	Anaphoric	6-5	
+7-2	1081-1084	has	_	_	_	
+7-3	1085-1094	generally	_	_	_	
+7-4	1095-1097	an	_	_	_	
+7-5	1098-1107	agreeable	Quality	_	_	
+7-6	1108-1116	aromatic	Quality	_	_	
+7-7	1117-1122	odour	Smell\_Word	*|*|*|*	7-6|7-5|7-1|7-8[1_0]	
+7-8	1123-1127	when	Circumstances[1]	_	_	
+7-9	1128-1130	it	Circumstances[1]	_	_	
+7-10	1131-1133	is	Circumstances[1]	_	_	
+7-11	1134-1140	warmed	Circumstances[1]	_	_	
+7-12	1140-1141	;	_	_	_	
+7-13	1142-1145	and	_	_	_	
+7-14	1146-1148	by	Perceiver[2]	_	_	
+7-15	1149-1153	some	Perceiver[2]	_	_	
+7-16	1154-1156	it	Smell\_Source	Anaphoric	6-5	
+7-17	1157-1159	is	_	_	_	
+7-18	1160-1170	considered	_	_	_	
+7-19	1171-1173	as	_	_	_	
+7-20	1174-1175	a	Quality[3]	_	_	
+7-21	1176-1180	most	Quality[3]	_	_	
+7-22	1181-1189	grateful	Quality[3]	_	_	
+7-23	1190-1197	perfume	Smell\_Word	*|*|*	7-20[3_0]|7-16|7-14[2_0]	
+7-24	1197-1198	.	_	_	_	
+
+#Text=When the bees begin to work
+#Text=with it, it is soft, but it acquires a firmer consistence every day; till
+#Text=at length it assumes a brown colour, and becomes much
+#Text=harder than wax.
+8-1	1199-1203	When	_	_	_	
+8-2	1204-1207	the	_	_	_	
+8-3	1208-1212	bees	_	_	_	
+8-4	1213-1218	begin	_	_	_	
+8-5	1219-1221	to	_	_	_	
+8-6	1222-1226	work	_	_	_	
+8-7	1227-1231	with	_	_	_	
+8-8	1232-1234	it	_	_	_	
+8-9	1234-1235	,	_	_	_	
+8-10	1236-1238	it	_	_	_	
+8-11	1239-1241	is	_	_	_	
+8-12	1242-1246	soft	_	_	_	
+8-13	1246-1247	,	_	_	_	
+8-14	1248-1251	but	_	_	_	
+8-15	1252-1254	it	_	_	_	
+8-16	1255-1263	acquires	_	_	_	
+8-17	1264-1265	a	_	_	_	
+8-18	1266-1272	firmer	_	_	_	
+8-19	1273-1284	consistence	_	_	_	
+8-20	1285-1290	every	_	_	_	
+8-21	1291-1294	day	_	_	_	
+8-22	1294-1295	;	_	_	_	
+8-23	1296-1300	till	_	_	_	
+8-24	1301-1303	at	_	_	_	
+8-25	1304-1310	length	_	_	_	
+8-26	1311-1313	it	_	_	_	
+8-27	1314-1321	assumes	_	_	_	
+8-28	1322-1323	a	_	_	_	
+8-29	1324-1329	brown	_	_	_	
+8-30	1330-1336	colour	_	_	_	
+8-31	1336-1337	,	_	_	_	
+8-32	1338-1341	and	_	_	_	
+8-33	1342-1349	becomes	_	_	_	
+8-34	1350-1354	much	_	_	_	
+8-35	1355-1361	harder	_	_	_	
+8-36	1362-1366	than	_	_	_	
+8-37	1367-1370	wax	_	_	_	
+8-38	1370-1371	.	_	_	_	
+
+#Text=The bees carry it on their hinder legs; and some think it is met with on the birch, the willow, and poplar.
+9-1	1372-1375	The	_	_	_	
+9-2	1376-1380	bees	_	_	_	
+9-3	1381-1386	carry	_	_	_	
+9-4	1387-1389	it	_	_	_	
+9-5	1390-1392	on	_	_	_	
+9-6	1393-1398	their	_	_	_	
+9-7	1399-1405	hinder	_	_	_	
+9-8	1406-1410	legs	_	_	_	
+9-9	1410-1411	;	_	_	_	
+9-10	1412-1415	and	_	_	_	
+9-11	1416-1420	some	_	_	_	
+9-12	1421-1426	think	_	_	_	
+9-13	1427-1429	it	_	_	_	
+9-14	1430-1432	is	_	_	_	
+9-15	1433-1436	met	_	_	_	
+9-16	1437-1441	with	_	_	_	
+9-17	1442-1444	on	_	_	_	
+9-18	1445-1448	the	_	_	_	
+9-19	1449-1454	birch	_	_	_	
+9-20	1454-1455	,	_	_	_	
+9-21	1456-1459	the	_	_	_	
+9-22	1460-1466	willow	_	_	_	
+9-23	1466-1467	,	_	_	_	
+9-24	1468-1471	and	_	_	_	
+9-25	1472-1478	poplar	_	_	_	
+9-26	1478-1479	.	_	_	_	

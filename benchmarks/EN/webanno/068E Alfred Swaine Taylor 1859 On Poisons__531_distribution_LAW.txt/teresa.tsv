@@ -1,0 +1,693 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=This erroneous opinion appears to have been based on the effects
+#Text=occasionally produced by the poison on animals: it is not in any
+#Text=way supported by observations on man.
+1-1	1-5	This	_	_	_	
+1-2	6-15	erroneous	_	_	_	
+1-3	16-23	opinion	_	_	_	
+1-4	24-31	appears	_	_	_	
+1-5	32-34	to	_	_	_	
+1-6	35-39	have	_	_	_	
+1-7	40-44	been	_	_	_	
+1-8	45-50	based	_	_	_	
+1-9	51-53	on	_	_	_	
+1-10	54-57	the	_	_	_	
+1-11	58-65	effects	_	_	_	
+1-12	66-78	occasionally	_	_	_	
+1-13	79-87	produced	_	_	_	
+1-14	88-90	by	_	_	_	
+1-15	91-94	the	_	_	_	
+1-16	95-101	poison	_	_	_	
+1-17	102-104	on	_	_	_	
+1-18	105-112	animals	_	_	_	
+1-19	112-113	:	_	_	_	
+1-20	114-116	it	_	_	_	
+1-21	117-119	is	_	_	_	
+1-22	120-123	not	_	_	_	
+1-23	124-126	in	_	_	_	
+1-24	127-130	any	_	_	_	
+1-25	131-134	way	_	_	_	
+1-26	135-144	supported	_	_	_	
+1-27	145-147	by	_	_	_	
+1-28	148-160	observations	_	_	_	
+1-29	161-163	on	_	_	_	
+1-30	164-167	man	_	_	_	
+1-31	167-168	.	_	_	_	
+
+#Text=The evidence derivable from the taste and odour of this poison is,
+#Text=in some instances, of importance.
+2-1	170-173	The	_	_	_	
+2-2	174-182	evidence	_	_	_	
+2-3	183-192	derivable	_	_	_	
+2-4	193-197	from	_	_	_	
+2-5	198-201	the	_	_	_	
+2-6	202-207	taste	_	_	_	
+2-7	208-211	and	_	_	_	
+2-8	212-217	odour	Smell\_Word	*	2-9[1_0]	
+2-9	218-220	of	Smell\_Source[1]	_	_	
+2-10	221-225	this	Smell\_Source[1]	_	_	
+2-11	226-232	poison	Smell\_Source[1]	_	_	
+2-12	233-235	is	_	_	_	
+2-13	235-236	,	_	_	_	
+2-14	237-239	in	_	_	_	
+2-15	240-244	some	_	_	_	
+2-16	245-254	instances	_	_	_	
+2-17	254-255	,	_	_	_	
+2-18	256-258	of	_	_	_	
+2-19	259-269	importance	_	_	_	
+2-20	269-270	.	_	_	_	
+
+#Text=The taste is described by Dr.
+3-1	271-274	The	_	_	_	
+3-2	275-280	taste	_	_	_	
+3-3	281-283	is	_	_	_	
+3-4	284-293	described	_	_	_	
+3-5	294-296	by	_	_	_	
+3-6	297-299	Dr	_	_	_	
+3-7	299-300	.	_	_	_	
+
+#Text=Christison as pungent ; some state that it is hot, others that it is
+#Text=bitter.
+4-1	301-311	Christison	_	_	_	
+4-2	312-314	as	_	_	_	
+4-3	315-322	pungent	_	_	_	
+4-4	323-324	;	_	_	_	
+4-5	325-329	some	_	_	_	
+4-6	330-335	state	_	_	_	
+4-7	336-340	that	_	_	_	
+4-8	341-343	it	_	_	_	
+4-9	344-346	is	_	_	_	
+4-10	347-350	hot	_	_	_	
+4-11	350-351	,	_	_	_	
+4-12	352-358	others	_	_	_	
+4-13	359-363	that	_	_	_	
+4-14	364-366	it	_	_	_	
+4-15	367-369	is	_	_	_	
+4-16	370-376	bitter	_	_	_	
+4-17	376-377	.	_	_	_	
+
+#Text=(Pereira.)
+5-1	378-379	(	_	_	_	
+5-2	379-386	Pereira	_	_	_	
+5-3	386-387	.	_	_	_	
+5-4	387-388	)	_	_	_	
+
+#Text=In one fatal case (December 1856) deceased
+#Text=complained, on swallowing about two drachms of the poison by
+#Text=mistake, that it had a bitter taste.
+6-1	389-391	In	_	_	_	
+6-2	392-395	one	_	_	_	
+6-3	396-401	fatal	_	_	_	
+6-4	402-406	case	_	_	_	
+6-5	407-408	(	_	_	_	
+6-6	408-416	December	_	_	_	
+6-7	417-421	1856	_	_	_	
+6-8	421-422	)	_	_	_	
+6-9	423-431	deceased	_	_	_	
+6-10	432-442	complained	_	_	_	
+6-11	442-443	,	_	_	_	
+6-12	444-446	on	_	_	_	
+6-13	447-457	swallowing	_	_	_	
+6-14	458-463	about	_	_	_	
+6-15	464-467	two	_	_	_	
+6-16	468-475	drachms	_	_	_	
+6-17	476-478	of	_	_	_	
+6-18	479-482	the	_	_	_	
+6-19	483-489	poison	_	_	_	
+6-20	490-492	by	_	_	_	
+6-21	493-500	mistake	_	_	_	
+6-22	500-501	,	_	_	_	
+6-23	502-506	that	_	_	_	
+6-24	507-509	it	_	_	_	
+6-25	510-513	had	_	_	_	
+6-26	514-515	a	_	_	_	
+6-27	516-522	bitter	_	_	_	
+6-28	523-528	taste	_	_	_	
+6-29	528-529	.	_	_	_	
+
+#Text=When the common acid is mixed with organic liquids, a taste is not likely to be perceptible unless the dose is large.
+7-1	530-534	When	_	_	_	
+7-2	535-538	the	_	_	_	
+7-3	539-545	common	_	_	_	
+7-4	546-550	acid	_	_	_	
+7-5	551-553	is	_	_	_	
+7-6	554-559	mixed	_	_	_	
+7-7	560-564	with	_	_	_	
+7-8	565-572	organic	_	_	_	
+7-9	573-580	liquids	_	_	_	
+7-10	580-581	,	_	_	_	
+7-11	582-583	a	_	_	_	
+7-12	584-589	taste	_	_	_	
+7-13	590-592	is	_	_	_	
+7-14	593-596	not	_	_	_	
+7-15	597-603	likely	_	_	_	
+7-16	604-606	to	_	_	_	
+7-17	607-609	be	_	_	_	
+7-18	610-621	perceptible	_	_	_	
+7-19	622-628	unless	_	_	_	
+7-20	629-632	the	_	_	_	
+7-21	633-637	dose	_	_	_	
+7-22	638-640	is	_	_	_	
+7-23	641-646	large	_	_	_	
+7-24	646-647	.	_	_	_	
+
+#Text=With regard to the odour, Dr.
+8-1	649-653	With	_	_	_	
+8-2	654-660	regard	_	_	_	
+8-3	661-663	to	_	_	_	
+8-4	664-667	the	_	_	_	
+8-5	668-673	odour	Smell\_Word	*|*|*|*|*	9-9[3_0]|9-4[2_0]|2-9[1_0]|9-21[4_0]|9-28[5_0]	
+8-6	673-674	,	_	_	_	
+8-7	675-677	Dr	_	_	_	
+8-8	677-678	.	_	_	_	
+
+#Text=Christison states that when
+#Text=diffused, it has a distant resemblance to that of bitter almonds ;
+#Text=but it is accompanied with a peculiar impression of acridity on
+#Text=the nostrils and back of the throat.
+9-1	679-689	Christison	_	_	_	
+9-2	690-696	states	_	_	_	
+9-3	697-701	that	_	_	_	
+9-4	702-706	when	Circumstances[2]	_	_	
+9-5	707-715	diffused	Circumstances[2]	_	_	
+9-6	715-716	,	_	_	_	
+9-7	717-719	it	_	_	_	
+9-8	720-723	has	_	_	_	
+9-9	724-725	a	Evoked\_Odorant[3]	_	_	
+9-10	726-733	distant	Evoked\_Odorant[3]	_	_	
+9-11	734-745	resemblance	Evoked\_Odorant[3]	_	_	
+9-12	746-748	to	Evoked\_Odorant[3]	_	_	
+9-13	749-753	that	Evoked\_Odorant[3]	_	_	
+9-14	754-756	of	Evoked\_Odorant[3]	_	_	
+9-15	757-763	bitter	Evoked\_Odorant[3]	_	_	
+9-16	764-771	almonds	Evoked\_Odorant[3]	_	_	
+9-17	772-773	;	_	_	_	
+9-18	774-777	but	_	_	_	
+9-19	778-780	it	_	_	_	
+9-20	781-783	is	_	_	_	
+9-21	784-795	accompanied	Effect[4]	_	_	
+9-22	796-800	with	Effect[4]	_	_	
+9-23	801-802	a	Effect[4]	_	_	
+9-24	803-811	peculiar	Effect[4]	_	_	
+9-25	812-822	impression	Effect[4]	_	_	
+9-26	823-825	of	Effect[4]	_	_	
+9-27	826-834	acridity	Effect[4]	_	_	
+9-28	835-837	on	Perceiver[5]	_	_	
+9-29	838-841	the	Perceiver[5]	_	_	
+9-30	842-850	nostrils	Perceiver[5]	_	_	
+9-31	851-854	and	_	_	_	
+9-32	855-859	back	_	_	_	
+9-33	860-862	of	_	_	_	
+9-34	863-866	the	_	_	_	
+9-35	867-873	throat	_	_	_	
+9-36	873-874	.	_	_	_	
+
+#Text=(Op. cit. 752.)
+10-1	875-876	(	_	_	_	
+10-2	876-878	Op	_	_	_	
+10-3	878-879	.	_	_	_	
+10-4	880-883	cit	_	_	_	
+10-5	883-884	.	_	_	_	
+10-6	885-888	752	_	_	_	
+10-7	888-889	.	_	_	_	
+10-8	889-890	)	_	_	_	
+
+#Text=Orfila also
+#Text=says that it is similar to that of bitter almonds : — this is, indeed,
+#Text=the common impression.
+11-1	891-897	Orfila	Perceiver	_	_	
+11-2	898-902	also	_	_	_	
+11-3	903-907	says	_	_	_	
+11-4	908-912	that	_	_	_	
+11-5	913-915	it	Smell\_Word	*|*|Anaphoric	11-1|11-7[6_0]|8-5	
+11-6	916-918	is	_	_	_	
+11-7	919-926	similar	Evoked\_Odorant[6]	_	_	
+11-8	927-929	to	Evoked\_Odorant[6]	_	_	
+11-9	930-934	that	Evoked\_Odorant[6]	_	_	
+11-10	935-937	of	Evoked\_Odorant[6]	_	_	
+11-11	938-944	bitter	Evoked\_Odorant[6]	_	_	
+11-12	945-952	almonds	Evoked\_Odorant[6]	_	_	
+11-13	953-954	:	_	_	_	
+11-14	955-956	—	_	_	_	
+11-15	957-961	this	_	_	_	
+11-16	962-964	is	_	_	_	
+11-17	964-965	,	_	_	_	
+11-18	966-972	indeed	_	_	_	
+11-19	972-973	,	_	_	_	
+11-20	974-977	the	_	_	_	
+11-21	978-984	common	_	_	_	
+11-22	985-995	impression	_	_	_	
+11-23	995-996	.	_	_	_	
+
+#Text=There is, however, a difference between
+#Text=these odours ; but the difference is not perceptible to the senses
+#Text=of all, and the only practical point requiring notice is, that the
+#Text=diluted odour of bitter almonds would probably be pronounced by
+#Text=many persons to indicate the presence of prussic acid, especially
+#Text=if there existed any suspicion of violent death.
+12-1	997-1002	There	_	_	_	
+12-2	1003-1005	is	_	_	_	
+12-3	1005-1006	,	_	_	_	
+12-4	1007-1014	however	_	_	_	
+12-5	1014-1015	,	_	_	_	
+12-6	1016-1017	a	_	_	_	
+12-7	1018-1028	difference	_	_	_	
+12-8	1029-1036	between	_	_	_	
+12-9	1037-1042	these	_	_	_	
+12-10	1043-1049	odours	Smell\_Word	_	_	
+12-11	1050-1051	;	_	_	_	
+12-12	1052-1055	but	_	_	_	
+12-13	1056-1059	the	_	_	_	
+12-14	1060-1070	difference	_	_	_	
+12-15	1071-1073	is	_	_	_	
+12-16	1074-1077	not	_	_	_	
+12-17	1078-1089	perceptible	_	_	_	
+12-18	1090-1092	to	_	_	_	
+12-19	1093-1096	the	_	_	_	
+12-20	1097-1103	senses	_	_	_	
+12-21	1104-1106	of	_	_	_	
+12-22	1107-1110	all	_	_	_	
+12-23	1110-1111	,	_	_	_	
+12-24	1112-1115	and	_	_	_	
+12-25	1116-1119	the	_	_	_	
+12-26	1120-1124	only	_	_	_	
+12-27	1125-1134	practical	_	_	_	
+12-28	1135-1140	point	_	_	_	
+12-29	1141-1150	requiring	_	_	_	
+12-30	1151-1157	notice	_	_	_	
+12-31	1158-1160	is	_	_	_	
+12-32	1160-1161	,	_	_	_	
+12-33	1162-1166	that	_	_	_	
+12-34	1167-1170	the	_	_	_	
+12-35	1171-1178	diluted	Quality	_	_	
+12-36	1179-1184	odour	Smell\_Word	*|*|*|*|*	12-37[7_0]|12-35|12-44[8_0]|12-52[9_0]|12-55[10_0]	
+12-37	1185-1187	of	Smell\_Source[7]	_	_	
+12-38	1188-1194	bitter	Smell\_Source[7]	_	_	
+12-39	1195-1202	almonds	Smell\_Source[7]	_	_	
+12-40	1203-1208	would	_	_	_	
+12-41	1209-1217	probably	_	_	_	
+12-42	1218-1220	be	_	_	_	
+12-43	1221-1231	pronounced	_	_	_	
+12-44	1232-1234	by	Perceiver[8]	_	_	
+12-45	1235-1239	many	Perceiver[8]	_	_	
+12-46	1240-1247	persons	Perceiver[8]	_	_	
+12-47	1248-1250	to	_	_	_	
+12-48	1251-1259	indicate	_	_	_	
+12-49	1260-1263	the	_	_	_	
+12-50	1264-1272	presence	_	_	_	
+12-51	1273-1275	of	_	_	_	
+12-52	1276-1283	prussic	Odour\_Carrier[9]	_	_	
+12-53	1284-1288	acid	Odour\_Carrier[9]	_	_	
+12-54	1288-1289	,	_	_	_	
+12-55	1290-1300	especially	Circumstances[10]	_	_	
+12-56	1301-1303	if	Circumstances[10]	_	_	
+12-57	1304-1309	there	Circumstances[10]	_	_	
+12-58	1310-1317	existed	Circumstances[10]	_	_	
+12-59	1318-1321	any	Circumstances[10]	_	_	
+12-60	1322-1331	suspicion	Circumstances[10]	_	_	
+12-61	1332-1334	of	Circumstances[10]	_	_	
+12-62	1335-1342	violent	Circumstances[10]	_	_	
+12-63	1343-1348	death	Circumstances[10]	_	_	
+12-64	1348-1349	.	_	_	_	
+
+#Text=Even experienced
+#Text=medical men have to my knowledge been deceived on this point.
+13-1	1350-1354	Even	_	_	_	
+13-2	1355-1366	experienced	_	_	_	
+13-3	1367-1374	medical	_	_	_	
+13-4	1375-1378	men	_	_	_	
+13-5	1379-1383	have	_	_	_	
+13-6	1384-1386	to	_	_	_	
+13-7	1387-1389	my	_	_	_	
+13-8	1390-1399	knowledge	_	_	_	
+13-9	1400-1404	been	_	_	_	
+13-10	1405-1413	deceived	_	_	_	
+13-11	1414-1416	on	_	_	_	
+13-12	1417-1421	this	_	_	_	
+13-13	1422-1427	point	_	_	_	
+13-14	1427-1428	.	_	_	_	
+
+#Text=There are some who are unable to perceive the odour of prussic
+#Text=acid when it exists in large proportion, whether mixed with water
+#Text=or other liquids ; while others, again, are peculiarly susceptible
+#Text=of it.
+14-1	1429-1434	There	_	_	_	
+14-2	1435-1438	are	_	_	_	
+14-3	1439-1443	some	Perceiver	_	_	
+14-4	1444-1447	who	_	_	_	
+14-5	1448-1451	are	_	_	_	
+14-6	1452-1458	unable	_	_	_	
+14-7	1459-1461	to	_	_	_	
+14-8	1462-1470	perceive	_	_	_	
+14-9	1471-1474	the	_	_	_	
+14-10	1475-1480	odour	Smell\_Word	*|*|*	14-3|14-11[11_0]|14-14[12_0]	
+14-11	1481-1483	of	Smell\_Source[11]	_	_	
+14-12	1484-1491	prussic	Smell\_Source[11]	_	_	
+14-13	1492-1496	acid	Smell\_Source[11]	_	_	
+14-14	1497-1501	when	Circumstances[12]	_	_	
+14-15	1502-1504	it	Circumstances[12]	_	_	
+14-16	1505-1511	exists	Circumstances[12]	_	_	
+14-17	1512-1514	in	Circumstances[12]	_	_	
+14-18	1515-1520	large	Circumstances[12]	_	_	
+14-19	1521-1531	proportion	Circumstances[12]	_	_	
+14-20	1531-1532	,	Circumstances[12]	_	_	
+14-21	1533-1540	whether	Circumstances[12]	_	_	
+14-22	1541-1546	mixed	Circumstances[12]	_	_	
+14-23	1547-1551	with	Circumstances[12]	_	_	
+14-24	1552-1557	water	Circumstances[12]	_	_	
+14-25	1558-1560	or	Circumstances[12]	_	_	
+14-26	1561-1566	other	Circumstances[12]	_	_	
+14-27	1567-1574	liquids	Circumstances[12]	_	_	
+14-28	1575-1576	;	_	_	_	
+14-29	1577-1582	while	_	_	_	
+14-30	1583-1589	others	_	_	_	
+14-31	1589-1590	,	_	_	_	
+14-32	1591-1596	again	_	_	_	
+14-33	1596-1597	,	_	_	_	
+14-34	1598-1601	are	_	_	_	
+14-35	1602-1612	peculiarly	_	_	_	
+14-36	1613-1624	susceptible	_	_	_	
+14-37	1625-1627	of	_	_	_	
+14-38	1628-1630	it	_	_	_	
+14-39	1630-1631	.	_	_	_	
+
+#Text=With some, it does not affect the olfactory nerves at all,
+#Text=but produces merely a sense of constriction in the throat.
+15-1	1632-1636	With	_	_	_	
+15-2	1637-1641	some	Perceiver	_	_	
+15-3	1641-1642	,	_	_	_	
+15-4	1643-1645	it	Smell\_Word	Anaphoric|*|*	14-10|15-15[15_0]|15-2	
+15-5	1646-1650	does	_	_	_	
+15-6	1651-1654	not	_	_	_	
+15-7	1655-1661	affect	_	_	_	
+15-8	1662-1665	the	_	_	_	
+15-9	1666-1675	olfactory	Quality[13]|Smell\_Word[14]	*	15-9[13_14]	
+15-10	1676-1682	nerves	_	_	_	
+15-11	1683-1685	at	_	_	_	
+15-12	1686-1689	all	_	_	_	
+15-13	1689-1690	,	_	_	_	
+15-14	1691-1694	but	_	_	_	
+15-15	1695-1703	produces	Effect[15]	_	_	
+15-16	1704-1710	merely	Effect[15]	_	_	
+15-17	1711-1712	a	Effect[15]	_	_	
+15-18	1713-1718	sense	Effect[15]	_	_	
+15-19	1719-1721	of	Effect[15]	_	_	
+15-20	1722-1734	constriction	Effect[15]	_	_	
+15-21	1735-1737	in	Effect[15]	_	_	
+15-22	1738-1741	the	Effect[15]	_	_	
+15-23	1742-1748	throat	Effect[15]	_	_	
+15-24	1748-1749	.	_	_	_	
+
+#Text=These
+#Text=facts appear to me to explain, — why, on being called to a case of
+#Text=poisoning by this acid, or during the examination of a body,
+#Text=some medical men perceive the odour while others do not.
+16-1	1750-1755	These	_	_	_	
+16-2	1756-1761	facts	_	_	_	
+16-3	1762-1768	appear	_	_	_	
+16-4	1769-1771	to	_	_	_	
+16-5	1772-1774	me	_	_	_	
+16-6	1775-1777	to	_	_	_	
+16-7	1778-1785	explain	_	_	_	
+16-8	1785-1786	,	_	_	_	
+16-9	1787-1788	—	_	_	_	
+16-10	1789-1792	why	_	_	_	
+16-11	1792-1793	,	_	_	_	
+16-12	1794-1796	on	Circumstances[16]	_	_	
+16-13	1797-1802	being	Circumstances[16]	_	_	
+16-14	1803-1809	called	Circumstances[16]	_	_	
+16-15	1810-1812	to	Circumstances[16]	_	_	
+16-16	1813-1814	a	Circumstances[16]	_	_	
+16-17	1815-1819	case	Circumstances[16]	_	_	
+16-18	1820-1822	of	Circumstances[16]	_	_	
+16-19	1823-1832	poisoning	Circumstances[16]	_	_	
+16-20	1833-1835	by	Circumstances[16]	_	_	
+16-21	1836-1840	this	Circumstances[16]	_	_	
+16-22	1841-1845	acid	Circumstances[16]	_	_	
+16-23	1845-1846	,	_	_	_	
+16-24	1847-1849	or	_	_	_	
+16-25	1850-1856	during	Circumstances[17]	_	_	
+16-26	1857-1860	the	Circumstances[17]	_	_	
+16-27	1861-1872	examination	Circumstances[17]	_	_	
+16-28	1873-1875	of	Circumstances[17]	_	_	
+16-29	1876-1877	a	Circumstances[17]	_	_	
+16-30	1878-1882	body	Circumstances[17]	_	_	
+16-31	1882-1883	,	_	_	_	
+16-32	1884-1888	some	*[18]	_	_	
+16-33	1889-1896	medical	*[18]	_	_	
+16-34	1897-1900	men	*[18]	_	_	
+16-35	1901-1909	perceive	_	_	_	
+16-36	1910-1913	the	_	_	_	
+16-37	1914-1919	odour	Smell\_Word	*|*|*	16-32[18_0]|16-12[16_0]|16-25[17_0]	
+16-38	1920-1925	while	_	_	_	
+16-39	1926-1932	others	_	_	_	
+16-40	1933-1935	do	_	_	_	
+16-41	1936-1939	not	_	_	_	
+16-42	1939-1940	.	_	_	_	
+
+#Text=When many have to
+#Text=form a judgment on this subject, it is much
+#Text=more common to find disagreement than unanimity.
+17-1	1941-1945	When	_	_	_	
+17-2	1946-1950	many	_	_	_	
+17-3	1951-1955	have	_	_	_	
+17-4	1956-1958	to	_	_	_	
+17-5	1959-1963	form	_	_	_	
+17-6	1964-1965	a	_	_	_	
+17-7	1966-1974	judgment	_	_	_	
+17-8	1975-1977	on	_	_	_	
+17-9	1978-1982	this	_	_	_	
+17-10	1983-1990	subject	_	_	_	
+17-11	1990-1991	,	_	_	_	
+17-12	1992-1994	it	_	_	_	
+17-13	1995-1997	is	_	_	_	
+17-14	1998-2002	much	_	_	_	
+17-15	2003-2007	more	_	_	_	
+17-16	2008-2014	common	_	_	_	
+17-17	2015-2017	to	_	_	_	
+17-18	2018-2022	find	_	_	_	
+17-19	2023-2035	disagreement	_	_	_	
+17-20	2036-2040	than	_	_	_	
+17-21	2041-2050	unanimity	_	_	_	
+17-22	2050-2051	.	_	_	_	
+
+#Text=In a case
+#Text=seen by Dr.
+18-1	2052-2054	In	_	_	_	
+18-2	2055-2056	a	_	_	_	
+18-3	2057-2061	case	_	_	_	
+18-4	2062-2066	seen	_	_	_	
+18-5	2067-2069	by	_	_	_	
+18-6	2070-2072	Dr	_	_	_	
+18-7	2072-2073	.	_	_	_	
+
+#Text=Christison, in which a man had swallowed a large
+#Text=dose of prussic acid, there was no odour in the breath, near the
+#Text=patient, nor in any part of the room.
+19-1	2074-2084	Christison	_	_	_	
+19-2	2084-2085	,	_	_	_	
+19-3	2086-2088	in	_	_	_	
+19-4	2089-2094	which	_	_	_	
+19-5	2095-2096	a	_	_	_	
+19-6	2097-2100	man	_	_	_	
+19-7	2101-2104	had	_	_	_	
+19-8	2105-2114	swallowed	_	_	_	
+19-9	2115-2116	a	_	_	_	
+19-10	2117-2122	large	_	_	_	
+19-11	2123-2127	dose	_	_	_	
+19-12	2128-2130	of	Smell\_Source[19]	_	_	
+19-13	2131-2138	prussic	Smell\_Source[19]	_	_	
+19-14	2139-2143	acid	Smell\_Source[19]	_	_	
+19-15	2143-2144	,	_	_	_	
+19-16	2145-2150	there	_	_	_	
+19-17	2151-2154	was	_	_	_	
+19-18	2155-2157	no	_	_	_	
+19-19	2158-2163	odour	Smell\_Word	*|*|*|*	19-12[19_0]|19-24[21_0]|19-20[20_0]|19-29[22_0]	
+19-20	2164-2166	in	Location[20]	_	_	
+19-21	2167-2170	the	Location[20]	_	_	
+19-22	2171-2177	breath	Location[20]	_	_	
+19-23	2177-2178	,	_	_	_	
+19-24	2179-2183	near	Location[21]	_	_	
+19-25	2184-2187	the	Location[21]	_	_	
+19-26	2188-2195	patient	Location[21]	_	_	
+19-27	2195-2196	,	_	_	_	
+19-28	2197-2200	nor	_	_	_	
+19-29	2201-2203	in	Location[22]	_	_	
+19-30	2204-2207	any	Location[22]	_	_	
+19-31	2208-2212	part	Location[22]	_	_	
+19-32	2213-2215	of	Location[22]	_	_	
+19-33	2216-2219	the	Location[22]	_	_	
+19-34	2220-2224	room	Location[22]	_	_	
+19-35	2224-2225	.	_	_	_	
+
+#Text=Two persons could not
+#Text=perceive any odour in six ounces of the warm fluid freshly
+#Text=drawn from the stomach by the pump.
+20-1	2226-2229	Two	Perceiver[23]	_	_	
+20-2	2230-2237	persons	Perceiver[23]	_	_	
+20-3	2238-2243	could	_	_	_	
+20-4	2244-2247	not	_	_	_	
+20-5	2248-2256	perceive	_	_	_	
+20-6	2257-2260	any	_	_	_	
+20-7	2261-2266	odour	Smell\_Word	*|*|*	20-1[23_0]|20-8[24_0]|20-15[25_0]	
+20-8	2267-2269	in	Odour\_Carrier[24]	_	_	
+20-9	2270-2273	six	Odour\_Carrier[24]	_	_	
+20-10	2274-2280	ounces	Odour\_Carrier[24]	_	_	
+20-11	2281-2283	of	Odour\_Carrier[24]	_	_	
+20-12	2284-2287	the	Odour\_Carrier[24]	_	_	
+20-13	2288-2292	warm	Odour\_Carrier[24]	_	_	
+20-14	2293-2298	fluid	Odour\_Carrier[24]	_	_	
+20-15	2299-2306	freshly	Circumstances[25]	_	_	
+20-16	2307-2312	drawn	Circumstances[25]	_	_	
+20-17	2313-2317	from	Circumstances[25]	_	_	
+20-18	2318-2321	the	Circumstances[25]	_	_	
+20-19	2322-2329	stomach	Circumstances[25]	_	_	
+20-20	2330-2332	by	Circumstances[25]	_	_	
+20-21	2333-2336	the	Circumstances[25]	_	_	
+20-22	2337-2341	pump	Circumstances[25]	_	_	
+20-23	2341-2342	.	_	_	_	
+
+#Text=(Ed.
+21-1	2343-2344	(	_	_	_	
+21-2	2344-2346	Ed	_	_	_	
+21-3	2346-2347	.	_	_	_	
+
+#Text=Month.
+22-1	2348-2353	Month	_	_	_	
+22-2	2353-2354	.	_	_	_	
+
+#Text=Journal,
+#Text=Eeb. 1850, p. 97.)
+23-1	2355-2362	Journal	_	_	_	
+23-2	2362-2363	,	_	_	_	
+23-3	2364-2367	Eeb	_	_	_	
+23-4	2367-2368	.	_	_	_	
+23-5	2369-2373	1850	_	_	_	
+23-6	2373-2374	,	_	_	_	
+23-7	2375-2376	p	_	_	_	
+23-8	2376-2377	.	_	_	_	
+23-9	2378-2380	97	_	_	_	
+23-10	2380-2381	.	_	_	_	
+23-11	2381-2382	)	_	_	_	
+
+#Text=On other occasions the odour may be concealed by peppermint, tobacco, or other odours.
+24-1	2383-2385	On	_	_	_	
+24-2	2386-2391	other	_	_	_	
+24-3	2392-2401	occasions	_	_	_	
+24-4	2402-2405	the	_	_	_	
+24-5	2406-2411	odour	Smell\_Word	*	24-6[26_0]	
+24-6	2412-2415	may	Circumstances[26]	_	_	
+24-7	2416-2418	be	Circumstances[26]	_	_	
+24-8	2419-2428	concealed	Circumstances[26]	_	_	
+24-9	2429-2431	by	Circumstances[26]	_	_	
+24-10	2432-2442	peppermint	Circumstances[26]	_	_	
+24-11	2442-2443	,	Circumstances[26]	_	_	
+24-12	2444-2451	tobacco	Circumstances[26]	_	_	
+24-13	2451-2452	,	Circumstances[26]	_	_	
+24-14	2453-2455	or	Circumstances[26]	_	_	
+24-15	2456-2461	other	Circumstances[26]|Quality[27]	_	_	
+24-16	2462-2468	odours	Circumstances[26]|Smell\_Word[28]	*	24-15[27_28]	
+24-17	2468-2469	.	_	_	_	
+
+#Text=In a case communicated to me in May 1850, by Mr.
+25-1	2470-2472	In	_	_	_	
+25-2	2473-2474	a	_	_	_	
+25-3	2475-2479	case	_	_	_	
+25-4	2480-2492	communicated	_	_	_	
+25-5	2493-2495	to	_	_	_	
+25-6	2496-2498	me	_	_	_	
+25-7	2499-2501	in	_	_	_	
+25-8	2502-2505	May	_	_	_	
+25-9	2506-2510	1850	_	_	_	
+25-10	2510-2511	,	_	_	_	
+25-11	2512-2514	by	_	_	_	
+25-12	2515-2517	Mr	_	_	_	
+25-13	2517-2518	.	_	_	_	
+
+#Text=Rake, a man swallowed
+#Text=a large dose of prussic acid, and was observed walking and
+#Text=smoking a pipe.
+26-1	2519-2523	Rake	_	_	_	
+26-2	2523-2524	,	_	_	_	
+26-3	2525-2526	a	_	_	_	
+26-4	2527-2530	man	_	_	_	
+26-5	2531-2540	swallowed	_	_	_	
+26-6	2541-2542	a	_	_	_	
+26-7	2543-2548	large	_	_	_	
+26-8	2549-2553	dose	_	_	_	
+26-9	2554-2556	of	_	_	_	
+26-10	2557-2564	prussic	_	_	_	
+26-11	2565-2569	acid	_	_	_	
+26-12	2569-2570	,	_	_	_	
+26-13	2571-2574	and	_	_	_	
+26-14	2575-2578	was	_	_	_	
+26-15	2579-2587	observed	_	_	_	
+26-16	2588-2595	walking	_	_	_	
+26-17	2596-2599	and	_	_	_	
+26-18	2600-2607	smoking	_	_	_	
+26-19	2608-2609	a	_	_	_	
+26-20	2610-2614	pipe	_	_	_	
+26-21	2614-2615	.	_	_	_	
+
+#Text=He was found dead in a privy very shortly
+#Text=afterwards ; but although the body was still warm, the smell of
+#Text=tobacco-smoke from the mouth completely overpowered and
+#Text=concealed the odour of prussic acid.
+27-1	2616-2618	He	_	_	_	
+27-2	2619-2622	was	_	_	_	
+27-3	2623-2628	found	_	_	_	
+27-4	2629-2633	dead	_	_	_	
+27-5	2634-2636	in	_	_	_	
+27-6	2637-2638	a	_	_	_	
+27-7	2639-2644	privy	_	_	_	
+27-8	2645-2649	very	_	_	_	
+27-9	2650-2657	shortly	_	_	_	
+27-10	2658-2668	afterwards	_	_	_	
+27-11	2669-2670	;	_	_	_	
+27-12	2671-2674	but	_	_	_	
+27-13	2675-2683	although	_	_	_	
+27-14	2684-2687	the	_	_	_	
+27-15	2688-2692	body	_	_	_	
+27-16	2693-2696	was	_	_	_	
+27-17	2697-2702	still	_	_	_	
+27-18	2703-2707	warm	_	_	_	
+27-19	2707-2708	,	_	_	_	
+27-20	2709-2712	the	_	_	_	
+27-21	2713-2718	smell	Smell\_Word	*|*|*	27-22[29_0]|27-24[30_0]|27-27[31_0]	
+27-22	2719-2721	of	Smell\_Source[29]	_	_	
+27-23	2722-2735	tobacco-smoke	Smell\_Source[29]	_	_	
+27-24	2736-2740	from	Location[30]	_	_	
+27-25	2741-2744	the	Location[30]	_	_	
+27-26	2745-2750	mouth	Location[30]	_	_	
+27-27	2751-2761	completely	Effect[31]	_	_	
+27-28	2762-2773	overpowered	Effect[31]	_	_	
+27-29	2774-2777	and	Effect[31]	_	_	
+27-30	2778-2787	concealed	Effect[31]	_	_	
+27-31	2788-2791	the	Effect[31]	_	_	
+27-32	2792-2797	odour	Effect[31]|Smell\_Word[32]	*	27-33[33_32]	
+27-33	2798-2800	of	Effect[31]|Smell\_Source[33]	_	_	
+27-34	2801-2808	prussic	Effect[31]|Smell\_Source[33]	_	_	
+27-35	2809-2813	acid	Effect[31]|Smell\_Source[33]	_	_	
+27-36	2813-2814	.	_	_	_	
+
+#Text=On opening the body, the
+#Text=smell of the acid was at once perceptible.
+28-1	2815-2817	On	Circumstances[34]	_	_	
+28-2	2818-2825	opening	Circumstances[34]	_	_	
+28-3	2826-2829	the	Circumstances[34]	_	_	
+28-4	2830-2834	body	Circumstances[34]	_	_	
+28-5	2834-2835	,	_	_	_	
+28-6	2836-2839	the	_	_	_	
+28-7	2840-2845	smell	Smell\_Word	*|*|*|*	28-12[36_0]|28-8[35_0]|28-14|28-1[34_0]	
+28-8	2846-2848	of	Smell\_Source[35]	_	_	
+28-9	2849-2852	the	Smell\_Source[35]	_	_	
+28-10	2853-2857	acid	Smell\_Source[35]	_	_	
+28-11	2858-2861	was	_	_	_	
+28-12	2862-2864	at	Time[36]	_	_	
+28-13	2865-2869	once	Time[36]	_	_	
+28-14	2870-2881	perceptible	Quality	_	_	
+28-15	2881-2882	.	_	_	_	

@@ -1,0 +1,223 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=Of Muriatic Acid.
+1-1	1-3	Of	_	_	_	
+1-2	4-12	Muriatic	Smell\_Source[1]	_	_	
+1-3	13-17	Acid	Smell\_Source[1]	_	_	
+1-4	17-18	.	_	_	_	
+
+#Text=Obtained by decomposing Muriate of Soda,
+#Text=by means similar to those employed in the preparation of the Nitric Acid.
+2-1	20-28	Obtained	_	_	_	
+2-2	29-31	by	_	_	_	
+2-3	32-43	decomposing	_	_	_	
+2-4	44-51	Muriate	_	_	_	
+2-5	52-54	of	_	_	_	
+2-6	55-59	Soda	_	_	_	
+2-7	59-60	,	_	_	_	
+2-8	61-63	by	_	_	_	
+2-9	64-69	means	_	_	_	
+2-10	70-77	similar	_	_	_	
+2-11	78-80	to	_	_	_	
+2-12	81-86	those	_	_	_	
+2-13	87-95	employed	_	_	_	
+2-14	96-98	in	_	_	_	
+2-15	99-102	the	_	_	_	
+2-16	103-114	preparation	_	_	_	
+2-17	115-117	of	_	_	_	
+2-18	118-121	the	_	_	_	
+2-19	122-128	Nitric	_	_	_	
+2-20	129-133	Acid	_	_	_	
+2-21	133-134	.	_	_	_	
+
+#Text=Its purest form Gaseous .
+3-1	136-139	Its	_	_	_	
+3-2	140-146	purest	_	_	_	
+3-3	147-151	form	_	_	_	
+3-4	152-159	Gaseous	_	_	_	
+3-5	160-161	.	_	_	_	
+
+#Text=In this state heavier than Atmospherical Air ;
+#Text=100 cubic inches at mean pressure and temperture, weighing 39 grains ; of a pungent odour ;
+#Text=irrespirable ; destructive to Flame, imparting to
+#Text=it under extinction a bright green colour; inflames the skin without discolouring or corroding it
+4-1	163-165	In	_	_	_	
+4-2	166-170	this	_	_	_	
+4-3	171-176	state	_	_	_	
+4-4	177-184	heavier	_	_	_	
+4-5	185-189	than	_	_	_	
+4-6	190-203	Atmospherical	_	_	_	
+4-7	204-207	Air	_	_	_	
+4-8	208-209	;	_	_	_	
+4-9	210-213	100	_	_	_	
+4-10	214-219	cubic	_	_	_	
+4-11	220-226	inches	_	_	_	
+4-12	227-229	at	_	_	_	
+4-13	230-234	mean	_	_	_	
+4-14	235-243	pressure	_	_	_	
+4-15	244-247	and	_	_	_	
+4-16	248-258	temperture	_	_	_	
+4-17	258-259	,	_	_	_	
+4-18	260-268	weighing	_	_	_	
+4-19	269-271	39	_	_	_	
+4-20	272-278	grains	_	_	_	
+4-21	279-280	;	_	_	_	
+4-22	281-283	of	_	_	_	
+4-23	284-285	a	_	_	_	
+4-24	286-293	pungent	Quality	_	_	
+4-25	294-299	odour	Smell\_Word	*|*	1-2[1_0]|4-24	
+4-26	300-301	;	_	_	_	
+4-27	302-314	irrespirable	_	_	_	
+4-28	315-316	;	_	_	_	
+4-29	317-328	destructive	_	_	_	
+4-30	329-331	to	_	_	_	
+4-31	332-337	Flame	_	_	_	
+4-32	337-338	,	_	_	_	
+4-33	339-348	imparting	_	_	_	
+4-34	349-351	to	_	_	_	
+4-35	352-354	it	_	_	_	
+4-36	355-360	under	_	_	_	
+4-37	361-371	extinction	_	_	_	
+4-38	372-373	a	_	_	_	
+4-39	374-380	bright	_	_	_	
+4-40	381-386	green	_	_	_	
+4-41	387-393	colour	_	_	_	
+4-42	393-394	;	_	_	_	
+4-43	395-403	inflames	_	_	_	
+4-44	404-407	the	_	_	_	
+4-45	408-412	skin	_	_	_	
+4-46	413-420	without	_	_	_	
+4-47	421-433	discolouring	_	_	_	
+4-48	434-436	or	_	_	_	
+4-49	437-446	corroding	_	_	_	
+4-50	447-449	it	_	_	_	
+
+#Text=.
+5-1	449-450	.	_	_	_	
+
+#Text=' 
+#Text=
+#Text=Formerly supposed to consist of an unknown
+#Text=radical intimately combined with Oxygen.
+6-1	452-453	'	_	_	_	
+6-2	456-464	Formerly	_	_	_	
+6-3	465-473	supposed	_	_	_	
+6-4	474-476	to	_	_	_	
+6-5	477-484	consist	_	_	_	
+6-6	485-487	of	_	_	_	
+6-7	488-490	an	_	_	_	
+6-8	491-498	unknown	_	_	_	
+6-9	499-506	radical	_	_	_	
+6-10	507-517	intimately	_	_	_	
+6-11	518-526	combined	_	_	_	
+6-12	527-531	with	_	_	_	
+6-13	532-538	Oxygen	_	_	_	
+6-14	538-539	.	_	_	_	
+
+#Text=Late
+#Text=researches of Professor Davy, by which this
+#Text=doctrine is controverted.
+7-1	540-544	Late	_	_	_	
+7-2	545-555	researches	_	_	_	
+7-3	556-558	of	_	_	_	
+7-4	559-568	Professor	_	_	_	
+7-5	569-573	Davy	_	_	_	
+7-6	573-574	,	_	_	_	
+7-7	575-577	by	_	_	_	
+7-8	578-583	which	_	_	_	
+7-9	584-588	this	_	_	_	
+7-10	589-597	doctrine	_	_	_	
+7-11	598-600	is	_	_	_	
+7-12	601-613	controverted	_	_	_	
+7-13	613-614	.	_	_	_	
+
+#Text=When dry has no action on the Metals, nor
+#Text=on any other of the Combustible Substances.
+8-1	616-620	When	_	_	_	
+8-2	621-624	dry	_	_	_	
+8-3	625-628	has	_	_	_	
+8-4	629-631	no	_	_	_	
+8-5	632-638	action	_	_	_	
+8-6	639-641	on	_	_	_	
+8-7	642-645	the	_	_	_	
+8-8	646-652	Metals	_	_	_	
+8-9	652-653	,	_	_	_	
+8-10	654-657	nor	_	_	_	
+8-11	658-660	on	_	_	_	
+8-12	661-664	any	_	_	_	
+8-13	665-670	other	_	_	_	
+8-14	671-673	of	_	_	_	
+8-15	674-677	the	_	_	_	
+8-16	678-689	Combustible	_	_	_	
+8-17	690-700	Substances	_	_	_	
+8-18	700-701	.	_	_	_	
+
+#Text=Exposed to a moist atmosphere it becomes
+#Text=cloudy —Is readily absorbed both by Water and
+#Text=Ice, the latter of which it liquefies: in either
+#Text=case it occasions an increase of Temperature and
+#Text=augmentation of Bulk, communicating to the
+#Text=water the general properties of an Acid (Acidam
+#Text=Muriaticum P.
+9-1	703-710	Exposed	_	_	_	
+9-2	711-713	to	_	_	_	
+9-3	714-715	a	_	_	_	
+9-4	716-721	moist	_	_	_	
+9-5	722-732	atmosphere	_	_	_	
+9-6	733-735	it	_	_	_	
+9-7	736-743	becomes	_	_	_	
+9-8	744-750	cloudy	_	_	_	
+9-9	751-752	—	_	_	_	
+9-10	752-754	Is	_	_	_	
+9-11	755-762	readily	_	_	_	
+9-12	763-771	absorbed	_	_	_	
+9-13	772-776	both	_	_	_	
+9-14	777-779	by	_	_	_	
+9-15	780-785	Water	_	_	_	
+9-16	786-789	and	_	_	_	
+9-17	790-793	Ice	_	_	_	
+9-18	793-794	,	_	_	_	
+9-19	795-798	the	_	_	_	
+9-20	799-805	latter	_	_	_	
+9-21	806-808	of	_	_	_	
+9-22	809-814	which	_	_	_	
+9-23	815-817	it	_	_	_	
+9-24	818-827	liquefies	_	_	_	
+9-25	827-828	:	_	_	_	
+9-26	829-831	in	_	_	_	
+9-27	832-838	either	_	_	_	
+9-28	839-843	case	_	_	_	
+9-29	844-846	it	_	_	_	
+9-30	847-856	occasions	_	_	_	
+9-31	857-859	an	_	_	_	
+9-32	860-868	increase	_	_	_	
+9-33	869-871	of	_	_	_	
+9-34	872-883	Temperature	_	_	_	
+9-35	884-887	and	_	_	_	
+9-36	888-900	augmentation	_	_	_	
+9-37	901-903	of	_	_	_	
+9-38	904-908	Bulk	_	_	_	
+9-39	908-909	,	_	_	_	
+9-40	910-923	communicating	_	_	_	
+9-41	924-926	to	_	_	_	
+9-42	927-930	the	_	_	_	
+9-43	931-936	water	_	_	_	
+9-44	937-940	the	_	_	_	
+9-45	941-948	general	_	_	_	
+9-46	949-959	properties	_	_	_	
+9-47	960-962	of	_	_	_	
+9-48	963-965	an	_	_	_	
+9-49	966-970	Acid	_	_	_	
+9-50	971-972	(	_	_	_	
+9-51	972-978	Acidam	_	_	_	
+9-52	979-989	Muriaticum	_	_	_	
+9-53	990-991	P	_	_	_	
+9-54	991-992	.	_	_	_	
+
+#Text=L.)
+10-1	993-994	L	_	_	_	
+10-2	994-995	.	_	_	_	
+10-3	995-996	)	_	_	_	

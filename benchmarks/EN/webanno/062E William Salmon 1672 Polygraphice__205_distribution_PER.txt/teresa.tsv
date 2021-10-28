@@ -1,0 +1,391 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=CHAP.
+1-1	2-6	CHAP	_	_	_	
+1-2	6-7	.	_	_	_	
+
+#Text=LVI.
+2-1	8-11	LVI	_	_	_	
+2-2	11-12	.	_	_	_	
+
+#Text=Of the Adulteration of Musk, Civet and Ambergriese.
+3-1	13-15	Of	_	_	_	
+3-2	16-19	the	_	_	_	
+3-3	20-32	Adulteration	_	_	_	
+3-4	33-35	of	Smell\_Source[1]	_	_	
+3-5	36-40	Musk	Smell\_Source[1]	_	_	
+3-6	40-41	,	_	_	_	
+3-7	42-47	Civet	Smell\_Source	_	_	
+3-8	48-51	and	_	_	_	
+3-9	52-63	Ambergriese	Smell\_Source	_	_	
+3-10	63-64	.	_	_	_	
+
+#Text=BY reason that these choice Perfumes are often adulterated or counterfeited, we shall do our endeavour to discover the cheat, lest any being deceived thereby should suffer loss.
+4-1	66-68	BY	_	_	_	
+4-2	69-75	reason	_	_	_	
+4-3	76-80	that	_	_	_	
+4-4	81-86	these	_	_	_	
+4-5	87-93	choice	_	_	_	
+4-6	94-102	Perfumes	Smell\_Word	*|*|*	3-9|3-7|3-4[1_0]	
+4-7	103-106	are	_	_	_	
+4-8	107-112	often	_	_	_	
+4-9	113-124	adulterated	_	_	_	
+4-10	125-127	or	_	_	_	
+4-11	128-141	counterfeited	_	_	_	
+4-12	141-142	,	_	_	_	
+4-13	143-145	we	_	_	_	
+4-14	146-151	shall	_	_	_	
+4-15	152-154	do	_	_	_	
+4-16	155-158	our	_	_	_	
+4-17	159-168	endeavour	_	_	_	
+4-18	169-171	to	_	_	_	
+4-19	172-180	discover	_	_	_	
+4-20	181-184	the	_	_	_	
+4-21	185-190	cheat	_	_	_	
+4-22	190-191	,	_	_	_	
+4-23	192-196	lest	_	_	_	
+4-24	197-200	any	_	_	_	
+4-25	201-206	being	_	_	_	
+4-26	207-215	deceived	_	_	_	
+4-27	216-223	thereby	_	_	_	
+4-28	224-230	should	_	_	_	
+4-29	231-237	suffer	_	_	_	
+4-30	238-242	loss	_	_	_	
+4-31	242-243	.	_	_	_	
+
+#Text=I.
+5-1	245-246	I	_	_	_	
+5-2	246-247	.	_	_	_	
+
+#Text=Musk is often adulterated by mixing Nutmegs, Mace, Cinnamon, Cloves, Spicknard of each alike in a fine or impalpable powder with warm blood of Pidgeons, and then dryed in the Sun, then beaten again, and moistened with Musk water drying and repeating the same work eight or ten times; adding at last a quarter part of pure Musk by moistening
+#Text=and mixing with Musk water; then dividing the mass into several parts, and rouling them in the hair of a goat, which grows under his tail.
+6-1	248-252	Musk	_	_	_	
+6-2	253-255	is	_	_	_	
+6-3	256-261	often	_	_	_	
+6-4	262-273	adulterated	_	_	_	
+6-5	274-276	by	_	_	_	
+6-6	277-283	mixing	_	_	_	
+6-7	284-291	Nutmegs	_	_	_	
+6-8	291-292	,	_	_	_	
+6-9	293-297	Mace	_	_	_	
+6-10	297-298	,	_	_	_	
+6-11	299-307	Cinnamon	_	_	_	
+6-12	307-308	,	_	_	_	
+6-13	309-315	Cloves	_	_	_	
+6-14	315-316	,	_	_	_	
+6-15	317-326	Spicknard	_	_	_	
+6-16	327-329	of	_	_	_	
+6-17	330-334	each	_	_	_	
+6-18	335-340	alike	_	_	_	
+6-19	341-343	in	_	_	_	
+6-20	344-345	a	_	_	_	
+6-21	346-350	fine	_	_	_	
+6-22	351-353	or	_	_	_	
+6-23	354-364	impalpable	_	_	_	
+6-24	365-371	powder	_	_	_	
+6-25	372-376	with	_	_	_	
+6-26	377-381	warm	_	_	_	
+6-27	382-387	blood	_	_	_	
+6-28	388-390	of	_	_	_	
+6-29	391-399	Pidgeons	_	_	_	
+6-30	399-400	,	_	_	_	
+6-31	401-404	and	_	_	_	
+6-32	405-409	then	_	_	_	
+6-33	410-415	dryed	_	_	_	
+6-34	416-418	in	_	_	_	
+6-35	419-422	the	_	_	_	
+6-36	423-426	Sun	_	_	_	
+6-37	426-427	,	_	_	_	
+6-38	428-432	then	_	_	_	
+6-39	433-439	beaten	_	_	_	
+6-40	440-445	again	_	_	_	
+6-41	445-446	,	_	_	_	
+6-42	447-450	and	_	_	_	
+6-43	451-460	moistened	_	_	_	
+6-44	461-465	with	_	_	_	
+6-45	466-470	Musk	_	_	_	
+6-46	471-476	water	_	_	_	
+6-47	477-483	drying	_	_	_	
+6-48	484-487	and	_	_	_	
+6-49	488-497	repeating	_	_	_	
+6-50	498-501	the	_	_	_	
+6-51	502-506	same	_	_	_	
+6-52	507-511	work	_	_	_	
+6-53	512-517	eight	_	_	_	
+6-54	518-520	or	_	_	_	
+6-55	521-524	ten	_	_	_	
+6-56	525-530	times	_	_	_	
+6-57	530-531	;	_	_	_	
+6-58	532-538	adding	_	_	_	
+6-59	539-541	at	_	_	_	
+6-60	542-546	last	_	_	_	
+6-61	547-548	a	_	_	_	
+6-62	549-556	quarter	_	_	_	
+6-63	557-561	part	_	_	_	
+6-64	562-564	of	_	_	_	
+6-65	565-569	pure	_	_	_	
+6-66	570-574	Musk	_	_	_	
+6-67	575-577	by	_	_	_	
+6-68	578-588	moistening	_	_	_	
+6-69	589-592	and	_	_	_	
+6-70	593-599	mixing	_	_	_	
+6-71	600-604	with	_	_	_	
+6-72	605-609	Musk	_	_	_	
+6-73	610-615	water	_	_	_	
+6-74	615-616	;	_	_	_	
+6-75	617-621	then	_	_	_	
+6-76	622-630	dividing	_	_	_	
+6-77	631-634	the	_	_	_	
+6-78	635-639	mass	_	_	_	
+6-79	640-644	into	_	_	_	
+6-80	645-652	several	_	_	_	
+6-81	653-658	parts	_	_	_	
+6-82	658-659	,	_	_	_	
+6-83	660-663	and	_	_	_	
+6-84	664-671	rouling	_	_	_	
+6-85	672-676	them	_	_	_	
+6-86	677-679	in	_	_	_	
+6-87	680-683	the	_	_	_	
+6-88	684-688	hair	_	_	_	
+6-89	689-691	of	_	_	_	
+6-90	692-693	a	_	_	_	
+6-91	694-698	goat	_	_	_	
+6-92	698-699	,	_	_	_	
+6-93	700-705	which	_	_	_	
+6-94	706-711	grows	_	_	_	
+6-95	712-717	under	_	_	_	
+6-96	718-721	his	_	_	_	
+6-97	722-726	tail	_	_	_	
+6-98	726-727	.	_	_	_	
+
+#Text=II.
+7-1	729-731	II	_	_	_	
+7-2	731-732	.	_	_	_	
+
+#Text=Others adulterate it thus: By filling the Musk cods with Goats blood, and a little toasted bread, mixed with a quarter part of Musk, well beaten together.
+8-1	733-739	Others	_	_	_	
+8-2	740-750	adulterate	_	_	_	
+8-3	751-753	it	_	_	_	
+8-4	754-758	thus	_	_	_	
+8-5	758-759	:	_	_	_	
+8-6	760-762	By	_	_	_	
+8-7	763-770	filling	_	_	_	
+8-8	771-774	the	_	_	_	
+8-9	775-779	Musk	_	_	_	
+8-10	780-784	cods	_	_	_	
+8-11	785-789	with	_	_	_	
+8-12	790-795	Goats	_	_	_	
+8-13	796-801	blood	_	_	_	
+8-14	801-802	,	_	_	_	
+8-15	803-806	and	_	_	_	
+8-16	807-808	a	_	_	_	
+8-17	809-815	little	_	_	_	
+8-18	816-823	toasted	_	_	_	
+8-19	824-829	bread	_	_	_	
+8-20	829-830	,	_	_	_	
+8-21	831-836	mixed	_	_	_	
+8-22	837-841	with	_	_	_	
+8-23	842-843	a	_	_	_	
+8-24	844-851	quarter	_	_	_	
+8-25	852-856	part	_	_	_	
+8-26	857-859	of	_	_	_	
+8-27	860-864	Musk	_	_	_	
+8-28	864-865	,	_	_	_	
+8-29	866-870	well	_	_	_	
+8-30	871-877	beaten	_	_	_	
+8-31	878-886	together	_	_	_	
+8-32	886-887	.	_	_	_	
+
+#Text=The cheat is discerned by the brightness of the Goats blood.
+9-1	888-891	The	_	_	_	
+9-2	892-897	cheat	_	_	_	
+9-3	898-900	is	_	_	_	
+9-4	901-910	discerned	_	_	_	
+9-5	911-913	by	_	_	_	
+9-6	914-917	the	_	_	_	
+9-7	918-928	brightness	_	_	_	
+9-8	929-931	of	_	_	_	
+9-9	932-935	the	_	_	_	
+9-10	936-941	Goats	_	_	_	
+9-11	942-947	blood	_	_	_	
+9-12	947-948	.	_	_	_	
+
+#Text=III.
+10-1	950-953	III	_	_	_	
+10-2	953-954	.	_	_	_	
+
+#Text=Or thus, Take Storax, Labdanum, powder of Xylo-aloes, of each four ounces, Musk and Civet of each half an ounce, mix all together with Rose water.
+11-1	955-957	Or	_	_	_	
+11-2	958-962	thus	_	_	_	
+11-3	962-963	,	_	_	_	
+11-4	964-968	Take	_	_	_	
+11-5	969-975	Storax	_	_	_	
+11-6	975-976	,	_	_	_	
+11-7	977-985	Labdanum	_	_	_	
+11-8	985-986	,	_	_	_	
+11-9	987-993	powder	_	_	_	
+11-10	994-996	of	_	_	_	
+11-11	997-1007	Xylo-aloes	_	_	_	
+11-12	1007-1008	,	_	_	_	
+11-13	1009-1011	of	_	_	_	
+11-14	1012-1016	each	_	_	_	
+11-15	1017-1021	four	_	_	_	
+11-16	1022-1028	ounces	_	_	_	
+11-17	1028-1029	,	_	_	_	
+11-18	1030-1034	Musk	_	_	_	
+11-19	1035-1038	and	_	_	_	
+11-20	1039-1044	Civet	_	_	_	
+11-21	1045-1047	of	_	_	_	
+11-22	1048-1052	each	_	_	_	
+11-23	1053-1057	half	_	_	_	
+11-24	1058-1060	an	_	_	_	
+11-25	1061-1066	ounce	_	_	_	
+11-26	1066-1067	,	_	_	_	
+11-27	1068-1071	mix	_	_	_	
+11-28	1072-1075	all	_	_	_	
+11-29	1076-1084	together	_	_	_	
+11-30	1085-1089	with	_	_	_	
+11-31	1090-1094	Rose	_	_	_	
+11-32	1095-1100	water	_	_	_	
+11-33	1100-1101	.	_	_	_	
+
+#Text=The cheat is discerned, by its easie dissolving in water, and its different colour and scent.
+12-1	1102-1105	The	Smell\_Source[2]	_	_	
+12-2	1106-1111	cheat	Smell\_Source[2]	_	_	
+12-3	1112-1114	is	_	_	_	
+12-4	1115-1124	discerned	_	_	_	
+12-5	1124-1125	,	_	_	_	
+12-6	1126-1128	by	_	_	_	
+12-7	1129-1132	its	_	_	_	
+12-8	1133-1138	easie	_	_	_	
+12-9	1139-1149	dissolving	_	_	_	
+12-10	1150-1152	in	_	_	_	
+12-11	1153-1158	water	_	_	_	
+12-12	1158-1159	,	_	_	_	
+12-13	1160-1163	and	_	_	_	
+12-14	1164-1167	its	Smell\_Source	Anaphoric	12-1[2_0]	
+12-15	1168-1177	different	Quality	_	_	
+12-16	1178-1184	colour	_	_	_	
+12-17	1185-1188	and	_	_	_	
+12-18	1189-1194	scent	Smell\_Word	*|*	12-15|12-14	
+12-19	1194-1195	.	_	_	_	
+
+#Text=IV.
+13-1	1197-1199	IV	_	_	_	
+13-2	1199-1200	.	_	_	_	
+
+#Text=Or thus, Take Goats blood, powder of Angelica roots, Musk of each alike, make a mixture.
+14-1	1201-1203	Or	_	_	_	
+14-2	1204-1208	thus	_	_	_	
+14-3	1208-1209	,	_	_	_	
+14-4	1210-1214	Take	_	_	_	
+14-5	1215-1220	Goats	_	_	_	
+14-6	1221-1226	blood	_	_	_	
+14-7	1226-1227	,	_	_	_	
+14-8	1228-1234	powder	_	_	_	
+14-9	1235-1237	of	_	_	_	
+14-10	1238-1246	Angelica	_	_	_	
+14-11	1247-1252	roots	_	_	_	
+14-12	1252-1253	,	_	_	_	
+14-13	1254-1258	Musk	_	_	_	
+14-14	1259-1261	of	_	_	_	
+14-15	1262-1266	each	_	_	_	
+14-16	1267-1272	alike	_	_	_	
+14-17	1272-1273	,	_	_	_	
+14-18	1274-1278	make	_	_	_	
+14-19	1279-1280	a	_	_	_	
+14-20	1281-1288	mixture	_	_	_	
+14-21	1288-1289	.	_	_	_	
+
+#Text=V.
+15-1	1291-1292	V	_	_	_	
+15-2	1292-1293	.	_	_	_	
+
+#Text=To adulterate Civet: Mix with it the Gall of an Oxe, and Storax liquefied and washed: or you may adulterate it by the addition of Honey of Crete.
+16-1	1294-1296	To	_	_	_	
+16-2	1297-1307	adulterate	_	_	_	
+16-3	1308-1313	Civet	_	_	_	
+16-4	1313-1314	:	_	_	_	
+16-5	1315-1318	Mix	_	_	_	
+16-6	1319-1323	with	_	_	_	
+16-7	1324-1326	it	_	_	_	
+16-8	1327-1330	the	_	_	_	
+16-9	1331-1335	Gall	_	_	_	
+16-10	1336-1338	of	_	_	_	
+16-11	1339-1341	an	_	_	_	
+16-12	1342-1345	Oxe	_	_	_	
+16-13	1345-1346	,	_	_	_	
+16-14	1347-1350	and	_	_	_	
+16-15	1351-1357	Storax	_	_	_	
+16-16	1358-1367	liquefied	_	_	_	
+16-17	1368-1371	and	_	_	_	
+16-18	1372-1378	washed	_	_	_	
+16-19	1378-1379	:	_	_	_	
+16-20	1380-1382	or	_	_	_	
+16-21	1383-1386	you	_	_	_	
+16-22	1387-1390	may	_	_	_	
+16-23	1391-1401	adulterate	_	_	_	
+16-24	1402-1404	it	_	_	_	
+16-25	1405-1407	by	_	_	_	
+16-26	1408-1411	the	_	_	_	
+16-27	1412-1420	addition	_	_	_	
+16-28	1421-1423	of	_	_	_	
+16-29	1424-1429	Honey	_	_	_	
+16-30	1430-1432	of	_	_	_	
+16-31	1433-1438	Crete	_	_	_	
+16-32	1438-1439	.	_	_	_	
+
+#Text=VI.
+17-1	1441-1443	VI	_	_	_	
+17-2	1443-1444	.	_	_	_	
+
+#Text=To restore the lost scent to Musk, or Ambergriese.
+18-1	1445-1447	To	_	_	_	
+18-2	1448-1455	restore	_	_	_	
+18-3	1456-1459	the	_	_	_	
+18-4	1460-1464	lost	Quality	_	_	
+18-5	1465-1470	scent	Smell\_Word	*	18-4	
+18-6	1471-1473	to	_	_	_	
+18-7	1474-1478	Musk	Smell\_Source	_	_	
+18-8	1478-1479	,	_	_	_	
+18-9	1480-1482	or	_	_	_	
+18-10	1483-1494	Ambergriese	Smell\_Source	_	_	
+18-11	1494-1495	.	_	_	_	
+
+#Text=This is done, by hanging it some time in a Jakes or house of Office; for by these ill scents, its innate vertue and odour is excited and revived.
+19-1	1497-1501	This	_	_	_	
+19-2	1502-1504	is	_	_	_	
+19-3	1505-1509	done	_	_	_	
+19-4	1509-1510	,	_	_	_	
+19-5	1511-1513	by	_	_	_	
+19-6	1514-1521	hanging	_	_	_	
+19-7	1522-1524	it	_	_	_	
+19-8	1525-1529	some	Time[3]	_	_	
+19-9	1530-1534	time	Time[3]	_	_	
+19-10	1535-1537	in	Location[4]	_	_	
+19-11	1538-1539	a	Location[4]	_	_	
+19-12	1540-1545	Jakes	Location[4]	_	_	
+19-13	1546-1548	or	_	_	_	
+19-14	1549-1554	house	Location[5]	_	_	
+19-15	1555-1557	of	Location[5]	_	_	
+19-16	1558-1564	Office	Location[5]	_	_	
+19-17	1564-1565	;	_	_	_	
+19-18	1566-1569	for	_	_	_	
+19-19	1570-1572	by	_	_	_	
+19-20	1573-1578	these	_	_	_	
+19-21	1579-1582	ill	Quality	_	_	
+19-22	1583-1589	scents	Smell\_Word	*|*|*|*	19-21|19-8[3_0]|19-14[5_0]|19-10[4_0]	
+19-23	1589-1590	,	_	_	_	
+19-24	1591-1594	its	Smell\_Source	Anaphoric|Anaphoric	18-7|18-10	
+19-25	1595-1601	innate	_	_	_	
+19-26	1602-1608	vertue	_	_	_	
+19-27	1609-1612	and	_	_	_	
+19-28	1613-1618	odour	Smell\_Word	*	19-24	
+19-29	1619-1621	is	_	_	_	
+19-30	1622-1629	excited	_	_	_	
+19-31	1630-1633	and	_	_	_	
+19-32	1634-1641	revived	_	_	_	
+19-33	1641-1642	.	_	_	_	

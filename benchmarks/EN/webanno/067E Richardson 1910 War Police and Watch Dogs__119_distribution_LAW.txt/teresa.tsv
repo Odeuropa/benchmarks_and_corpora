@@ -1,0 +1,682 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=It will
+#Text=be readily seen that night-time is the most
+#Text=favourable for the retention of scent, as
+#Text=evaporation does not take place so rapidly
+#Text=then, and this, of course, as I have shown,
+#Text=is why dogs are more especially useful at this
+#Text=time.
+1-1	0-2	It	_	_	_	
+1-2	3-7	will	_	_	_	
+1-3	8-10	be	_	_	_	
+1-4	11-18	readily	_	_	_	
+1-5	19-23	seen	_	_	_	
+1-6	24-28	that	_	_	_	
+1-7	29-39	night-time	Time	_	_	
+1-8	40-42	is	_	_	_	
+1-9	43-46	the	_	_	_	
+1-10	47-51	most	_	_	_	
+1-11	52-62	favourable	_	_	_	
+1-12	63-66	for	_	_	_	
+1-13	67-70	the	_	_	_	
+1-14	71-80	retention	_	_	_	
+1-15	81-83	of	_	_	_	
+1-16	84-89	scent	Smell\_Word	*	1-7	
+1-17	89-90	,	_	_	_	
+1-18	91-93	as	_	_	_	
+1-19	94-105	evaporation	_	_	_	
+1-20	106-110	does	_	_	_	
+1-21	111-114	not	_	_	_	
+1-22	115-119	take	_	_	_	
+1-23	120-125	place	_	_	_	
+1-24	126-128	so	_	_	_	
+1-25	129-136	rapidly	_	_	_	
+1-26	137-141	then	_	_	_	
+1-27	141-142	,	_	_	_	
+1-28	143-146	and	_	_	_	
+1-29	147-151	this	_	_	_	
+1-30	151-152	,	_	_	_	
+1-31	153-155	of	_	_	_	
+1-32	156-162	course	_	_	_	
+1-33	162-163	,	_	_	_	
+1-34	164-166	as	_	_	_	
+1-35	167-168	I	_	_	_	
+1-36	169-173	have	_	_	_	
+1-37	174-179	shown	_	_	_	
+1-38	179-180	,	_	_	_	
+1-39	181-183	is	_	_	_	
+1-40	184-187	why	_	_	_	
+1-41	188-192	dogs	_	_	_	
+1-42	193-196	are	_	_	_	
+1-43	197-201	more	_	_	_	
+1-44	202-212	especially	_	_	_	
+1-45	213-219	useful	_	_	_	
+1-46	220-222	at	_	_	_	
+1-47	223-227	this	_	_	_	
+1-48	228-232	time	_	_	_	
+1-49	232-233	.	_	_	_	
+
+#Text=It is even possible to track a fairly
+#Text=recent trail on certain roads at night in spite
+#Text=of the hard surface, and a quite recent trail
+#Text=on pavement, always supposing these have
+#Text=not been fouled too much by other footsteps.
+2-1	234-236	It	_	_	_	
+2-2	237-239	is	_	_	_	
+2-3	240-244	even	_	_	_	
+2-4	245-253	possible	_	_	_	
+2-5	254-256	to	_	_	_	
+2-6	257-262	track	_	_	_	
+2-7	263-264	a	_	_	_	
+2-8	265-271	fairly	_	_	_	
+2-9	272-278	recent	_	_	_	
+2-10	279-284	trail	_	_	_	
+2-11	285-287	on	_	_	_	
+2-12	288-295	certain	_	_	_	
+2-13	296-301	roads	_	_	_	
+2-14	302-304	at	_	_	_	
+2-15	305-310	night	_	_	_	
+2-16	311-313	in	_	_	_	
+2-17	314-319	spite	_	_	_	
+2-18	320-322	of	_	_	_	
+2-19	323-326	the	_	_	_	
+2-20	327-331	hard	_	_	_	
+2-21	332-339	surface	_	_	_	
+2-22	339-340	,	_	_	_	
+2-23	341-344	and	_	_	_	
+2-24	345-346	a	_	_	_	
+2-25	347-352	quite	_	_	_	
+2-26	353-359	recent	_	_	_	
+2-27	360-365	trail	_	_	_	
+2-28	366-368	on	_	_	_	
+2-29	369-377	pavement	_	_	_	
+2-30	377-378	,	_	_	_	
+2-31	379-385	always	_	_	_	
+2-32	386-395	supposing	_	_	_	
+2-33	396-401	these	_	_	_	
+2-34	402-406	have	_	_	_	
+2-35	407-410	not	_	_	_	
+2-36	411-415	been	_	_	_	
+2-37	416-422	fouled	_	_	_	
+2-38	423-426	too	_	_	_	
+2-39	427-431	much	_	_	_	
+2-40	432-434	by	_	_	_	
+2-41	435-440	other	_	_	_	
+2-42	441-450	footsteps	_	_	_	
+2-43	450-451	.	_	_	_	
+
+#Text=Strongly scented ground makes tracking
+#Text=difficult, as the animal or human scent is
+#Text=overpowered : thus clover fields, or any
+#Text=highly scented crops, and manured fields,
+#Text=are decided drawbacks.
+3-1	452-460	Strongly	Quality	_	_	
+3-2	461-468	scented	Smell\_Word[1]|Quality[2]	*|*|*	3-2[2_1]|3-1[0_1]|3-3[0_1]	
+3-3	469-475	ground	Odour\_Carrier	_	_	
+3-4	476-481	makes	_	_	_	
+3-5	482-490	tracking	_	_	_	
+3-6	491-500	difficult	_	_	_	
+3-7	500-501	,	_	_	_	
+3-8	502-504	as	_	_	_	
+3-9	505-508	the	_	_	_	
+3-10	509-515	animal	Smell\_Source	_	_	
+3-11	516-518	or	_	_	_	
+3-12	519-524	human	Smell\_Source	_	_	
+3-13	525-530	scent	Smell\_Word	*|*|*	3-10|3-12|3-15	
+3-14	531-533	is	_	_	_	
+3-15	534-545	overpowered	Quality	_	_	
+3-16	546-547	:	_	_	_	
+3-17	548-552	thus	_	_	_	
+3-18	553-559	clover	Smell\_Source[3]	_	_	
+3-19	560-566	fields	Smell\_Source[3]	_	_	
+3-20	566-567	,	_	_	_	
+3-21	568-570	or	_	_	_	
+3-22	571-574	any	_	_	_	
+3-23	575-581	highly	Quality	_	_	
+3-24	582-589	scented	Smell\_Word[4]|Quality[5]	*|*|*|*|*	3-24[5_4]|3-23[0_4]|3-18[3_4]|3-25[0_4]|3-28[6_4]	
+3-25	590-595	crops	Smell\_Source	_	_	
+3-26	595-596	,	_	_	_	
+3-27	597-600	and	_	_	_	
+3-28	601-608	manured	Smell\_Source[6]	_	_	
+3-29	609-615	fields	Smell\_Source[6]	_	_	
+3-30	615-616	,	_	_	_	
+3-31	617-620	are	_	_	_	
+3-32	621-628	decided	_	_	_	
+3-33	629-638	drawbacks	_	_	_	
+3-34	638-639	.	_	_	_	
+
+#Text=Newly ploughed fields are unprofitable
+#Text=tracking-ground, the reason being that the
+#Text=turned - up earth has a strong aromatic
+#Text=odour of its own, apart from that of the
+#Text=chemicals, &c., that may have been previously put into it.
+4-1	641-646	Newly	Smell\_Source[7]	_	_	
+4-2	647-655	ploughed	Smell\_Source[7]	_	_	
+4-3	656-662	fields	Smell\_Source[7]	_	_	
+4-4	663-666	are	_	_	_	
+4-5	667-679	unprofitable	_	_	_	
+4-6	680-695	tracking-ground	_	_	_	
+4-7	695-696	,	_	_	_	
+4-8	697-700	the	_	_	_	
+4-9	701-707	reason	_	_	_	
+4-10	708-713	being	_	_	_	
+4-11	714-718	that	_	_	_	
+4-12	719-722	the	_	_	_	
+4-13	723-729	turned	_	_	_	
+4-14	730-731	-	_	_	_	
+4-15	732-734	up	_	_	_	
+4-16	735-740	earth	_	_	_	
+4-17	741-744	has	_	_	_	
+4-18	745-746	a	_	_	_	
+4-19	747-753	strong	Quality	_	_	
+4-20	754-762	aromatic	Quality	_	_	
+4-21	763-768	odour	Smell\_Word	*|*|*	4-20|4-19|4-1[7_0]	
+4-22	769-771	of	_	_	_	
+4-23	772-775	its	_	_	_	
+4-24	776-779	own	_	_	_	
+4-25	779-780	,	_	_	_	
+4-26	781-786	apart	_	_	_	
+4-27	787-791	from	_	_	_	
+4-28	792-796	that	_	_	_	
+4-29	797-799	of	_	_	_	
+4-30	800-803	the	_	_	_	
+4-31	804-813	chemicals	_	_	_	
+4-32	813-814	,	_	_	_	
+4-33	815-816	&	_	_	_	
+4-34	816-817	c	_	_	_	
+4-35	817-818	.	_	_	_	
+4-36	818-819	,	_	_	_	
+4-37	820-824	that	_	_	_	
+4-38	825-828	may	_	_	_	
+4-39	829-833	have	_	_	_	
+4-40	834-838	been	_	_	_	
+4-41	839-849	previously	_	_	_	
+4-42	850-853	put	_	_	_	
+4-43	854-858	into	_	_	_	
+4-44	859-861	it	_	_	_	
+4-45	861-862	.	_	_	_	
+
+#Text=Now with regard to the scent left by a
+#Text=man, much interesting speculation arises as
+#Text=to whether the dog works entirely by foot
+#Text=scent, or if he depends as well on body scent,
+#Text=and if so, how much.
+5-1	864-867	Now	_	_	_	
+5-2	868-872	with	_	_	_	
+5-3	873-879	regard	_	_	_	
+5-4	880-882	to	_	_	_	
+5-5	883-886	the	_	_	_	
+5-6	887-892	scent	Smell\_Word	*	5-7[8_0]	
+5-7	893-897	left	Smell\_Source[8]	_	_	
+5-8	898-900	by	Smell\_Source[8]	_	_	
+5-9	901-902	a	Smell\_Source[8]	_	_	
+5-10	903-906	man	Smell\_Source[8]	_	_	
+5-11	906-907	,	_	_	_	
+5-12	908-912	much	_	_	_	
+5-13	913-924	interesting	_	_	_	
+5-14	925-936	speculation	_	_	_	
+5-15	937-943	arises	_	_	_	
+5-16	944-946	as	_	_	_	
+5-17	947-949	to	_	_	_	
+5-18	950-957	whether	_	_	_	
+5-19	958-961	the	Perceiver[9]	_	_	
+5-20	962-965	dog	Perceiver[9]	_	_	
+5-21	966-971	works	_	_	_	
+5-22	972-980	entirely	_	_	_	
+5-23	981-983	by	_	_	_	
+5-24	984-988	foot	Smell\_Source	_	_	
+5-25	989-994	scent	Smell\_Word	*|*	5-24|5-19[9_0]	
+5-26	994-995	,	_	_	_	
+5-27	996-998	or	_	_	_	
+5-28	999-1001	if	_	_	_	
+5-29	1002-1004	he	_	_	_	
+5-30	1005-1012	depends	_	_	_	
+5-31	1013-1015	as	_	_	_	
+5-32	1016-1020	well	_	_	_	
+5-33	1021-1023	on	_	_	_	
+5-34	1024-1028	body	Smell\_Source	_	_	
+5-35	1029-1034	scent	Smell\_Word	*|*	5-34|5-19[9_0]	
+5-36	1034-1035	,	_	_	_	
+5-37	1036-1039	and	_	_	_	
+5-38	1040-1042	if	_	_	_	
+5-39	1043-1045	so	_	_	_	
+5-40	1045-1046	,	_	_	_	
+5-41	1047-1050	how	_	_	_	
+5-42	1051-1055	much	_	_	_	
+5-43	1055-1056	.	_	_	_	
+
+#Text=As yet, all experiments by experts have not to any extent
+#Text=given us a decided answer on this point.
+6-1	1057-1059	As	_	_	_	
+6-2	1060-1063	yet	_	_	_	
+6-3	1063-1064	,	_	_	_	
+6-4	1065-1068	all	_	_	_	
+6-5	1069-1080	experiments	_	_	_	
+6-6	1081-1083	by	_	_	_	
+6-7	1084-1091	experts	_	_	_	
+6-8	1092-1096	have	_	_	_	
+6-9	1097-1100	not	_	_	_	
+6-10	1101-1103	to	_	_	_	
+6-11	1104-1107	any	_	_	_	
+6-12	1108-1114	extent	_	_	_	
+6-13	1115-1120	given	_	_	_	
+6-14	1121-1123	us	_	_	_	
+6-15	1124-1125	a	_	_	_	
+6-16	1126-1133	decided	_	_	_	
+6-17	1134-1140	answer	_	_	_	
+6-18	1141-1143	on	_	_	_	
+6-19	1144-1148	this	_	_	_	
+6-20	1149-1154	point	_	_	_	
+6-21	1154-1155	.	_	_	_	
+
+#Text=I here give an account of some interesting
+#Text=experiments which Dr Romanes carried out.
+#Text=“ On one occasion Dr Romanes put a most
+#Text=intelligent bitch to a crucial test.
+7-1	1156-1157	I	_	_	_	
+7-2	1158-1162	here	_	_	_	
+7-3	1163-1167	give	_	_	_	
+7-4	1168-1170	an	_	_	_	
+7-5	1171-1178	account	_	_	_	
+7-6	1179-1181	of	_	_	_	
+7-7	1182-1186	some	_	_	_	
+7-8	1187-1198	interesting	_	_	_	
+7-9	1199-1210	experiments	_	_	_	
+7-10	1211-1216	which	_	_	_	
+7-11	1217-1219	Dr	_	_	_	
+7-12	1220-1227	Romanes	_	_	_	
+7-13	1228-1235	carried	_	_	_	
+7-14	1236-1239	out	_	_	_	
+7-15	1239-1240	.	_	_	_	
+7-16	1241-1242	“	_	_	_	
+7-17	1243-1245	On	_	_	_	
+7-18	1246-1249	one	_	_	_	
+7-19	1250-1258	occasion	_	_	_	
+7-20	1259-1261	Dr	_	_	_	
+7-21	1262-1269	Romanes	_	_	_	
+7-22	1270-1273	put	_	_	_	
+7-23	1274-1275	a	_	_	_	
+7-24	1276-1280	most	_	_	_	
+7-25	1281-1292	intelligent	_	_	_	
+7-26	1293-1298	bitch	_	_	_	
+7-27	1299-1301	to	_	_	_	
+7-28	1302-1303	a	_	_	_	
+7-29	1304-1311	crucial	_	_	_	
+7-30	1312-1316	test	_	_	_	
+7-31	1316-1317	.	_	_	_	
+
+#Text=He
+#Text=walked for fifty yards in his ordinary
+#Text=shooting-boots ; then he walked a hundred
+#Text=yards in his stockings, and completed another hundred yards on his bare feet.
+8-1	1318-1320	He	_	_	_	
+8-2	1321-1327	walked	_	_	_	
+8-3	1328-1331	for	_	_	_	
+8-4	1332-1337	fifty	_	_	_	
+8-5	1338-1343	yards	_	_	_	
+8-6	1344-1346	in	_	_	_	
+8-7	1347-1350	his	_	_	_	
+8-8	1351-1359	ordinary	_	_	_	
+8-9	1360-1374	shooting-boots	_	_	_	
+8-10	1375-1376	;	_	_	_	
+8-11	1377-1381	then	_	_	_	
+8-12	1382-1384	he	_	_	_	
+8-13	1385-1391	walked	_	_	_	
+8-14	1392-1393	a	_	_	_	
+8-15	1394-1401	hundred	_	_	_	
+8-16	1402-1407	yards	_	_	_	
+8-17	1408-1410	in	_	_	_	
+8-18	1411-1414	his	_	_	_	
+8-19	1415-1424	stockings	_	_	_	
+8-20	1424-1425	,	_	_	_	
+8-21	1426-1429	and	_	_	_	
+8-22	1430-1439	completed	_	_	_	
+8-23	1440-1447	another	_	_	_	
+8-24	1448-1455	hundred	_	_	_	
+8-25	1456-1461	yards	_	_	_	
+8-26	1462-1464	on	_	_	_	
+8-27	1465-1468	his	_	_	_	
+8-28	1469-1473	bare	_	_	_	
+8-29	1474-1478	feet	_	_	_	
+8-30	1478-1479	.	_	_	_	
+
+#Text=The
+#Text=bitch followed the first part of the trail
+#Text=at full speed
+9-1	1480-1483	The	_	_	_	
+9-2	1484-1489	bitch	_	_	_	
+9-3	1490-1498	followed	_	_	_	
+9-4	1499-1502	the	_	_	_	
+9-5	1503-1508	first	_	_	_	
+9-6	1509-1513	part	_	_	_	
+9-7	1514-1516	of	_	_	_	
+9-8	1517-1520	the	_	_	_	
+9-9	1521-1526	trail	_	_	_	
+9-10	1527-1529	at	_	_	_	
+9-11	1530-1534	full	_	_	_	
+9-12	1535-1540	speed	_	_	_	
+
+#Text=.
+10-1	1540-1541	.	_	_	_	
+
+#Text=“ Changing the experiments, he soaked
+#Text=his ordinary shooting - boots with oil of
+#Text=aniseed, and walked with these over the
+#Text=park.
+11-1	1543-1544	“	_	_	_	
+11-2	1545-1553	Changing	_	_	_	
+11-3	1554-1557	the	_	_	_	
+11-4	1558-1569	experiments	_	_	_	
+11-5	1569-1570	,	_	_	_	
+11-6	1571-1573	he	_	_	_	
+11-7	1574-1580	soaked	_	_	_	
+11-8	1581-1584	his	_	_	_	
+11-9	1585-1593	ordinary	_	_	_	
+11-10	1594-1602	shooting	_	_	_	
+11-11	1603-1604	-	_	_	_	
+11-12	1605-1610	boots	_	_	_	
+11-13	1611-1615	with	_	_	_	
+11-14	1616-1619	oil	Smell\_Source[10]	_	_	
+11-15	1620-1622	of	Smell\_Source[10]	_	_	
+11-16	1623-1630	aniseed	Smell\_Source[10]	_	_	
+11-17	1630-1631	,	_	_	_	
+11-18	1632-1635	and	_	_	_	
+11-19	1636-1642	walked	_	_	_	
+11-20	1643-1647	with	_	_	_	
+11-21	1648-1653	these	_	_	_	
+11-22	1654-1658	over	_	_	_	
+11-23	1659-1662	the	_	_	_	
+11-24	1663-1667	park	_	_	_	
+11-25	1667-1668	.	_	_	_	
+
+#Text=Strange to say, this strong odour
+#Text=did not interfere with the bitch’s scent,
+#Text=for it ran him down as quickly as before
+12-1	1669-1676	Strange	_	_	_	
+12-2	1677-1679	to	_	_	_	
+12-3	1680-1683	say	_	_	_	
+12-4	1683-1684	,	_	_	_	
+12-5	1685-1689	this	Smell\_Source	Anaphoric	11-14[10_0]	
+12-6	1690-1696	strong	Quality	_	_	
+12-7	1697-1702	odour	Smell\_Word	*|*	12-6|12-5	
+12-8	1703-1706	did	_	_	_	
+12-9	1707-1710	not	_	_	_	
+12-10	1711-1720	interfere	_	_	_	
+12-11	1721-1725	with	_	_	_	
+12-12	1726-1729	the	_	_	_	
+12-13	1730-1735	bitch	Smell\_Source[11]	_	_	
+12-14	1735-1736	’	Smell\_Source[11]	_	_	
+12-15	1736-1737	s	Smell\_Source[11]	_	_	
+12-16	1738-1743	scent	Smell\_Word	*	12-13[11_0]	
+12-17	1743-1744	,	_	_	_	
+12-18	1745-1748	for	_	_	_	
+12-19	1749-1751	it	_	_	_	
+12-20	1752-1755	ran	_	_	_	
+12-21	1756-1759	him	_	_	_	
+12-22	1760-1764	down	_	_	_	
+12-23	1765-1767	as	_	_	_	
+12-24	1768-1775	quickly	_	_	_	
+12-25	1776-1778	as	_	_	_	
+12-26	1779-1785	before	_	_	_	
+
+#Text=.
+13-1	1785-1786	.	_	_	_	
+
+#Text=“ Accordingly, this keen observer came to
+#Text=the conclusion that his setter distinguished
+#Text=his trail from that of all others by the
+#Text=peculiar smell of his boots, and not by the
+#Text=particular scent of his feet or body.
+14-1	1788-1789	“	_	_	_	
+14-2	1790-1801	Accordingly	_	_	_	
+14-3	1801-1802	,	_	_	_	
+14-4	1803-1807	this	_	_	_	
+14-5	1808-1812	keen	_	_	_	
+14-6	1813-1821	observer	_	_	_	
+14-7	1822-1826	came	_	_	_	
+14-8	1827-1829	to	_	_	_	
+14-9	1830-1833	the	_	_	_	
+14-10	1834-1844	conclusion	_	_	_	
+14-11	1845-1849	that	_	_	_	
+14-12	1850-1853	his	Perceiver[12]	_	_	
+14-13	1854-1860	setter	Perceiver[12]	_	_	
+14-14	1861-1874	distinguished	_	_	_	
+14-15	1875-1878	his	_	_	_	
+14-16	1879-1884	trail	_	_	_	
+14-17	1885-1889	from	_	_	_	
+14-18	1890-1894	that	_	_	_	
+14-19	1895-1897	of	_	_	_	
+14-20	1898-1901	all	_	_	_	
+14-21	1902-1908	others	_	_	_	
+14-22	1909-1911	by	_	_	_	
+14-23	1912-1915	the	_	_	_	
+14-24	1916-1924	peculiar	Quality	_	_	
+14-25	1925-1930	smell	Smell\_Word	*|*|*	14-26[13_0]|14-24|14-12[12_0]	
+14-26	1931-1933	of	Smell\_Source[13]	_	_	
+14-27	1934-1937	his	Smell\_Source[13]	_	_	
+14-28	1938-1943	boots	Smell\_Source[13]	_	_	
+14-29	1943-1944	,	_	_	_	
+14-30	1945-1948	and	_	_	_	
+14-31	1949-1952	not	_	_	_	
+14-32	1953-1955	by	_	_	_	
+14-33	1956-1959	the	_	_	_	
+14-34	1960-1970	particular	Quality	_	_	
+14-35	1971-1976	scent	Smell\_Word	*|*|*|*	14-34|14-36[14_0]|14-40|14-12[12_0]	
+14-36	1977-1979	of	Smell\_Source[14]	_	_	
+14-37	1980-1983	his	Smell\_Source[14]	_	_	
+14-38	1984-1988	feet	Smell\_Source[14]	_	_	
+14-39	1989-1991	or	_	_	_	
+14-40	1992-1996	body	Smell\_Source	_	_	
+14-41	1996-1997	.	_	_	_	
+
+#Text=The
+#Text=exudations from his feet required to be combined with shoe-leather, and brown paper
+#Text=can stop the transmission of that scent.”
+15-1	1998-2001	The	Circumstances[15]	_	_	
+15-2	2002-2012	exudations	Circumstances[15]	_	_	
+15-3	2013-2017	from	Circumstances[15]	_	_	
+15-4	2018-2021	his	Circumstances[15]	_	_	
+15-5	2022-2026	feet	Circumstances[15]	_	_	
+15-6	2027-2035	required	Circumstances[15]	_	_	
+15-7	2036-2038	to	Circumstances[15]	_	_	
+15-8	2039-2041	be	Circumstances[15]	_	_	
+15-9	2042-2050	combined	Circumstances[15]	_	_	
+15-10	2051-2055	with	Circumstances[15]	_	_	
+15-11	2056-2068	shoe-leather	Circumstances[15]	_	_	
+15-12	2068-2069	,	Circumstances[15]	_	_	
+15-13	2070-2073	and	Circumstances[15]	_	_	
+15-14	2074-2079	brown	Circumstances[15]	_	_	
+15-15	2080-2085	paper	Circumstances[15]	_	_	
+15-16	2086-2089	can	_	_	_	
+15-17	2090-2094	stop	_	_	_	
+15-18	2095-2098	the	_	_	_	
+15-19	2099-2111	transmission	_	_	_	
+15-20	2112-2114	of	_	_	_	
+15-21	2115-2119	that	Smell\_Source	Anaphoric	14-26[13_0]	
+15-22	2120-2125	scent	Smell\_Word	*|*	15-1[15_0]|15-21	
+15-23	2125-2126	.	_	_	_	
+15-24	2126-2127	”	_	_	_	
+
+#Text=I give the above quotation with all due
+#Text=deference to such a renowned authority ;
+#Text=but I myself, from my own experiments,
+#Text=am not prepared to accept, without
+#Text=reserve, all he says, as my experience goes
+#Text=to show that a trail run in stockinged feet,
+#Text=or bare feet, is more favourable for tracking
+#Text=than that run in boots.
+16-1	2129-2130	I	_	_	_	
+16-2	2131-2135	give	_	_	_	
+16-3	2136-2139	the	_	_	_	
+16-4	2140-2145	above	_	_	_	
+16-5	2146-2155	quotation	_	_	_	
+16-6	2156-2160	with	_	_	_	
+16-7	2161-2164	all	_	_	_	
+16-8	2165-2168	due	_	_	_	
+16-9	2169-2178	deference	_	_	_	
+16-10	2179-2181	to	_	_	_	
+16-11	2182-2186	such	_	_	_	
+16-12	2187-2188	a	_	_	_	
+16-13	2189-2197	renowned	_	_	_	
+16-14	2198-2207	authority	_	_	_	
+16-15	2208-2209	;	_	_	_	
+16-16	2210-2213	but	_	_	_	
+16-17	2214-2215	I	_	_	_	
+16-18	2216-2222	myself	_	_	_	
+16-19	2222-2223	,	_	_	_	
+16-20	2224-2228	from	_	_	_	
+16-21	2229-2231	my	_	_	_	
+16-22	2232-2235	own	_	_	_	
+16-23	2236-2247	experiments	_	_	_	
+16-24	2247-2248	,	_	_	_	
+16-25	2249-2251	am	_	_	_	
+16-26	2252-2255	not	_	_	_	
+16-27	2256-2264	prepared	_	_	_	
+16-28	2265-2267	to	_	_	_	
+16-29	2268-2274	accept	_	_	_	
+16-30	2274-2275	,	_	_	_	
+16-31	2276-2283	without	_	_	_	
+16-32	2284-2291	reserve	_	_	_	
+16-33	2291-2292	,	_	_	_	
+16-34	2293-2296	all	_	_	_	
+16-35	2297-2299	he	_	_	_	
+16-36	2300-2304	says	_	_	_	
+16-37	2304-2305	,	_	_	_	
+16-38	2306-2308	as	_	_	_	
+16-39	2309-2311	my	_	_	_	
+16-40	2312-2322	experience	_	_	_	
+16-41	2323-2327	goes	_	_	_	
+16-42	2328-2330	to	_	_	_	
+16-43	2331-2335	show	_	_	_	
+16-44	2336-2340	that	_	_	_	
+16-45	2341-2342	a	_	_	_	
+16-46	2343-2348	trail	_	_	_	
+16-47	2349-2352	run	_	_	_	
+16-48	2353-2355	in	_	_	_	
+16-49	2356-2366	stockinged	_	_	_	
+16-50	2367-2371	feet	_	_	_	
+16-51	2371-2372	,	_	_	_	
+16-52	2373-2375	or	_	_	_	
+16-53	2376-2380	bare	_	_	_	
+16-54	2381-2385	feet	_	_	_	
+16-55	2385-2386	,	_	_	_	
+16-56	2387-2389	is	_	_	_	
+16-57	2390-2394	more	_	_	_	
+16-58	2395-2405	favourable	_	_	_	
+16-59	2406-2409	for	_	_	_	
+16-60	2410-2418	tracking	_	_	_	
+16-61	2419-2423	than	_	_	_	
+16-62	2424-2428	that	_	_	_	
+16-63	2429-2432	run	_	_	_	
+16-64	2433-2435	in	_	_	_	
+16-65	2436-2441	boots	_	_	_	
+16-66	2441-2442	.	_	_	_	
+
+#Text=My own opinion
+#Text=is, that the dog goes both by foot scent
+#Text=on the ground and also by body scent,
+#Text=when this latter scent is there, and I think
+#Text=that this is another reason why tracking
+#Text=in the evening or at night is so much easier
+#Text=for the dog.
+17-1	2443-2445	My	_	_	_	
+17-2	2446-2449	own	_	_	_	
+17-3	2450-2457	opinion	_	_	_	
+17-4	2458-2460	is	_	_	_	
+17-5	2460-2461	,	_	_	_	
+17-6	2462-2466	that	_	_	_	
+17-7	2467-2470	the	Perceiver[16]	_	_	
+17-8	2471-2474	dog	Perceiver[16]	_	_	
+17-9	2475-2479	goes	_	_	_	
+17-10	2480-2484	both	_	_	_	
+17-11	2485-2487	by	_	_	_	
+17-12	2488-2492	foot	Smell\_Source	_	_	
+17-13	2493-2498	scent	Smell\_Word	*|*|*	17-7[16_0]|17-12|17-14[17_0]	
+17-14	2499-2501	on	Location[17]	_	_	
+17-15	2502-2505	the	Location[17]	_	_	
+17-16	2506-2512	ground	Location[17]	_	_	
+17-17	2513-2516	and	_	_	_	
+17-18	2517-2521	also	_	_	_	
+17-19	2522-2524	by	_	_	_	
+17-20	2525-2529	body	Smell\_Source	_	_	
+17-21	2530-2535	scent	Smell\_Word	*|*	17-20|17-7[16_0]	
+17-22	2535-2536	,	_	_	_	
+17-23	2537-2541	when	_	_	_	
+17-24	2542-2546	this	Smell\_Source	Anaphoric	17-20	
+17-25	2547-2553	latter	_	_	_	
+17-26	2554-2559	scent	Smell\_Word	*|*|*	17-24|17-51[19_0]|17-40[18_0]	
+17-27	2560-2562	is	_	_	_	
+17-28	2563-2568	there	_	_	_	
+17-29	2568-2569	,	_	_	_	
+17-30	2570-2573	and	_	_	_	
+17-31	2574-2575	I	_	_	_	
+17-32	2576-2581	think	_	_	_	
+17-33	2582-2586	that	_	_	_	
+17-34	2587-2591	this	_	_	_	
+17-35	2592-2594	is	_	_	_	
+17-36	2595-2602	another	_	_	_	
+17-37	2603-2609	reason	_	_	_	
+17-38	2610-2613	why	_	_	_	
+17-39	2614-2622	tracking	_	_	_	
+17-40	2623-2625	in	Time[18]	_	_	
+17-41	2626-2629	the	Time[18]	_	_	
+17-42	2630-2637	evening	Time[18]	_	_	
+17-43	2638-2640	or	Time[18]	_	_	
+17-44	2641-2643	at	Time[18]	_	_	
+17-45	2644-2649	night	Time[18]	_	_	
+17-46	2650-2652	is	_	_	_	
+17-47	2653-2655	so	_	_	_	
+17-48	2656-2660	much	_	_	_	
+17-49	2661-2667	easier	_	_	_	
+17-50	2668-2671	for	_	_	_	
+17-51	2672-2675	the	Perceiver[19]	_	_	
+17-52	2676-2679	dog	Perceiver[19]	_	_	
+17-53	2679-2680	.	_	_	_	
+
+#Text=The air at this time being
+#Text=both moist and still, the fugitive’s body
+#Text=scent remains suspended in the air as he
+#Text=goes along, and this is a great additional
+#Text=aid to the dog.
+18-1	2681-2684	The	Circumstances[20]	_	_	
+18-2	2685-2688	air	Circumstances[20]	_	_	
+18-3	2689-2691	at	Circumstances[20]	_	_	
+18-4	2692-2696	this	Circumstances[20]	_	_	
+18-5	2697-2701	time	Circumstances[20]	_	_	
+18-6	2702-2707	being	Circumstances[20]	_	_	
+18-7	2708-2712	both	Circumstances[20]	_	_	
+18-8	2713-2718	moist	Circumstances[20]	_	_	
+18-9	2719-2722	and	Circumstances[20]	_	_	
+18-10	2723-2728	still	Circumstances[20]	_	_	
+18-11	2728-2729	,	_	_	_	
+18-12	2730-2733	the	_	_	_	
+18-13	2734-2742	fugitive	Smell\_Source[21]	_	_	
+18-14	2742-2743	’	Smell\_Source[21]	_	_	
+18-15	2743-2744	s	Smell\_Source[21]	_	_	
+18-16	2745-2749	body	Smell\_Source[21]	_	_	
+18-17	2750-2755	scent	Smell\_Word	*|*|*	18-13[21_0]|18-36[22_0]|18-1[20_0]	
+18-18	2756-2763	remains	_	_	_	
+18-19	2764-2773	suspended	_	_	_	
+18-20	2774-2776	in	_	_	_	
+18-21	2777-2780	the	_	_	_	
+18-22	2781-2784	air	_	_	_	
+18-23	2785-2787	as	_	_	_	
+18-24	2788-2790	he	_	_	_	
+18-25	2791-2795	goes	_	_	_	
+18-26	2796-2801	along	_	_	_	
+18-27	2801-2802	,	_	_	_	
+18-28	2803-2806	and	_	_	_	
+18-29	2807-2811	this	_	_	_	
+18-30	2812-2814	is	_	_	_	
+18-31	2815-2816	a	_	_	_	
+18-32	2817-2822	great	_	_	_	
+18-33	2823-2833	additional	_	_	_	
+18-34	2834-2837	aid	_	_	_	
+18-35	2838-2840	to	_	_	_	
+18-36	2841-2844	the	Perceiver[22]	_	_	
+18-37	2845-2848	dog	Perceiver[22]	_	_	
+18-38	2848-2849	.	_	_	_	

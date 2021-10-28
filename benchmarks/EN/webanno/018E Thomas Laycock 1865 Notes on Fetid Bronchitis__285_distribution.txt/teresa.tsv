@@ -1,0 +1,3643 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=In the case of Edgar
+#Text=there was a constitutional condition upon which was grafted a
+#Text=localized affection of the left lung.
+1-1	0-2	In	_	_	_	
+1-2	3-6	the	_	_	_	
+1-3	7-11	case	_	_	_	
+1-4	12-14	of	_	_	_	
+1-5	15-20	Edgar	_	_	_	
+1-6	21-26	there	_	_	_	
+1-7	27-30	was	_	_	_	
+1-8	31-32	a	_	_	_	
+1-9	33-47	constitutional	_	_	_	
+1-10	48-57	condition	_	_	_	
+1-11	58-62	upon	_	_	_	
+1-12	63-68	which	_	_	_	
+1-13	69-72	was	_	_	_	
+1-14	73-80	grafted	_	_	_	
+1-15	81-82	a	_	_	_	
+1-16	83-92	localized	_	_	_	
+1-17	93-102	affection	_	_	_	
+1-18	103-105	of	_	_	_	
+1-19	106-109	the	_	_	_	
+1-20	110-114	left	_	_	_	
+1-21	115-119	lung	_	_	_	
+1-22	119-120	.	_	_	_	
+
+#Text=This was probably a lobar
+#Text=broncho-pneumonia in the first instance, like those just described,
+#Text=with pleurisy, the result of which was a cartilaginous degeneration
+#Text=of the pleura and a fibroid degeneration of the lung.
+2-1	121-125	This	_	_	_	
+2-2	126-129	was	_	_	_	
+2-3	130-138	probably	_	_	_	
+2-4	139-140	a	_	_	_	
+2-5	141-146	lobar	_	_	_	
+2-6	147-164	broncho-pneumonia	_	_	_	
+2-7	165-167	in	_	_	_	
+2-8	168-171	the	_	_	_	
+2-9	172-177	first	_	_	_	
+2-10	178-186	instance	_	_	_	
+2-11	186-187	,	_	_	_	
+2-12	188-192	like	_	_	_	
+2-13	193-198	those	_	_	_	
+2-14	199-203	just	_	_	_	
+2-15	204-213	described	_	_	_	
+2-16	213-214	,	_	_	_	
+2-17	215-219	with	_	_	_	
+2-18	220-228	pleurisy	_	_	_	
+2-19	228-229	,	_	_	_	
+2-20	230-233	the	_	_	_	
+2-21	234-240	result	_	_	_	
+2-22	241-243	of	_	_	_	
+2-23	244-249	which	_	_	_	
+2-24	250-253	was	_	_	_	
+2-25	254-255	a	_	_	_	
+2-26	256-269	cartilaginous	_	_	_	
+2-27	270-282	degeneration	_	_	_	
+2-28	283-285	of	_	_	_	
+2-29	286-289	the	_	_	_	
+2-30	290-296	pleura	_	_	_	
+2-31	297-300	and	_	_	_	
+2-32	301-302	a	_	_	_	
+2-33	303-310	fibroid	_	_	_	
+2-34	311-323	degeneration	_	_	_	
+2-35	324-326	of	_	_	_	
+2-36	327-330	the	_	_	_	
+2-37	331-335	lung	_	_	_	
+2-38	335-336	.	_	_	_	
+
+#Text=We may
+#Text=look upon the fetid cavity, therefore, as consecutive to those fibroid
+#Text=degenerations, just as in ordinary phthisis a vomica is consecutive
+#Text=to tuberculization.
+3-1	337-339	We	Perceiver	_	_	
+3-2	340-343	may	_	_	_	
+3-3	344-348	look	_	_	_	
+3-4	349-353	upon	_	_	_	
+3-5	354-357	the	_	_	_	
+3-6	358-363	fetid	Smell\_Word[1]|Quality[2]	*|*|*|*	3-7[0_1]|3-1[0_1]|3-11[3_1]|3-6[2_1]	
+3-7	364-370	cavity	Smell\_Source	_	_	
+3-8	370-371	,	_	_	_	
+3-9	372-381	therefore	_	_	_	
+3-10	381-382	,	_	_	_	
+3-11	383-385	as	Circumstances[3]	_	_	
+3-12	386-397	consecutive	Circumstances[3]	_	_	
+3-13	398-400	to	Circumstances[3]	_	_	
+3-14	401-406	those	Circumstances[3]	_	_	
+3-15	407-414	fibroid	Circumstances[3]	_	_	
+3-16	415-428	degenerations	Circumstances[3]	_	_	
+3-17	428-429	,	_	_	_	
+3-18	430-434	just	_	_	_	
+3-19	435-437	as	_	_	_	
+3-20	438-440	in	_	_	_	
+3-21	441-449	ordinary	_	_	_	
+3-22	450-458	phthisis	_	_	_	
+3-23	459-460	a	_	_	_	
+3-24	461-467	vomica	_	_	_	
+3-25	468-470	is	_	_	_	
+3-26	471-482	consecutive	_	_	_	
+3-27	483-485	to	_	_	_	
+3-28	486-501	tuberculization	_	_	_	
+3-29	501-502	.	_	_	_	
+
+#Text=And I think that when we find such cavities
+#Text=in a highly fibroid lung, we may reasonably conclude that they are
+#Text=formed like other ulcerous solutions of continuity of tissues in the
+#Text=state of fibroid degeneration, and are to he classed with rodent
+#Text=fibroid ulcers in the skin and cervix uteri or elsewhere.
+4-1	503-506	And	_	_	_	
+4-2	507-508	I	_	_	_	
+4-3	509-514	think	_	_	_	
+4-4	515-519	that	_	_	_	
+4-5	520-524	when	_	_	_	
+4-6	525-527	we	_	_	_	
+4-7	528-532	find	_	_	_	
+4-8	533-537	such	_	_	_	
+4-9	538-546	cavities	_	_	_	
+4-10	547-549	in	_	_	_	
+4-11	550-551	a	_	_	_	
+4-12	552-558	highly	_	_	_	
+4-13	559-566	fibroid	_	_	_	
+4-14	567-571	lung	_	_	_	
+4-15	571-572	,	_	_	_	
+4-16	573-575	we	_	_	_	
+4-17	576-579	may	_	_	_	
+4-18	580-590	reasonably	_	_	_	
+4-19	591-599	conclude	_	_	_	
+4-20	600-604	that	_	_	_	
+4-21	605-609	they	_	_	_	
+4-22	610-613	are	_	_	_	
+4-23	614-620	formed	_	_	_	
+4-24	621-625	like	_	_	_	
+4-25	626-631	other	_	_	_	
+4-26	632-640	ulcerous	_	_	_	
+4-27	641-650	solutions	_	_	_	
+4-28	651-653	of	_	_	_	
+4-29	654-664	continuity	_	_	_	
+4-30	665-667	of	_	_	_	
+4-31	668-675	tissues	_	_	_	
+4-32	676-678	in	_	_	_	
+4-33	679-682	the	_	_	_	
+4-34	683-688	state	_	_	_	
+4-35	689-691	of	_	_	_	
+4-36	692-699	fibroid	_	_	_	
+4-37	700-712	degeneration	_	_	_	
+4-38	712-713	,	_	_	_	
+4-39	714-717	and	_	_	_	
+4-40	718-721	are	_	_	_	
+4-41	722-724	to	_	_	_	
+4-42	725-727	he	_	_	_	
+4-43	728-735	classed	_	_	_	
+4-44	736-740	with	_	_	_	
+4-45	741-747	rodent	_	_	_	
+4-46	748-755	fibroid	_	_	_	
+4-47	756-762	ulcers	_	_	_	
+4-48	763-765	in	_	_	_	
+4-49	766-769	the	_	_	_	
+4-50	770-774	skin	_	_	_	
+4-51	775-778	and	_	_	_	
+4-52	779-785	cervix	_	_	_	
+4-53	786-791	uteri	_	_	_	
+4-54	792-794	or	_	_	_	
+4-55	795-804	elsewhere	_	_	_	
+4-56	804-805	.	_	_	_	
+
+#Text=Hence
+#Text=the cavity is the result of rodent fibroid ulceration.
+5-1	806-811	Hence	_	_	_	
+5-2	812-815	the	_	_	_	
+5-3	816-822	cavity	_	_	_	
+5-4	823-825	is	_	_	_	
+5-5	826-829	the	_	_	_	
+5-6	830-836	result	_	_	_	
+5-7	837-839	of	_	_	_	
+5-8	840-846	rodent	_	_	_	
+5-9	847-854	fibroid	_	_	_	
+5-10	855-865	ulceration	_	_	_	
+5-11	865-866	.	_	_	_	
+
+#Text=In its lining
+#Text=pyogenic membrane there is a tissue analogous to that of the
+#Text=bronchial mucous membrane in cases of chronic bronchitis.
+6-1	867-869	In	_	_	_	
+6-2	870-873	its	_	_	_	
+6-3	874-880	lining	_	_	_	
+6-4	881-889	pyogenic	_	_	_	
+6-5	890-898	membrane	_	_	_	
+6-6	899-904	there	_	_	_	
+6-7	905-907	is	_	_	_	
+6-8	908-909	a	_	_	_	
+6-9	910-916	tissue	_	_	_	
+6-10	917-926	analogous	_	_	_	
+6-11	927-929	to	_	_	_	
+6-12	930-934	that	_	_	_	
+6-13	935-937	of	_	_	_	
+6-14	938-941	the	_	_	_	
+6-15	942-951	bronchial	_	_	_	
+6-16	952-958	mucous	_	_	_	
+6-17	959-967	membrane	_	_	_	
+6-18	968-970	in	_	_	_	
+6-19	971-976	cases	_	_	_	
+6-20	977-979	of	_	_	_	
+6-21	980-987	chronic	_	_	_	
+6-22	988-998	bronchitis	_	_	_	
+6-23	998-999	.	_	_	_	
+
+#Text=Since
+#Text=the structural disease is constitutional, it is fair to conclude that
+#Text=the predisposing causes of the peculiar fetid excretion are constitutional, and are linked etiologically with the fibroid change of
+#Text=tissue.
+7-1	1000-1005	Since	_	_	_	
+7-2	1006-1009	the	_	_	_	
+7-3	1010-1020	structural	_	_	_	
+7-4	1021-1028	disease	_	_	_	
+7-5	1029-1031	is	_	_	_	
+7-6	1032-1046	constitutional	_	_	_	
+7-7	1046-1047	,	_	_	_	
+7-8	1048-1050	it	_	_	_	
+7-9	1051-1053	is	_	_	_	
+7-10	1054-1058	fair	_	_	_	
+7-11	1059-1061	to	_	_	_	
+7-12	1062-1070	conclude	_	_	_	
+7-13	1071-1075	that	_	_	_	
+7-14	1076-1079	the	_	_	_	
+7-15	1080-1092	predisposing	_	_	_	
+7-16	1093-1099	causes	_	_	_	
+7-17	1100-1102	of	_	_	_	
+7-18	1103-1106	the	_	_	_	
+7-19	1107-1115	peculiar	Quality	_	_	
+7-20	1116-1121	fetid	Smell\_Word[4]|Quality[5]	*|*|*	7-20[5_4]|7-21[0_4]|7-19[0_4]	
+7-21	1122-1131	excretion	Smell\_Source	_	_	
+7-22	1132-1135	are	_	_	_	
+7-23	1136-1150	constitutional	_	_	_	
+7-24	1150-1151	,	_	_	_	
+7-25	1152-1155	and	_	_	_	
+7-26	1156-1159	are	_	_	_	
+7-27	1160-1166	linked	_	_	_	
+7-28	1167-1180	etiologically	_	_	_	
+7-29	1181-1185	with	_	_	_	
+7-30	1186-1189	the	_	_	_	
+7-31	1190-1197	fibroid	_	_	_	
+7-32	1198-1204	change	_	_	_	
+7-33	1205-1207	of	_	_	_	
+7-34	1208-1214	tissue	_	_	_	
+7-35	1214-1215	.	_	_	_	
+
+#Text=It is a special characteristic of fibroid and cartilaginous
+#Text=ulcerations to be fetid.
+8-1	1216-1218	It	_	_	_	
+8-2	1219-1221	is	_	_	_	
+8-3	1222-1223	a	_	_	_	
+8-4	1224-1231	special	_	_	_	
+8-5	1232-1246	characteristic	_	_	_	
+8-6	1247-1249	of	_	_	_	
+8-7	1250-1257	fibroid	Smell\_Source[6]	_	_	
+8-8	1258-1261	and	Smell\_Source[6]	_	_	
+8-9	1262-1275	cartilaginous	Smell\_Source[6]	_	_	
+8-10	1276-1287	ulcerations	Smell\_Source[6]	_	_	
+8-11	1288-1290	to	_	_	_	
+8-12	1291-1293	be	_	_	_	
+8-13	1294-1299	fetid	Smell\_Word[7]|Quality[8]	*|*	8-13[8_7]|8-7[6_7]	
+8-14	1299-1300	.	_	_	_	
+
+#Text=This is well shown in ozaena, which is a
+#Text=deep ulceration of the fibrous and cartilaginous tissues of the nose,
+#Text=and also in rodent fibroid ulcers in general.
+9-1	1301-1305	This	_	_	_	
+9-2	1306-1308	is	_	_	_	
+9-3	1309-1313	well	_	_	_	
+9-4	1314-1319	shown	_	_	_	
+9-5	1320-1322	in	_	_	_	
+9-6	1323-1329	ozaena	_	_	_	
+9-7	1329-1330	,	_	_	_	
+9-8	1331-1336	which	_	_	_	
+9-9	1337-1339	is	_	_	_	
+9-10	1340-1341	a	_	_	_	
+9-11	1342-1346	deep	_	_	_	
+9-12	1347-1357	ulceration	_	_	_	
+9-13	1358-1360	of	_	_	_	
+9-14	1361-1364	the	_	_	_	
+9-15	1365-1372	fibrous	_	_	_	
+9-16	1373-1376	and	_	_	_	
+9-17	1377-1390	cartilaginous	_	_	_	
+9-18	1391-1398	tissues	_	_	_	
+9-19	1399-1401	of	_	_	_	
+9-20	1402-1405	the	_	_	_	
+9-21	1406-1410	nose	_	_	_	
+9-22	1410-1411	,	_	_	_	
+9-23	1412-1415	and	_	_	_	
+9-24	1416-1420	also	_	_	_	
+9-25	1421-1423	in	_	_	_	
+9-26	1424-1430	rodent	_	_	_	
+9-27	1431-1438	fibroid	_	_	_	
+9-28	1439-1445	ulcers	_	_	_	
+9-29	1446-1448	in	_	_	_	
+9-30	1449-1456	general	_	_	_	
+9-31	1456-1457	.	_	_	_	
+
+#Text=The smell of ozaena
+#Text=is, in fact, very similar to that observed in examples of fetid fibroid
+#Text=vomicai ; and M.
+10-1	1458-1461	The	_	_	_	
+10-2	1462-1467	smell	Smell\_Word	*|*	10-3[9_0]|10-10[10_0]	
+10-3	1468-1470	of	Smell\_Source[9]	_	_	
+10-4	1471-1477	ozaena	Smell\_Source[9]	_	_	
+10-5	1478-1480	is	_	_	_	
+10-6	1480-1481	,	_	_	_	
+10-7	1482-1484	in	_	_	_	
+10-8	1485-1489	fact	_	_	_	
+10-9	1489-1490	,	_	_	_	
+10-10	1491-1495	very	Circumstances[10]	_	_	
+10-11	1496-1503	similar	Circumstances[10]	_	_	
+10-12	1504-1506	to	Circumstances[10]	_	_	
+10-13	1507-1511	that	Circumstances[10]	_	_	
+10-14	1512-1520	observed	Circumstances[10]	_	_	
+10-15	1521-1523	in	Circumstances[10]	_	_	
+10-16	1524-1532	examples	Circumstances[10]	_	_	
+10-17	1533-1535	of	Circumstances[10]	_	_	
+10-18	1536-1541	fetid	Circumstances[10]	_	_	
+10-19	1542-1549	fibroid	Circumstances[10]	_	_	
+10-20	1550-1557	vomicai	Circumstances[10]	_	_	
+10-21	1558-1559	;	_	_	_	
+10-22	1560-1563	and	_	_	_	
+10-23	1564-1565	M	Perceiver[11]	_	_	
+10-24	1565-1566	.	Perceiver[11]	_	_	
+
+#Text=Lasagne correctly remarks the same of the fetor
+#Text=in fetid bronchitis.
+11-1	1567-1574	Lasagne	Perceiver	Same\_span	10-23[11_0]	
+11-2	1575-1584	correctly	_	_	_	
+11-3	1585-1592	remarks	_	_	_	
+11-4	1593-1596	the	_	_	_	
+11-5	1597-1601	same	_	_	_	
+11-6	1602-1604	of	_	_	_	
+11-7	1605-1608	the	_	_	_	
+11-8	1609-1614	fetor	Smell\_Word	*	11-1	
+11-9	1615-1617	in	_	_	_	
+11-10	1618-1623	fetid	Smell\_Word[12]|Quality[13]	*|*	11-10[13_12]|11-11[0_12]	
+11-11	1624-1634	bronchitis	Smell\_Source	_	_	
+11-12	1634-1635	.	_	_	_	
+
+#Text=Yet it is not otherwise described by observers
+#Text=in general than as " gangrenous."
+12-1	1636-1639	Yet	_	_	_	
+12-2	1640-1642	it	_	_	_	
+12-3	1643-1645	is	_	_	_	
+12-4	1646-1649	not	_	_	_	
+12-5	1650-1659	otherwise	_	_	_	
+12-6	1660-1669	described	_	_	_	
+12-7	1670-1672	by	_	_	_	
+12-8	1673-1682	observers	_	_	_	
+12-9	1683-1685	in	_	_	_	
+12-10	1686-1693	general	_	_	_	
+12-11	1694-1698	than	_	_	_	
+12-12	1699-1701	as	_	_	_	
+12-13	1702-1703	"	_	_	_	
+12-14	1704-1714	gangrenous	_	_	_	
+12-15	1714-1715	.	_	_	_	
+12-16	1715-1716	"	_	_	_	
+
+#Text=The characters will doubtless differ in different cases, according to the complications, — in one
+#Text=there may be dilated bronchi ; in another, a gangrenous cavern ; in
+#Text=another, blood may be exuded and decompose in tlie cavity
+#Text=under the same kind of fermentation as that which modifies the pus
+#Text=and bronchial secretion.
+13-1	1717-1720	The	_	_	_	
+13-2	1721-1731	characters	_	_	_	
+13-3	1732-1736	will	_	_	_	
+13-4	1737-1746	doubtless	_	_	_	
+13-5	1747-1753	differ	_	_	_	
+13-6	1754-1756	in	_	_	_	
+13-7	1757-1766	different	_	_	_	
+13-8	1767-1772	cases	_	_	_	
+13-9	1772-1773	,	_	_	_	
+13-10	1774-1783	according	_	_	_	
+13-11	1784-1786	to	_	_	_	
+13-12	1787-1790	the	_	_	_	
+13-13	1791-1804	complications	_	_	_	
+13-14	1804-1805	,	_	_	_	
+13-15	1806-1807	—	_	_	_	
+13-16	1808-1810	in	_	_	_	
+13-17	1811-1814	one	_	_	_	
+13-18	1815-1820	there	_	_	_	
+13-19	1821-1824	may	_	_	_	
+13-20	1825-1827	be	_	_	_	
+13-21	1828-1835	dilated	_	_	_	
+13-22	1836-1843	bronchi	_	_	_	
+13-23	1844-1845	;	_	_	_	
+13-24	1846-1848	in	_	_	_	
+13-25	1849-1856	another	_	_	_	
+13-26	1856-1857	,	_	_	_	
+13-27	1858-1859	a	_	_	_	
+13-28	1860-1870	gangrenous	_	_	_	
+13-29	1871-1877	cavern	_	_	_	
+13-30	1878-1879	;	_	_	_	
+13-31	1880-1882	in	_	_	_	
+13-32	1883-1890	another	_	_	_	
+13-33	1890-1891	,	_	_	_	
+13-34	1892-1897	blood	_	_	_	
+13-35	1898-1901	may	_	_	_	
+13-36	1902-1904	be	_	_	_	
+13-37	1905-1911	exuded	_	_	_	
+13-38	1912-1915	and	_	_	_	
+13-39	1916-1925	decompose	_	_	_	
+13-40	1926-1928	in	_	_	_	
+13-41	1929-1933	tlie	_	_	_	
+13-42	1934-1940	cavity	_	_	_	
+13-43	1941-1946	under	_	_	_	
+13-44	1947-1950	the	_	_	_	
+13-45	1951-1955	same	_	_	_	
+13-46	1956-1960	kind	_	_	_	
+13-47	1961-1963	of	_	_	_	
+13-48	1964-1976	fermentation	_	_	_	
+13-49	1977-1979	as	_	_	_	
+13-50	1980-1984	that	_	_	_	
+13-51	1985-1990	which	_	_	_	
+13-52	1991-1999	modifies	_	_	_	
+13-53	2000-2003	the	_	_	_	
+13-54	2004-2007	pus	_	_	_	
+13-55	2008-2011	and	_	_	_	
+13-56	2012-2021	bronchial	_	_	_	
+13-57	2022-2031	secretion	_	_	_	
+13-58	2031-2032	.	_	_	_	
+
+#Text=The smell might well be termed an ozaena-odour.
+14-1	2033-2036	The	_	_	_	
+14-2	2037-2042	smell	Smell\_Word	*	14-7[14_0]	
+14-3	2043-2048	might	_	_	_	
+14-4	2049-2053	well	_	_	_	
+14-5	2054-2056	be	_	_	_	
+14-6	2057-2063	termed	_	_	_	
+14-7	2064-2066	an	Smell\_Source[14]	_	_	
+14-8	2067-2079	ozaena-odour	Smell\_Source[14]	_	_	
+14-9	2079-2080	.	_	_	_	
+
+#Text=The Nature and Origin of the Pulmonary Fetor in Fetid Bronchitis and Bronchorrhoea.
+15-1	2082-2085	The	_	_	_	
+15-2	2086-2092	Nature	_	_	_	
+15-3	2093-2096	and	_	_	_	
+15-4	2097-2103	Origin	_	_	_	
+15-5	2104-2106	of	_	_	_	
+15-6	2107-2110	the	_	_	_	
+15-7	2111-2120	Pulmonary	Quality	_	_	
+15-8	2121-2126	Fetor	Smell\_Word	*	15-7	
+15-9	2127-2129	in	_	_	_	
+15-10	2130-2135	Fetid	Smell\_Word[15]|Quality[16]	*|*|*	15-10[16_15]|15-11[0_15]|15-13[0_15]	
+15-11	2136-2146	Bronchitis	Smell\_Source	_	_	
+15-12	2147-2150	and	_	_	_	
+15-13	2151-2164	Bronchorrhoea	Smell\_Source	_	_	
+15-14	2164-2165	.	_	_	_	
+
+#Text=In the last group of cases I have endeavoured to show that the
+#Text=peculiar fetor is probably similar in origin to ozaena ; but it is not
+#Text=like that odour in all cases ; nor will the explanation apply to the
+#Text=fetor of acute and chronic bronchitis, or of bronchorrhoea, or
+#Text=broncho-pneumonia, for tliere is no proof of a rodent ulcerous cavity
+#Text=in these.
+16-1	2167-2169	In	_	_	_	
+16-2	2170-2173	the	_	_	_	
+16-3	2174-2178	last	_	_	_	
+16-4	2179-2184	group	_	_	_	
+16-5	2185-2187	of	_	_	_	
+16-6	2188-2193	cases	_	_	_	
+16-7	2194-2195	I	Perceiver	_	_	
+16-8	2196-2200	have	_	_	_	
+16-9	2201-2212	endeavoured	_	_	_	
+16-10	2213-2215	to	_	_	_	
+16-11	2216-2220	show	_	_	_	
+16-12	2221-2225	that	_	_	_	
+16-13	2226-2229	the	_	_	_	
+16-14	2230-2238	peculiar	Quality	_	_	
+16-15	2239-2244	fetor	Smell\_Word	*|*|*	16-14|16-7|16-16[17_0]	
+16-16	2245-2247	is	Evoked\_Odorant[17]	_	_	
+16-17	2248-2256	probably	Evoked\_Odorant[17]	_	_	
+16-18	2257-2264	similar	Evoked\_Odorant[17]	_	_	
+16-19	2265-2267	in	Evoked\_Odorant[17]	_	_	
+16-20	2268-2274	origin	Evoked\_Odorant[17]	_	_	
+16-21	2275-2277	to	Evoked\_Odorant[17]	_	_	
+16-22	2278-2284	ozaena	Evoked\_Odorant[17]	_	_	
+16-23	2285-2286	;	_	_	_	
+16-24	2287-2290	but	_	_	_	
+16-25	2291-2293	it	_	_	_	
+16-26	2294-2296	is	_	_	_	
+16-27	2297-2300	not	_	_	_	
+16-28	2301-2305	like	_	_	_	
+16-29	2306-2310	that	Evoked\_Odorant	Anaphoric	16-16[17_0]	
+16-30	2311-2316	odour	Smell\_Word	*|*	16-29|16-31[18_0]	
+16-31	2317-2319	in	Circumstances[18]	_	_	
+16-32	2320-2323	all	Circumstances[18]	_	_	
+16-33	2324-2329	cases	Circumstances[18]	_	_	
+16-34	2330-2331	;	_	_	_	
+16-35	2332-2335	nor	_	_	_	
+16-36	2336-2340	will	_	_	_	
+16-37	2341-2344	the	_	_	_	
+16-38	2345-2356	explanation	_	_	_	
+16-39	2357-2362	apply	_	_	_	
+16-40	2363-2365	to	_	_	_	
+16-41	2366-2369	the	_	_	_	
+16-42	2370-2375	fetor	Smell\_Word	*|*|*	16-43[19_0]|16-50[20_0]|16-54	
+16-43	2376-2378	of	Smell\_Source[19]	_	_	
+16-44	2379-2384	acute	Smell\_Source[19]	_	_	
+16-45	2385-2388	and	Smell\_Source[19]	_	_	
+16-46	2389-2396	chronic	Smell\_Source[19]	_	_	
+16-47	2397-2407	bronchitis	Smell\_Source[19]	_	_	
+16-48	2407-2408	,	_	_	_	
+16-49	2409-2411	or	_	_	_	
+16-50	2412-2414	of	Smell\_Source[20]	_	_	
+16-51	2415-2428	bronchorrhoea	Smell\_Source[20]	_	_	
+16-52	2428-2429	,	_	_	_	
+16-53	2430-2432	or	_	_	_	
+16-54	2433-2450	broncho-pneumonia	Smell\_Source	_	_	
+16-55	2450-2451	,	_	_	_	
+16-56	2452-2455	for	_	_	_	
+16-57	2456-2462	tliere	_	_	_	
+16-58	2463-2465	is	_	_	_	
+16-59	2466-2468	no	_	_	_	
+16-60	2469-2474	proof	_	_	_	
+16-61	2475-2477	of	_	_	_	
+16-62	2478-2479	a	_	_	_	
+16-63	2480-2486	rodent	_	_	_	
+16-64	2487-2495	ulcerous	_	_	_	
+16-65	2496-2502	cavity	_	_	_	
+16-66	2503-2505	in	_	_	_	
+16-67	2506-2511	these	_	_	_	
+16-68	2511-2512	.	_	_	_	
+
+#Text=Now, it is to be observed that the odour is sui generis
+#Text=in them, as compared with other pulmonary fetors, and has therefore its own characters. 
+#Text=1.
+17-1	2513-2516	Now	_	_	_	
+17-2	2516-2517	,	_	_	_	
+17-3	2518-2520	it	_	_	_	
+17-4	2521-2523	is	_	_	_	
+17-5	2524-2526	to	_	_	_	
+17-6	2527-2529	be	_	_	_	
+17-7	2530-2538	observed	_	_	_	
+17-8	2539-2543	that	_	_	_	
+17-9	2544-2547	the	_	_	_	
+17-10	2548-2553	odour	Smell\_Word	*	17-12[21_0]	
+17-11	2554-2556	is	_	_	_	
+17-12	2557-2560	sui	Quality[21]	_	_	
+17-13	2561-2568	generis	Quality[21]	_	_	
+17-14	2569-2571	in	_	_	_	
+17-15	2572-2576	them	_	_	_	
+17-16	2576-2577	,	_	_	_	
+17-17	2578-2580	as	_	_	_	
+17-18	2581-2589	compared	_	_	_	
+17-19	2590-2594	with	_	_	_	
+17-20	2595-2600	other	_	_	_	
+17-21	2601-2610	pulmonary	Quality	_	_	
+17-22	2611-2617	fetors	Smell\_Word	*	17-21	
+17-23	2617-2618	,	_	_	_	
+17-24	2619-2622	and	_	_	_	
+17-25	2623-2626	has	_	_	_	
+17-26	2627-2636	therefore	_	_	_	
+17-27	2637-2640	its	_	_	_	
+17-28	2641-2644	own	_	_	_	
+17-29	2645-2655	characters	_	_	_	
+17-30	2655-2656	.	_	_	_	
+17-31	2658-2659	1	_	_	_	
+17-32	2659-2660	.	_	_	_	
+
+#Text=In its typical form, according to my experience, when it comes directly from the lung, it is always more
+#Text=or less faecal.
+18-1	2661-2663	In	_	_	_	
+18-2	2664-2667	its	_	_	_	
+18-3	2668-2675	typical	_	_	_	
+18-4	2676-2680	form	_	_	_	
+18-5	2680-2681	,	_	_	_	
+18-6	2682-2691	according	_	_	_	
+18-7	2692-2694	to	_	_	_	
+18-8	2695-2697	my	_	_	_	
+18-9	2698-2708	experience	_	_	_	
+18-10	2708-2709	,	_	_	_	
+18-11	2710-2714	when	_	_	_	
+18-12	2715-2717	it	_	_	_	
+18-13	2718-2723	comes	_	_	_	
+18-14	2724-2732	directly	_	_	_	
+18-15	2733-2737	from	_	_	_	
+18-16	2738-2741	the	_	_	_	
+18-17	2742-2746	lung	_	_	_	
+18-18	2746-2747	,	_	_	_	
+18-19	2748-2750	it	_	_	_	
+18-20	2751-2753	is	_	_	_	
+18-21	2754-2760	always	_	_	_	
+18-22	2761-2765	more	_	_	_	
+18-23	2766-2768	or	_	_	_	
+18-24	2769-2773	less	_	_	_	
+18-25	2774-2780	faecal	_	_	_	
+18-26	2780-2781	.	_	_	_	
+
+#Text=In the first case that I observed, the breath and
+#Text=sputa rendered a spacious ward odious as a privy, with the stench
+#Text=of fresh foeces.
+19-1	2782-2784	In	_	_	_	
+19-2	2785-2788	the	_	_	_	
+19-3	2789-2794	first	_	_	_	
+19-4	2795-2799	case	_	_	_	
+19-5	2800-2804	that	_	_	_	
+19-6	2805-2806	I	_	_	_	
+19-7	2807-2815	observed	_	_	_	
+19-8	2815-2816	,	_	_	_	
+19-9	2817-2820	the	_	_	_	
+19-10	2821-2827	breath	_	_	_	
+19-11	2828-2831	and	_	_	_	
+19-12	2832-2837	sputa	_	_	_	
+19-13	2838-2846	rendered	_	_	_	
+19-14	2847-2848	a	_	_	_	
+19-15	2849-2857	spacious	_	_	_	
+19-16	2858-2862	ward	_	_	_	
+19-17	2863-2869	odious	_	_	_	
+19-18	2870-2872	as	_	_	_	
+19-19	2873-2874	a	_	_	_	
+19-20	2875-2880	privy	_	_	_	
+19-21	2880-2881	,	_	_	_	
+19-22	2882-2886	with	_	_	_	
+19-23	2887-2890	the	_	_	_	
+19-24	2891-2897	stench	Smell\_Word	*	19-25[22_0]	
+19-25	2898-2900	of	Smell\_Source[22]	_	_	
+19-26	2901-2906	fresh	Smell\_Source[22]	_	_	
+19-27	2907-2913	foeces	Smell\_Source[22]	_	_	
+19-28	2913-2914	.	_	_	_	
+
+#Text=As to this fact there can be no mistake.
+20-1	2915-2917	As	_	_	_	
+20-2	2918-2920	to	_	_	_	
+20-3	2921-2925	this	_	_	_	
+20-4	2926-2930	fact	_	_	_	
+20-5	2931-2936	there	_	_	_	
+20-6	2937-2940	can	_	_	_	
+20-7	2941-2943	be	_	_	_	
+20-8	2944-2946	no	_	_	_	
+20-9	2947-2954	mistake	_	_	_	
+20-10	2954-2955	.	_	_	_	
+
+#Text=Now this
+#Text=is not the odour of the breath in cases of fetid abscess or ozaena.
+#Text=2.
+21-1	2956-2959	Now	Time	_	_	
+21-2	2960-2964	this	_	_	_	
+21-3	2965-2967	is	_	_	_	
+21-4	2968-2971	not	_	_	_	
+21-5	2972-2975	the	_	_	_	
+21-6	2976-2981	odour	Smell\_Word	*|*	21-7[23_0]|21-1	
+21-7	2982-2984	of	Smell\_Source[23]	_	_	
+21-8	2985-2988	the	Smell\_Source[23]	_	_	
+21-9	2989-2995	breath	Smell\_Source[23]	_	_	
+21-10	2996-2998	in	_	_	_	
+21-11	2999-3004	cases	_	_	_	
+21-12	3005-3007	of	_	_	_	
+21-13	3008-3013	fetid	Smell\_Word[24]|Quality[25]	*|*|*	21-13[25_24]|21-14[0_24]|21-16[0_24]	
+21-14	3014-3021	abscess	Smell\_Source	_	_	
+21-15	3022-3024	or	_	_	_	
+21-16	3025-3031	ozaena	Smell\_Source	_	_	
+21-17	3031-3032	.	_	_	_	
+21-18	3033-3034	2	_	_	_	
+21-19	3034-3035	.	_	_	_	
+
+#Text=After the sputa has been exposed to the air for a while, however,
+#Text=it gives off an odour wholly different.
+22-1	3036-3041	After	Circumstances[26]	_	_	
+22-2	3042-3045	the	Circumstances[26]|Smell\_Source[27]	_	_	
+22-3	3046-3051	sputa	Circumstances[26]|Smell\_Source[27]	_	_	
+22-4	3052-3055	has	Circumstances[26]	_	_	
+22-5	3056-3060	been	Circumstances[26]	_	_	
+22-6	3061-3068	exposed	Circumstances[26]	_	_	
+22-7	3069-3071	to	Circumstances[26]	_	_	
+22-8	3072-3075	the	Circumstances[26]	_	_	
+22-9	3076-3079	air	Circumstances[26]	_	_	
+22-10	3080-3083	for	Circumstances[26]	_	_	
+22-11	3084-3085	a	Circumstances[26]	_	_	
+22-12	3086-3091	while	Circumstances[26]	_	_	
+22-13	3091-3092	,	_	_	_	
+22-14	3093-3100	however	_	_	_	
+22-15	3100-3101	,	_	_	_	
+22-16	3102-3104	it	_	_	_	
+22-17	3105-3110	gives	_	_	_	
+22-18	3111-3114	off	_	_	_	
+22-19	3115-3117	an	_	_	_	
+22-20	3118-3123	odour	Smell\_Word	*|*|*	22-21[28_0]|22-2[27_0]|22-1[26_0]	
+22-21	3124-3130	wholly	Quality[28]	_	_	
+22-22	3131-3140	different	Quality[28]	_	_	
+22-23	3140-3141	.	_	_	_	
+
+#Text=In my first case I could
+#Text=only liken it to the delicate scent of a decaying apple.- In the
+#Text=case of Oliver S.
+23-1	3142-3144	In	_	_	_	
+23-2	3145-3147	my	_	_	_	
+23-3	3148-3153	first	_	_	_	
+23-4	3154-3158	case	_	_	_	
+23-5	3159-3160	I	_	_	_	
+23-6	3161-3166	could	_	_	_	
+23-7	3167-3171	only	_	_	_	
+23-8	3172-3177	liken	_	_	_	
+23-9	3178-3180	it	_	_	_	
+23-10	3181-3183	to	_	_	_	
+23-11	3184-3187	the	_	_	_	
+23-12	3188-3196	delicate	Quality	_	_	
+23-13	3197-3202	scent	Smell\_Word	*|*	23-12|23-14[29_0]	
+23-14	3203-3205	of	Smell\_Source[29]	_	_	
+23-15	3206-3207	a	Smell\_Source[29]	_	_	
+23-16	3208-3216	decaying	Smell\_Source[29]	_	_	
+23-17	3217-3222	apple	Smell\_Source[29]	_	_	
+23-18	3222-3223	.	_	_	_	
+23-19	3223-3224	-	_	_	_	
+23-20	3225-3227	In	_	_	_	
+23-21	3228-3231	the	_	_	_	
+23-22	3232-3236	case	_	_	_	
+23-23	3237-3239	of	_	_	_	
+23-24	3240-3246	Oliver	_	_	_	
+23-25	3247-3248	S	_	_	_	
+23-26	3248-3249	.	_	_	_	
+
+#Text=(reported by my friend Dr Low of King ' s Lynn,
+#Text=together with my clinical remarks), the breath and sputa were
+#Text=noted as of an odour "rather faecal than gangrenous;" while that
+#Text=of the sputa became like the scent of the apple or hawthorn blossom.
+24-1	3250-3251	(	_	_	_	
+24-2	3251-3259	reported	_	_	_	
+24-3	3260-3262	by	_	_	_	
+24-4	3263-3265	my	_	_	_	
+24-5	3266-3272	friend	_	_	_	
+24-6	3273-3275	Dr	_	_	_	
+24-7	3276-3279	Low	_	_	_	
+24-8	3280-3282	of	_	_	_	
+24-9	3283-3287	King	_	_	_	
+24-10	3288-3289	'	_	_	_	
+24-11	3290-3291	s	_	_	_	
+24-12	3292-3296	Lynn	_	_	_	
+24-13	3296-3297	,	_	_	_	
+24-14	3298-3306	together	_	_	_	
+24-15	3307-3311	with	_	_	_	
+24-16	3312-3314	my	_	_	_	
+24-17	3315-3323	clinical	_	_	_	
+24-18	3324-3331	remarks	_	_	_	
+24-19	3331-3332	)	_	_	_	
+24-20	3332-3333	,	_	_	_	
+24-21	3334-3337	the	_	_	_	
+24-22	3338-3344	breath	Smell\_Source	_	_	
+24-23	3345-3348	and	_	_	_	
+24-24	3349-3354	sputa	Smell\_Source	_	_	
+24-25	3355-3359	were	_	_	_	
+24-26	3360-3365	noted	_	_	_	
+24-27	3366-3368	as	_	_	_	
+24-28	3369-3371	of	_	_	_	
+24-29	3372-3374	an	_	_	_	
+24-30	3375-3380	odour	Smell\_Word	*|*|*	24-31[30_0]|24-22|24-24	
+24-31	3381-3382	"	Quality[30]	_	_	
+24-32	3382-3388	rather	Quality[30]	_	_	
+24-33	3389-3395	faecal	Quality[30]	_	_	
+24-34	3396-3400	than	Quality[30]	_	_	
+24-35	3401-3411	gangrenous	Quality[30]	_	_	
+24-36	3411-3412	;	Quality[30]	_	_	
+24-37	3412-3413	"	Quality[30]	_	_	
+24-38	3414-3419	while	_	_	_	
+24-39	3420-3424	that	Smell\_Word	Anaphoric|*	24-30|24-40[31_0]	
+24-40	3425-3427	of	Smell\_Source[31]	_	_	
+24-41	3428-3431	the	Smell\_Source[31]	_	_	
+24-42	3432-3437	sputa	Smell\_Source[31]	_	_	
+24-43	3438-3444	became	_	_	_	
+24-44	3445-3449	like	_	_	_	
+24-45	3450-3453	the	_	_	_	
+24-46	3454-3459	scent	Smell\_Word	*|*	24-47[32_0]|24-51[33_0]	
+24-47	3460-3462	of	Evoked\_Odorant[32]	_	_	
+24-48	3463-3466	the	Evoked\_Odorant[32]	_	_	
+24-49	3467-3472	apple	Evoked\_Odorant[32]	_	_	
+24-50	3473-3475	or	_	_	_	
+24-51	3476-3484	hawthorn	Evoked\_Odorant[33]	_	_	
+24-52	3485-3492	blossom	Evoked\_Odorant[33]	_	_	
+24-53	3492-3493	.	_	_	_	
+
+#Text=And in the case of C.
+25-1	3495-3498	And	_	_	_	
+25-2	3499-3501	in	_	_	_	
+25-3	3502-3505	the	_	_	_	
+25-4	3506-3510	case	_	_	_	
+25-5	3511-3513	of	_	_	_	
+25-6	3514-3515	C	_	_	_	
+25-7	3515-3516	.	_	_	_	
+
+#Text=A., the sputum is correctly described as " of
+#Text=a muco-purulent character, with a disagreeable faecal odour, which
+#Text=is most intense when just expectorated, and which, on standing
+#Text=exposed to the air, becomes changed, — sometimes into a wet-mortar
+#Text=smell, but more generally into what simulates apple-blossom very
+#Text=closely."
+26-1	3517-3518	A	_	_	_	
+26-2	3518-3519	.	_	_	_	
+26-3	3519-3520	,	_	_	_	
+26-4	3521-3524	the	Smell\_Source[34]	_	_	
+26-5	3525-3531	sputum	Smell\_Source[34]	_	_	
+26-6	3532-3534	is	_	_	_	
+26-7	3535-3544	correctly	_	_	_	
+26-8	3545-3554	described	_	_	_	
+26-9	3555-3557	as	_	_	_	
+26-10	3558-3559	"	_	_	_	
+26-11	3560-3562	of	_	_	_	
+26-12	3563-3564	a	_	_	_	
+26-13	3565-3578	muco-purulent	_	_	_	
+26-14	3579-3588	character	_	_	_	
+26-15	3588-3589	,	_	_	_	
+26-16	3590-3594	with	_	_	_	
+26-17	3595-3596	a	_	_	_	
+26-18	3597-3609	disagreeable	Quality	_	_	
+26-19	3610-3616	faecal	Quality	_	_	
+26-20	3617-3622	odour	Smell\_Word	*|*|*	26-19|26-18|26-4[34_0]	
+26-21	3622-3623	,	_	_	_	
+26-22	3624-3629	which	Smell\_Word	Anaphoric|*|*	26-20|26-24[35_0]|26-26[36_0]	
+26-23	3630-3632	is	_	_	_	
+26-24	3633-3637	most	Quality[35]	_	_	
+26-25	3638-3645	intense	Quality[35]	_	_	
+26-26	3646-3650	when	Circumstances[36]	_	_	
+26-27	3651-3655	just	Circumstances[36]	_	_	
+26-28	3656-3668	expectorated	Circumstances[36]	_	_	
+26-29	3668-3669	,	_	_	_	
+26-30	3670-3673	and	_	_	_	
+26-31	3674-3679	which	Smell\_Word	Anaphoric|*|*	26-20|26-33[37_0]|26-41	
+26-32	3679-3680	,	_	_	_	
+26-33	3681-3683	on	Circumstances[37]	_	_	
+26-34	3684-3692	standing	Circumstances[37]	_	_	
+26-35	3693-3700	exposed	Circumstances[37]	_	_	
+26-36	3701-3703	to	Circumstances[37]	_	_	
+26-37	3704-3707	the	Circumstances[37]	_	_	
+26-38	3708-3711	air	Circumstances[37]	_	_	
+26-39	3711-3712	,	_	_	_	
+26-40	3713-3720	becomes	_	_	_	
+26-41	3721-3728	changed	Quality	_	_	
+26-42	3728-3729	,	_	_	_	
+26-43	3730-3731	—	_	_	_	
+26-44	3732-3741	sometimes	Time	_	_	
+26-45	3742-3746	into	_	_	_	
+26-46	3747-3748	a	Evoked\_Odorant[38]	_	_	
+26-47	3749-3759	wet-mortar	Evoked\_Odorant[38]	_	_	
+26-48	3760-3765	smell	Smell\_Word	*|*|*	26-44|26-46[38_0]|26-56	
+26-49	3765-3766	,	_	_	_	
+26-50	3767-3770	but	_	_	_	
+26-51	3771-3775	more	_	_	_	
+26-52	3776-3785	generally	_	_	_	
+26-53	3786-3790	into	_	_	_	
+26-54	3791-3795	what	_	_	_	
+26-55	3796-3805	simulates	_	_	_	
+26-56	3806-3819	apple-blossom	Evoked\_Odorant	_	_	
+26-57	3820-3824	very	_	_	_	
+26-58	3825-3832	closely	_	_	_	
+26-59	3832-3833	.	_	_	_	
+26-60	3833-3834	"	_	_	_	
+
+#Text=Now, in these characteristics the odour of fetid bronchitis differs essentially from that of fetid abscess and of true
+#Text=pulmonary gangrene.
+27-1	3836-3839	Now	_	_	_	
+27-2	3839-3840	,	_	_	_	
+27-3	3841-3843	in	_	_	_	
+27-4	3844-3849	these	_	_	_	
+27-5	3850-3865	characteristics	_	_	_	
+27-6	3866-3869	the	_	_	_	
+27-7	3870-3875	odour	Smell\_Word	*	27-8[39_0]	
+27-8	3876-3878	of	Smell\_Source[39]	_	_	
+27-9	3879-3884	fetid	Smell\_Source[39]	_	_	
+27-10	3885-3895	bronchitis	Smell\_Source[39]	_	_	
+27-11	3896-3903	differs	_	_	_	
+27-12	3904-3915	essentially	_	_	_	
+27-13	3916-3920	from	_	_	_	
+27-14	3921-3925	that	Smell\_Word	Anaphoric|*	27-7|27-15[40_0]	
+27-15	3926-3928	of	Smell\_Source[40]	_	_	
+27-16	3929-3934	fetid	Smell\_Source[40]	_	_	
+27-17	3935-3942	abscess	Smell\_Source[40]	_	_	
+27-18	3943-3946	and	_	_	_	
+27-19	3947-3949	of	_	_	_	
+27-20	3950-3954	true	_	_	_	
+27-21	3955-3964	pulmonary	_	_	_	
+27-22	3965-3973	gangrene	_	_	_	
+27-23	3973-3974	.	_	_	_	
+
+#Text=In the case of pulmonary gangi-ene with
+#Text=which I compared my first example of fetid bronchitis, the breath
+#Text=was so horrible that I was made sick to vomiting when using tlie
+#Text=stethoscope.
+28-1	3975-3977	In	Circumstances[41]	_	_	
+28-2	3978-3981	the	Circumstances[41]	_	_	
+28-3	3982-3986	case	Circumstances[41]	_	_	
+28-4	3987-3989	of	Circumstances[41]	_	_	
+28-5	3990-3999	pulmonary	Circumstances[41]	_	_	
+28-6	4000-4009	gangi-ene	Circumstances[41]	_	_	
+28-7	4010-4014	with	_	_	_	
+28-8	4015-4020	which	_	_	_	
+28-9	4021-4022	I	_	_	_	
+28-10	4023-4031	compared	_	_	_	
+28-11	4032-4034	my	_	_	_	
+28-12	4035-4040	first	_	_	_	
+28-13	4041-4048	example	_	_	_	
+28-14	4049-4051	of	_	_	_	
+28-15	4052-4057	fetid	Quality[42]|Smell\_Word[43]	*|*|*|*	28-15[42_43]|28-16[0_43]|28-18[44_43]|28-1[41_43]	
+28-16	4058-4068	bronchitis	Smell\_Source	_	_	
+28-17	4068-4069	,	_	_	_	
+28-18	4070-4073	the	Effect[44]	_	_	
+28-19	4074-4080	breath	Effect[44]	_	_	
+28-20	4081-4084	was	Effect[44]	_	_	
+28-21	4085-4087	so	Effect[44]	_	_	
+28-22	4088-4096	horrible	Effect[44]	_	_	
+28-23	4097-4101	that	Effect[44]	_	_	
+28-24	4102-4103	I	Effect[44]	_	_	
+28-25	4104-4107	was	Effect[44]	_	_	
+28-26	4108-4112	made	Effect[44]	_	_	
+28-27	4113-4117	sick	Effect[44]	_	_	
+28-28	4118-4120	to	Effect[44]	_	_	
+28-29	4121-4129	vomiting	Effect[44]	_	_	
+28-30	4130-4134	when	Effect[44]	_	_	
+28-31	4135-4140	using	Effect[44]	_	_	
+28-32	4141-4145	tlie	Effect[44]	_	_	
+28-33	4146-4157	stethoscope	Effect[44]	_	_	
+28-34	4157-4158	.	_	_	_	
+
+#Text=It was wholly unlike that of faeces.
+29-1	4159-4161	It	_	_	_	
+29-2	4162-4165	was	_	_	_	
+29-3	4166-4172	wholly	_	_	_	
+29-4	4173-4179	unlike	_	_	_	
+29-5	4180-4184	that	_	_	_	
+29-6	4185-4187	of	_	_	_	
+29-7	4188-4194	faeces	_	_	_	
+29-8	4194-4195	.	_	_	_	
+
+#Text=All writers
+#Text=speak of this dreadful smeii in true pulmonary gangrene; but
+#Text=none ever describe it as faecal except Louis.
+30-1	4196-4199	All	Perceiver[45]	_	_	
+30-2	4200-4207	writers	Perceiver[45]	_	_	
+30-3	4208-4213	speak	_	_	_	
+30-4	4214-4216	of	_	_	_	
+30-5	4217-4221	this	_	_	_	
+30-6	4222-4230	dreadful	Quality	_	_	
+30-7	4231-4236	smeii	Smell\_Word	*|*|*	30-6|30-8[46_0]|30-1[45_0]	
+30-8	4237-4239	in	Circumstances[46]	_	_	
+30-9	4240-4244	true	Circumstances[46]	_	_	
+30-10	4245-4254	pulmonary	Circumstances[46]	_	_	
+30-11	4255-4263	gangrene	Circumstances[46]	_	_	
+30-12	4263-4264	;	_	_	_	
+30-13	4265-4268	but	_	_	_	
+30-14	4269-4273	none	_	_	_	
+30-15	4274-4278	ever	_	_	_	
+30-16	4279-4287	describe	_	_	_	
+30-17	4288-4290	it	Smell\_Word	Anaphoric|*|*	30-7|30-19|30-21	
+30-18	4291-4293	as	_	_	_	
+30-19	4294-4300	faecal	Quality	_	_	
+30-20	4301-4307	except	_	_	_	
+30-21	4308-4313	Louis	Perceiver	_	_	
+30-22	4313-4314	.	_	_	_	
+
+#Text=He informed M.
+31-1	4315-4317	He	_	_	_	
+31-2	4318-4326	informed	_	_	_	
+31-3	4327-4328	M	_	_	_	
+31-4	4328-4329	.	_	_	_	
+
+#Text=Valleix that he had observed exceptions to this hon-ible putrid
+#Text=smell in certain cases, in which the odour resembled that of feces,
+#Text=although after death there was nothing more observed in the lung
+#Text=than what is usually found.
+32-1	4330-4337	Valleix	_	_	_	
+32-2	4338-4342	that	_	_	_	
+32-3	4343-4345	he	Perceiver	Anaphoric	30-21	
+32-4	4346-4349	had	_	_	_	
+32-5	4350-4358	observed	_	_	_	
+32-6	4359-4369	exceptions	_	_	_	
+32-7	4370-4372	to	_	_	_	
+32-8	4373-4377	this	_	_	_	
+32-9	4378-4386	hon-ible	Quality	_	_	
+32-10	4387-4393	putrid	Quality	_	_	
+32-11	4394-4399	smell	Smell\_Word	*|*|*|*	32-3|32-10|32-9|32-12[47_0]	
+32-12	4400-4402	in	Circumstances[47]	_	_	
+32-13	4403-4410	certain	Circumstances[47]	_	_	
+32-14	4411-4416	cases	Circumstances[47]	_	_	
+32-15	4416-4417	,	_	_	_	
+32-16	4418-4420	in	_	_	_	
+32-17	4421-4426	which	_	_	_	
+32-18	4427-4430	the	_	_	_	
+32-19	4431-4436	odour	Smell\_Word	*	32-20[48_0]	
+32-20	4437-4446	resembled	Evoked\_Odorant[48]	_	_	
+32-21	4447-4451	that	Evoked\_Odorant[48]	_	_	
+32-22	4452-4454	of	Evoked\_Odorant[48]	_	_	
+32-23	4455-4460	feces	Evoked\_Odorant[48]	_	_	
+32-24	4460-4461	,	_	_	_	
+32-25	4462-4470	although	_	_	_	
+32-26	4471-4476	after	_	_	_	
+32-27	4477-4482	death	_	_	_	
+32-28	4483-4488	there	_	_	_	
+32-29	4489-4492	was	_	_	_	
+32-30	4493-4500	nothing	_	_	_	
+32-31	4501-4505	more	_	_	_	
+32-32	4506-4514	observed	_	_	_	
+32-33	4515-4517	in	_	_	_	
+32-34	4518-4521	the	_	_	_	
+32-35	4522-4526	lung	_	_	_	
+32-36	4527-4531	than	_	_	_	
+32-37	4532-4536	what	_	_	_	
+32-38	4537-4539	is	_	_	_	
+32-39	4540-4547	usually	_	_	_	
+32-40	4548-4553	found	_	_	_	
+32-41	4553-4554	.	_	_	_	
+
+#Text=I suspect, however, that these cases
+#Text=were examples of pyogenic cavities, or dilated bronchi, and not
+#Text=gangrene ; for it is probable these pyogenic membranes give forth
+#Text=the same purulent stuff as the bronchial mucous membrane in cases
+#Text=of fetid bronchitis.
+33-1	4555-4556	I	_	_	_	
+33-2	4557-4564	suspect	_	_	_	
+33-3	4564-4565	,	_	_	_	
+33-4	4566-4573	however	_	_	_	
+33-5	4573-4574	,	_	_	_	
+33-6	4575-4579	that	_	_	_	
+33-7	4580-4585	these	_	_	_	
+33-8	4586-4591	cases	_	_	_	
+33-9	4592-4596	were	_	_	_	
+33-10	4597-4605	examples	_	_	_	
+33-11	4606-4608	of	_	_	_	
+33-12	4609-4617	pyogenic	_	_	_	
+33-13	4618-4626	cavities	_	_	_	
+33-14	4626-4627	,	_	_	_	
+33-15	4628-4630	or	_	_	_	
+33-16	4631-4638	dilated	_	_	_	
+33-17	4639-4646	bronchi	_	_	_	
+33-18	4646-4647	,	_	_	_	
+33-19	4648-4651	and	_	_	_	
+33-20	4652-4655	not	_	_	_	
+33-21	4656-4664	gangrene	_	_	_	
+33-22	4665-4666	;	_	_	_	
+33-23	4667-4670	for	_	_	_	
+33-24	4671-4673	it	_	_	_	
+33-25	4674-4676	is	_	_	_	
+33-26	4677-4685	probable	_	_	_	
+33-27	4686-4691	these	_	_	_	
+33-28	4692-4700	pyogenic	_	_	_	
+33-29	4701-4710	membranes	_	_	_	
+33-30	4711-4715	give	_	_	_	
+33-31	4716-4721	forth	_	_	_	
+33-32	4722-4725	the	_	_	_	
+33-33	4726-4730	same	_	_	_	
+33-34	4731-4739	purulent	_	_	_	
+33-35	4740-4745	stuff	_	_	_	
+33-36	4746-4748	as	_	_	_	
+33-37	4749-4752	the	_	_	_	
+33-38	4753-4762	bronchial	_	_	_	
+33-39	4763-4769	mucous	_	_	_	
+33-40	4770-4778	membrane	_	_	_	
+33-41	4779-4781	in	_	_	_	
+33-42	4782-4787	cases	_	_	_	
+33-43	4788-4790	of	_	_	_	
+33-44	4791-4796	fetid	Smell\_Word[49]|Quality[50]	*|*	33-44[50_49]|33-45[0_49]	
+33-45	4797-4807	bronchitis	Smell\_Source	_	_	
+33-46	4807-4808	.	_	_	_	
+
+#Text=Dr EUiotson remarks incidentally, that in
+#Text=phthisis the expectoration sometimes smells " like fasces."
+34-1	4809-4811	Dr	_	_	_	
+34-2	4812-4820	EUiotson	_	_	_	
+34-3	4821-4828	remarks	_	_	_	
+34-4	4829-4841	incidentally	_	_	_	
+34-5	4841-4842	,	_	_	_	
+34-6	4843-4847	that	_	_	_	
+34-7	4848-4850	in	Circumstances[51]	_	_	
+34-8	4851-4859	phthisis	Circumstances[51]	_	_	
+34-9	4860-4863	the	Smell\_Source[52]	_	_	
+34-10	4864-4877	expectoration	Smell\_Source[52]	_	_	
+34-11	4878-4887	sometimes	Time	_	_	
+34-12	4888-4894	smells	Smell\_Word	*|*|*|*	34-7[51_0]|34-11|34-9[52_0]|34-14[53_0]	
+34-13	4895-4896	"	_	_	_	
+34-14	4897-4901	like	Evoked\_Odorant[53]	_	_	
+34-15	4902-4908	fasces	Evoked\_Odorant[53]	_	_	
+34-16	4908-4909	.	_	_	_	
+34-17	4909-4910	"	_	_	_	
+
+#Text=I must
+#Text=express a doubt, however, that these were cases of tubercular
+#Text=phthisis, for I have never observed the faecal odour in any such
+#Text=cases.
+35-1	4911-4912	I	_	_	_	
+35-2	4913-4917	must	_	_	_	
+35-3	4918-4925	express	_	_	_	
+35-4	4926-4927	a	_	_	_	
+35-5	4928-4933	doubt	_	_	_	
+35-6	4933-4934	,	_	_	_	
+35-7	4935-4942	however	_	_	_	
+35-8	4942-4943	,	_	_	_	
+35-9	4944-4948	that	_	_	_	
+35-10	4949-4954	these	_	_	_	
+35-11	4955-4959	were	_	_	_	
+35-12	4960-4965	cases	_	_	_	
+35-13	4966-4968	of	_	_	_	
+35-14	4969-4979	tubercular	_	_	_	
+35-15	4980-4988	phthisis	_	_	_	
+35-16	4988-4989	,	_	_	_	
+35-17	4990-4993	for	_	_	_	
+35-18	4994-4995	I	Perceiver	_	_	
+35-19	4996-5000	have	_	_	_	
+35-20	5001-5006	never	_	_	_	
+35-21	5007-5015	observed	_	_	_	
+35-22	5016-5019	the	_	_	_	
+35-23	5020-5026	faecal	Quality	_	_	
+35-24	5027-5032	odour	Smell\_Word	*|*|*	35-23|35-18|35-25[54_0]	
+35-25	5033-5035	in	Circumstances[54]	_	_	
+35-26	5036-5039	any	Circumstances[54]	_	_	
+35-27	5040-5044	such	Circumstances[54]	_	_	
+35-28	5045-5050	cases	Circumstances[54]	_	_	
+35-29	5050-5051	.	_	_	_	
+
+#Text=Although fetid pus is not uncommon, pulmonary fetor,
+#Text=sui generis, is by no means a common symptom.
+36-1	5052-5060	Although	_	_	_	
+36-2	5061-5066	fetid	Smell\_Word[55]|Quality[56]	*|*|*	36-2[56_55]|36-3[0_55]|36-5[57_55]	
+36-3	5067-5070	pus	Smell\_Source	_	_	
+36-4	5071-5073	is	_	_	_	
+36-5	5074-5077	not	Quality[57]	_	_	
+36-6	5078-5086	uncommon	Quality[57]	_	_	
+36-7	5086-5087	,	_	_	_	
+36-8	5088-5097	pulmonary	Quality	_	_	
+36-9	5098-5103	fetor	Smell\_Word	*	36-8	
+36-10	5103-5104	,	_	_	_	
+36-11	5105-5108	sui	_	_	_	
+36-12	5109-5116	generis	_	_	_	
+36-13	5116-5117	,	_	_	_	
+36-14	5118-5120	is	_	_	_	
+36-15	5121-5123	by	_	_	_	
+36-16	5124-5126	no	_	_	_	
+36-17	5127-5132	means	_	_	_	
+36-18	5133-5134	a	_	_	_	
+36-19	5135-5141	common	_	_	_	
+36-20	5142-5149	symptom	_	_	_	
+36-21	5149-5150	.	_	_	_	
+
+#Text=I found it in
+#Text=only two of twelve hundred patients of the York County Hospital, and it can only be expected to occur in the rarer forms
+#Text=of consumption (using the term in its general sense), such as
+#Text=the rheumatic consumption I have described, and the bronchial or
+#Text=" pituitous consumption " of Gilchrist, in which there is a copious
+#Text=purulent expectoration derived solely from the smaller bronchi,
+#Text=although the lungs themselves are flabby, or emphysematous, or
+#Text=cedematous.
+37-1	5151-5152	I	_	_	_	
+37-2	5153-5158	found	_	_	_	
+37-3	5159-5161	it	_	_	_	
+37-4	5162-5164	in	_	_	_	
+37-5	5165-5169	only	_	_	_	
+37-6	5170-5173	two	_	_	_	
+37-7	5174-5176	of	_	_	_	
+37-8	5177-5183	twelve	_	_	_	
+37-9	5184-5191	hundred	_	_	_	
+37-10	5192-5200	patients	_	_	_	
+37-11	5201-5203	of	_	_	_	
+37-12	5204-5207	the	_	_	_	
+37-13	5208-5212	York	_	_	_	
+37-14	5213-5219	County	_	_	_	
+37-15	5220-5228	Hospital	_	_	_	
+37-16	5228-5229	,	_	_	_	
+37-17	5230-5233	and	_	_	_	
+37-18	5234-5236	it	_	_	_	
+37-19	5237-5240	can	_	_	_	
+37-20	5241-5245	only	_	_	_	
+37-21	5246-5248	be	_	_	_	
+37-22	5249-5257	expected	_	_	_	
+37-23	5258-5260	to	_	_	_	
+37-24	5261-5266	occur	_	_	_	
+37-25	5267-5269	in	_	_	_	
+37-26	5270-5273	the	_	_	_	
+37-27	5274-5279	rarer	_	_	_	
+37-28	5280-5285	forms	_	_	_	
+37-29	5286-5288	of	_	_	_	
+37-30	5289-5300	consumption	_	_	_	
+37-31	5301-5302	(	_	_	_	
+37-32	5302-5307	using	_	_	_	
+37-33	5308-5311	the	_	_	_	
+37-34	5312-5316	term	_	_	_	
+37-35	5317-5319	in	_	_	_	
+37-36	5320-5323	its	_	_	_	
+37-37	5324-5331	general	_	_	_	
+37-38	5332-5337	sense	_	_	_	
+37-39	5337-5338	)	_	_	_	
+37-40	5338-5339	,	_	_	_	
+37-41	5340-5344	such	_	_	_	
+37-42	5345-5347	as	_	_	_	
+37-43	5348-5351	the	_	_	_	
+37-44	5352-5361	rheumatic	_	_	_	
+37-45	5362-5373	consumption	_	_	_	
+37-46	5374-5375	I	_	_	_	
+37-47	5376-5380	have	_	_	_	
+37-48	5381-5390	described	_	_	_	
+37-49	5390-5391	,	_	_	_	
+37-50	5392-5395	and	_	_	_	
+37-51	5396-5399	the	_	_	_	
+37-52	5400-5409	bronchial	_	_	_	
+37-53	5410-5412	or	_	_	_	
+37-54	5413-5414	"	_	_	_	
+37-55	5415-5424	pituitous	_	_	_	
+37-56	5425-5436	consumption	_	_	_	
+37-57	5437-5438	"	_	_	_	
+37-58	5439-5441	of	_	_	_	
+37-59	5442-5451	Gilchrist	_	_	_	
+37-60	5451-5452	,	_	_	_	
+37-61	5453-5455	in	_	_	_	
+37-62	5456-5461	which	_	_	_	
+37-63	5462-5467	there	_	_	_	
+37-64	5468-5470	is	_	_	_	
+37-65	5471-5472	a	_	_	_	
+37-66	5473-5480	copious	_	_	_	
+37-67	5481-5489	purulent	_	_	_	
+37-68	5490-5503	expectoration	_	_	_	
+37-69	5504-5511	derived	_	_	_	
+37-70	5512-5518	solely	_	_	_	
+37-71	5519-5523	from	_	_	_	
+37-72	5524-5527	the	_	_	_	
+37-73	5528-5535	smaller	_	_	_	
+37-74	5536-5543	bronchi	_	_	_	
+37-75	5543-5544	,	_	_	_	
+37-76	5545-5553	although	_	_	_	
+37-77	5554-5557	the	_	_	_	
+37-78	5558-5563	lungs	_	_	_	
+37-79	5564-5574	themselves	_	_	_	
+37-80	5575-5578	are	_	_	_	
+37-81	5579-5585	flabby	_	_	_	
+37-82	5585-5586	,	_	_	_	
+37-83	5587-5589	or	_	_	_	
+37-84	5590-5603	emphysematous	_	_	_	
+37-85	5603-5604	,	_	_	_	
+37-86	5605-5607	or	_	_	_	
+37-87	5608-5618	cedematous	_	_	_	
+37-88	5618-5619	.	_	_	_	
+
+#Text=It follows, from these facts, that there are three distinct kinds of
+#Text=pulmonary fetor, namely, that of faces, that of ozaena, and that of
+#Text=gangrene ; and it remains to ascertain how each arises.
+38-1	5621-5623	It	_	_	_	
+38-2	5624-5631	follows	_	_	_	
+38-3	5631-5632	,	_	_	_	
+38-4	5633-5637	from	_	_	_	
+38-5	5638-5643	these	_	_	_	
+38-6	5644-5649	facts	_	_	_	
+38-7	5649-5650	,	_	_	_	
+38-8	5651-5655	that	_	_	_	
+38-9	5656-5661	there	_	_	_	
+38-10	5662-5665	are	_	_	_	
+38-11	5666-5671	three	_	_	_	
+38-12	5672-5680	distinct	_	_	_	
+38-13	5681-5686	kinds	_	_	_	
+38-14	5687-5689	of	_	_	_	
+38-15	5690-5699	pulmonary	Quality	_	_	
+38-16	5700-5705	fetor	Smell\_Word	*|*|*|*	38-15|38-30[60_0]|38-25[59_0]|38-21[58_0]	
+38-17	5705-5706	,	_	_	_	
+38-18	5707-5713	namely	_	_	_	
+38-19	5713-5714	,	_	_	_	
+38-20	5715-5719	that	_	_	_	
+38-21	5720-5722	of	Smell\_Source[58]	_	_	
+38-22	5723-5728	faces	Smell\_Source[58]	_	_	
+38-23	5728-5729	,	_	_	_	
+38-24	5730-5734	that	_	_	_	
+38-25	5735-5737	of	Smell\_Source[59]	_	_	
+38-26	5738-5744	ozaena	Smell\_Source[59]	_	_	
+38-27	5744-5745	,	_	_	_	
+38-28	5746-5749	and	_	_	_	
+38-29	5750-5754	that	_	_	_	
+38-30	5755-5757	of	Smell\_Source[60]	_	_	
+38-31	5758-5766	gangrene	Smell\_Source[60]	_	_	
+38-32	5767-5768	;	_	_	_	
+38-33	5769-5772	and	_	_	_	
+38-34	5773-5775	it	_	_	_	
+38-35	5776-5783	remains	_	_	_	
+38-36	5784-5786	to	_	_	_	
+38-37	5787-5796	ascertain	_	_	_	
+38-38	5797-5800	how	_	_	_	
+38-39	5801-5805	each	_	_	_	
+38-40	5806-5812	arises	_	_	_	
+38-41	5812-5813	.	_	_	_	
+
+#Text=The odour of pulmonary gangrene is obviously due to putrescent
+#Text=decomposition of the dead pulmonary tissue; it is the odour of
+#Text=putrefaction.
+39-1	5815-5818	The	_	_	_	
+39-2	5819-5824	odour	Smell\_Word	*|*	39-3[61_0]|39-6[62_0]	
+39-3	5825-5827	of	Smell\_Source[61]	_	_	
+39-4	5828-5837	pulmonary	Smell\_Source[61]	_	_	
+39-5	5838-5846	gangrene	Smell\_Source[61]	_	_	
+39-6	5847-5849	is	Circumstances[62]	_	_	
+39-7	5850-5859	obviously	Circumstances[62]	_	_	
+39-8	5860-5863	due	Circumstances[62]	_	_	
+39-9	5864-5866	to	Circumstances[62]	_	_	
+39-10	5867-5877	putrescent	Circumstances[62]	_	_	
+39-11	5878-5891	decomposition	Circumstances[62]	_	_	
+39-12	5892-5894	of	Circumstances[62]	_	_	
+39-13	5895-5898	the	Circumstances[62]	_	_	
+39-14	5899-5903	dead	Circumstances[62]	_	_	
+39-15	5904-5913	pulmonary	Circumstances[62]	_	_	
+39-16	5914-5920	tissue	Circumstances[62]	_	_	
+39-17	5920-5921	;	_	_	_	
+39-18	5922-5924	it	_	_	_	
+39-19	5925-5927	is	_	_	_	
+39-20	5928-5931	the	_	_	_	
+39-21	5932-5937	odour	Smell\_Word	*	39-22[63_0]	
+39-22	5938-5940	of	Smell\_Source[63]	_	_	
+39-23	5941-5953	putrefaction	Smell\_Source[63]	_	_	
+39-24	5953-5954	.	_	_	_	
+
+#Text=Dr Law has expressed the opinion that the blood
+#Text=previously effused into the lung putrefies.
+40-1	5955-5957	Dr	_	_	_	
+40-2	5958-5961	Law	_	_	_	
+40-3	5962-5965	has	_	_	_	
+40-4	5966-5975	expressed	_	_	_	
+40-5	5976-5979	the	_	_	_	
+40-6	5980-5987	opinion	_	_	_	
+40-7	5988-5992	that	_	_	_	
+40-8	5993-5996	the	_	_	_	
+40-9	5997-6002	blood	_	_	_	
+40-10	6003-6013	previously	_	_	_	
+40-11	6014-6021	effused	_	_	_	
+40-12	6022-6026	into	_	_	_	
+40-13	6027-6030	the	_	_	_	
+40-14	6031-6035	lung	_	_	_	
+40-15	6036-6045	putrefies	_	_	_	
+40-16	6045-6046	.	_	_	_	
+
+#Text=This may be the case when
+#Text=the lung itself is gangrenous, but blood rarely thus putrefies per se
+#Text=— perhaps never — without the action of a septic " ferment."
+41-1	6047-6051	This	_	_	_	
+41-2	6052-6055	may	_	_	_	
+41-3	6056-6058	be	_	_	_	
+41-4	6059-6062	the	_	_	_	
+41-5	6063-6067	case	_	_	_	
+41-6	6068-6072	when	_	_	_	
+41-7	6073-6076	the	_	_	_	
+41-8	6077-6081	lung	_	_	_	
+41-9	6082-6088	itself	_	_	_	
+41-10	6089-6091	is	_	_	_	
+41-11	6092-6102	gangrenous	_	_	_	
+41-12	6102-6103	,	_	_	_	
+41-13	6104-6107	but	_	_	_	
+41-14	6108-6113	blood	_	_	_	
+41-15	6114-6120	rarely	_	_	_	
+41-16	6121-6125	thus	_	_	_	
+41-17	6126-6135	putrefies	_	_	_	
+41-18	6136-6139	per	_	_	_	
+41-19	6140-6142	se	_	_	_	
+41-20	6143-6144	—	_	_	_	
+41-21	6145-6152	perhaps	_	_	_	
+41-22	6153-6158	never	_	_	_	
+41-23	6159-6160	—	_	_	_	
+41-24	6161-6168	without	_	_	_	
+41-25	6169-6172	the	_	_	_	
+41-26	6173-6179	action	_	_	_	
+41-27	6180-6182	of	_	_	_	
+41-28	6183-6184	a	_	_	_	
+41-29	6185-6191	septic	_	_	_	
+41-30	6192-6193	"	_	_	_	
+41-31	6194-6201	ferment	_	_	_	
+41-32	6201-6202	.	_	_	_	
+41-33	6202-6203	"	_	_	_	
+
+#Text=It is
+#Text=well known that putrid meat will quickly induce putrescence in
+#Text=fresh meat when brought near to it or in contact with it ; and it is
+#Text=therefore conceivable that the effused blood in cases of pneumonia
+#Text=and pulmonary apoplexy of a low type may receive a septic
+#Text="ferment" from without, and thus the putrid fermentation be set
+#Text=up in it.
+42-1	6204-6206	It	_	_	_	
+42-2	6207-6209	is	_	_	_	
+42-3	6210-6214	well	_	_	_	
+42-4	6215-6220	known	_	_	_	
+42-5	6221-6225	that	_	_	_	
+42-6	6226-6232	putrid	_	_	_	
+42-7	6233-6237	meat	_	_	_	
+42-8	6238-6242	will	_	_	_	
+42-9	6243-6250	quickly	_	_	_	
+42-10	6251-6257	induce	_	_	_	
+42-11	6258-6269	putrescence	_	_	_	
+42-12	6270-6272	in	_	_	_	
+42-13	6273-6278	fresh	_	_	_	
+42-14	6279-6283	meat	_	_	_	
+42-15	6284-6288	when	_	_	_	
+42-16	6289-6296	brought	_	_	_	
+42-17	6297-6301	near	_	_	_	
+42-18	6302-6304	to	_	_	_	
+42-19	6305-6307	it	_	_	_	
+42-20	6308-6310	or	_	_	_	
+42-21	6311-6313	in	_	_	_	
+42-22	6314-6321	contact	_	_	_	
+42-23	6322-6326	with	_	_	_	
+42-24	6327-6329	it	_	_	_	
+42-25	6330-6331	;	_	_	_	
+42-26	6332-6335	and	_	_	_	
+42-27	6336-6338	it	_	_	_	
+42-28	6339-6341	is	_	_	_	
+42-29	6342-6351	therefore	_	_	_	
+42-30	6352-6363	conceivable	_	_	_	
+42-31	6364-6368	that	_	_	_	
+42-32	6369-6372	the	_	_	_	
+42-33	6373-6380	effused	_	_	_	
+42-34	6381-6386	blood	_	_	_	
+42-35	6387-6389	in	_	_	_	
+42-36	6390-6395	cases	_	_	_	
+42-37	6396-6398	of	_	_	_	
+42-38	6399-6408	pneumonia	_	_	_	
+42-39	6409-6412	and	_	_	_	
+42-40	6413-6422	pulmonary	_	_	_	
+42-41	6423-6431	apoplexy	_	_	_	
+42-42	6432-6434	of	_	_	_	
+42-43	6435-6436	a	_	_	_	
+42-44	6437-6440	low	_	_	_	
+42-45	6441-6445	type	_	_	_	
+42-46	6446-6449	may	_	_	_	
+42-47	6450-6457	receive	_	_	_	
+42-48	6458-6459	a	_	_	_	
+42-49	6460-6466	septic	_	_	_	
+42-50	6467-6468	"	_	_	_	
+42-51	6468-6475	ferment	_	_	_	
+42-52	6475-6476	"	_	_	_	
+42-53	6477-6481	from	_	_	_	
+42-54	6482-6489	without	_	_	_	
+42-55	6489-6490	,	_	_	_	
+42-56	6491-6494	and	_	_	_	
+42-57	6495-6499	thus	_	_	_	
+42-58	6500-6503	the	_	_	_	
+42-59	6504-6510	putrid	_	_	_	
+42-60	6511-6523	fermentation	_	_	_	
+42-61	6524-6526	be	_	_	_	
+42-62	6527-6530	set	_	_	_	
+42-63	6531-6533	up	_	_	_	
+42-64	6534-6536	in	_	_	_	
+42-65	6537-6539	it	_	_	_	
+42-66	6539-6540	.	_	_	_	
+
+#Text=Or it is possible that some of the infusorial organisms
+#Text=wiiich seem to be associated with hospital gangrene and other kinds
+#Text=of infectious putrescence may take effect on the blood or pulmonary
+#Text=tissue.
+43-1	6541-6543	Or	_	_	_	
+43-2	6544-6546	it	_	_	_	
+43-3	6547-6549	is	_	_	_	
+43-4	6550-6558	possible	_	_	_	
+43-5	6559-6563	that	_	_	_	
+43-6	6564-6568	some	_	_	_	
+43-7	6569-6571	of	_	_	_	
+43-8	6572-6575	the	_	_	_	
+43-9	6576-6586	infusorial	_	_	_	
+43-10	6587-6596	organisms	_	_	_	
+43-11	6597-6603	wiiich	_	_	_	
+43-12	6604-6608	seem	_	_	_	
+43-13	6609-6611	to	_	_	_	
+43-14	6612-6614	be	_	_	_	
+43-15	6615-6625	associated	_	_	_	
+43-16	6626-6630	with	_	_	_	
+43-17	6631-6639	hospital	_	_	_	
+43-18	6640-6648	gangrene	_	_	_	
+43-19	6649-6652	and	_	_	_	
+43-20	6653-6658	other	_	_	_	
+43-21	6659-6664	kinds	_	_	_	
+43-22	6665-6667	of	_	_	_	
+43-23	6668-6678	infectious	_	_	_	
+43-24	6679-6690	putrescence	_	_	_	
+43-25	6691-6694	may	_	_	_	
+43-26	6695-6699	take	_	_	_	
+43-27	6700-6706	effect	_	_	_	
+43-28	6707-6709	on	_	_	_	
+43-29	6710-6713	the	_	_	_	
+43-30	6714-6719	blood	_	_	_	
+43-31	6720-6722	or	_	_	_	
+43-32	6723-6732	pulmonary	_	_	_	
+43-33	6733-6739	tissue	_	_	_	
+43-34	6739-6740	.	_	_	_	
+
+#Text=In pulmonary mouldiness (the pneumono-mycosis of Vircliow) a parasitic bronchitis seems to result from the irritation of an
+#Text=aspergillus in the bronchi.
+44-1	6741-6743	In	_	_	_	
+44-2	6744-6753	pulmonary	_	_	_	
+44-3	6754-6764	mouldiness	_	_	_	
+44-4	6765-6766	(	_	_	_	
+44-5	6766-6769	the	_	_	_	
+44-6	6770-6786	pneumono-mycosis	_	_	_	
+44-7	6787-6789	of	_	_	_	
+44-8	6790-6798	Vircliow	_	_	_	
+44-9	6798-6799	)	_	_	_	
+44-10	6800-6801	a	_	_	_	
+44-11	6802-6811	parasitic	_	_	_	
+44-12	6812-6822	bronchitis	_	_	_	
+44-13	6823-6828	seems	_	_	_	
+44-14	6829-6831	to	_	_	_	
+44-15	6832-6838	result	_	_	_	
+44-16	6839-6843	from	_	_	_	
+44-17	6844-6847	the	_	_	_	
+44-18	6848-6858	irritation	_	_	_	
+44-19	6859-6861	of	_	_	_	
+44-20	6862-6864	an	_	_	_	
+44-21	6865-6876	aspergillus	_	_	_	
+44-22	6877-6879	in	_	_	_	
+44-23	6880-6883	the	_	_	_	
+44-24	6884-6891	bronchi	_	_	_	
+44-25	6891-6892	.	_	_	_	
+
+#Text=These have been found also surrounding the margin of a gangrenous cavity in the lung.
+45-1	6893-6898	These	_	_	_	
+45-2	6899-6903	have	_	_	_	
+45-3	6904-6908	been	_	_	_	
+45-4	6909-6914	found	_	_	_	
+45-5	6915-6919	also	_	_	_	
+45-6	6920-6931	surrounding	_	_	_	
+45-7	6932-6935	the	_	_	_	
+45-8	6936-6942	margin	_	_	_	
+45-9	6943-6945	of	_	_	_	
+45-10	6946-6947	a	_	_	_	
+45-11	6948-6958	gangrenous	_	_	_	
+45-12	6959-6965	cavity	_	_	_	
+45-13	6966-6968	in	_	_	_	
+45-14	6969-6972	the	_	_	_	
+45-15	6973-6977	lung	_	_	_	
+45-16	6977-6978	.	_	_	_	
+
+#Text=The
+#Text=pulmonary moulds are not unknown to phthisis, and it seems
+#Text=probable that the sporules may multiply in the bronchi, and be
+#Text=diffused by the breath of the patient, so as to excite a bronchitis in
+#Text=those persons who inhale them who have weak lungs.
+46-1	6979-6982	The	_	_	_	
+46-2	6983-6992	pulmonary	_	_	_	
+46-3	6993-6999	moulds	_	_	_	
+46-4	7000-7003	are	_	_	_	
+46-5	7004-7007	not	_	_	_	
+46-6	7008-7015	unknown	_	_	_	
+46-7	7016-7018	to	_	_	_	
+46-8	7019-7027	phthisis	_	_	_	
+46-9	7027-7028	,	_	_	_	
+46-10	7029-7032	and	_	_	_	
+46-11	7033-7035	it	_	_	_	
+46-12	7036-7041	seems	_	_	_	
+46-13	7042-7050	probable	_	_	_	
+46-14	7051-7055	that	_	_	_	
+46-15	7056-7059	the	_	_	_	
+46-16	7060-7068	sporules	_	_	_	
+46-17	7069-7072	may	_	_	_	
+46-18	7073-7081	multiply	_	_	_	
+46-19	7082-7084	in	_	_	_	
+46-20	7085-7088	the	_	_	_	
+46-21	7089-7096	bronchi	_	_	_	
+46-22	7096-7097	,	_	_	_	
+46-23	7098-7101	and	_	_	_	
+46-24	7102-7104	be	_	_	_	
+46-25	7105-7113	diffused	_	_	_	
+46-26	7114-7116	by	_	_	_	
+46-27	7117-7120	the	_	_	_	
+46-28	7121-7127	breath	_	_	_	
+46-29	7128-7130	of	_	_	_	
+46-30	7131-7134	the	_	_	_	
+46-31	7135-7142	patient	_	_	_	
+46-32	7142-7143	,	_	_	_	
+46-33	7144-7146	so	_	_	_	
+46-34	7147-7149	as	_	_	_	
+46-35	7150-7152	to	_	_	_	
+46-36	7153-7159	excite	_	_	_	
+46-37	7160-7161	a	_	_	_	
+46-38	7162-7172	bronchitis	_	_	_	
+46-39	7173-7175	in	_	_	_	
+46-40	7176-7181	those	_	_	_	
+46-41	7182-7189	persons	_	_	_	
+46-42	7190-7193	who	_	_	_	
+46-43	7194-7200	inhale	_	_	_	
+46-44	7201-7205	them	_	_	_	
+46-45	7206-7209	who	_	_	_	
+46-46	7210-7214	have	_	_	_	
+46-47	7215-7219	weak	_	_	_	
+46-48	7220-7225	lungs	_	_	_	
+46-49	7225-7226	.	_	_	_	
+
+#Text=Hence,
+#Text=perhaps, the widespread belief, that it is not safe to sleep with a
+#Text=phthisical person, and that phthisis is a dangerously infectious
+#Text=complaint, as is the opinion in Italy.
+47-1	7227-7232	Hence	_	_	_	
+47-2	7232-7233	,	_	_	_	
+47-3	7234-7241	perhaps	_	_	_	
+47-4	7241-7242	,	_	_	_	
+47-5	7243-7246	the	_	_	_	
+47-6	7247-7257	widespread	_	_	_	
+47-7	7258-7264	belief	_	_	_	
+47-8	7264-7265	,	_	_	_	
+47-9	7266-7270	that	_	_	_	
+47-10	7271-7273	it	_	_	_	
+47-11	7274-7276	is	_	_	_	
+47-12	7277-7280	not	_	_	_	
+47-13	7281-7285	safe	_	_	_	
+47-14	7286-7288	to	_	_	_	
+47-15	7289-7294	sleep	_	_	_	
+47-16	7295-7299	with	_	_	_	
+47-17	7300-7301	a	_	_	_	
+47-18	7302-7312	phthisical	_	_	_	
+47-19	7313-7319	person	_	_	_	
+47-20	7319-7320	,	_	_	_	
+47-21	7321-7324	and	_	_	_	
+47-22	7325-7329	that	_	_	_	
+47-23	7330-7338	phthisis	_	_	_	
+47-24	7339-7341	is	_	_	_	
+47-25	7342-7343	a	_	_	_	
+47-26	7344-7355	dangerously	_	_	_	
+47-27	7356-7366	infectious	_	_	_	
+47-28	7367-7376	complaint	_	_	_	
+47-29	7376-7377	,	_	_	_	
+47-30	7378-7380	as	_	_	_	
+47-31	7381-7383	is	_	_	_	
+47-32	7384-7387	the	_	_	_	
+47-33	7388-7395	opinion	_	_	_	
+47-34	7396-7398	in	_	_	_	
+47-35	7399-7404	Italy	_	_	_	
+47-36	7404-7405	.	_	_	_	
+
+#Text=The putrescent infusoria,
+#Text=such as the vibrios of hospital gangrene and the bacterides of
+#Text=carbuncular gangrene, have not, I think, been looked for in cases
+#Text=of pulmonary gangrene.
+48-1	7406-7409	The	_	_	_	
+48-2	7410-7420	putrescent	_	_	_	
+48-3	7421-7430	infusoria	_	_	_	
+48-4	7430-7431	,	_	_	_	
+48-5	7432-7436	such	_	_	_	
+48-6	7437-7439	as	_	_	_	
+48-7	7440-7443	the	_	_	_	
+48-8	7444-7451	vibrios	_	_	_	
+48-9	7452-7454	of	_	_	_	
+48-10	7455-7463	hospital	_	_	_	
+48-11	7464-7472	gangrene	_	_	_	
+48-12	7473-7476	and	_	_	_	
+48-13	7477-7480	the	_	_	_	
+48-14	7481-7491	bacterides	_	_	_	
+48-15	7492-7494	of	_	_	_	
+48-16	7495-7506	carbuncular	_	_	_	
+48-17	7507-7515	gangrene	_	_	_	
+48-18	7515-7516	,	_	_	_	
+48-19	7517-7521	have	_	_	_	
+48-20	7522-7525	not	_	_	_	
+48-21	7525-7526	,	_	_	_	
+48-22	7527-7528	I	_	_	_	
+48-23	7529-7534	think	_	_	_	
+48-24	7534-7535	,	_	_	_	
+48-25	7536-7540	been	_	_	_	
+48-26	7541-7547	looked	_	_	_	
+48-27	7548-7551	for	_	_	_	
+48-28	7552-7554	in	_	_	_	
+48-29	7555-7560	cases	_	_	_	
+48-30	7561-7563	of	_	_	_	
+48-31	7564-7573	pulmonary	_	_	_	
+48-32	7574-7582	gangrene	_	_	_	
+48-33	7582-7583	.	_	_	_	
+
+#Text=The bacterides may, however, be a cause
+#Text=of those kinds in wliich the gangrenous cavity has no contact with
+#Text=the external air and there is no fetor, inasmuch as they are abundantly present in the blood in carbuncular gangrene, and which
+#Text=sometimes affects the lungs.
+49-1	7584-7587	The	_	_	_	
+49-2	7588-7598	bacterides	_	_	_	
+49-3	7599-7602	may	_	_	_	
+49-4	7602-7603	,	_	_	_	
+49-5	7604-7611	however	_	_	_	
+49-6	7611-7612	,	_	_	_	
+49-7	7613-7615	be	_	_	_	
+49-8	7616-7617	a	_	_	_	
+49-9	7618-7623	cause	_	_	_	
+49-10	7624-7626	of	_	_	_	
+49-11	7627-7632	those	_	_	_	
+49-12	7633-7638	kinds	_	_	_	
+49-13	7639-7641	in	_	_	_	
+49-14	7642-7648	wliich	_	_	_	
+49-15	7649-7652	the	Smell\_Source[64]	_	_	
+49-16	7653-7663	gangrenous	Smell\_Source[64]	_	_	
+49-17	7664-7670	cavity	Smell\_Source[64]	_	_	
+49-18	7671-7674	has	Circumstances[65]	_	_	
+49-19	7675-7677	no	Circumstances[65]	_	_	
+49-20	7678-7685	contact	Circumstances[65]	_	_	
+49-21	7686-7690	with	Circumstances[65]	_	_	
+49-22	7691-7694	the	Circumstances[65]	_	_	
+49-23	7695-7703	external	Circumstances[65]	_	_	
+49-24	7704-7707	air	Circumstances[65]	_	_	
+49-25	7708-7711	and	_	_	_	
+49-26	7712-7717	there	_	_	_	
+49-27	7718-7720	is	_	_	_	
+49-28	7721-7723	no	_	_	_	
+49-29	7724-7729	fetor	Smell\_Word	*|*	49-15[64_0]|49-18[65_0]	
+49-30	7729-7730	,	_	_	_	
+49-31	7731-7739	inasmuch	_	_	_	
+49-32	7740-7742	as	_	_	_	
+49-33	7743-7747	they	_	_	_	
+49-34	7748-7751	are	_	_	_	
+49-35	7752-7762	abundantly	_	_	_	
+49-36	7763-7770	present	_	_	_	
+49-37	7771-7773	in	_	_	_	
+49-38	7774-7777	the	_	_	_	
+49-39	7778-7783	blood	_	_	_	
+49-40	7784-7786	in	_	_	_	
+49-41	7787-7798	carbuncular	_	_	_	
+49-42	7799-7807	gangrene	_	_	_	
+49-43	7807-7808	,	_	_	_	
+49-44	7809-7812	and	_	_	_	
+49-45	7813-7818	which	_	_	_	
+49-46	7819-7828	sometimes	_	_	_	
+49-47	7829-7836	affects	_	_	_	
+49-48	7837-7840	the	_	_	_	
+49-49	7841-7846	lungs	_	_	_	
+49-50	7846-7847	.	_	_	_	
+
+#Text=Since Laennec first mooted the opinion, the ozena-odour in
+#Text=certain forms of bronchorrhoea and bronchitis has been attributed
+#Text=by several observers to a putrescence of the bronchial excretions.
+50-1	7849-7854	Since	_	_	_	
+50-2	7855-7862	Laennec	Perceiver	_	_	
+50-3	7863-7868	first	_	_	_	
+50-4	7869-7875	mooted	_	_	_	
+50-5	7876-7879	the	_	_	_	
+50-6	7880-7887	opinion	_	_	_	
+50-7	7887-7888	,	_	_	_	
+50-8	7889-7892	the	_	_	_	
+50-9	7893-7904	ozena-odour	Smell\_Word[66]|Smell\_Source[67]	*|*|*|*|*	50-13[68_66]|50-16[0_66]|50-19[69_66]|50-2[0_66]|50-9[67_66]	
+50-10	7905-7907	in	_	_	_	
+50-11	7908-7915	certain	_	_	_	
+50-12	7916-7921	forms	_	_	_	
+50-13	7922-7924	of	Circumstances[68]	_	_	
+50-14	7925-7938	bronchorrhoea	Circumstances[68]	_	_	
+50-15	7939-7942	and	_	_	_	
+50-16	7943-7953	bronchitis	Circumstances	_	_	
+50-17	7954-7957	has	_	_	_	
+50-18	7958-7962	been	_	_	_	
+50-19	7963-7973	attributed	Circumstances[69]	_	_	
+50-20	7974-7976	by	Circumstances[69]	_	_	
+50-21	7977-7984	several	Circumstances[69]	_	_	
+50-22	7985-7994	observers	Circumstances[69]	_	_	
+50-23	7995-7997	to	Circumstances[69]	_	_	
+50-24	7998-7999	a	Circumstances[69]	_	_	
+50-25	8000-8011	putrescence	Circumstances[69]	_	_	
+50-26	8012-8014	of	Circumstances[69]	_	_	
+50-27	8015-8018	the	Circumstances[69]	_	_	
+50-28	8019-8028	bronchial	Circumstances[69]	_	_	
+50-29	8029-8039	excretions	Circumstances[69]	_	_	
+50-30	8039-8040	.	_	_	_	
+
+#Text=Granting this, the inquiry naturally follows, why they become putrescent in tlie particular class of cases described, amongst the many
+#Text=thousands who suffer from puralent bronchial secretion ?
+51-1	8041-8049	Granting	_	_	_	
+51-2	8050-8054	this	_	_	_	
+51-3	8054-8055	,	_	_	_	
+51-4	8056-8059	the	_	_	_	
+51-5	8060-8067	inquiry	_	_	_	
+51-6	8068-8077	naturally	_	_	_	
+51-7	8078-8085	follows	_	_	_	
+51-8	8085-8086	,	_	_	_	
+51-9	8087-8090	why	_	_	_	
+51-10	8091-8095	they	_	_	_	
+51-11	8096-8102	become	_	_	_	
+51-12	8103-8113	putrescent	_	_	_	
+51-13	8114-8116	in	_	_	_	
+51-14	8117-8121	tlie	_	_	_	
+51-15	8122-8132	particular	_	_	_	
+51-16	8133-8138	class	_	_	_	
+51-17	8139-8141	of	_	_	_	
+51-18	8142-8147	cases	_	_	_	
+51-19	8148-8157	described	_	_	_	
+51-20	8157-8158	,	_	_	_	
+51-21	8159-8166	amongst	_	_	_	
+51-22	8167-8170	the	_	_	_	
+51-23	8171-8175	many	_	_	_	
+51-24	8176-8185	thousands	_	_	_	
+51-25	8186-8189	who	_	_	_	
+51-26	8190-8196	suffer	_	_	_	
+51-27	8197-8201	from	_	_	_	
+51-28	8202-8210	puralent	_	_	_	
+51-29	8211-8220	bronchial	_	_	_	
+51-30	8221-8230	secretion	_	_	_	
+51-31	8231-8232	?	_	_	_	
+
+#Text=Besides,
+#Text=the odour evolved is not at all like that of the fetid pus expectorated in cases of empyema, in which the cavity communicates with a
+#Text=bronchus, so that if the purulent bronchial excretion do undergo
+#Text=change, there must be something in its composition in these cases
+#Text=of a special character.
+52-1	8233-8240	Besides	_	_	_	
+52-2	8240-8241	,	_	_	_	
+52-3	8242-8245	the	_	_	_	
+52-4	8246-8251	odour	Smell\_Word	*|*	52-12[70_0]|52-16[71_0]	
+52-5	8252-8259	evolved	_	_	_	
+52-6	8260-8262	is	_	_	_	
+52-7	8263-8266	not	_	_	_	
+52-8	8267-8269	at	_	_	_	
+52-9	8270-8273	all	_	_	_	
+52-10	8274-8278	like	_	_	_	
+52-11	8279-8283	that	_	_	_	
+52-12	8284-8286	of	Smell\_Source[70]	_	_	
+52-13	8287-8290	the	Smell\_Source[70]	_	_	
+52-14	8291-8296	fetid	Smell\_Source[70]	_	_	
+52-15	8297-8300	pus	Smell\_Source[70]	_	_	
+52-16	8301-8313	expectorated	Circumstances[71]	_	_	
+52-17	8314-8316	in	Circumstances[71]	_	_	
+52-18	8317-8322	cases	Circumstances[71]	_	_	
+52-19	8323-8325	of	Circumstances[71]	_	_	
+52-20	8326-8333	empyema	Circumstances[71]	_	_	
+52-21	8333-8334	,	_	_	_	
+52-22	8335-8337	in	_	_	_	
+52-23	8338-8343	which	_	_	_	
+52-24	8344-8347	the	_	_	_	
+52-25	8348-8354	cavity	_	_	_	
+52-26	8355-8367	communicates	_	_	_	
+52-27	8368-8372	with	_	_	_	
+52-28	8373-8374	a	_	_	_	
+52-29	8375-8383	bronchus	_	_	_	
+52-30	8383-8384	,	_	_	_	
+52-31	8385-8387	so	_	_	_	
+52-32	8388-8392	that	_	_	_	
+52-33	8393-8395	if	_	_	_	
+52-34	8396-8399	the	_	_	_	
+52-35	8400-8408	purulent	_	_	_	
+52-36	8409-8418	bronchial	_	_	_	
+52-37	8419-8428	excretion	_	_	_	
+52-38	8429-8431	do	_	_	_	
+52-39	8432-8439	undergo	_	_	_	
+52-40	8440-8446	change	_	_	_	
+52-41	8446-8447	,	_	_	_	
+52-42	8448-8453	there	_	_	_	
+52-43	8454-8458	must	_	_	_	
+52-44	8459-8461	be	_	_	_	
+52-45	8462-8471	something	_	_	_	
+52-46	8472-8474	in	_	_	_	
+52-47	8475-8478	its	_	_	_	
+52-48	8479-8490	composition	_	_	_	
+52-49	8491-8493	in	_	_	_	
+52-50	8494-8499	these	_	_	_	
+52-51	8500-8505	cases	_	_	_	
+52-52	8506-8508	of	_	_	_	
+52-53	8509-8510	a	_	_	_	
+52-54	8511-8518	special	_	_	_	
+52-55	8519-8528	character	_	_	_	
+52-56	8528-8529	.	_	_	_	
+
+#Text=That it does undergo decomposition seems
+#Text=certain ; but it does not follow that the change is putrefaction.
+53-1	8530-8534	That	_	_	_	
+53-2	8535-8537	it	_	_	_	
+53-3	8538-8542	does	_	_	_	
+53-4	8543-8550	undergo	_	_	_	
+53-5	8551-8564	decomposition	_	_	_	
+53-6	8565-8570	seems	_	_	_	
+53-7	8571-8578	certain	_	_	_	
+53-8	8579-8580	;	_	_	_	
+53-9	8581-8584	but	_	_	_	
+53-10	8585-8587	it	_	_	_	
+53-11	8588-8592	does	_	_	_	
+53-12	8593-8596	not	_	_	_	
+53-13	8597-8603	follow	_	_	_	
+53-14	8604-8608	that	_	_	_	
+53-15	8609-8612	the	_	_	_	
+53-16	8613-8619	change	_	_	_	
+53-17	8620-8622	is	_	_	_	
+53-18	8623-8635	putrefaction	_	_	_	
+53-19	8635-8636	.	_	_	_	
+
+#Text=In
+#Text=ozaena from ulceration of the nasal cartilages, and in rodent fibroid
+#Text=ulcers, there is a most offensive discharge, but the odour is not like
+#Text=the smell of decomposing pus from ordinary ulcers.
+54-1	8637-8639	In	_	_	_	
+54-2	8640-8646	ozaena	_	_	_	
+54-3	8647-8651	from	_	_	_	
+54-4	8652-8662	ulceration	_	_	_	
+54-5	8663-8665	of	_	_	_	
+54-6	8666-8669	the	_	_	_	
+54-7	8670-8675	nasal	_	_	_	
+54-8	8676-8686	cartilages	_	_	_	
+54-9	8686-8687	,	_	_	_	
+54-10	8688-8691	and	_	_	_	
+54-11	8692-8694	in	_	_	_	
+54-12	8695-8701	rodent	_	_	_	
+54-13	8702-8709	fibroid	_	_	_	
+54-14	8710-8716	ulcers	_	_	_	
+54-15	8716-8717	,	_	_	_	
+54-16	8718-8723	there	_	_	_	
+54-17	8724-8726	is	_	_	_	
+54-18	8727-8728	a	_	_	_	
+54-19	8729-8733	most	_	_	_	
+54-20	8734-8743	offensive	_	_	_	
+54-21	8744-8753	discharge	_	_	_	
+54-22	8753-8754	,	_	_	_	
+54-23	8755-8758	but	_	_	_	
+54-24	8759-8762	the	_	_	_	
+54-25	8763-8768	odour	Smell\_Word	*	54-26[72_0]	
+54-26	8769-8771	is	Evoked\_Odorant[72]	_	_	
+54-27	8772-8775	not	Evoked\_Odorant[72]	_	_	
+54-28	8776-8780	like	Evoked\_Odorant[72]	_	_	
+54-29	8781-8784	the	Evoked\_Odorant[72]	_	_	
+54-30	8785-8790	smell	Evoked\_Odorant[72]|Smell\_Word[73]	*|*	54-31[74_73]|54-34[75_73]	
+54-31	8791-8793	of	Evoked\_Odorant[72]|Smell\_Source[74]	_	_	
+54-32	8794-8805	decomposing	Evoked\_Odorant[72]|Smell\_Source[74]	_	_	
+54-33	8806-8809	pus	Evoked\_Odorant[72]|Smell\_Source[74]	_	_	
+54-34	8810-8814	from	Evoked\_Odorant[72]|Circumstances[75]	_	_	
+54-35	8815-8823	ordinary	Evoked\_Odorant[72]|Circumstances[75]	_	_	
+54-36	8824-8830	ulcers	Evoked\_Odorant[72]|Circumstances[75]	_	_	
+54-37	8830-8831	.	_	_	_	
+
+#Text=The pus of
+#Text=fibroid pyogenic cavities and of fetid bronchitis undergoes a similar
+#Text=change.
+55-1	8832-8835	The	_	_	_	
+55-2	8836-8839	pus	_	_	_	
+55-3	8840-8842	of	_	_	_	
+55-4	8843-8850	fibroid	_	_	_	
+55-5	8851-8859	pyogenic	_	_	_	
+55-6	8860-8868	cavities	_	_	_	
+55-7	8869-8872	and	_	_	_	
+55-8	8873-8875	of	_	_	_	
+55-9	8876-8881	fetid	Smell\_Word[76]|Quality[77]	*|*	55-9[77_76]|55-10[0_76]	
+55-10	8882-8892	bronchitis	Smell\_Source	_	_	
+55-11	8893-8902	undergoes	_	_	_	
+55-12	8903-8904	a	_	_	_	
+55-13	8905-8912	similar	_	_	_	
+55-14	8913-8919	change	_	_	_	
+55-15	8919-8920	.	_	_	_	
+
+#Text=We are therefore led to the conclusion that in all these
+#Text=cases there is some special constituent of the morbid products which
+#Text=either undergoes its own peculiar decomposition or acts as a ferment
+#Text=in exciting such in the other constituents.
+56-1	8921-8923	We	_	_	_	
+56-2	8924-8927	are	_	_	_	
+56-3	8928-8937	therefore	_	_	_	
+56-4	8938-8941	led	_	_	_	
+56-5	8942-8944	to	_	_	_	
+56-6	8945-8948	the	_	_	_	
+56-7	8949-8959	conclusion	_	_	_	
+56-8	8960-8964	that	_	_	_	
+56-9	8965-8967	in	_	_	_	
+56-10	8968-8971	all	_	_	_	
+56-11	8972-8977	these	_	_	_	
+56-12	8978-8983	cases	_	_	_	
+56-13	8984-8989	there	_	_	_	
+56-14	8990-8992	is	_	_	_	
+56-15	8993-8997	some	_	_	_	
+56-16	8998-9005	special	_	_	_	
+56-17	9006-9017	constituent	_	_	_	
+56-18	9018-9020	of	_	_	_	
+56-19	9021-9024	the	_	_	_	
+56-20	9025-9031	morbid	_	_	_	
+56-21	9032-9040	products	_	_	_	
+56-22	9041-9046	which	_	_	_	
+56-23	9047-9053	either	_	_	_	
+56-24	9054-9063	undergoes	_	_	_	
+56-25	9064-9067	its	_	_	_	
+56-26	9068-9071	own	_	_	_	
+56-27	9072-9080	peculiar	_	_	_	
+56-28	9081-9094	decomposition	_	_	_	
+56-29	9095-9097	or	_	_	_	
+56-30	9098-9102	acts	_	_	_	
+56-31	9103-9105	as	_	_	_	
+56-32	9106-9107	a	_	_	_	
+56-33	9108-9115	ferment	_	_	_	
+56-34	9116-9118	in	_	_	_	
+56-35	9119-9127	exciting	_	_	_	
+56-36	9128-9132	such	_	_	_	
+56-37	9133-9135	in	_	_	_	
+56-38	9136-9139	the	_	_	_	
+56-39	9140-9145	other	_	_	_	
+56-40	9146-9158	constituents	_	_	_	
+56-41	9158-9159	.	_	_	_	
+
+#Text=I do not think we need
+#Text=go beyond observed facts for instances as to this point.
+57-1	9160-9161	I	_	_	_	
+57-2	9162-9164	do	_	_	_	
+57-3	9165-9168	not	_	_	_	
+57-4	9169-9174	think	_	_	_	
+57-5	9175-9177	we	_	_	_	
+57-6	9178-9182	need	_	_	_	
+57-7	9183-9185	go	_	_	_	
+57-8	9186-9192	beyond	_	_	_	
+57-9	9193-9201	observed	_	_	_	
+57-10	9202-9207	facts	_	_	_	
+57-11	9208-9211	for	_	_	_	
+57-12	9212-9221	instances	_	_	_	
+57-13	9222-9224	as	_	_	_	
+57-14	9225-9227	to	_	_	_	
+57-15	9228-9232	this	_	_	_	
+57-16	9233-9238	point	_	_	_	
+57-17	9238-9239	.	_	_	_	
+
+#Text=In so far
+#Text=as anatomical changes have been observed in these fetid pulmonary
+#Text=diseases, they are manifestly those of fibrinous exudation and
+#Text=degeneration, — are, in short, those which are observed in acute and
+#Text=chronic tissue-changes of rheumatic origin.
+58-1	9240-9242	In	_	_	_	
+58-2	9243-9245	so	_	_	_	
+58-3	9246-9249	far	_	_	_	
+58-4	9250-9252	as	_	_	_	
+58-5	9253-9263	anatomical	_	_	_	
+58-6	9264-9271	changes	_	_	_	
+58-7	9272-9276	have	_	_	_	
+58-8	9277-9281	been	_	_	_	
+58-9	9282-9290	observed	_	_	_	
+58-10	9291-9293	in	_	_	_	
+58-11	9294-9299	these	_	_	_	
+58-12	9300-9305	fetid	Smell\_Word[78]|Quality[79]	*|*	58-12[79_78]|58-13[80_78]	
+58-13	9306-9315	pulmonary	Smell\_Source[80]	_	_	
+58-14	9316-9324	diseases	Smell\_Source[80]	_	_	
+58-15	9324-9325	,	_	_	_	
+58-16	9326-9330	they	_	_	_	
+58-17	9331-9334	are	_	_	_	
+58-18	9335-9345	manifestly	_	_	_	
+58-19	9346-9351	those	_	_	_	
+58-20	9352-9354	of	_	_	_	
+58-21	9355-9364	fibrinous	_	_	_	
+58-22	9365-9374	exudation	_	_	_	
+58-23	9375-9378	and	_	_	_	
+58-24	9379-9391	degeneration	_	_	_	
+58-25	9391-9392	,	_	_	_	
+58-26	9393-9394	—	_	_	_	
+58-27	9395-9398	are	_	_	_	
+58-28	9398-9399	,	_	_	_	
+58-29	9400-9402	in	_	_	_	
+58-30	9403-9408	short	_	_	_	
+58-31	9408-9409	,	_	_	_	
+58-32	9410-9415	those	_	_	_	
+58-33	9416-9421	which	_	_	_	
+58-34	9422-9425	are	_	_	_	
+58-35	9426-9434	observed	_	_	_	
+58-36	9435-9437	in	_	_	_	
+58-37	9438-9443	acute	_	_	_	
+58-38	9444-9447	and	_	_	_	
+58-39	9448-9455	chronic	_	_	_	
+58-40	9456-9470	tissue-changes	_	_	_	
+58-41	9471-9473	of	_	_	_	
+58-42	9474-9483	rheumatic	_	_	_	
+58-43	9484-9490	origin	_	_	_	
+58-44	9490-9491	.	_	_	_	
+
+#Text=Now, we know that
+#Text=in such changes lactic acid plays an important part, either as a
+#Text=cause if we adopt the conclusions of Dr B.
+59-1	9492-9495	Now	_	_	_	
+59-2	9495-9496	,	_	_	_	
+59-3	9497-9499	we	_	_	_	
+59-4	9500-9504	know	_	_	_	
+59-5	9505-9509	that	_	_	_	
+59-6	9510-9512	in	_	_	_	
+59-7	9513-9517	such	_	_	_	
+59-8	9518-9525	changes	_	_	_	
+59-9	9526-9532	lactic	_	_	_	
+59-10	9533-9537	acid	_	_	_	
+59-11	9538-9543	plays	_	_	_	
+59-12	9544-9546	an	_	_	_	
+59-13	9547-9556	important	_	_	_	
+59-14	9557-9561	part	_	_	_	
+59-15	9561-9562	,	_	_	_	
+59-16	9563-9569	either	_	_	_	
+59-17	9570-9572	as	_	_	_	
+59-18	9573-9574	a	_	_	_	
+59-19	9575-9580	cause	_	_	_	
+59-20	9581-9583	if	_	_	_	
+59-21	9584-9586	we	_	_	_	
+59-22	9587-9592	adopt	_	_	_	
+59-23	9593-9596	the	_	_	_	
+59-24	9597-9608	conclusions	_	_	_	
+59-25	9609-9611	of	_	_	_	
+59-26	9612-9614	Dr	_	_	_	
+59-27	9615-9616	B	_	_	_	
+59-28	9616-9617	.	_	_	_	
+
+#Text=W.
+60-1	9618-9619	W	_	_	_	
+60-2	9619-9620	.	_	_	_	
+
+#Text=Richardson and
+#Text=others, or as a result of the morbid tissue-metamorphosis, if the
+#Text=ordinary theory be objected to.
+61-1	9621-9631	Richardson	_	_	_	
+61-2	9632-9635	and	_	_	_	
+61-3	9636-9642	others	_	_	_	
+61-4	9642-9643	,	_	_	_	
+61-5	9644-9646	or	_	_	_	
+61-6	9647-9649	as	_	_	_	
+61-7	9650-9651	a	_	_	_	
+61-8	9652-9658	result	_	_	_	
+61-9	9659-9661	of	_	_	_	
+61-10	9662-9665	the	_	_	_	
+61-11	9666-9672	morbid	_	_	_	
+61-12	9673-9693	tissue-metamorphosis	_	_	_	
+61-13	9693-9694	,	_	_	_	
+61-14	9695-9697	if	_	_	_	
+61-15	9698-9701	the	_	_	_	
+61-16	9702-9710	ordinary	_	_	_	
+61-17	9711-9717	theory	_	_	_	
+61-18	9718-9720	be	_	_	_	
+61-19	9721-9729	objected	_	_	_	
+61-20	9730-9732	to	_	_	_	
+61-21	9732-9733	.	_	_	_	
+
+#Text=And it seems farther probable,
+#Text=according to the physiological chemists, that it is decomposed in
+#Text=the lungs, under ordinary circumstances, into carbonic acid and
+#Text=water.
+62-1	9734-9737	And	_	_	_	
+62-2	9738-9740	it	_	_	_	
+62-3	9741-9746	seems	_	_	_	
+62-4	9747-9754	farther	_	_	_	
+62-5	9755-9763	probable	_	_	_	
+62-6	9763-9764	,	_	_	_	
+62-7	9765-9774	according	_	_	_	
+62-8	9775-9777	to	_	_	_	
+62-9	9778-9781	the	_	_	_	
+62-10	9782-9795	physiological	_	_	_	
+62-11	9796-9804	chemists	_	_	_	
+62-12	9804-9805	,	_	_	_	
+62-13	9806-9810	that	_	_	_	
+62-14	9811-9813	it	_	_	_	
+62-15	9814-9816	is	_	_	_	
+62-16	9817-9827	decomposed	_	_	_	
+62-17	9828-9830	in	_	_	_	
+62-18	9831-9834	the	_	_	_	
+62-19	9835-9840	lungs	_	_	_	
+62-20	9840-9841	,	_	_	_	
+62-21	9842-9847	under	_	_	_	
+62-22	9848-9856	ordinary	_	_	_	
+62-23	9857-9870	circumstances	_	_	_	
+62-24	9870-9871	,	_	_	_	
+62-25	9872-9876	into	_	_	_	
+62-26	9877-9885	carbonic	_	_	_	
+62-27	9886-9890	acid	_	_	_	
+62-28	9891-9894	and	_	_	_	
+62-29	9895-9900	water	_	_	_	
+62-30	9900-9901	.	_	_	_	
+
+#Text=If, then, we suppose that there is an excess of lactic acid
+#Text=in the pulmonary excretions in these cases, or of some other acid of
+#Text=the class, or that the ordinary series of decompositions is interrupted
+#Text=and other products result in virtue of vital changes, an irritant is
+#Text=brought into direct contact with the bronchial mucous membrane.
+63-1	9902-9904	If	_	_	_	
+63-2	9904-9905	,	_	_	_	
+63-3	9906-9910	then	_	_	_	
+63-4	9910-9911	,	_	_	_	
+63-5	9912-9914	we	_	_	_	
+63-6	9915-9922	suppose	_	_	_	
+63-7	9923-9927	that	_	_	_	
+63-8	9928-9933	there	_	_	_	
+63-9	9934-9936	is	_	_	_	
+63-10	9937-9939	an	_	_	_	
+63-11	9940-9946	excess	_	_	_	
+63-12	9947-9949	of	_	_	_	
+63-13	9950-9956	lactic	_	_	_	
+63-14	9957-9961	acid	_	_	_	
+63-15	9962-9964	in	_	_	_	
+63-16	9965-9968	the	_	_	_	
+63-17	9969-9978	pulmonary	_	_	_	
+63-18	9979-9989	excretions	_	_	_	
+63-19	9990-9992	in	_	_	_	
+63-20	9993-9998	these	_	_	_	
+63-21	9999-10004	cases	_	_	_	
+63-22	10004-10005	,	_	_	_	
+63-23	10006-10008	or	_	_	_	
+63-24	10009-10011	of	_	_	_	
+63-25	10012-10016	some	_	_	_	
+63-26	10017-10022	other	_	_	_	
+63-27	10023-10027	acid	_	_	_	
+63-28	10028-10030	of	_	_	_	
+63-29	10031-10034	the	_	_	_	
+63-30	10035-10040	class	_	_	_	
+63-31	10040-10041	,	_	_	_	
+63-32	10042-10044	or	_	_	_	
+63-33	10045-10049	that	_	_	_	
+63-34	10050-10053	the	_	_	_	
+63-35	10054-10062	ordinary	_	_	_	
+63-36	10063-10069	series	_	_	_	
+63-37	10070-10072	of	_	_	_	
+63-38	10073-10087	decompositions	_	_	_	
+63-39	10088-10090	is	_	_	_	
+63-40	10091-10102	interrupted	_	_	_	
+63-41	10103-10106	and	_	_	_	
+63-42	10107-10112	other	_	_	_	
+63-43	10113-10121	products	_	_	_	
+63-44	10122-10128	result	_	_	_	
+63-45	10129-10131	in	_	_	_	
+63-46	10132-10138	virtue	_	_	_	
+63-47	10139-10141	of	_	_	_	
+63-48	10142-10147	vital	_	_	_	
+63-49	10148-10155	changes	_	_	_	
+63-50	10155-10156	,	_	_	_	
+63-51	10157-10159	an	_	_	_	
+63-52	10160-10168	irritant	_	_	_	
+63-53	10169-10171	is	_	_	_	
+63-54	10172-10179	brought	_	_	_	
+63-55	10180-10184	into	_	_	_	
+63-56	10185-10191	direct	_	_	_	
+63-57	10192-10199	contact	_	_	_	
+63-58	10200-10204	with	_	_	_	
+63-59	10205-10208	the	_	_	_	
+63-60	10209-10218	bronchial	_	_	_	
+63-61	10219-10225	mucous	_	_	_	
+63-62	10226-10234	membrane	_	_	_	
+63-63	10234-10235	.	_	_	_	
+
+#Text=If this be sufficiently powerful, the same consequences will follow
+#Text=as with other powerful irritants (such as the vapours of iodine or
+#Text=chlorine), and tlius a bronchitis with a copious muco-purulent discharge be excited.
+64-1	10236-10238	If	_	_	_	
+64-2	10239-10243	this	_	_	_	
+64-3	10244-10246	be	_	_	_	
+64-4	10247-10259	sufficiently	_	_	_	
+64-5	10260-10268	powerful	_	_	_	
+64-6	10268-10269	,	_	_	_	
+64-7	10270-10273	the	_	_	_	
+64-8	10274-10278	same	_	_	_	
+64-9	10279-10291	consequences	_	_	_	
+64-10	10292-10296	will	_	_	_	
+64-11	10297-10303	follow	_	_	_	
+64-12	10304-10306	as	_	_	_	
+64-13	10307-10311	with	_	_	_	
+64-14	10312-10317	other	_	_	_	
+64-15	10318-10326	powerful	_	_	_	
+64-16	10327-10336	irritants	_	_	_	
+64-17	10337-10338	(	_	_	_	
+64-18	10338-10342	such	_	_	_	
+64-19	10343-10345	as	_	_	_	
+64-20	10346-10349	the	_	_	_	
+64-21	10350-10357	vapours	_	_	_	
+64-22	10358-10360	of	_	_	_	
+64-23	10361-10367	iodine	_	_	_	
+64-24	10368-10370	or	_	_	_	
+64-25	10371-10379	chlorine	_	_	_	
+64-26	10379-10380	)	_	_	_	
+64-27	10380-10381	,	_	_	_	
+64-28	10382-10385	and	_	_	_	
+64-29	10386-10391	tlius	_	_	_	
+64-30	10392-10393	a	_	_	_	
+64-31	10394-10404	bronchitis	_	_	_	
+64-32	10405-10409	with	_	_	_	
+64-33	10410-10411	a	_	_	_	
+64-34	10412-10419	copious	_	_	_	
+64-35	10420-10433	muco-purulent	_	_	_	
+64-36	10434-10443	discharge	_	_	_	
+64-37	10444-10446	be	_	_	_	
+64-38	10447-10454	excited	_	_	_	
+64-39	10454-10455	.	_	_	_	
+
+#Text=How easily lactic acid or acids or the lactates
+#Text=may be transformed within the capillary bronchi and air-cells, or
+#Text=elsewhere, wherever a suitable ferment is introduced or produced, is
+#Text=shown by the fact that when lactates are left in contact with putrefying matter, at a temperature of 86° to 95°, butyric acid is formed.
+65-1	10456-10459	How	_	_	_	
+65-2	10460-10466	easily	_	_	_	
+65-3	10467-10473	lactic	_	_	_	
+65-4	10474-10478	acid	_	_	_	
+65-5	10479-10481	or	_	_	_	
+65-6	10482-10487	acids	_	_	_	
+65-7	10488-10490	or	_	_	_	
+65-8	10491-10494	the	_	_	_	
+65-9	10495-10503	lactates	_	_	_	
+65-10	10504-10507	may	_	_	_	
+65-11	10508-10510	be	_	_	_	
+65-12	10511-10522	transformed	_	_	_	
+65-13	10523-10529	within	_	_	_	
+65-14	10530-10533	the	_	_	_	
+65-15	10534-10543	capillary	_	_	_	
+65-16	10544-10551	bronchi	_	_	_	
+65-17	10552-10555	and	_	_	_	
+65-18	10556-10565	air-cells	_	_	_	
+65-19	10565-10566	,	_	_	_	
+65-20	10567-10569	or	_	_	_	
+65-21	10570-10579	elsewhere	_	_	_	
+65-22	10579-10580	,	_	_	_	
+65-23	10581-10589	wherever	_	_	_	
+65-24	10590-10591	a	_	_	_	
+65-25	10592-10600	suitable	_	_	_	
+65-26	10601-10608	ferment	_	_	_	
+65-27	10609-10611	is	_	_	_	
+65-28	10612-10622	introduced	_	_	_	
+65-29	10623-10625	or	_	_	_	
+65-30	10626-10634	produced	_	_	_	
+65-31	10634-10635	,	_	_	_	
+65-32	10636-10638	is	_	_	_	
+65-33	10639-10644	shown	_	_	_	
+65-34	10645-10647	by	_	_	_	
+65-35	10648-10651	the	_	_	_	
+65-36	10652-10656	fact	_	_	_	
+65-37	10657-10661	that	_	_	_	
+65-38	10662-10666	when	_	_	_	
+65-39	10667-10675	lactates	_	_	_	
+65-40	10676-10679	are	_	_	_	
+65-41	10680-10684	left	_	_	_	
+65-42	10685-10687	in	_	_	_	
+65-43	10688-10695	contact	_	_	_	
+65-44	10696-10700	with	_	_	_	
+65-45	10701-10711	putrefying	_	_	_	
+65-46	10712-10718	matter	_	_	_	
+65-47	10718-10719	,	_	_	_	
+65-48	10720-10722	at	_	_	_	
+65-49	10723-10724	a	_	_	_	
+65-50	10725-10736	temperature	_	_	_	
+65-51	10737-10739	of	_	_	_	
+65-52	10740-10742	86	_	_	_	
+65-53	10742-10743	°	_	_	_	
+65-54	10744-10746	to	_	_	_	
+65-55	10747-10749	95	_	_	_	
+65-56	10749-10750	°	_	_	_	
+65-57	10750-10751	,	_	_	_	
+65-58	10752-10759	butyric	_	_	_	
+65-59	10760-10764	acid	_	_	_	
+65-60	10765-10767	is	_	_	_	
+65-61	10768-10774	formed	_	_	_	
+65-62	10774-10775	.	_	_	_	
+
+#Text=That a rheumatic condition is an important element in these cases
+#Text=is shown by collateral evidence, although the morbid product need
+#Text=not necessarily be lactic acid, and certainly is not in all cases of
+#Text=pulmonary fetor.
+66-1	10777-10781	That	_	_	_	
+66-2	10782-10783	a	_	_	_	
+66-3	10784-10793	rheumatic	_	_	_	
+66-4	10794-10803	condition	_	_	_	
+66-5	10804-10806	is	_	_	_	
+66-6	10807-10809	an	_	_	_	
+66-7	10810-10819	important	_	_	_	
+66-8	10820-10827	element	_	_	_	
+66-9	10828-10830	in	_	_	_	
+66-10	10831-10836	these	_	_	_	
+66-11	10837-10842	cases	_	_	_	
+66-12	10843-10845	is	_	_	_	
+66-13	10846-10851	shown	_	_	_	
+66-14	10852-10854	by	_	_	_	
+66-15	10855-10865	collateral	_	_	_	
+66-16	10866-10874	evidence	_	_	_	
+66-17	10874-10875	,	_	_	_	
+66-18	10876-10884	although	_	_	_	
+66-19	10885-10888	the	_	_	_	
+66-20	10889-10895	morbid	_	_	_	
+66-21	10896-10903	product	_	_	_	
+66-22	10904-10908	need	_	_	_	
+66-23	10909-10912	not	_	_	_	
+66-24	10913-10924	necessarily	_	_	_	
+66-25	10925-10927	be	_	_	_	
+66-26	10928-10934	lactic	_	_	_	
+66-27	10935-10939	acid	_	_	_	
+66-28	10939-10940	,	_	_	_	
+66-29	10941-10944	and	_	_	_	
+66-30	10945-10954	certainly	_	_	_	
+66-31	10955-10957	is	_	_	_	
+66-32	10958-10961	not	_	_	_	
+66-33	10962-10964	in	Circumstances[81]	_	_	
+66-34	10965-10968	all	Circumstances[81]	_	_	
+66-35	10969-10974	cases	Circumstances[81]	_	_	
+66-36	10975-10977	of	_	_	_	
+66-37	10978-10987	pulmonary	Quality	_	_	
+66-38	10988-10993	fetor	Smell\_Word	*|*	66-37|66-33[81_0]	
+66-39	10993-10994	.	_	_	_	
+
+#Text=It is incidentally mentioned that in Dr Haldane ' s
+#Text=case tube-casts of the smaller bronchi were at first mistaken for
+#Text=disintegrating lung-tissue.
+67-1	10995-10997	It	_	_	_	
+67-2	10998-11000	is	_	_	_	
+67-3	11001-11013	incidentally	_	_	_	
+67-4	11014-11023	mentioned	_	_	_	
+67-5	11024-11028	that	_	_	_	
+67-6	11029-11031	in	_	_	_	
+67-7	11032-11034	Dr	_	_	_	
+67-8	11035-11042	Haldane	_	_	_	
+67-9	11043-11044	'	_	_	_	
+67-10	11045-11046	s	_	_	_	
+67-11	11047-11051	case	_	_	_	
+67-12	11052-11062	tube-casts	_	_	_	
+67-13	11063-11065	of	_	_	_	
+67-14	11066-11069	the	_	_	_	
+67-15	11070-11077	smaller	_	_	_	
+67-16	11078-11085	bronchi	_	_	_	
+67-17	11086-11090	were	_	_	_	
+67-18	11091-11093	at	_	_	_	
+67-19	11094-11099	first	_	_	_	
+67-20	11100-11108	mistaken	_	_	_	
+67-21	11109-11112	for	_	_	_	
+67-22	11113-11127	disintegrating	_	_	_	
+67-23	11128-11139	lung-tissue	_	_	_	
+67-24	11139-11140	.	_	_	_	
+
+#Text=Now these cases of " plastic bronchitis "
+#Text=run a course almost identical with that of cases of fetid bronchopneumonia.
+68-1	11141-11144	Now	_	_	_	
+68-2	11145-11150	these	_	_	_	
+68-3	11151-11156	cases	_	_	_	
+68-4	11157-11159	of	_	_	_	
+68-5	11160-11161	"	_	_	_	
+68-6	11162-11169	plastic	_	_	_	
+68-7	11170-11180	bronchitis	_	_	_	
+68-8	11181-11182	"	_	_	_	
+68-9	11183-11186	run	_	_	_	
+68-10	11187-11188	a	_	_	_	
+68-11	11189-11195	course	_	_	_	
+68-12	11196-11202	almost	_	_	_	
+68-13	11203-11212	identical	_	_	_	
+68-14	11213-11217	with	_	_	_	
+68-15	11218-11222	that	_	_	_	
+68-16	11223-11225	of	_	_	_	
+68-17	11226-11231	cases	_	_	_	
+68-18	11232-11234	of	_	_	_	
+68-19	11235-11240	fetid	Smell\_Word[82]|Quality[83]	*|*	68-19[83_82]|68-20[0_82]	
+68-20	11241-11257	bronchopneumonia	Smell\_Source	_	_	
+68-21	11257-11258	.	_	_	_	
+
+#Text=There is the same frequency of haemorrhage, violent
+#Text=cough, and other important symptoms, occun-ing in paroxysms,
+#Text=lasting for a week or two, but sometimes for several weeks, with the
+#Text=same tendency to recur for weeks or years.
+69-1	11259-11264	There	_	_	_	
+69-2	11265-11267	is	_	_	_	
+69-3	11268-11271	the	_	_	_	
+69-4	11272-11276	same	_	_	_	
+69-5	11277-11286	frequency	_	_	_	
+69-6	11287-11289	of	_	_	_	
+69-7	11290-11301	haemorrhage	_	_	_	
+69-8	11301-11302	,	_	_	_	
+69-9	11303-11310	violent	_	_	_	
+69-10	11311-11316	cough	_	_	_	
+69-11	11316-11317	,	_	_	_	
+69-12	11318-11321	and	_	_	_	
+69-13	11322-11327	other	_	_	_	
+69-14	11328-11337	important	_	_	_	
+69-15	11338-11346	symptoms	_	_	_	
+69-16	11346-11347	,	_	_	_	
+69-17	11348-11357	occun-ing	_	_	_	
+69-18	11358-11360	in	_	_	_	
+69-19	11361-11370	paroxysms	_	_	_	
+69-20	11370-11371	,	_	_	_	
+69-21	11372-11379	lasting	_	_	_	
+69-22	11380-11383	for	_	_	_	
+69-23	11384-11385	a	_	_	_	
+69-24	11386-11390	week	_	_	_	
+69-25	11391-11393	or	_	_	_	
+69-26	11394-11397	two	_	_	_	
+69-27	11397-11398	,	_	_	_	
+69-28	11399-11402	but	_	_	_	
+69-29	11403-11412	sometimes	_	_	_	
+69-30	11413-11416	for	_	_	_	
+69-31	11417-11424	several	_	_	_	
+69-32	11425-11430	weeks	_	_	_	
+69-33	11430-11431	,	_	_	_	
+69-34	11432-11436	with	_	_	_	
+69-35	11437-11440	the	_	_	_	
+69-36	11441-11445	same	_	_	_	
+69-37	11446-11454	tendency	_	_	_	
+69-38	11455-11457	to	_	_	_	
+69-39	11458-11463	recur	_	_	_	
+69-40	11464-11467	for	_	_	_	
+69-41	11468-11473	weeks	_	_	_	
+69-42	11474-11476	or	_	_	_	
+69-43	11477-11482	years	_	_	_	
+69-44	11482-11483	.	_	_	_	
+
+#Text=They also end in a
+#Text=very similar manner, either in a form of phthisis or in a dangerous
+#Text=pulmonary complication, and they are about equally rare.
+70-1	11484-11488	They	_	_	_	
+70-2	11489-11493	also	_	_	_	
+70-3	11494-11497	end	_	_	_	
+70-4	11498-11500	in	_	_	_	
+70-5	11501-11502	a	_	_	_	
+70-6	11503-11507	very	_	_	_	
+70-7	11508-11515	similar	_	_	_	
+70-8	11516-11522	manner	_	_	_	
+70-9	11522-11523	,	_	_	_	
+70-10	11524-11530	either	_	_	_	
+70-11	11531-11533	in	_	_	_	
+70-12	11534-11535	a	_	_	_	
+70-13	11536-11540	form	_	_	_	
+70-14	11541-11543	of	_	_	_	
+70-15	11544-11552	phthisis	_	_	_	
+70-16	11553-11555	or	_	_	_	
+70-17	11556-11558	in	_	_	_	
+70-18	11559-11560	a	_	_	_	
+70-19	11561-11570	dangerous	_	_	_	
+70-20	11571-11580	pulmonary	_	_	_	
+70-21	11581-11593	complication	_	_	_	
+70-22	11593-11594	,	_	_	_	
+70-23	11595-11598	and	_	_	_	
+70-24	11599-11603	they	_	_	_	
+70-25	11604-11607	are	_	_	_	
+70-26	11608-11613	about	_	_	_	
+70-27	11614-11621	equally	_	_	_	
+70-28	11622-11626	rare	_	_	_	
+70-29	11626-11627	.	_	_	_	
+
+#Text=In
+#Text=short, substitute for expectoration of plastic tube-casts a fetid mucopurulent expectoration, and the diseases would be identical, — so
+#Text=that the constitutional conditions are apparently the same.
+71-1	11628-11630	In	_	_	_	
+71-2	11631-11636	short	_	_	_	
+71-3	11636-11637	,	_	_	_	
+71-4	11638-11648	substitute	_	_	_	
+71-5	11649-11652	for	_	_	_	
+71-6	11653-11666	expectoration	_	_	_	
+71-7	11667-11669	of	_	_	_	
+71-8	11670-11677	plastic	_	_	_	
+71-9	11678-11688	tube-casts	_	_	_	
+71-10	11689-11690	a	_	_	_	
+71-11	11691-11696	fetid	_	_	_	
+71-12	11697-11709	mucopurulent	_	_	_	
+71-13	11710-11723	expectoration	_	_	_	
+71-14	11723-11724	,	_	_	_	
+71-15	11725-11728	and	_	_	_	
+71-16	11729-11732	the	_	_	_	
+71-17	11733-11741	diseases	_	_	_	
+71-18	11742-11747	would	_	_	_	
+71-19	11748-11750	be	_	_	_	
+71-20	11751-11760	identical	_	_	_	
+71-21	11760-11761	,	_	_	_	
+71-22	11762-11763	—	_	_	_	
+71-23	11764-11766	so	_	_	_	
+71-24	11767-11771	that	_	_	_	
+71-25	11772-11775	the	_	_	_	
+71-26	11776-11790	constitutional	_	_	_	
+71-27	11791-11801	conditions	_	_	_	
+71-28	11802-11805	are	_	_	_	
+71-29	11806-11816	apparently	_	_	_	
+71-30	11817-11820	the	_	_	_	
+71-31	11821-11825	same	_	_	_	
+71-32	11825-11826	.	_	_	_	
+
+#Text=The
+#Text=difiference is as to the susceptibility of the morbid pulmonary excretions and exudations to undergo decomposition.
+72-1	11827-11830	The	_	_	_	
+72-2	11831-11842	difiference	_	_	_	
+72-3	11843-11845	is	_	_	_	
+72-4	11846-11848	as	_	_	_	
+72-5	11849-11851	to	_	_	_	
+72-6	11852-11855	the	_	_	_	
+72-7	11856-11870	susceptibility	_	_	_	
+72-8	11871-11873	of	_	_	_	
+72-9	11874-11877	the	_	_	_	
+72-10	11878-11884	morbid	_	_	_	
+72-11	11885-11894	pulmonary	_	_	_	
+72-12	11895-11905	excretions	_	_	_	
+72-13	11906-11909	and	_	_	_	
+72-14	11910-11920	exudations	_	_	_	
+72-15	11921-11923	to	_	_	_	
+72-16	11924-11931	undergo	_	_	_	
+72-17	11932-11945	decomposition	_	_	_	
+72-18	11945-11946	.	_	_	_	
+
+#Text=These cases of
+#Text=plastic bronchitis shade off also into that special kind of lobar bronchopneumonia, closely resembling the fetid kind in symptoms and
+#Text=course, and occurring in rheumatic subjects, to wliicli I liave already
+#Text=referred.
+73-1	11947-11952	These	_	_	_	
+73-2	11953-11958	cases	_	_	_	
+73-3	11959-11961	of	_	_	_	
+73-4	11962-11969	plastic	_	_	_	
+73-5	11970-11980	bronchitis	_	_	_	
+73-6	11981-11986	shade	_	_	_	
+73-7	11987-11990	off	_	_	_	
+73-8	11991-11995	also	_	_	_	
+73-9	11996-12000	into	_	_	_	
+73-10	12001-12005	that	_	_	_	
+73-11	12006-12013	special	Smell\_Source[84]	_	_	
+73-12	12014-12018	kind	Smell\_Source[84]	_	_	
+73-13	12019-12021	of	Smell\_Source[84]	_	_	
+73-14	12022-12027	lobar	Smell\_Source[84]	_	_	
+73-15	12028-12044	bronchopneumonia	Smell\_Source[84]	_	_	
+73-16	12044-12045	,	_	_	_	
+73-17	12046-12053	closely	_	_	_	
+73-18	12054-12064	resembling	_	_	_	
+73-19	12065-12068	the	_	_	_	
+73-20	12069-12074	fetid	Smell\_Word[85]|Quality[86]	*|*	73-20[86_85]|73-11[84_85]	
+73-21	12075-12079	kind	_	_	_	
+73-22	12080-12082	in	_	_	_	
+73-23	12083-12091	symptoms	_	_	_	
+73-24	12092-12095	and	_	_	_	
+73-25	12096-12102	course	_	_	_	
+73-26	12102-12103	,	_	_	_	
+73-27	12104-12107	and	_	_	_	
+73-28	12108-12117	occurring	_	_	_	
+73-29	12118-12120	in	_	_	_	
+73-30	12121-12130	rheumatic	_	_	_	
+73-31	12131-12139	subjects	_	_	_	
+73-32	12139-12140	,	_	_	_	
+73-33	12141-12143	to	_	_	_	
+73-34	12144-12151	wliicli	_	_	_	
+73-35	12152-12153	I	_	_	_	
+73-36	12154-12159	liave	_	_	_	
+73-37	12160-12167	already	_	_	_	
+73-38	12168-12176	referred	_	_	_	
+73-39	12176-12177	.	_	_	_	
+
+#Text=A case of this kind is now under my care in the Infirmary, in which the seat of lesion is (as is most common) in the
+#Text=left lung, with persistent pain there, and tingling in the palm of
+#Text=the left hand.
+74-1	12178-12179	A	_	_	_	
+74-2	12180-12184	case	_	_	_	
+74-3	12185-12187	of	_	_	_	
+74-4	12188-12192	this	_	_	_	
+74-5	12193-12197	kind	_	_	_	
+74-6	12198-12200	is	_	_	_	
+74-7	12201-12204	now	_	_	_	
+74-8	12205-12210	under	_	_	_	
+74-9	12211-12213	my	_	_	_	
+74-10	12214-12218	care	_	_	_	
+74-11	12219-12221	in	_	_	_	
+74-12	12222-12225	the	_	_	_	
+74-13	12226-12235	Infirmary	_	_	_	
+74-14	12235-12236	,	_	_	_	
+74-15	12237-12239	in	_	_	_	
+74-16	12240-12245	which	_	_	_	
+74-17	12246-12249	the	_	_	_	
+74-18	12250-12254	seat	_	_	_	
+74-19	12255-12257	of	_	_	_	
+74-20	12258-12264	lesion	_	_	_	
+74-21	12265-12267	is	_	_	_	
+74-22	12268-12269	(	_	_	_	
+74-23	12269-12271	as	_	_	_	
+74-24	12272-12274	is	_	_	_	
+74-25	12275-12279	most	_	_	_	
+74-26	12280-12286	common	_	_	_	
+74-27	12286-12287	)	_	_	_	
+74-28	12288-12290	in	_	_	_	
+74-29	12291-12294	the	_	_	_	
+74-30	12295-12299	left	_	_	_	
+74-31	12300-12304	lung	_	_	_	
+74-32	12304-12305	,	_	_	_	
+74-33	12306-12310	with	_	_	_	
+74-34	12311-12321	persistent	_	_	_	
+74-35	12322-12326	pain	_	_	_	
+74-36	12327-12332	there	_	_	_	
+74-37	12332-12333	,	_	_	_	
+74-38	12334-12337	and	_	_	_	
+74-39	12338-12346	tingling	_	_	_	
+74-40	12347-12349	in	_	_	_	
+74-41	12350-12353	the	_	_	_	
+74-42	12354-12358	palm	_	_	_	
+74-43	12359-12361	of	_	_	_	
+74-44	12362-12365	the	_	_	_	
+74-45	12366-12370	left	_	_	_	
+74-46	12371-12375	hand	_	_	_	
+74-47	12375-12376	.	_	_	_	
+
+#Text=The patient (a man) has had profuse stronglysmelling sweats, like those of the. rheumatic, and rheumatic
+#Text=corpuscles in his urine.
+75-1	12377-12380	The	_	_	_	
+75-2	12381-12388	patient	_	_	_	
+75-3	12389-12390	(	_	_	_	
+75-4	12390-12391	a	_	_	_	
+75-5	12392-12395	man	_	_	_	
+75-6	12395-12396	)	_	_	_	
+75-7	12397-12400	has	_	_	_	
+75-8	12401-12404	had	_	_	_	
+75-9	12405-12412	profuse	_	_	_	
+75-10	12413-12429	stronglysmelling	Smell\_Word[87]|Quality[88]	*|*	75-10[88_87]|75-11[0_87]	
+75-11	12430-12436	sweats	Smell\_Source	_	_	
+75-12	12436-12437	,	_	_	_	
+75-13	12438-12442	like	_	_	_	
+75-14	12443-12448	those	_	_	_	
+75-15	12449-12451	of	_	_	_	
+75-16	12452-12455	the	_	_	_	
+75-17	12455-12456	.	_	_	_	
+75-18	12457-12466	rheumatic	_	_	_	
+75-19	12466-12467	,	_	_	_	
+75-20	12468-12471	and	_	_	_	
+75-21	12472-12481	rheumatic	_	_	_	
+75-22	12482-12492	corpuscles	_	_	_	
+75-23	12493-12495	in	_	_	_	
+75-24	12496-12499	his	_	_	_	
+75-25	12500-12505	urine	_	_	_	
+75-26	12505-12506	.	_	_	_	
+
+#Text=Fetor of the breath closely resembling that under consideration
+#Text=is observed in pregnancy, scorbutus, and cachectic states of a rheumatic character ; in all these the blood is highly fibrinous and
+#Text=embolism not uncommon.
+76-1	12508-12513	Fetor	Smell\_Word	*|*	76-2[89_0]|76-5[90_0]	
+76-2	12514-12516	of	Smell\_Source[89]	_	_	
+76-3	12517-12520	the	Smell\_Source[89]	_	_	
+76-4	12521-12527	breath	Smell\_Source[89]	_	_	
+76-5	12528-12535	closely	Circumstances[90]	_	_	
+76-6	12536-12546	resembling	Circumstances[90]	_	_	
+76-7	12547-12551	that	Circumstances[90]	_	_	
+76-8	12552-12557	under	Circumstances[90]	_	_	
+76-9	12558-12571	consideration	Circumstances[90]	_	_	
+76-10	12572-12574	is	Circumstances[90]	_	_	
+76-11	12575-12583	observed	Circumstances[90]	_	_	
+76-12	12584-12586	in	Circumstances[90]	_	_	
+76-13	12587-12596	pregnancy	Circumstances[90]	_	_	
+76-14	12596-12597	,	Circumstances[90]	_	_	
+76-15	12598-12607	scorbutus	Circumstances[90]	_	_	
+76-16	12607-12608	,	Circumstances[90]	_	_	
+76-17	12609-12612	and	Circumstances[90]	_	_	
+76-18	12613-12622	cachectic	Circumstances[90]	_	_	
+76-19	12623-12629	states	Circumstances[90]	_	_	
+76-20	12630-12632	of	Circumstances[90]	_	_	
+76-21	12633-12634	a	Circumstances[90]	_	_	
+76-22	12635-12644	rheumatic	Circumstances[90]	_	_	
+76-23	12645-12654	character	Circumstances[90]	_	_	
+76-24	12655-12656	;	_	_	_	
+76-25	12657-12659	in	_	_	_	
+76-26	12660-12663	all	_	_	_	
+76-27	12664-12669	these	_	_	_	
+76-28	12670-12673	the	_	_	_	
+76-29	12674-12679	blood	_	_	_	
+76-30	12680-12682	is	_	_	_	
+76-31	12683-12689	highly	_	_	_	
+76-32	12690-12699	fibrinous	_	_	_	
+76-33	12700-12703	and	_	_	_	
+76-34	12704-12712	embolism	_	_	_	
+76-35	12713-12716	not	_	_	_	
+76-36	12717-12725	uncommon	_	_	_	
+76-37	12725-12726	.	_	_	_	
+
+#Text=Since the pulmonary artery has been
+#Text=found plugged in cases of pulmonary gangrene and rodent pulmonary ulcer simulating it, tlie plugging has been usually considered as the cause of the morbid change.
+77-1	12727-12732	Since	_	_	_	
+77-2	12733-12736	the	_	_	_	
+77-3	12737-12746	pulmonary	_	_	_	
+77-4	12747-12753	artery	_	_	_	
+77-5	12754-12757	has	_	_	_	
+77-6	12758-12762	been	_	_	_	
+77-7	12763-12768	found	_	_	_	
+77-8	12769-12776	plugged	_	_	_	
+77-9	12777-12779	in	_	_	_	
+77-10	12780-12785	cases	_	_	_	
+77-11	12786-12788	of	_	_	_	
+77-12	12789-12798	pulmonary	_	_	_	
+77-13	12799-12807	gangrene	_	_	_	
+77-14	12808-12811	and	_	_	_	
+77-15	12812-12818	rodent	_	_	_	
+77-16	12819-12828	pulmonary	_	_	_	
+77-17	12829-12834	ulcer	_	_	_	
+77-18	12835-12845	simulating	_	_	_	
+77-19	12846-12848	it	_	_	_	
+77-20	12848-12849	,	_	_	_	
+77-21	12850-12854	tlie	_	_	_	
+77-22	12855-12863	plugging	_	_	_	
+77-23	12864-12867	has	_	_	_	
+77-24	12868-12872	been	_	_	_	
+77-25	12873-12880	usually	_	_	_	
+77-26	12881-12891	considered	_	_	_	
+77-27	12892-12894	as	_	_	_	
+77-28	12895-12898	the	_	_	_	
+77-29	12899-12904	cause	_	_	_	
+77-30	12905-12907	of	_	_	_	
+77-31	12908-12911	the	_	_	_	
+77-32	12912-12918	morbid	_	_	_	
+77-33	12919-12925	change	_	_	_	
+77-34	12925-12926	.	_	_	_	
+
+#Text=There seems to be,
+#Text=however, just as solid ground for the opposite theory, namely, that
+#Text=the plugging is caused by the pulmonary disease.
+78-1	12927-12932	There	_	_	_	
+78-2	12933-12938	seems	_	_	_	
+78-3	12939-12941	to	_	_	_	
+78-4	12942-12944	be	_	_	_	
+78-5	12944-12945	,	_	_	_	
+78-6	12946-12953	however	_	_	_	
+78-7	12953-12954	,	_	_	_	
+78-8	12955-12959	just	_	_	_	
+78-9	12960-12962	as	_	_	_	
+78-10	12963-12968	solid	_	_	_	
+78-11	12969-12975	ground	_	_	_	
+78-12	12976-12979	for	_	_	_	
+78-13	12980-12983	the	_	_	_	
+78-14	12984-12992	opposite	_	_	_	
+78-15	12993-12999	theory	_	_	_	
+78-16	12999-13000	,	_	_	_	
+78-17	13001-13007	namely	_	_	_	
+78-18	13007-13008	,	_	_	_	
+78-19	13009-13013	that	_	_	_	
+78-20	13014-13017	the	_	_	_	
+78-21	13018-13026	plugging	_	_	_	
+78-22	13027-13029	is	_	_	_	
+78-23	13030-13036	caused	_	_	_	
+78-24	13037-13039	by	_	_	_	
+78-25	13040-13043	the	_	_	_	
+78-26	13044-13053	pulmonary	_	_	_	
+78-27	13054-13061	disease	_	_	_	
+78-28	13061-13062	.	_	_	_	
+
+#Text=But, however
+#Text=caused, the excess of fibrin is probably a predisposing or exciting
+#Text=cause of the fetor.
+79-1	13063-13066	But	_	_	_	
+79-2	13066-13067	,	_	_	_	
+79-3	13068-13075	however	_	_	_	
+79-4	13076-13082	caused	_	_	_	
+79-5	13082-13083	,	_	_	_	
+79-6	13084-13087	the	Circumstances[91]	_	_	
+79-7	13088-13094	excess	Circumstances[91]	_	_	
+79-8	13095-13097	of	Circumstances[91]	_	_	
+79-9	13098-13104	fibrin	Circumstances[91]	_	_	
+79-10	13105-13107	is	_	_	_	
+79-11	13108-13116	probably	_	_	_	
+79-12	13117-13118	a	_	_	_	
+79-13	13119-13131	predisposing	_	_	_	
+79-14	13132-13134	or	_	_	_	
+79-15	13135-13143	exciting	_	_	_	
+79-16	13144-13149	cause	_	_	_	
+79-17	13150-13152	of	_	_	_	
+79-18	13153-13156	the	_	_	_	
+79-19	13157-13162	fetor	Smell\_Word	*	79-6[91_0]	
+79-20	13162-13163	.	_	_	_	
+
+#Text=These remarks refer chiefly to cases of pulmonary fetor in which
+#Text=changes of structure have been observed.
+80-1	13165-13170	These	_	_	_	
+80-2	13171-13178	remarks	_	_	_	
+80-3	13179-13184	refer	_	_	_	
+80-4	13185-13192	chiefly	_	_	_	
+80-5	13193-13195	to	_	_	_	
+80-6	13196-13201	cases	_	_	_	
+80-7	13202-13204	of	_	_	_	
+80-8	13205-13214	pulmonary	Quality	_	_	
+80-9	13215-13220	fetor	Smell\_Word	*	80-8	
+80-10	13221-13223	in	_	_	_	
+80-11	13224-13229	which	_	_	_	
+80-12	13230-13237	changes	_	_	_	
+80-13	13238-13240	of	_	_	_	
+80-14	13241-13250	structure	_	_	_	
+80-15	13251-13255	have	_	_	_	
+80-16	13256-13260	been	_	_	_	
+80-17	13261-13269	observed	_	_	_	
+80-18	13269-13270	.	_	_	_	
+
+#Text=But in one class of
+#Text=these affections there is no cognisable disease, and yet a very
+#Text=characteristic odour (the faecal) is exhaled.
+81-1	13271-13274	But	_	_	_	
+81-2	13275-13277	in	_	_	_	
+81-3	13278-13281	one	_	_	_	
+81-4	13282-13287	class	_	_	_	
+81-5	13288-13290	of	_	_	_	
+81-6	13291-13296	these	_	_	_	
+81-7	13297-13307	affections	_	_	_	
+81-8	13308-13313	there	_	_	_	
+81-9	13314-13316	is	_	_	_	
+81-10	13317-13319	no	_	_	_	
+81-11	13320-13330	cognisable	_	_	_	
+81-12	13331-13338	disease	_	_	_	
+81-13	13338-13339	,	_	_	_	
+81-14	13340-13343	and	_	_	_	
+81-15	13344-13347	yet	_	_	_	
+81-16	13348-13349	a	_	_	_	
+81-17	13350-13354	very	Quality[92]	_	_	
+81-18	13355-13369	characteristic	Quality[92]	_	_	
+81-19	13370-13375	odour	Smell\_Word	*|*	81-17[92_0]|81-22	
+81-20	13376-13377	(	_	_	_	
+81-21	13377-13380	the	_	_	_	
+81-22	13381-13387	faecal	Quality	_	_	
+81-23	13387-13388	)	_	_	_	
+81-24	13389-13391	is	_	_	_	
+81-25	13392-13399	exhaled	_	_	_	
+81-26	13399-13400	.	_	_	_	
+
+#Text=But these cases, when
+#Text=examined, only serve to show more clearly its rheumatic origin.
+82-1	13401-13404	But	_	_	_	
+82-2	13405-13410	these	_	_	_	
+82-3	13411-13416	cases	_	_	_	
+82-4	13416-13417	,	_	_	_	
+82-5	13418-13422	when	_	_	_	
+82-6	13423-13431	examined	_	_	_	
+82-7	13431-13432	,	_	_	_	
+82-8	13433-13437	only	_	_	_	
+82-9	13438-13443	serve	_	_	_	
+82-10	13444-13446	to	_	_	_	
+82-11	13447-13451	show	_	_	_	
+82-12	13452-13456	more	_	_	_	
+82-13	13457-13464	clearly	_	_	_	
+82-14	13465-13468	its	_	_	_	
+82-15	13469-13478	rheumatic	_	_	_	
+82-16	13479-13485	origin	_	_	_	
+82-17	13485-13486	.	_	_	_	
+
+#Text=In offensive perspiration of the feet a peculiar cabbage-like stench
+#Text=is given off.
+83-1	13487-13489	In	_	_	_	
+83-2	13490-13499	offensive	Quality	_	_	
+83-3	13500-13512	perspiration	Smell\_Source[93]	_	_	
+83-4	13513-13515	of	Smell\_Source[93]	_	_	
+83-5	13516-13519	the	Smell\_Source[93]	_	_	
+83-6	13520-13524	feet	Smell\_Source[93]	_	_	
+83-7	13525-13526	a	Evoked\_Odorant[94]	_	_	
+83-8	13527-13535	peculiar	Evoked\_Odorant[94]	_	_	
+83-9	13536-13548	cabbage-like	Evoked\_Odorant[94]	_	_	
+83-10	13549-13555	stench	Evoked\_Odorant[94]|Smell\_Word[95]	*|*|*	83-7[94_95]|83-2[0_95]|83-3[93_95]	
+83-11	13556-13558	is	_	_	_	
+83-12	13559-13564	given	_	_	_	
+83-13	13565-13568	off	_	_	_	
+83-14	13568-13569	.	_	_	_	
+
+#Text=It has been roundly asserted that this is due simply
+#Text=to want of cleanliness, just as the stench of fetid bronchitis has
+#Text=been attributed to gangrene ; but the theory is certainly not sound.
+84-1	13570-13572	It	_	_	_	
+84-2	13573-13576	has	_	_	_	
+84-3	13577-13581	been	_	_	_	
+84-4	13582-13589	roundly	_	_	_	
+84-5	13590-13598	asserted	_	_	_	
+84-6	13599-13603	that	_	_	_	
+84-7	13604-13608	this	_	_	_	
+84-8	13609-13611	is	_	_	_	
+84-9	13612-13615	due	_	_	_	
+84-10	13616-13622	simply	_	_	_	
+84-11	13623-13625	to	_	_	_	
+84-12	13626-13630	want	_	_	_	
+84-13	13631-13633	of	_	_	_	
+84-14	13634-13645	cleanliness	_	_	_	
+84-15	13645-13646	,	_	_	_	
+84-16	13647-13651	just	_	_	_	
+84-17	13652-13654	as	_	_	_	
+84-18	13655-13658	the	_	_	_	
+84-19	13659-13665	stench	Smell\_Word	*|*	84-20[96_0]|84-23[97_0]	
+84-20	13666-13668	of	Smell\_Source[96]	_	_	
+84-21	13669-13674	fetid	Smell\_Source[96]	_	_	
+84-22	13675-13685	bronchitis	Smell\_Source[96]	_	_	
+84-23	13686-13689	has	Circumstances[97]	_	_	
+84-24	13690-13694	been	Circumstances[97]	_	_	
+84-25	13695-13705	attributed	Circumstances[97]	_	_	
+84-26	13706-13708	to	Circumstances[97]	_	_	
+84-27	13709-13717	gangrene	Circumstances[97]	_	_	
+84-28	13718-13719	;	_	_	_	
+84-29	13720-13723	but	_	_	_	
+84-30	13724-13727	the	_	_	_	
+84-31	13728-13734	theory	_	_	_	
+84-32	13735-13737	is	_	_	_	
+84-33	13738-13747	certainly	_	_	_	
+84-34	13748-13751	not	_	_	_	
+84-35	13752-13757	sound	_	_	_	
+84-36	13757-13758	.	_	_	_	
+
+#Text=Cases occur in which the most scrupulous cleanliness fails to prevent
+#Text=the smell.
+85-1	13759-13764	Cases	_	_	_	
+85-2	13765-13770	occur	_	_	_	
+85-3	13771-13773	in	_	_	_	
+85-4	13774-13779	which	_	_	_	
+85-5	13780-13783	the	_	_	_	
+85-6	13784-13788	most	_	_	_	
+85-7	13789-13799	scrupulous	_	_	_	
+85-8	13800-13811	cleanliness	_	_	_	
+85-9	13812-13817	fails	_	_	_	
+85-10	13818-13820	to	_	_	_	
+85-11	13821-13828	prevent	_	_	_	
+85-12	13829-13832	the	_	_	_	
+85-13	13833-13838	smell	Smell\_Word	_	_	
+85-14	13838-13839	.	_	_	_	
+
+#Text=Indeed, I know no more intractable malady, for even when
+#Text=the stockings and shoes are changed two or three times a-day and
+#Text=powerful scents used, the morbid stench is still diffused.
+86-1	13840-13846	Indeed	_	_	_	
+86-2	13846-13847	,	_	_	_	
+86-3	13848-13849	I	_	_	_	
+86-4	13850-13854	know	_	_	_	
+86-5	13855-13857	no	_	_	_	
+86-6	13858-13862	more	_	_	_	
+86-7	13863-13874	intractable	_	_	_	
+86-8	13875-13881	malady	_	_	_	
+86-9	13881-13882	,	_	_	_	
+86-10	13883-13886	for	_	_	_	
+86-11	13887-13891	even	Circumstances[98]	_	_	
+86-12	13892-13896	when	Circumstances[98]	_	_	
+86-13	13897-13900	the	Circumstances[98]	_	_	
+86-14	13901-13910	stockings	Circumstances[98]	_	_	
+86-15	13911-13914	and	Circumstances[98]	_	_	
+86-16	13915-13920	shoes	Circumstances[98]	_	_	
+86-17	13921-13924	are	Circumstances[98]	_	_	
+86-18	13925-13932	changed	Circumstances[98]	_	_	
+86-19	13933-13936	two	Circumstances[98]	_	_	
+86-20	13937-13939	or	Circumstances[98]	_	_	
+86-21	13940-13945	three	Circumstances[98]	_	_	
+86-22	13946-13951	times	Circumstances[98]	_	_	
+86-23	13952-13957	a-day	Circumstances[98]	_	_	
+86-24	13958-13961	and	Circumstances[98]	_	_	
+86-25	13962-13970	powerful	Circumstances[98]|Quality[99]	_	_	
+86-26	13971-13977	scents	Circumstances[98]|Smell\_Word[100]	*	86-25[99_100]	
+86-27	13978-13982	used	Circumstances[98]	_	_	
+86-28	13982-13983	,	_	_	_	
+86-29	13984-13987	the	_	_	_	
+86-30	13988-13994	morbid	Quality	_	_	
+86-31	13995-14001	stench	Smell\_Word	*|*	86-30|86-11[98_0]	
+86-32	14002-14004	is	_	_	_	
+86-33	14005-14010	still	_	_	_	
+86-34	14011-14019	diffused	_	_	_	
+86-35	14019-14020	.	_	_	_	
+
+#Text=It seems
+#Text=probable that the perspiration contains an element which undergoes
+#Text=decomposition at a low temperature or on exposure to the air.
+87-1	14021-14023	It	_	_	_	
+87-2	14024-14029	seems	_	_	_	
+87-3	14030-14038	probable	_	_	_	
+87-4	14039-14043	that	_	_	_	
+87-5	14044-14047	the	_	_	_	
+87-6	14048-14060	perspiration	_	_	_	
+87-7	14061-14069	contains	_	_	_	
+87-8	14070-14072	an	_	_	_	
+87-9	14073-14080	element	_	_	_	
+87-10	14081-14086	which	_	_	_	
+87-11	14087-14096	undergoes	_	_	_	
+87-12	14097-14110	decomposition	_	_	_	
+87-13	14111-14113	at	_	_	_	
+87-14	14114-14115	a	_	_	_	
+87-15	14116-14119	low	_	_	_	
+87-16	14120-14131	temperature	_	_	_	
+87-17	14132-14134	or	_	_	_	
+87-18	14135-14137	on	_	_	_	
+87-19	14138-14146	exposure	_	_	_	
+87-20	14147-14149	to	_	_	_	
+87-21	14150-14153	the	_	_	_	
+87-22	14154-14157	air	_	_	_	
+87-23	14157-14158	.	_	_	_	
+
+#Text=I
+#Text=have been informed that a surgeon in extensive practice in the
+#Text=north of England committed suicide a few years ago because of
+#Text=this offensive malady.
+88-1	14159-14160	I	_	_	_	
+88-2	14161-14165	have	_	_	_	
+88-3	14166-14170	been	_	_	_	
+88-4	14171-14179	informed	_	_	_	
+88-5	14180-14184	that	_	_	_	
+88-6	14185-14186	a	_	_	_	
+88-7	14187-14194	surgeon	_	_	_	
+88-8	14195-14197	in	_	_	_	
+88-9	14198-14207	extensive	_	_	_	
+88-10	14208-14216	practice	_	_	_	
+88-11	14217-14219	in	_	_	_	
+88-12	14220-14223	the	_	_	_	
+88-13	14224-14229	north	_	_	_	
+88-14	14230-14232	of	_	_	_	
+88-15	14233-14240	England	_	_	_	
+88-16	14241-14250	committed	_	_	_	
+88-17	14251-14258	suicide	_	_	_	
+88-18	14259-14260	a	_	_	_	
+88-19	14261-14264	few	_	_	_	
+88-20	14265-14270	years	_	_	_	
+88-21	14271-14274	ago	_	_	_	
+88-22	14275-14282	because	_	_	_	
+88-23	14283-14285	of	_	_	_	
+88-24	14286-14290	this	_	_	_	
+88-25	14291-14300	offensive	Smell\_Word[101]|Quality[102]	*|*	88-25[102_101]|88-26[0_101]	
+88-26	14301-14307	malady	Smell\_Source	_	_	
+88-27	14307-14308	.	_	_	_	
+
+#Text=A patient soon infects the air of a large
+#Text=room.
+89-1	14309-14310	A	_	_	_	
+89-2	14311-14318	patient	_	_	_	
+89-3	14319-14323	soon	_	_	_	
+89-4	14324-14331	infects	_	_	_	
+89-5	14332-14335	the	_	_	_	
+89-6	14336-14339	air	_	_	_	
+89-7	14340-14342	of	_	_	_	
+89-8	14343-14344	a	_	_	_	
+89-9	14345-14350	large	_	_	_	
+89-10	14351-14355	room	_	_	_	
+89-11	14355-14356	.	_	_	_	
+
+#Text=In the cases that have come under my observation I could
+#Text=trace distinctly a rheumatic habit, and sometimes rheumatism was
+#Text=a complication.
+90-1	14357-14359	In	_	_	_	
+90-2	14360-14363	the	_	_	_	
+90-3	14364-14369	cases	_	_	_	
+90-4	14370-14374	that	_	_	_	
+90-5	14375-14379	have	_	_	_	
+90-6	14380-14384	come	_	_	_	
+90-7	14385-14390	under	_	_	_	
+90-8	14391-14393	my	_	_	_	
+90-9	14394-14405	observation	_	_	_	
+90-10	14406-14407	I	_	_	_	
+90-11	14408-14413	could	_	_	_	
+90-12	14414-14419	trace	_	_	_	
+90-13	14420-14430	distinctly	_	_	_	
+90-14	14431-14432	a	_	_	_	
+90-15	14433-14442	rheumatic	_	_	_	
+90-16	14443-14448	habit	_	_	_	
+90-17	14448-14449	,	_	_	_	
+90-18	14450-14453	and	_	_	_	
+90-19	14454-14463	sometimes	_	_	_	
+90-20	14464-14474	rheumatism	_	_	_	
+90-21	14475-14478	was	_	_	_	
+90-22	14479-14480	a	_	_	_	
+90-23	14481-14493	complication	_	_	_	
+90-24	14493-14494	.	_	_	_	
+
+#Text=Allied to this is the offensive odour in some
+#Text=forms of rheumatic fever and in cases of acute recuiTcnt attacks
+#Text=of leprous inflammation of the skin, in which the paroxysm terminates by a copious plastic exudation into the cutaneous cellular tissue.
+91-1	14495-14501	Allied	_	_	_	
+91-2	14502-14504	to	_	_	_	
+91-3	14505-14509	this	_	_	_	
+91-4	14510-14512	is	_	_	_	
+91-5	14513-14516	the	_	_	_	
+91-6	14517-14526	offensive	Quality	_	_	
+91-7	14527-14532	odour	Smell\_Word	*	91-6	
+91-8	14533-14535	in	_	_	_	
+91-9	14536-14540	some	_	_	_	
+91-10	14541-14546	forms	_	_	_	
+91-11	14547-14549	of	_	_	_	
+91-12	14550-14559	rheumatic	_	_	_	
+91-13	14560-14565	fever	_	_	_	
+91-14	14566-14569	and	_	_	_	
+91-15	14570-14572	in	_	_	_	
+91-16	14573-14578	cases	_	_	_	
+91-17	14579-14581	of	_	_	_	
+91-18	14582-14587	acute	_	_	_	
+91-19	14588-14597	recuiTcnt	_	_	_	
+91-20	14598-14605	attacks	_	_	_	
+91-21	14606-14608	of	_	_	_	
+91-22	14609-14616	leprous	_	_	_	
+91-23	14617-14629	inflammation	_	_	_	
+91-24	14630-14632	of	_	_	_	
+91-25	14633-14636	the	_	_	_	
+91-26	14637-14641	skin	_	_	_	
+91-27	14641-14642	,	_	_	_	
+91-28	14643-14645	in	_	_	_	
+91-29	14646-14651	which	_	_	_	
+91-30	14652-14655	the	_	_	_	
+91-31	14656-14664	paroxysm	_	_	_	
+91-32	14665-14675	terminates	_	_	_	
+91-33	14676-14678	by	_	_	_	
+91-34	14679-14680	a	_	_	_	
+91-35	14681-14688	copious	_	_	_	
+91-36	14689-14696	plastic	_	_	_	
+91-37	14697-14706	exudation	_	_	_	
+91-38	14707-14711	into	_	_	_	
+91-39	14712-14715	the	_	_	_	
+91-40	14716-14725	cutaneous	_	_	_	
+91-41	14726-14734	cellular	_	_	_	
+91-42	14735-14741	tissue	_	_	_	
+91-43	14741-14742	.	_	_	_	
+
+#Text=The urine sometimes becomes fetid in like manner.
+92-1	14743-14746	The	Smell\_Source[103]	_	_	
+92-2	14747-14752	urine	Smell\_Source[103]	_	_	
+92-3	14753-14762	sometimes	Time	_	_	
+92-4	14763-14770	becomes	_	_	_	
+92-5	14771-14776	fetid	Smell\_Word[104]|Quality[105]	*|*|*	92-5[105_104]|92-1[103_104]|92-3[0_104]	
+92-6	14777-14779	in	_	_	_	
+92-7	14780-14784	like	_	_	_	
+92-8	14785-14791	manner	_	_	_	
+92-9	14791-14792	.	_	_	_	
+
+#Text=Dr Low, of
+#Text=King ' s Lynn, had communicated to me the particulars of a case of
+#Text=this kind in a pregnant female, and which ceased with delivery.
+93-1	14793-14795	Dr	_	_	_	
+93-2	14796-14799	Low	_	_	_	
+93-3	14799-14800	,	_	_	_	
+93-4	14801-14803	of	_	_	_	
+93-5	14804-14808	King	_	_	_	
+93-6	14809-14810	'	_	_	_	
+93-7	14811-14812	s	_	_	_	
+93-8	14813-14817	Lynn	_	_	_	
+93-9	14817-14818	,	_	_	_	
+93-10	14819-14822	had	_	_	_	
+93-11	14823-14835	communicated	_	_	_	
+93-12	14836-14838	to	_	_	_	
+93-13	14839-14841	me	_	_	_	
+93-14	14842-14845	the	_	_	_	
+93-15	14846-14857	particulars	_	_	_	
+93-16	14858-14860	of	_	_	_	
+93-17	14861-14862	a	_	_	_	
+93-18	14863-14867	case	_	_	_	
+93-19	14868-14870	of	_	_	_	
+93-20	14871-14875	this	_	_	_	
+93-21	14876-14880	kind	_	_	_	
+93-22	14881-14883	in	_	_	_	
+93-23	14884-14885	a	_	_	_	
+93-24	14886-14894	pregnant	_	_	_	
+93-25	14895-14901	female	_	_	_	
+93-26	14901-14902	,	_	_	_	
+93-27	14903-14906	and	_	_	_	
+93-28	14907-14912	which	_	_	_	
+93-29	14913-14919	ceased	_	_	_	
+93-30	14920-14924	with	_	_	_	
+93-31	14925-14933	delivery	_	_	_	
+93-32	14933-14934	.	_	_	_	
+
+#Text=Speculations have naturally arisen as to the immediate origin
+#Text=and composition of the volatile matter which causes the stench;
+#Text=and as the blood is easily impregnated with volatile stuff, it is
+#Text=readily concluded that it comes from the blood.
+94-1	14936-14948	Speculations	_	_	_	
+94-2	14949-14953	have	_	_	_	
+94-3	14954-14963	naturally	_	_	_	
+94-4	14964-14970	arisen	_	_	_	
+94-5	14971-14973	as	_	_	_	
+94-6	14974-14976	to	_	_	_	
+94-7	14977-14980	the	_	_	_	
+94-8	14981-14990	immediate	_	_	_	
+94-9	14991-14997	origin	_	_	_	
+94-10	14998-15001	and	_	_	_	
+94-11	15002-15013	composition	_	_	_	
+94-12	15014-15016	of	_	_	_	
+94-13	15017-15020	the	Smell\_Source[106]	_	_	
+94-14	15021-15029	volatile	Smell\_Source[106]	_	_	
+94-15	15030-15036	matter	Smell\_Source[106]	_	_	
+94-16	15037-15042	which	_	_	_	
+94-17	15043-15049	causes	_	_	_	
+94-18	15050-15053	the	_	_	_	
+94-19	15054-15060	stench	Smell\_Word	*	94-13[106_0]	
+94-20	15060-15061	;	_	_	_	
+94-21	15062-15065	and	_	_	_	
+94-22	15066-15068	as	_	_	_	
+94-23	15069-15072	the	Smell\_Source[107]	_	_	
+94-24	15073-15078	blood	Smell\_Source[107]	_	_	
+94-25	15079-15081	is	_	_	_	
+94-26	15082-15088	easily	_	_	_	
+94-27	15089-15100	impregnated	Smell\_Word	*	94-23[107_0]	
+94-28	15101-15105	with	_	_	_	
+94-29	15106-15114	volatile	_	_	_	
+94-30	15115-15120	stuff	_	_	_	
+94-31	15120-15121	,	_	_	_	
+94-32	15122-15124	it	_	_	_	
+94-33	15125-15127	is	_	_	_	
+94-34	15128-15135	readily	_	_	_	
+94-35	15136-15145	concluded	_	_	_	
+94-36	15146-15150	that	_	_	_	
+94-37	15151-15153	it	_	_	_	
+94-38	15154-15159	comes	_	_	_	
+94-39	15160-15164	from	_	_	_	
+94-40	15165-15168	the	_	_	_	
+94-41	15169-15174	blood	_	_	_	
+94-42	15174-15175	.	_	_	_	
+
+#Text=Perhaps it may
+#Text=be so as to some ; but I think it equally probable as to others,
+#Text=that they first become what we find them on exposure to the air in
+#Text=the lungs at a blood-heat, or on the surface of the body, as in cases
+#Text=of fetid perspiration.
+95-1	15176-15183	Perhaps	_	_	_	
+95-2	15184-15186	it	_	_	_	
+95-3	15187-15190	may	_	_	_	
+95-4	15191-15193	be	_	_	_	
+95-5	15194-15196	so	_	_	_	
+95-6	15197-15199	as	_	_	_	
+95-7	15200-15202	to	_	_	_	
+95-8	15203-15207	some	_	_	_	
+95-9	15208-15209	;	_	_	_	
+95-10	15210-15213	but	_	_	_	
+95-11	15214-15215	I	_	_	_	
+95-12	15216-15221	think	_	_	_	
+95-13	15222-15224	it	_	_	_	
+95-14	15225-15232	equally	_	_	_	
+95-15	15233-15241	probable	_	_	_	
+95-16	15242-15244	as	_	_	_	
+95-17	15245-15247	to	_	_	_	
+95-18	15248-15254	others	_	_	_	
+95-19	15254-15255	,	_	_	_	
+95-20	15256-15260	that	_	_	_	
+95-21	15261-15265	they	_	_	_	
+95-22	15266-15271	first	_	_	_	
+95-23	15272-15278	become	_	_	_	
+95-24	15279-15283	what	_	_	_	
+95-25	15284-15286	we	_	_	_	
+95-26	15287-15291	find	_	_	_	
+95-27	15292-15296	them	_	_	_	
+95-28	15297-15299	on	_	_	_	
+95-29	15300-15308	exposure	_	_	_	
+95-30	15309-15311	to	_	_	_	
+95-31	15312-15315	the	_	_	_	
+95-32	15316-15319	air	_	_	_	
+95-33	15320-15322	in	_	_	_	
+95-34	15323-15326	the	_	_	_	
+95-35	15327-15332	lungs	_	_	_	
+95-36	15333-15335	at	_	_	_	
+95-37	15336-15337	a	_	_	_	
+95-38	15338-15348	blood-heat	_	_	_	
+95-39	15348-15349	,	_	_	_	
+95-40	15350-15352	or	_	_	_	
+95-41	15353-15355	on	_	_	_	
+95-42	15356-15359	the	_	_	_	
+95-43	15360-15367	surface	_	_	_	
+95-44	15368-15370	of	_	_	_	
+95-45	15371-15374	the	_	_	_	
+95-46	15375-15379	body	_	_	_	
+95-47	15379-15380	,	_	_	_	
+95-48	15381-15383	as	_	_	_	
+95-49	15384-15386	in	_	_	_	
+95-50	15387-15392	cases	_	_	_	
+95-51	15393-15395	of	_	_	_	
+95-52	15396-15401	fetid	Smell\_Word[108]|Quality[109]	*|*	95-52[109_108]|95-53[0_108]	
+95-53	15402-15414	perspiration	Smell\_Source	_	_	
+95-54	15414-15415	.	_	_	_	
+
+#Text=The change in smell which the fetid sputa
+#Text=undergo on exposure to the air shows how easily decomposition
+#Text=takes place.
+96-1	15416-15419	The	Circumstances[110]	_	_	
+96-2	15420-15426	change	Circumstances[110]	_	_	
+96-3	15427-15429	in	_	_	_	
+96-4	15430-15435	smell	Smell\_Word	*	96-1[110_0]	
+96-5	15436-15441	which	_	_	_	
+96-6	15442-15445	the	_	_	_	
+96-7	15446-15451	fetid	Quality[111]|Smell\_Word[112]	*|*|*	96-7[111_112]|96-8[0_112]|96-9[113_112]	
+96-8	15452-15457	sputa	Smell\_Source	_	_	
+96-9	15458-15465	undergo	Circumstances[113]	_	_	
+96-10	15466-15468	on	Circumstances[113]	_	_	
+96-11	15469-15477	exposure	Circumstances[113]	_	_	
+96-12	15478-15480	to	Circumstances[113]	_	_	
+96-13	15481-15484	the	Circumstances[113]	_	_	
+96-14	15485-15488	air	Circumstances[113]	_	_	
+96-15	15489-15494	shows	_	_	_	
+96-16	15495-15498	how	_	_	_	
+96-17	15499-15505	easily	_	_	_	
+96-18	15506-15519	decomposition	_	_	_	
+96-19	15520-15525	takes	_	_	_	
+96-20	15526-15531	place	_	_	_	
+96-21	15531-15532	.	_	_	_	
+
+#Text=Possibly the faecal odour may be an excretion, but if
+#Text=it were so in my first observed case, it did not originate in any
+#Text=so-called metastasis, for I noted the state of the faeces as to odour
+#Text=and observed no change.
+97-1	15533-15541	Possibly	_	_	_	
+97-2	15542-15545	the	_	_	_	
+97-3	15546-15552	faecal	Quality	_	_	
+97-4	15553-15558	odour	Smell\_Word	*|*	97-3|97-7[114_0]	
+97-5	15559-15562	may	_	_	_	
+97-6	15563-15565	be	_	_	_	
+97-7	15566-15568	an	Smell\_Source[114]	_	_	
+97-8	15569-15578	excretion	Smell\_Source[114]	_	_	
+97-9	15578-15579	,	_	_	_	
+97-10	15580-15583	but	_	_	_	
+97-11	15584-15586	if	_	_	_	
+97-12	15587-15589	it	_	_	_	
+97-13	15590-15594	were	_	_	_	
+97-14	15595-15597	so	_	_	_	
+97-15	15598-15600	in	_	_	_	
+97-16	15601-15603	my	_	_	_	
+97-17	15604-15609	first	_	_	_	
+97-18	15610-15618	observed	_	_	_	
+97-19	15619-15623	case	_	_	_	
+97-20	15623-15624	,	_	_	_	
+97-21	15625-15627	it	_	_	_	
+97-22	15628-15631	did	_	_	_	
+97-23	15632-15635	not	_	_	_	
+97-24	15636-15645	originate	_	_	_	
+97-25	15646-15648	in	_	_	_	
+97-26	15649-15652	any	_	_	_	
+97-27	15653-15662	so-called	_	_	_	
+97-28	15663-15673	metastasis	_	_	_	
+97-29	15673-15674	,	_	_	_	
+97-30	15675-15678	for	_	_	_	
+97-31	15679-15680	I	Perceiver	_	_	
+97-32	15681-15686	noted	_	_	_	
+97-33	15687-15690	the	_	_	_	
+97-34	15691-15696	state	_	_	_	
+97-35	15697-15699	of	_	_	_	
+97-36	15700-15703	the	Smell\_Source[115]	_	_	
+97-37	15704-15710	faeces	Smell\_Source[115]	_	_	
+97-38	15711-15713	as	_	_	_	
+97-39	15714-15716	to	_	_	_	
+97-40	15717-15722	odour	Smell\_Word	*|*	97-36[115_0]|97-31	
+97-41	15723-15726	and	_	_	_	
+97-42	15727-15735	observed	_	_	_	
+97-43	15736-15738	no	_	_	_	
+97-44	15739-15745	change	_	_	_	
+97-45	15745-15746	.	_	_	_	
+
+#Text=Pus from abscesses in the abdominal
+#Text=parietes has been found to be highly faecal in smell, although the
+#Text=most careful examination failed to detect any connexion between
+#Text=the abscess and the intestines.
+98-1	15747-15750	Pus	Smell\_Source[116]	_	_	
+98-2	15751-15755	from	Smell\_Source[116]	_	_	
+98-3	15756-15765	abscesses	Smell\_Source[116]	_	_	
+98-4	15766-15768	in	Location[117]	_	_	
+98-5	15769-15772	the	Location[117]	_	_	
+98-6	15773-15782	abdominal	Location[117]	_	_	
+98-7	15783-15791	parietes	Location[117]	_	_	
+98-8	15792-15795	has	_	_	_	
+98-9	15796-15800	been	_	_	_	
+98-10	15801-15806	found	_	_	_	
+98-11	15807-15809	to	_	_	_	
+98-12	15810-15812	be	_	_	_	
+98-13	15813-15819	highly	Quality[118]	_	_	
+98-14	15820-15826	faecal	Quality[118]	_	_	
+98-15	15827-15829	in	_	_	_	
+98-16	15830-15835	smell	Smell\_Word	*|*|*	98-13[118_0]|98-1[116_0]|98-4[117_0]	
+98-17	15835-15836	,	_	_	_	
+98-18	15837-15845	although	_	_	_	
+98-19	15846-15849	the	_	_	_	
+98-20	15850-15854	most	_	_	_	
+98-21	15855-15862	careful	_	_	_	
+98-22	15863-15874	examination	_	_	_	
+98-23	15875-15881	failed	_	_	_	
+98-24	15882-15884	to	_	_	_	
+98-25	15885-15891	detect	_	_	_	
+98-26	15892-15895	any	_	_	_	
+98-27	15896-15905	connexion	_	_	_	
+98-28	15906-15913	between	_	_	_	
+98-29	15914-15917	the	_	_	_	
+98-30	15918-15925	abscess	_	_	_	
+98-31	15926-15929	and	_	_	_	
+98-32	15930-15933	the	_	_	_	
+98-33	15934-15944	intestines	_	_	_	
+98-34	15944-15945	.	_	_	_	
+
+#Text=I have no doubt that sulphur is
+#Text=a predominant, albeit not exclusive constituent of these fetid volatile changes.
+99-1	15946-15947	I	Perceiver	_	_	
+99-2	15948-15952	have	_	_	_	
+99-3	15953-15955	no	_	_	_	
+99-4	15956-15961	doubt	_	_	_	
+99-5	15962-15966	that	_	_	_	
+99-6	15967-15974	sulphur	Smell\_Source	_	_	
+99-7	15975-15977	is	_	_	_	
+99-8	15978-15979	a	_	_	_	
+99-9	15980-15991	predominant	_	_	_	
+99-10	15991-15992	,	_	_	_	
+99-11	15993-15999	albeit	_	_	_	
+99-12	16000-16003	not	_	_	_	
+99-13	16004-16013	exclusive	_	_	_	
+99-14	16014-16025	constituent	_	_	_	
+99-15	16026-16028	of	_	_	_	
+99-16	16029-16034	these	_	_	_	
+99-17	16035-16040	fetid	Smell\_Word[119]|Quality[120]	*|*|*	99-17[120_119]|99-6[0_119]|99-1[0_119]	
+99-18	16041-16049	volatile	_	_	_	
+99-19	16050-16057	changes	_	_	_	
+99-20	16057-16058	.	_	_	_	
+
+#Text=The odour itself is a sufficient proof, independently
+#Text=of distillations of sputa at a temperature of 230° Fahr. ; and I may
+#Text=add that ordinary pulmonary vapour itself, if collected and kept
+#Text=a while, quickly becomes fetid, and even the condensed vapours on
+#Text=the windows of rooms crowded with people smells offensively
+#Text=although the highest temperature cannot exceed 90°.
+100-1	16059-16062	The	_	_	_	
+100-2	16063-16068	odour	Smell\_Word	*	99-6	
+100-3	16069-16075	itself	_	_	_	
+100-4	16076-16078	is	_	_	_	
+100-5	16079-16080	a	_	_	_	
+100-6	16081-16091	sufficient	_	_	_	
+100-7	16092-16097	proof	_	_	_	
+100-8	16097-16098	,	_	_	_	
+100-9	16099-16112	independently	_	_	_	
+100-10	16113-16115	of	_	_	_	
+100-11	16116-16129	distillations	_	_	_	
+100-12	16130-16132	of	_	_	_	
+100-13	16133-16138	sputa	_	_	_	
+100-14	16139-16141	at	_	_	_	
+100-15	16142-16143	a	_	_	_	
+100-16	16144-16155	temperature	_	_	_	
+100-17	16156-16158	of	_	_	_	
+100-18	16159-16162	230	_	_	_	
+100-19	16162-16163	°	_	_	_	
+100-20	16164-16168	Fahr	_	_	_	
+100-21	16168-16169	.	_	_	_	
+100-22	16170-16171	;	_	_	_	
+100-23	16172-16175	and	_	_	_	
+100-24	16176-16177	I	_	_	_	
+100-25	16178-16181	may	_	_	_	
+100-26	16182-16185	add	_	_	_	
+100-27	16186-16190	that	_	_	_	
+100-28	16191-16199	ordinary	Smell\_Source[121]	_	_	
+100-29	16200-16209	pulmonary	Smell\_Source[121]	_	_	
+100-30	16210-16216	vapour	Smell\_Source[121]	_	_	
+100-31	16217-16223	itself	_	_	_	
+100-32	16223-16224	,	_	_	_	
+100-33	16225-16227	if	_	_	_	
+100-34	16228-16237	collected	_	_	_	
+100-35	16238-16241	and	_	_	_	
+100-36	16242-16246	kept	_	_	_	
+100-37	16247-16248	a	_	_	_	
+100-38	16249-16254	while	_	_	_	
+100-39	16254-16255	,	_	_	_	
+100-40	16256-16263	quickly	_	_	_	
+100-41	16264-16271	becomes	_	_	_	
+100-42	16272-16277	fetid	Smell\_Word[122]|Quality[123]	*|*	100-42[123_122]|100-28[121_122]	
+100-43	16277-16278	,	_	_	_	
+100-44	16279-16282	and	_	_	_	
+100-45	16283-16287	even	_	_	_	
+100-46	16288-16291	the	Smell\_Source[124]	_	_	
+100-47	16292-16301	condensed	Smell\_Source[124]	_	_	
+100-48	16302-16309	vapours	Smell\_Source[124]	_	_	
+100-49	16310-16312	on	Location[125]	_	_	
+100-50	16313-16316	the	Location[125]	_	_	
+100-51	16317-16324	windows	Location[125]	_	_	
+100-52	16325-16327	of	Location[125]	_	_	
+100-53	16328-16333	rooms	Location[125]	_	_	
+100-54	16334-16341	crowded	Circumstances[126]	_	_	
+100-55	16342-16346	with	Circumstances[126]	_	_	
+100-56	16347-16353	people	Circumstances[126]	_	_	
+100-57	16354-16360	smells	Smell\_Word	*|*|*|*|*	100-58|100-59[127_0]|100-46[124_0]|100-54[126_0]|100-49[125_0]	
+100-58	16361-16372	offensively	Quality	_	_	
+100-59	16373-16381	although	Circumstances[127]	_	_	
+100-60	16382-16385	the	Circumstances[127]	_	_	
+100-61	16386-16393	highest	Circumstances[127]	_	_	
+100-62	16394-16405	temperature	Circumstances[127]	_	_	
+100-63	16406-16412	cannot	Circumstances[127]	_	_	
+100-64	16413-16419	exceed	Circumstances[127]	_	_	
+100-65	16420-16422	90	Circumstances[127]	_	_	
+100-66	16422-16423	°	Circumstances[127]	_	_	
+100-67	16423-16424	.	_	_	_	
+
+#Text=Dr Gamgee
+#Text=has, however, demonstrated, what was already plain enough to all
+#Text=acquainted with the facts, that we can get stinks from any pulmonary excretion whatever, if we subject them to the same chemical torments of distillation, acidification, neutralization, redistillation, and the like.
+101-1	16425-16427	Dr	_	_	_	
+101-2	16428-16434	Gamgee	_	_	_	
+101-3	16435-16438	has	_	_	_	
+101-4	16438-16439	,	_	_	_	
+101-5	16440-16447	however	_	_	_	
+101-6	16447-16448	,	_	_	_	
+101-7	16449-16461	demonstrated	_	_	_	
+101-8	16461-16462	,	_	_	_	
+101-9	16463-16467	what	_	_	_	
+101-10	16468-16471	was	_	_	_	
+101-11	16472-16479	already	_	_	_	
+101-12	16480-16485	plain	_	_	_	
+101-13	16486-16492	enough	_	_	_	
+101-14	16493-16495	to	_	_	_	
+101-15	16496-16499	all	_	_	_	
+101-16	16500-16510	acquainted	_	_	_	
+101-17	16511-16515	with	_	_	_	
+101-18	16516-16519	the	_	_	_	
+101-19	16520-16525	facts	_	_	_	
+101-20	16525-16526	,	_	_	_	
+101-21	16527-16531	that	_	_	_	
+101-22	16532-16534	we	_	_	_	
+101-23	16535-16538	can	_	_	_	
+101-24	16539-16542	get	_	_	_	
+101-25	16543-16549	stinks	Smell\_Word	*	101-26[128_0]	
+101-26	16550-16554	from	Smell\_Source[128]	_	_	
+101-27	16555-16558	any	Smell\_Source[128]	_	_	
+101-28	16559-16568	pulmonary	Smell\_Source[128]	_	_	
+101-29	16569-16578	excretion	Smell\_Source[128]	_	_	
+101-30	16579-16587	whatever	_	_	_	
+101-31	16587-16588	,	_	_	_	
+101-32	16589-16591	if	_	_	_	
+101-33	16592-16594	we	_	_	_	
+101-34	16595-16602	subject	_	_	_	
+101-35	16603-16607	them	_	_	_	
+101-36	16608-16610	to	_	_	_	
+101-37	16611-16614	the	_	_	_	
+101-38	16615-16619	same	_	_	_	
+101-39	16620-16628	chemical	_	_	_	
+101-40	16629-16637	torments	_	_	_	
+101-41	16638-16640	of	_	_	_	
+101-42	16641-16653	distillation	_	_	_	
+101-43	16653-16654	,	_	_	_	
+101-44	16655-16668	acidification	_	_	_	
+101-45	16668-16669	,	_	_	_	
+101-46	16670-16684	neutralization	_	_	_	
+101-47	16684-16685	,	_	_	_	
+101-48	16686-16700	redistillation	_	_	_	
+101-49	16700-16701	,	_	_	_	
+101-50	16702-16705	and	_	_	_	
+101-51	16706-16709	the	_	_	_	
+101-52	16710-16714	like	_	_	_	
+101-53	16714-16715	.	_	_	_	
+
+#Text=This fact is no ground, however, for the
+#Text=conclusions, that there is nothing special in the odour of fetid bronchitis or its causes, and that we must abandon that term as perplexing, unscientific, and unphilosophical, for the more correct
+#Text=phrase " bronchitis with fetid expectoration."
+102-1	16716-16720	This	_	_	_	
+102-2	16721-16725	fact	_	_	_	
+102-3	16726-16728	is	_	_	_	
+102-4	16729-16731	no	_	_	_	
+102-5	16732-16738	ground	_	_	_	
+102-6	16738-16739	,	_	_	_	
+102-7	16740-16747	however	_	_	_	
+102-8	16747-16748	,	_	_	_	
+102-9	16749-16752	for	_	_	_	
+102-10	16753-16756	the	_	_	_	
+102-11	16757-16768	conclusions	_	_	_	
+102-12	16768-16769	,	_	_	_	
+102-13	16770-16774	that	_	_	_	
+102-14	16775-16780	there	_	_	_	
+102-15	16781-16783	is	_	_	_	
+102-16	16784-16791	nothing	_	_	_	
+102-17	16792-16799	special	_	_	_	
+102-18	16800-16802	in	_	_	_	
+102-19	16803-16806	the	_	_	_	
+102-20	16807-16812	odour	Smell\_Word	*	102-21[129_0]	
+102-21	16813-16815	of	Smell\_Source[129]	_	_	
+102-22	16816-16821	fetid	Smell\_Source[129]	_	_	
+102-23	16822-16832	bronchitis	Smell\_Source[129]	_	_	
+102-24	16833-16835	or	_	_	_	
+102-25	16836-16839	its	_	_	_	
+102-26	16840-16846	causes	_	_	_	
+102-27	16846-16847	,	_	_	_	
+102-28	16848-16851	and	_	_	_	
+102-29	16852-16856	that	_	_	_	
+102-30	16857-16859	we	_	_	_	
+102-31	16860-16864	must	_	_	_	
+102-32	16865-16872	abandon	_	_	_	
+102-33	16873-16877	that	_	_	_	
+102-34	16878-16882	term	_	_	_	
+102-35	16883-16885	as	_	_	_	
+102-36	16886-16896	perplexing	_	_	_	
+102-37	16896-16897	,	_	_	_	
+102-38	16898-16910	unscientific	_	_	_	
+102-39	16910-16911	,	_	_	_	
+102-40	16912-16915	and	_	_	_	
+102-41	16916-16931	unphilosophical	_	_	_	
+102-42	16931-16932	,	_	_	_	
+102-43	16933-16936	for	_	_	_	
+102-44	16937-16940	the	_	_	_	
+102-45	16941-16945	more	_	_	_	
+102-46	16946-16953	correct	_	_	_	
+102-47	16954-16960	phrase	_	_	_	
+102-48	16961-16962	"	_	_	_	
+102-49	16963-16973	bronchitis	_	_	_	
+102-50	16974-16978	with	_	_	_	
+102-51	16979-16984	fetid	Smell\_Word[130]|Quality[131]	*|*	102-51[131_130]|102-52[0_130]	
+102-52	16985-16998	expectoration	Smell\_Source	_	_	
+102-53	16998-16999	.	_	_	_	
+102-54	16999-17000	"	_	_	_	
+
+#Text=I have, however,
+#Text=subjoined reports of the chemical analysis of the sputum in two
+#Text=cases under my care.
+103-1	17001-17002	I	_	_	_	
+103-2	17003-17007	have	_	_	_	
+103-3	17007-17008	,	_	_	_	
+103-4	17009-17016	however	_	_	_	
+103-5	17016-17017	,	_	_	_	
+103-6	17018-17027	subjoined	_	_	_	
+103-7	17028-17035	reports	_	_	_	
+103-8	17036-17038	of	_	_	_	
+103-9	17039-17042	the	_	_	_	
+103-10	17043-17051	chemical	_	_	_	
+103-11	17052-17060	analysis	_	_	_	
+103-12	17061-17063	of	_	_	_	
+103-13	17064-17067	the	_	_	_	
+103-14	17068-17074	sputum	_	_	_	
+103-15	17075-17077	in	_	_	_	
+103-16	17078-17081	two	_	_	_	
+103-17	17082-17087	cases	_	_	_	
+103-18	17088-17093	under	_	_	_	
+103-19	17094-17096	my	_	_	_	
+103-20	17097-17101	care	_	_	_	
+103-21	17101-17102	.	_	_	_	

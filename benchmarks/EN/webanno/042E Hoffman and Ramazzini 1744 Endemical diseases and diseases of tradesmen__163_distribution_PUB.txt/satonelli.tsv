@@ -1,0 +1,363 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=I have often observed, that the Women, living 
+#Text=near these Work-houses, complain of hysteric Passions, occasioned by the noisome Smell, which 
+#Text=some may wonder at, upon the Consideration that
+#Text=sharp-smelling Things, applied to the Nostrils, are 
+#Text=recommend ed by Hippocrates as a Remedy for 
+#Text=hysteric Fits.
+1-1	0-1	I	_	_	_	
+1-2	2-6	have	_	_	_	
+1-3	7-12	often	_	_	_	
+1-4	13-21	observed	_	_	_	
+1-5	21-22	,	_	_	_	
+1-6	23-27	that	_	_	_	
+1-7	28-31	the	Effect[1]|Perceiver[2]	_	_	
+1-8	32-37	Women	Effect[1]|Perceiver[2]	_	_	
+1-9	37-38	,	Effect[1]	_	_	
+1-10	39-45	living	Effect[1]	_	_	
+1-11	47-51	near	Effect[1]|Location[3]	_	_	
+1-12	52-57	these	Effect[1]|Location[3]	_	_	
+1-13	58-69	Work-houses	Effect[1]|Location[3]	_	_	
+1-14	69-70	,	Effect[1]	_	_	
+1-15	71-79	complain	Effect[1]	_	_	
+1-16	80-82	of	Effect[1]	_	_	
+1-17	83-91	hysteric	Effect[1]	_	_	
+1-18	92-100	Passions	Effect[1]	_	_	
+1-19	100-101	,	_	_	_	
+1-20	102-112	occasioned	_	_	_	
+1-21	113-115	by	_	_	_	
+1-22	116-119	the	_	_	_	
+1-23	120-127	noisome	Quality	_	_	
+1-24	128-133	Smell	Smell\_Word	*|*|*|*	1-23|1-7[2_0]|1-11[3_0]|1-7[1_0]	
+1-25	133-134	,	_	_	_	
+1-26	135-140	which	_	_	_	
+1-27	142-146	some	_	_	_	
+1-28	147-150	may	_	_	_	
+1-29	151-157	wonder	_	_	_	
+1-30	158-160	at	_	_	_	
+1-31	160-161	,	_	_	_	
+1-32	162-166	upon	_	_	_	
+1-33	167-170	the	_	_	_	
+1-34	171-184	Consideration	_	_	_	
+1-35	185-189	that	_	_	_	
+1-36	190-204	sharp-smelling	Smell\_Word	*|*|*	1-37|1-41[4_0]|1-50[5_0]	
+1-37	205-211	Things	Smell\_Source	_	_	
+1-38	211-212	,	_	_	_	
+1-39	213-220	applied	_	_	_	
+1-40	221-223	to	_	_	_	
+1-41	224-227	the	Perceiver[4]	_	_	
+1-42	228-236	Nostrils	Perceiver[4]	_	_	
+1-43	236-237	,	_	_	_	
+1-44	238-241	are	_	_	_	
+1-45	243-252	recommend	_	_	_	
+1-46	253-255	ed	_	_	_	
+1-47	256-258	by	_	_	_	
+1-48	259-270	Hippocrates	_	_	_	
+1-49	271-273	as	_	_	_	
+1-50	274-275	a	Effect[5]	_	_	
+1-51	276-282	Remedy	Effect[5]	_	_	
+1-52	283-286	for	Effect[5]	_	_	
+1-53	288-296	hysteric	Effect[5]	_	_	
+1-54	297-301	Fits	Effect[5]	_	_	
+1-55	301-302	.	_	_	_	
+
+#Text=But as on the one hand sweet-scented 
+#Text=Things do not always excite hysteric Fits, in regard that Cinnamon, Nutmegs and such like odoriferous Things are Remedies against them, which 
+#Text=Horatius Augenius cries up as infallible, and 
+#Text=
+#Text=which Etmuller does not condemn, and as Hippocrates recommends the sweetest scented Wine, in 
+#Text=his Book de Nat.
+2-1	303-306	But	_	_	_	
+2-2	307-309	as	_	_	_	
+2-3	310-312	on	_	_	_	
+2-4	313-316	the	_	_	_	
+2-5	317-320	one	_	_	_	
+2-6	321-325	hand	_	_	_	
+2-7	326-339	sweet-scented	Smell\_Word	*|*	2-8|2-9[6_0]	
+2-8	341-347	Things	Smell\_Source	_	_	
+2-9	348-350	do	Effect[6]	_	_	
+2-10	351-354	not	Effect[6]	_	_	
+2-11	355-361	always	Effect[6]	_	_	
+2-12	362-368	excite	Effect[6]	_	_	
+2-13	369-377	hysteric	Effect[6]|Effect[7]	_	_	
+2-14	378-382	Fits	Effect[6]|Effect[7]	_	_	
+2-15	382-383	,	_	_	_	
+2-16	384-386	in	_	_	_	
+2-17	387-393	regard	_	_	_	
+2-18	394-398	that	_	_	_	
+2-19	399-407	Cinnamon	Smell\_Source	_	_	
+2-20	407-408	,	_	_	_	
+2-21	409-416	Nutmegs	Smell\_Source	_	_	
+2-22	417-420	and	_	_	_	
+2-23	421-425	such	_	_	_	
+2-24	426-430	like	_	_	_	
+2-25	431-442	odoriferous	Smell\_Word[8]|Quality[9]	*|*|*|*|*	2-25[9_8]|2-26[0_8]|2-19[0_8]|2-21[0_8]|2-28[10_8]	
+2-26	443-449	Things	Smell\_Source	_	_	
+2-27	450-453	are	_	_	_	
+2-28	454-462	Remedies	Effect[10]	Anaphoric	2-13[7_10]	
+2-29	463-470	against	Effect[10]	_	_	
+2-30	471-475	them	Effect[10]	_	_	
+2-31	475-476	,	_	_	_	
+2-32	477-482	which	_	_	_	
+2-33	484-492	Horatius	_	_	_	
+2-34	493-501	Augenius	_	_	_	
+2-35	502-507	cries	_	_	_	
+2-36	508-510	up	_	_	_	
+2-37	511-513	as	_	_	_	
+2-38	514-524	infallible	_	_	_	
+2-39	524-525	,	_	_	_	
+2-40	526-529	and	_	_	_	
+2-41	532-537	which	_	_	_	
+2-42	538-546	Etmuller	_	_	_	
+2-43	547-551	does	_	_	_	
+2-44	552-555	not	_	_	_	
+2-45	556-563	condemn	_	_	_	
+2-46	563-564	,	_	_	_	
+2-47	565-568	and	_	_	_	
+2-48	569-571	as	_	_	_	
+2-49	572-583	Hippocrates	_	_	_	
+2-50	584-594	recommends	_	_	_	
+2-51	595-598	the	_	_	_	
+2-52	599-607	sweetest	Quality	_	_	
+2-53	608-615	scented	Smell\_Word	*|*	2-54|2-52	
+2-54	616-620	Wine	Smell\_Source	_	_	
+2-55	620-621	,	_	_	_	
+2-56	622-624	in	_	_	_	
+2-57	626-629	his	_	_	_	
+2-58	630-634	Book	_	_	_	
+2-59	635-637	de	_	_	_	
+2-60	638-641	Nat	_	_	_	
+2-61	641-642	.	_	_	_	
+
+#Text=Mul.
+3-1	643-646	Mul	_	_	_	
+3-2	646-647	.	_	_	_	
+
+#Text=So on the other hand 
+#Text=Things of an unsavoury Smell are not always proper to check their Fits, as Forestus has well observed ; and it is an ansient Observation, that the 
+#Text=Snuff of a Lamp raises hysteric Commotions.
+4-1	648-650	So	_	_	_	
+4-2	651-653	on	_	_	_	
+4-3	654-657	the	_	_	_	
+4-4	658-663	other	_	_	_	
+4-5	664-668	hand	_	_	_	
+4-6	670-676	Things	Smell\_Source	_	_	
+4-7	677-679	of	_	_	_	
+4-8	680-682	an	_	_	_	
+4-9	683-692	unsavoury	Quality	_	_	
+4-10	693-698	Smell	Smell\_Word	*|*	4-9|4-6	
+4-11	699-702	are	_	_	_	
+4-12	703-706	not	_	_	_	
+4-13	707-713	always	_	_	_	
+4-14	714-720	proper	_	_	_	
+4-15	721-723	to	_	_	_	
+4-16	724-729	check	_	_	_	
+4-17	730-735	their	_	_	_	
+4-18	736-740	Fits	_	_	_	
+4-19	740-741	,	_	_	_	
+4-20	742-744	as	_	_	_	
+4-21	745-753	Forestus	_	_	_	
+4-22	754-757	has	_	_	_	
+4-23	758-762	well	_	_	_	
+4-24	763-771	observed	_	_	_	
+4-25	772-773	;	_	_	_	
+4-26	774-777	and	_	_	_	
+4-27	778-780	it	_	_	_	
+4-28	781-783	is	_	_	_	
+4-29	784-786	an	_	_	_	
+4-30	787-794	ansient	_	_	_	
+4-31	795-806	Observation	_	_	_	
+4-32	806-807	,	_	_	_	
+4-33	808-812	that	_	_	_	
+4-34	813-816	the	_	_	_	
+4-35	818-823	Snuff	Smell\_Word	*|*	4-36[11_0]|4-39[12_0]	
+4-36	824-826	of	Smell\_Source[11]	_	_	
+4-37	827-828	a	Smell\_Source[11]	_	_	
+4-38	829-833	Lamp	Smell\_Source[11]	_	_	
+4-39	834-840	raises	Effect[12]	_	_	
+4-40	841-849	hysteric	Effect[12]	_	_	
+4-41	850-860	Commotions	Effect[12]	_	_	
+4-42	860-861	.	_	_	_	
+
+#Text=And 
+#Text=therefore I do not wonder that the animal Spirits
+#Text=are put into disorderly Motions by the putrid Smell 
+#Text=of Tallow ; and that thereby the Uterus suffers 
+#Text=Convulsions along with the Stomach, which is forced 
+#Text=upwards by the Nauseousness of the Smell.
+5-1	862-865	And	_	_	_	
+5-2	867-876	therefore	_	_	_	
+5-3	877-878	I	_	_	_	
+5-4	879-881	do	_	_	_	
+5-5	882-885	not	_	_	_	
+5-6	886-892	wonder	_	_	_	
+5-7	893-897	that	_	_	_	
+5-8	898-901	the	Effect[13]	_	_	
+5-9	902-908	animal	Effect[13]	_	_	
+5-10	909-916	Spirits	Effect[13]	_	_	
+5-11	917-920	are	Effect[13]	_	_	
+5-12	921-924	put	Effect[13]	_	_	
+5-13	925-929	into	Effect[13]	_	_	
+5-14	930-940	disorderly	Effect[13]	_	_	
+5-15	941-948	Motions	Effect[13]	_	_	
+5-16	949-951	by	_	_	_	
+5-17	952-955	the	_	_	_	
+5-18	956-962	putrid	Quality	_	_	
+5-19	963-968	Smell	Smell\_Word	*|*|*	5-18|5-20[14_0]|5-8[13_0]	
+5-20	970-972	of	Smell\_Source[14]	_	_	
+5-21	973-979	Tallow	Smell\_Source[14]	_	_	
+5-22	980-981	;	_	_	_	
+5-23	982-985	and	_	_	_	
+5-24	986-990	that	_	_	_	
+5-25	991-998	thereby	_	_	_	
+5-26	999-1002	the	Effect[15]	_	_	
+5-27	1003-1009	Uterus	Effect[15]	_	_	
+5-28	1010-1017	suffers	Effect[15]	_	_	
+5-29	1019-1030	Convulsions	Effect[15]	_	_	
+5-30	1031-1036	along	Effect[15]	_	_	
+5-31	1037-1041	with	Effect[15]	_	_	
+5-32	1042-1045	the	Effect[15]	_	_	
+5-33	1046-1053	Stomach	Effect[15]	_	_	
+5-34	1053-1054	,	_	_	_	
+5-35	1055-1060	which	_	_	_	
+5-36	1061-1063	is	_	_	_	
+5-37	1064-1070	forced	_	_	_	
+5-38	1072-1079	upwards	_	_	_	
+5-39	1080-1082	by	Quality[16]	_	_	
+5-40	1083-1086	the	Quality[16]	_	_	
+5-41	1087-1099	Nauseousness	Quality[16]	_	_	
+5-42	1100-1102	of	_	_	_	
+5-43	1103-1106	the	_	_	_	
+5-44	1107-1112	Smell	Smell\_Word	*|*	5-39[16_0]|5-26[15_0]	
+5-45	1112-1113	.	_	_	_	
+
+#Text=Nay I 
+#Text=have oftentimes seen Women of a tender, nice 
+#Text=Constitution, fall into fainting Fits and hysteric 
+#Text=Commotions upon using the Light of a Tallow- 
+#Text=candle.
+6-1	1114-1117	Nay	_	_	_	
+6-2	1118-1119	I	_	_	_	
+6-3	1121-1125	have	_	_	_	
+6-4	1126-1136	oftentimes	_	_	_	
+6-5	1137-1141	seen	_	_	_	
+6-6	1142-1147	Women	Effect[17]|Perceiver[18]	_	_	
+6-7	1148-1150	of	Effect[17]|Perceiver[18]	_	_	
+6-8	1151-1152	a	Effect[17]|Perceiver[18]	_	_	
+6-9	1153-1159	tender	Effect[17]|Perceiver[18]	_	_	
+6-10	1159-1160	,	Effect[17]|Perceiver[18]	_	_	
+6-11	1161-1165	nice	Effect[17]|Perceiver[18]	_	_	
+6-12	1167-1179	Constitution	Effect[17]|Perceiver[18]	_	_	
+6-13	1179-1180	,	Effect[17]	_	_	
+6-14	1181-1185	fall	Effect[17]	_	_	
+6-15	1186-1190	into	Effect[17]	_	_	
+6-16	1191-1199	fainting	Effect[17]	_	_	
+6-17	1200-1204	Fits	Effect[17]	_	_	
+6-18	1205-1208	and	Effect[17]	_	_	
+6-19	1209-1217	hysteric	Effect[17]	_	_	
+6-20	1219-1229	Commotions	Effect[17]	_	_	
+6-21	1230-1234	upon	_	_	_	
+6-22	1235-1240	using	_	_	_	
+6-23	1241-1244	the	_	_	_	
+6-24	1245-1250	Light	_	_	_	
+6-25	1251-1253	of	_	_	_	
+6-26	1254-1255	a	_	_	_	
+6-27	1256-1262	Tallow	Smell\_Word[19]|Smell\_Source[20]	*|*|*	6-27[20_19]|6-6[17_19]|6-6[18_19]	
+6-28	1262-1263	-	Smell\_Word[19]|Smell\_Source[20]	_	_	
+6-29	1265-1271	candle	Smell\_Word[19]|Smell\_Source[20]	_	_	
+6-30	1271-1272	.	_	_	_	
+
+#Text=To be further satisfied of the pernicious Smell of 
+#Text=Tallow-candles do but consult Solenander who 
+#Text=informs you, that his Brother John contracted a 
+#Text=violent Disorder in his Lungs and his Brain by studying hard by the Light of Tallow-candles.
+7-1	1276-1278	To	_	_	_	
+7-2	1279-1281	be	_	_	_	
+7-3	1282-1289	further	_	_	_	
+7-4	1290-1299	satisfied	_	_	_	
+7-5	1300-1302	of	_	_	_	
+7-6	1303-1306	the	_	_	_	
+7-7	1307-1317	pernicious	Quality	_	_	
+7-8	1318-1323	Smell	Smell\_Word	*|*	7-7|7-9[21_0]	
+7-9	1324-1326	of	Smell\_Source[21]	_	_	
+7-10	1328-1342	Tallow-candles	Smell\_Source[21]	_	_	
+7-11	1343-1345	do	_	_	_	
+7-12	1346-1349	but	_	_	_	
+7-13	1350-1357	consult	_	_	_	
+7-14	1358-1368	Solenander	_	_	_	
+7-15	1369-1372	who	_	_	_	
+7-16	1374-1381	informs	_	_	_	
+7-17	1382-1385	you	_	_	_	
+7-18	1385-1386	,	_	_	_	
+7-19	1387-1391	that	_	_	_	
+7-20	1392-1395	his	Effect[22]|Perceiver[23]	_	_	
+7-21	1396-1403	Brother	Effect[22]|Perceiver[23]	_	_	
+7-22	1404-1408	John	Effect[22]|Perceiver[23]	_	_	
+7-23	1409-1419	contracted	Effect[22]	_	_	
+7-24	1420-1421	a	Effect[22]	_	_	
+7-25	1423-1430	violent	Effect[22]	_	_	
+7-26	1431-1439	Disorder	Effect[22]	_	_	
+7-27	1440-1442	in	Effect[22]	_	_	
+7-28	1443-1446	his	Effect[22]	_	_	
+7-29	1447-1452	Lungs	Effect[22]	_	_	
+7-30	1453-1456	and	Effect[22]	_	_	
+7-31	1457-1460	his	Effect[22]	_	_	
+7-32	1461-1466	Brain	Effect[22]	_	_	
+7-33	1467-1469	by	_	_	_	
+7-34	1470-1478	studying	_	_	_	
+7-35	1479-1483	hard	_	_	_	
+7-36	1484-1486	by	_	_	_	
+7-37	1487-1490	the	_	_	_	
+7-38	1491-1496	Light	_	_	_	
+7-39	1497-1499	of	Smell\_Source[24]	_	_	
+7-40	1500-1514	Tallow-candles	Smell\_Source[24]|Smell\_Word[25]	*|*|*	7-39[24_25]|7-20[22_25]|7-20[23_25]	
+7-41	1514-1515	.	_	_	_	
+
+#Text=He 
+#Text=adds, that Ox-tallow gives a more noisome Smell 
+#Text=than that of Sheep : But in our Country we find 
+#Text=that the Tallow-candles never smell so rank, as 
+#Text=when some Hogs-tallow is one of the Ingredients.
+8-1	1516-1518	He	_	_	_	
+8-2	1520-1524	adds	_	_	_	
+8-3	1524-1525	,	_	_	_	
+8-4	1526-1530	that	_	_	_	
+8-5	1531-1540	Ox-tallow	Smell\_Source	_	_	
+8-6	1541-1546	gives	_	_	_	
+8-7	1547-1548	a	_	_	_	
+8-8	1549-1553	more	Quality[26]	_	_	
+8-9	1554-1561	noisome	Quality[26]	_	_	
+8-10	1562-1567	Smell	Smell\_Word	*|*|*	8-8[26_0]|8-5|8-13[27_0]	
+8-11	1569-1573	than	_	_	_	
+8-12	1574-1578	that	_	_	_	
+8-13	1579-1581	of	Smell\_Source[27]	_	_	
+8-14	1582-1587	Sheep	Smell\_Source[27]	_	_	
+8-15	1588-1589	:	_	_	_	
+8-16	1590-1593	But	_	_	_	
+8-17	1594-1596	in	Location[28]	_	_	
+8-18	1597-1600	our	Location[28]	_	_	
+8-19	1601-1608	Country	Location[28]	_	_	
+8-20	1609-1611	we	_	_	_	
+8-21	1612-1616	find	_	_	_	
+8-22	1618-1622	that	_	_	_	
+8-23	1623-1626	the	Smell\_Source[29]	_	_	
+8-24	1627-1641	Tallow-candles	Smell\_Source[29]	_	_	
+8-25	1642-1647	never	_	_	_	
+8-26	1648-1653	smell	Smell\_Word	*|*|*|*	8-23[29_0]|8-17[28_0]|8-27[30_0]|8-31[31_0]	
+8-27	1654-1656	so	Quality[30]	_	_	
+8-28	1657-1661	rank	Quality[30]	_	_	
+8-29	1661-1662	,	_	_	_	
+8-30	1663-1665	as	_	_	_	
+8-31	1667-1671	when	Circumstances[31]	_	_	
+8-32	1672-1676	some	Circumstances[31]	_	_	
+8-33	1677-1688	Hogs-tallow	Circumstances[31]	_	_	
+8-34	1689-1691	is	Circumstances[31]	_	_	
+8-35	1692-1695	one	Circumstances[31]	_	_	
+8-36	1696-1698	of	Circumstances[31]	_	_	
+8-37	1699-1702	the	Circumstances[31]	_	_	
+8-38	1703-1714	Ingredients	Circumstances[31]	_	_	
+8-39	1714-1715	.	_	_	_	

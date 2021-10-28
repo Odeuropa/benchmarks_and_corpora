@@ -1,0 +1,391 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=The organisms acting on protein matter aie of economic
+#Text=imfwrtance from several distinct points of view.
+1-1	0-3	The	_	_	_	
+1-2	4-13	organisms	_	_	_	
+1-3	14-20	acting	_	_	_	
+1-4	21-23	on	_	_	_	
+1-5	24-31	protein	_	_	_	
+1-6	32-38	matter	_	_	_	
+1-7	39-42	aie	_	_	_	
+1-8	43-45	of	_	_	_	
+1-9	46-54	economic	_	_	_	
+1-10	55-65	imfwrtance	_	_	_	
+1-11	66-70	from	_	_	_	
+1-12	71-78	several	_	_	_	
+1-13	79-87	distinct	_	_	_	
+1-14	88-94	points	_	_	_	
+1-15	95-97	of	_	_	_	
+1-16	98-102	view	_	_	_	
+1-17	102-103	.	_	_	_	
+
+#Text=That organic
+#Text=nitrogenous compounds must be broken down in nature
+#Text=into ammonia and nitrates that they may serve as nutrients
+#Text=to vegetation, is evident.
+2-1	104-108	That	_	_	_	
+2-2	109-116	organic	Smell\_Source[1]	_	_	
+2-3	117-128	nitrogenous	Smell\_Source[1]	_	_	
+2-4	129-138	compounds	Smell\_Source[1]	_	_	
+2-5	139-143	must	_	_	_	
+2-6	144-146	be	_	_	_	
+2-7	147-153	broken	_	_	_	
+2-8	154-158	down	_	_	_	
+2-9	159-161	in	_	_	_	
+2-10	162-168	nature	_	_	_	
+2-11	169-173	into	_	_	_	
+2-12	174-181	ammonia	_	_	_	
+2-13	182-185	and	_	_	_	
+2-14	186-194	nitrates	_	_	_	
+2-15	195-199	that	_	_	_	
+2-16	200-204	they	_	_	_	
+2-17	205-208	may	_	_	_	
+2-18	209-214	serve	_	_	_	
+2-19	215-217	as	_	_	_	
+2-20	218-227	nutrients	_	_	_	
+2-21	228-230	to	_	_	_	
+2-22	231-241	vegetation	_	_	_	
+2-23	241-242	,	_	_	_	
+2-24	243-245	is	_	_	_	
+2-25	246-253	evident	_	_	_	
+2-26	253-254	.	_	_	_	
+
+#Text=These organisms likewise may interfere with the preservation of food, by changing its consistency,
+#Text=its flavor or odor, or even by producing definite poisonous decomposition products termed ptomaines.
+3-1	256-261	These	_	_	_	
+3-2	262-271	organisms	_	_	_	
+3-3	272-280	likewise	_	_	_	
+3-4	281-284	may	_	_	_	
+3-5	285-294	interfere	_	_	_	
+3-6	295-299	with	_	_	_	
+3-7	300-303	the	_	_	_	
+3-8	304-316	preservation	_	_	_	
+3-9	317-319	of	_	_	_	
+3-10	320-324	food	_	_	_	
+3-11	324-325	,	_	_	_	
+3-12	326-328	by	_	_	_	
+3-13	329-337	changing	_	_	_	
+3-14	338-341	its	_	_	_	
+3-15	342-353	consistency	_	_	_	
+3-16	353-354	,	_	_	_	
+3-17	355-358	its	Smell\_Source	Anaphoric	2-2[1_0]	
+3-18	359-365	flavor	_	_	_	
+3-19	366-368	or	_	_	_	
+3-20	369-373	odor	Smell\_Word	*	3-17	
+3-21	373-374	,	_	_	_	
+3-22	375-377	or	_	_	_	
+3-23	378-382	even	_	_	_	
+3-24	383-385	by	_	_	_	
+3-25	386-395	producing	_	_	_	
+3-26	396-404	definite	_	_	_	
+3-27	405-414	poisonous	_	_	_	
+3-28	415-428	decomposition	_	_	_	
+3-29	429-437	products	_	_	_	
+3-30	438-444	termed	_	_	_	
+3-31	445-454	ptomaines	_	_	_	
+3-32	454-455	.	_	_	_	
+
+#Text=The changes in
+#Text=consistency are of jiarticular importance with certain food products, such as cheese, and will be discussed under the general
+#Text=
+#Text=head of ripening processes.
+4-1	456-459	The	_	_	_	
+4-2	460-467	changes	_	_	_	
+4-3	468-470	in	_	_	_	
+4-4	471-482	consistency	_	_	_	
+4-5	483-486	are	_	_	_	
+4-6	487-489	of	_	_	_	
+4-7	490-501	jiarticular	_	_	_	
+4-8	502-512	importance	_	_	_	
+4-9	513-517	with	_	_	_	
+4-10	518-525	certain	_	_	_	
+4-11	526-530	food	_	_	_	
+4-12	531-539	products	_	_	_	
+4-13	539-540	,	_	_	_	
+4-14	541-545	such	_	_	_	
+4-15	546-548	as	_	_	_	
+4-16	549-555	cheese	_	_	_	
+4-17	555-556	,	_	_	_	
+4-18	557-560	and	_	_	_	
+4-19	561-565	will	_	_	_	
+4-20	566-568	be	_	_	_	
+4-21	569-578	discussed	_	_	_	
+4-22	579-584	under	_	_	_	
+4-23	585-588	the	_	_	_	
+4-24	589-596	general	_	_	_	
+4-25	598-602	head	_	_	_	
+4-26	603-605	of	_	_	_	
+4-27	606-614	ripening	_	_	_	
+4-28	615-624	processes	_	_	_	
+4-29	624-625	.	_	_	_	
+
+#Text=The same may be said of the development of desirable flavors.
+5-1	627-630	The	_	_	_	
+5-2	631-635	same	_	_	_	
+5-3	636-639	may	_	_	_	
+5-4	640-642	be	_	_	_	
+5-5	643-647	said	_	_	_	
+5-6	648-650	of	_	_	_	
+5-7	651-654	the	_	_	_	
+5-8	655-666	development	_	_	_	
+5-9	667-669	of	_	_	_	
+5-10	670-679	desirable	_	_	_	
+5-11	680-687	flavors	_	_	_	
+5-12	687-688	.	_	_	_	
+
+#Text=However, the development of
+#Text=undesirable flavors and odors and of ptomaines calls for brief
+#Text=disussion.
+6-1	689-696	However	_	_	_	
+6-2	696-697	,	_	_	_	
+6-3	698-701	the	_	_	_	
+6-4	702-713	development	_	_	_	
+6-5	714-716	of	_	_	_	
+6-6	717-728	undesirable	Quality	_	_	
+6-7	729-736	flavors	_	_	_	
+6-8	737-740	and	_	_	_	
+6-9	741-746	odors	Smell\_Word	*	6-6	
+6-10	747-750	and	_	_	_	
+6-11	751-753	of	_	_	_	
+6-12	754-763	ptomaines	_	_	_	
+6-13	764-769	calls	_	_	_	
+6-14	770-773	for	_	_	_	
+6-15	774-779	brief	_	_	_	
+6-16	780-789	disussion	_	_	_	
+6-17	789-790	.	_	_	_	
+
+#Text=Putrefactive Substances having Disagreeable Odors and
+#Text=Flavors. — A complete discussion of the compounds capable of
+#Text=affecting the flavor or aroma that may be formed in nitrogenous
+#Text=food would include a discussion of practically all decomposition
+#Text=products formed.
+7-1	792-804	Putrefactive	Smell\_Source[2]	_	_	
+7-2	805-815	Substances	Smell\_Source[2]	_	_	
+7-3	816-822	having	_	_	_	
+7-4	823-835	Disagreeable	Quality	_	_	
+7-5	836-841	Odors	Smell\_Word	*|*	7-1[2_0]|7-4	
+7-6	842-845	and	_	_	_	
+7-7	846-853	Flavors	_	_	_	
+7-8	853-854	.	_	_	_	
+7-9	855-856	—	_	_	_	
+7-10	857-858	A	_	_	_	
+7-11	859-867	complete	_	_	_	
+7-12	868-878	discussion	_	_	_	
+7-13	879-881	of	_	_	_	
+7-14	882-885	the	_	_	_	
+7-15	886-895	compounds	_	_	_	
+7-16	896-903	capable	_	_	_	
+7-17	904-906	of	_	_	_	
+7-18	907-916	affecting	_	_	_	
+7-19	917-920	the	_	_	_	
+7-20	921-927	flavor	_	_	_	
+7-21	928-930	or	_	_	_	
+7-22	931-936	aroma	_	_	_	
+7-23	937-941	that	_	_	_	
+7-24	942-945	may	_	_	_	
+7-25	946-948	be	_	_	_	
+7-26	949-955	formed	_	_	_	
+7-27	956-958	in	_	_	_	
+7-28	959-970	nitrogenous	_	_	_	
+7-29	971-975	food	_	_	_	
+7-30	976-981	would	_	_	_	
+7-31	982-989	include	_	_	_	
+7-32	990-991	a	_	_	_	
+7-33	992-1002	discussion	_	_	_	
+7-34	1003-1005	of	_	_	_	
+7-35	1006-1017	practically	_	_	_	
+7-36	1018-1021	all	_	_	_	
+7-37	1022-1035	decomposition	_	_	_	
+7-38	1036-1044	products	_	_	_	
+7-39	1045-1051	formed	_	_	_	
+7-40	1051-1052	.	_	_	_	
+
+#Text=A few distinctive products among those
+#Text=most commonly found will be noted.
+8-1	1053-1054	A	_	_	_	
+8-2	1055-1058	few	_	_	_	
+8-3	1059-1070	distinctive	_	_	_	
+8-4	1071-1079	products	_	_	_	
+8-5	1080-1085	among	_	_	_	
+8-6	1086-1091	those	_	_	_	
+8-7	1092-1096	most	_	_	_	
+8-8	1097-1105	commonly	_	_	_	
+8-9	1106-1111	found	_	_	_	
+8-10	1112-1116	will	_	_	_	
+8-11	1117-1119	be	_	_	_	
+8-12	1120-1125	noted	_	_	_	
+8-13	1125-1126	.	_	_	_	
+
+#Text=Butyric acid (C3H7COOH) and acetic acid (CH3COOH) are
+#Text=not uncommonly formed in protein decomposition.
+9-1	1128-1135	Butyric	_	_	_	
+9-2	1136-1140	acid	_	_	_	
+9-3	1141-1142	(	_	_	_	
+9-4	1142-1150	C3H7COOH	_	_	_	
+9-5	1150-1151	)	_	_	_	
+9-6	1152-1155	and	_	_	_	
+9-7	1156-1162	acetic	_	_	_	
+9-8	1163-1167	acid	_	_	_	
+9-9	1168-1169	(	_	_	_	
+9-10	1169-1176	CH3COOH	_	_	_	
+9-11	1176-1177	)	_	_	_	
+9-12	1178-1181	are	_	_	_	
+9-13	1182-1185	not	_	_	_	
+9-14	1186-1196	uncommonly	_	_	_	
+9-15	1197-1203	formed	_	_	_	
+9-16	1204-1206	in	_	_	_	
+9-17	1207-1214	protein	_	_	_	
+9-18	1215-1228	decomposition	_	_	_	
+9-19	1228-1229	.	_	_	_	
+
+#Text=In the
+#Text=putrefaction of such foods as meats, it is possible that these may
+#Text=originate from the fats or carbohydrates present rather than
+#Text=from the proteins.
+10-1	1230-1232	In	_	_	_	
+10-2	1233-1236	the	_	_	_	
+10-3	1237-1249	putrefaction	_	_	_	
+10-4	1250-1252	of	_	_	_	
+10-5	1253-1257	such	_	_	_	
+10-6	1258-1263	foods	_	_	_	
+10-7	1264-1266	as	_	_	_	
+10-8	1267-1272	meats	_	_	_	
+10-9	1272-1273	,	_	_	_	
+10-10	1274-1276	it	_	_	_	
+10-11	1277-1279	is	_	_	_	
+10-12	1280-1288	possible	_	_	_	
+10-13	1289-1293	that	_	_	_	
+10-14	1294-1299	these	_	_	_	
+10-15	1300-1303	may	_	_	_	
+10-16	1304-1313	originate	_	_	_	
+10-17	1314-1318	from	_	_	_	
+10-18	1319-1322	the	_	_	_	
+10-19	1323-1327	fats	_	_	_	
+10-20	1328-1330	or	_	_	_	
+10-21	1331-1344	carbohydrates	_	_	_	
+10-22	1345-1352	present	_	_	_	
+10-23	1353-1359	rather	_	_	_	
+10-24	1360-1364	than	_	_	_	
+10-25	1365-1369	from	_	_	_	
+10-26	1370-1373	the	_	_	_	
+10-27	1374-1382	proteins	_	_	_	
+10-28	1382-1383	.	_	_	_	
+
+#Text=Some putrefactive bacteria, however, do
+#Text=form butyric acid from the native proteins.
+11-1	1384-1388	Some	_	_	_	
+11-2	1389-1401	putrefactive	_	_	_	
+11-3	1402-1410	bacteria	_	_	_	
+11-4	1410-1411	,	_	_	_	
+11-5	1412-1419	however	_	_	_	
+11-6	1419-1420	,	_	_	_	
+11-7	1421-1423	do	_	_	_	
+11-8	1424-1428	form	_	_	_	
+11-9	1429-1436	butyric	_	_	_	
+11-10	1437-1441	acid	_	_	_	
+11-11	1442-1446	from	_	_	_	
+11-12	1447-1450	the	_	_	_	
+11-13	1451-1457	native	_	_	_	
+11-14	1458-1466	proteins	_	_	_	
+11-15	1466-1467	.	_	_	_	
+
+#Text=Indol  and methyl indol or skatol are commonly formed from native proteins
+#Text=or peptones in the absence of carbohydrates by many organisms.
+12-1	1468-1473	Indol	Smell\_Source[3]	_	_	
+12-2	1475-1478	and	Smell\_Source[3]	_	_	
+12-3	1479-1485	methyl	Smell\_Source[3]	_	_	
+12-4	1486-1491	indol	Smell\_Source[3]	_	_	
+12-5	1492-1494	or	Smell\_Source[3]	_	_	
+12-6	1495-1501	skatol	Smell\_Source[3]	_	_	
+12-7	1502-1505	are	_	_	_	
+12-8	1506-1514	commonly	_	_	_	
+12-9	1515-1521	formed	_	_	_	
+12-10	1522-1526	from	_	_	_	
+12-11	1527-1533	native	_	_	_	
+12-12	1534-1542	proteins	_	_	_	
+12-13	1543-1545	or	_	_	_	
+12-14	1546-1554	peptones	_	_	_	
+12-15	1555-1557	in	_	_	_	
+12-16	1558-1561	the	_	_	_	
+12-17	1562-1569	absence	_	_	_	
+12-18	1570-1572	of	_	_	_	
+12-19	1573-1586	carbohydrates	_	_	_	
+12-20	1587-1589	by	_	_	_	
+12-21	1590-1594	many	_	_	_	
+12-22	1595-1604	organisms	_	_	_	
+12-23	1604-1605	.	_	_	_	
+
+#Text=These have an intensely disagreeable fecal odor.
+13-1	1606-1611	These	Smell\_Source	Anaphoric	12-1[3_0]	
+13-2	1612-1616	have	_	_	_	
+13-3	1617-1619	an	_	_	_	
+13-4	1620-1629	intensely	Quality[4]	_	_	
+13-5	1630-1642	disagreeable	Quality[4]	_	_	
+13-6	1643-1648	fecal	Quality	_	_	
+13-7	1649-1653	odor	Smell\_Word	*|*|*	13-6|13-4[4_0]|13-1	
+13-8	1653-1654	.	_	_	_	
+
+#Text=Among the most disagreeable of the odors developed is that
+#Text=from the mercaptans, particularly methyl mercaptan (CH3SH).
+14-1	1656-1661	Among	_	_	_	
+14-2	1662-1665	the	Quality[5]	_	_	
+14-3	1666-1670	most	Quality[5]	_	_	
+14-4	1671-1683	disagreeable	Quality[5]	_	_	
+14-5	1684-1686	of	_	_	_	
+14-6	1687-1690	the	_	_	_	
+14-7	1691-1696	odors	Smell\_Word	*|*|*	14-2[5_0]|14-12[6_0]|14-16[7_0]	
+14-8	1697-1706	developed	_	_	_	
+14-9	1707-1709	is	_	_	_	
+14-10	1710-1714	that	_	_	_	
+14-11	1715-1719	from	_	_	_	
+14-12	1720-1723	the	Smell\_Source[6]	_	_	
+14-13	1724-1734	mercaptans	Smell\_Source[6]	_	_	
+14-14	1734-1735	,	_	_	_	
+14-15	1736-1748	particularly	_	_	_	
+14-16	1749-1755	methyl	Smell\_Source[7]	_	_	
+14-17	1756-1765	mercaptan	Smell\_Source[7]	_	_	
+14-18	1766-1767	(	_	_	_	
+14-19	1767-1772	CH3SH	_	_	_	
+14-20	1772-1773	)	_	_	_	
+14-21	1773-1774	.	_	_	_	
+
+#Text=These and certain related compounds containing sulphur are
+#Text=the common causes of the worst odors attendant upon putrefaction.
+15-1	1775-1780	These	Smell\_Source	Anaphoric	14-12[6_0]	
+15-2	1781-1784	and	_	_	_	
+15-3	1785-1792	certain	Smell\_Source[8]	_	_	
+15-4	1793-1800	related	Smell\_Source[8]	_	_	
+15-5	1801-1810	compounds	Smell\_Source[8]	_	_	
+15-6	1811-1821	containing	Smell\_Source[8]	_	_	
+15-7	1822-1829	sulphur	Smell\_Source[8]	_	_	
+15-8	1830-1833	are	_	_	_	
+15-9	1834-1837	the	_	_	_	
+15-10	1838-1844	common	_	_	_	
+15-11	1845-1851	causes	_	_	_	
+15-12	1852-1854	of	_	_	_	
+15-13	1855-1858	the	Quality[9]	_	_	
+15-14	1859-1864	worst	Quality[9]	_	_	
+15-15	1865-1870	odors	Smell\_Word	*|*|*|*	15-16[10_0]|15-13[9_0]|15-3[8_0]|15-1	
+15-16	1871-1880	attendant	Circumstances[10]	_	_	
+15-17	1881-1885	upon	Circumstances[10]	_	_	
+15-18	1886-1898	putrefaction	Circumstances[10]	_	_	
+15-19	1898-1899	.	_	_	_	
+
+#Text=Hydrogen sulphide is also commonly formed, as in
+#Text=rotten eggs.
+16-1	1900-1908	Hydrogen	_	_	_	
+16-2	1909-1917	sulphide	_	_	_	
+16-3	1918-1920	is	_	_	_	
+16-4	1921-1925	also	_	_	_	
+16-5	1926-1934	commonly	_	_	_	
+16-6	1935-1941	formed	_	_	_	
+16-7	1941-1942	,	_	_	_	
+16-8	1943-1945	as	_	_	_	
+16-9	1946-1948	in	_	_	_	
+16-10	1949-1955	rotten	_	_	_	
+16-11	1956-1960	eggs	_	_	_	
+16-12	1960-1961	.	_	_	_	

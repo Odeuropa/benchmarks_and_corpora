@@ -1,0 +1,824 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=Of Beasts living in the Water.
+1-1	0-2	Of	_	_	_	
+1-2	3-9	Beasts	_	_	_	
+1-3	10-16	living	_	_	_	
+1-4	17-19	in	_	_	_	
+1-5	20-23	the	_	_	_	
+1-6	24-29	Water	_	_	_	
+1-7	29-30	.	_	_	_	
+
+#Text=Their Otters are most of them black, and their skins are almost as good
+#Text=as Bevers; Their Oyl is of rare use for many things.
+2-1	31-36	Their	_	_	_	
+2-2	37-43	Otters	_	_	_	
+2-3	44-47	are	_	_	_	
+2-4	48-52	most	_	_	_	
+2-5	53-55	of	_	_	_	
+2-6	56-60	them	_	_	_	
+2-7	61-66	black	_	_	_	
+2-8	66-67	,	_	_	_	
+2-9	68-71	and	_	_	_	
+2-10	72-77	their	_	_	_	
+2-11	78-83	skins	_	_	_	
+2-12	84-87	are	_	_	_	
+2-13	88-94	almost	_	_	_	
+2-14	95-97	as	_	_	_	
+2-15	98-102	good	_	_	_	
+2-16	103-105	as	_	_	_	
+2-17	106-112	Bevers	_	_	_	
+2-18	112-113	;	_	_	_	
+2-19	114-119	Their	_	_	_	
+2-20	120-123	Oyl	_	_	_	
+2-21	124-126	is	_	_	_	
+2-22	127-129	of	_	_	_	
+2-23	130-134	rare	_	_	_	
+2-24	135-138	use	_	_	_	
+2-25	139-142	for	_	_	_	
+2-26	143-147	many	_	_	_	
+2-27	148-154	things	_	_	_	
+2-28	154-155	.	_	_	_	
+
+#Text=Martins also have a
+#Text=good Fur for their bigness.
+3-1	156-163	Martins	_	_	_	
+3-2	164-168	also	_	_	_	
+3-3	169-173	have	_	_	_	
+3-4	174-175	a	_	_	_	
+3-5	176-180	good	_	_	_	
+3-6	181-184	Fur	_	_	_	
+3-7	185-188	for	_	_	_	
+3-8	189-194	their	_	_	_	
+3-9	195-202	bigness	_	_	_	
+3-10	202-203	.	_	_	_	
+
+#Text=Musquashes are almost like Beavers, but
+#Text=not so big, the Males stones smells as sweet as Musk, and being killed
+#Text=in Winter or the Spring they never loose their sweetness: they are no
+#Text=bigger than Cony-skins, and yet are sold for five shillings a piece.
+4-1	204-214	Musquashes	Smell\_Source	_	_	
+4-2	215-218	are	_	_	_	
+4-3	219-225	almost	_	_	_	
+4-4	226-230	like	_	_	_	
+4-5	231-238	Beavers	_	_	_	
+4-6	238-239	,	_	_	_	
+4-7	240-243	but	_	_	_	
+4-8	244-247	not	_	_	_	
+4-9	248-250	so	_	_	_	
+4-10	251-254	big	_	_	_	
+4-11	254-255	,	_	_	_	
+4-12	256-259	the	Smell\_Source[1]	_	_	
+4-13	260-265	Males	Smell\_Source[1]	_	_	
+4-14	266-272	stones	Smell\_Source[1]	_	_	
+4-15	273-279	smells	Smell\_Word	*|*|*	4-16[2_0]|4-18[3_0]|4-12[1_0]	
+4-16	280-282	as	Quality[2]	_	_	
+4-17	283-288	sweet	Quality[2]	_	_	
+4-18	289-291	as	Evoked\_Odorant[3]	_	_	
+4-19	292-296	Musk	Evoked\_Odorant[3]	_	_	
+4-20	296-297	,	_	_	_	
+4-21	298-301	and	_	_	_	
+4-22	302-307	being	_	_	_	
+4-23	308-314	killed	_	_	_	
+4-24	315-317	in	_	_	_	
+4-25	318-324	Winter	_	_	_	
+4-26	325-327	or	_	_	_	
+4-27	328-331	the	_	_	_	
+4-28	332-338	Spring	_	_	_	
+4-29	339-343	they	_	_	_	
+4-30	344-349	never	_	_	_	
+4-31	350-355	loose	_	_	_	
+4-32	356-361	their	Smell\_Source	Anaphoric	4-1	
+4-33	362-371	sweetness	Smell\_Word[4]|Quality[5]	*|*	4-33[5_4]|4-32[0_4]	
+4-34	371-372	:	_	_	_	
+4-35	373-377	they	_	_	_	
+4-36	378-381	are	_	_	_	
+4-37	382-384	no	_	_	_	
+4-38	385-391	bigger	_	_	_	
+4-39	392-396	than	_	_	_	
+4-40	397-407	Cony-skins	_	_	_	
+4-41	407-408	,	_	_	_	
+4-42	409-412	and	_	_	_	
+4-43	413-416	yet	_	_	_	
+4-44	417-420	are	_	_	_	
+4-45	421-425	sold	_	_	_	
+4-46	426-429	for	_	_	_	
+4-47	430-434	five	_	_	_	
+4-48	435-444	shillings	_	_	_	
+4-49	445-446	a	_	_	_	
+4-50	447-452	piece	_	_	_	
+4-51	452-453	.	_	_	_	
+
+#Text=One
+#Text=good Skin will perfume a whole house full of Clothes.
+5-1	454-457	One	Smell\_Source[6]	_	_	
+5-2	458-462	good	Smell\_Source[6]	_	_	
+5-3	463-467	Skin	Smell\_Source[6]	_	_	
+5-4	468-472	will	_	_	_	
+5-5	473-480	perfume	Smell\_Word	*|*	5-1[6_0]|5-6[7_0]	
+5-6	481-482	a	Location[7]	_	_	
+5-7	483-488	whole	Location[7]	_	_	
+5-8	489-494	house	Location[7]	_	_	
+5-9	495-499	full	Location[7]	_	_	
+5-10	500-502	of	Location[7]	_	_	
+5-11	503-510	Clothes	Location[7]	_	_	
+5-12	510-511	.	_	_	_	
+
+#Text=The Bevers
+#Text=wisdom and understanding makes him come nigh to a reasonable creature.
+6-1	512-515	The	_	_	_	
+6-2	516-522	Bevers	_	_	_	
+6-3	523-529	wisdom	_	_	_	
+6-4	530-533	and	_	_	_	
+6-5	534-547	understanding	_	_	_	
+6-6	548-553	makes	_	_	_	
+6-7	554-557	him	_	_	_	
+6-8	558-562	come	_	_	_	
+6-9	563-567	nigh	_	_	_	
+6-10	568-570	to	_	_	_	
+6-11	571-572	a	_	_	_	
+6-12	573-583	reasonable	_	_	_	
+6-13	584-592	creature	_	_	_	
+6-14	592-593	.	_	_	_	
+
+#Text=His body is thick and short, with short leggs, feet like a Mole before,
+#Text=and behind like a Goose, a broad tail like a shoo-sole, very tough
+#Text=and strong: His head is something like an Otters, saving that his foreeteth
+#Text=be like Conies, two above and two beneath, sharp and broad, with
+#Text=which he cuts down Trees as big as a mans thigh, or bigger, which afterwards
+#Text=he divides into lengths according to the uses they are appoinetd
+#Text=for.
+7-1	594-597	His	_	_	_	
+7-2	598-602	body	_	_	_	
+7-3	603-605	is	_	_	_	
+7-4	606-611	thick	_	_	_	
+7-5	612-615	and	_	_	_	
+7-6	616-621	short	_	_	_	
+7-7	621-622	,	_	_	_	
+7-8	623-627	with	_	_	_	
+7-9	628-633	short	_	_	_	
+7-10	634-639	leggs	_	_	_	
+7-11	639-640	,	_	_	_	
+7-12	641-645	feet	_	_	_	
+7-13	646-650	like	_	_	_	
+7-14	651-652	a	_	_	_	
+7-15	653-657	Mole	_	_	_	
+7-16	658-664	before	_	_	_	
+7-17	664-665	,	_	_	_	
+7-18	666-669	and	_	_	_	
+7-19	670-676	behind	_	_	_	
+7-20	677-681	like	_	_	_	
+7-21	682-683	a	_	_	_	
+7-22	684-689	Goose	_	_	_	
+7-23	689-690	,	_	_	_	
+7-24	691-692	a	_	_	_	
+7-25	693-698	broad	_	_	_	
+7-26	699-703	tail	_	_	_	
+7-27	704-708	like	_	_	_	
+7-28	709-710	a	_	_	_	
+7-29	711-720	shoo-sole	_	_	_	
+7-30	720-721	,	_	_	_	
+7-31	722-726	very	_	_	_	
+7-32	727-732	tough	_	_	_	
+7-33	733-736	and	_	_	_	
+7-34	737-743	strong	_	_	_	
+7-35	743-744	:	_	_	_	
+7-36	745-748	His	_	_	_	
+7-37	749-753	head	_	_	_	
+7-38	754-756	is	_	_	_	
+7-39	757-766	something	_	_	_	
+7-40	767-771	like	_	_	_	
+7-41	772-774	an	_	_	_	
+7-42	775-781	Otters	_	_	_	
+7-43	781-782	,	_	_	_	
+7-44	783-789	saving	_	_	_	
+7-45	790-794	that	_	_	_	
+7-46	795-798	his	_	_	_	
+7-47	799-808	foreeteth	_	_	_	
+7-48	809-811	be	_	_	_	
+7-49	812-816	like	_	_	_	
+7-50	817-823	Conies	_	_	_	
+7-51	823-824	,	_	_	_	
+7-52	825-828	two	_	_	_	
+7-53	829-834	above	_	_	_	
+7-54	835-838	and	_	_	_	
+7-55	839-842	two	_	_	_	
+7-56	843-850	beneath	_	_	_	
+7-57	850-851	,	_	_	_	
+7-58	852-857	sharp	_	_	_	
+7-59	858-861	and	_	_	_	
+7-60	862-867	broad	_	_	_	
+7-61	867-868	,	_	_	_	
+7-62	869-873	with	_	_	_	
+7-63	874-879	which	_	_	_	
+7-64	880-882	he	_	_	_	
+7-65	883-887	cuts	_	_	_	
+7-66	888-892	down	_	_	_	
+7-67	893-898	Trees	_	_	_	
+7-68	899-901	as	_	_	_	
+7-69	902-905	big	_	_	_	
+7-70	906-908	as	_	_	_	
+7-71	909-910	a	_	_	_	
+7-72	911-915	mans	_	_	_	
+7-73	916-921	thigh	_	_	_	
+7-74	921-922	,	_	_	_	
+7-75	923-925	or	_	_	_	
+7-76	926-932	bigger	_	_	_	
+7-77	932-933	,	_	_	_	
+7-78	934-939	which	_	_	_	
+7-79	940-950	afterwards	_	_	_	
+7-80	951-953	he	_	_	_	
+7-81	954-961	divides	_	_	_	
+7-82	962-966	into	_	_	_	
+7-83	967-974	lengths	_	_	_	
+7-84	975-984	according	_	_	_	
+7-85	985-987	to	_	_	_	
+7-86	988-991	the	_	_	_	
+7-87	992-996	uses	_	_	_	
+7-88	997-1001	they	_	_	_	
+7-89	1002-1005	are	_	_	_	
+7-90	1006-1015	appoinetd	_	_	_	
+7-91	1016-1019	for	_	_	_	
+7-92	1019-1020	.	_	_	_	
+
+#Text=If one Beaver be too weak to carry the Log, than another helps
+#Text=him: If two be too weak, three or four will assist, being placed three
+#Text=to three, which set their teeth in one anothers tough tails, and laying
+#Text=the load on the hindermost, they draw the Logg to the desired place, they
+#Text=tow it in the water, the youngest getting under it, bearing it up that it
+#Text=may swim the lighter.
+8-1	1021-1023	If	_	_	_	
+8-2	1024-1027	one	_	_	_	
+8-3	1028-1034	Beaver	_	_	_	
+8-4	1035-1037	be	_	_	_	
+8-5	1038-1041	too	_	_	_	
+8-6	1042-1046	weak	_	_	_	
+8-7	1047-1049	to	_	_	_	
+8-8	1050-1055	carry	_	_	_	
+8-9	1056-1059	the	_	_	_	
+8-10	1060-1063	Log	_	_	_	
+8-11	1063-1064	,	_	_	_	
+8-12	1065-1069	than	_	_	_	
+8-13	1070-1077	another	_	_	_	
+8-14	1078-1083	helps	_	_	_	
+8-15	1084-1087	him	_	_	_	
+8-16	1087-1088	:	_	_	_	
+8-17	1089-1091	If	_	_	_	
+8-18	1092-1095	two	_	_	_	
+8-19	1096-1098	be	_	_	_	
+8-20	1099-1102	too	_	_	_	
+8-21	1103-1107	weak	_	_	_	
+8-22	1107-1108	,	_	_	_	
+8-23	1109-1114	three	_	_	_	
+8-24	1115-1117	or	_	_	_	
+8-25	1118-1122	four	_	_	_	
+8-26	1123-1127	will	_	_	_	
+8-27	1128-1134	assist	_	_	_	
+8-28	1134-1135	,	_	_	_	
+8-29	1136-1141	being	_	_	_	
+8-30	1142-1148	placed	_	_	_	
+8-31	1149-1154	three	_	_	_	
+8-32	1155-1157	to	_	_	_	
+8-33	1158-1163	three	_	_	_	
+8-34	1163-1164	,	_	_	_	
+8-35	1165-1170	which	_	_	_	
+8-36	1171-1174	set	_	_	_	
+8-37	1175-1180	their	_	_	_	
+8-38	1181-1186	teeth	_	_	_	
+8-39	1187-1189	in	_	_	_	
+8-40	1190-1193	one	_	_	_	
+8-41	1194-1202	anothers	_	_	_	
+8-42	1203-1208	tough	_	_	_	
+8-43	1209-1214	tails	_	_	_	
+8-44	1214-1215	,	_	_	_	
+8-45	1216-1219	and	_	_	_	
+8-46	1220-1226	laying	_	_	_	
+8-47	1227-1230	the	_	_	_	
+8-48	1231-1235	load	_	_	_	
+8-49	1236-1238	on	_	_	_	
+8-50	1239-1242	the	_	_	_	
+8-51	1243-1253	hindermost	_	_	_	
+8-52	1253-1254	,	_	_	_	
+8-53	1255-1259	they	_	_	_	
+8-54	1260-1264	draw	_	_	_	
+8-55	1265-1268	the	_	_	_	
+8-56	1269-1273	Logg	_	_	_	
+8-57	1274-1276	to	_	_	_	
+8-58	1277-1280	the	_	_	_	
+8-59	1281-1288	desired	_	_	_	
+8-60	1289-1294	place	_	_	_	
+8-61	1294-1295	,	_	_	_	
+8-62	1296-1300	they	_	_	_	
+8-63	1301-1304	tow	_	_	_	
+8-64	1305-1307	it	_	_	_	
+8-65	1308-1310	in	_	_	_	
+8-66	1311-1314	the	_	_	_	
+8-67	1315-1320	water	_	_	_	
+8-68	1320-1321	,	_	_	_	
+8-69	1322-1325	the	_	_	_	
+8-70	1326-1334	youngest	_	_	_	
+8-71	1335-1342	getting	_	_	_	
+8-72	1343-1348	under	_	_	_	
+8-73	1349-1351	it	_	_	_	
+8-74	1351-1352	,	_	_	_	
+8-75	1353-1360	bearing	_	_	_	
+8-76	1361-1363	it	_	_	_	
+8-77	1364-1366	up	_	_	_	
+8-78	1367-1371	that	_	_	_	
+8-79	1372-1374	it	_	_	_	
+8-80	1375-1378	may	_	_	_	
+8-81	1379-1383	swim	_	_	_	
+8-82	1384-1387	the	_	_	_	
+8-83	1388-1395	lighter	_	_	_	
+8-84	1395-1396	.	_	_	_	
+
+#Text=They build their houses of Wood and Clay,
+#Text=close by a Ponds side, and knowing their seasons, they build their houses
+#Text=answerably, three stories high, that when the Land Floods come they
+#Text=may shift higher, and when the waters fall, they remove lower.
+9-1	1397-1401	They	_	_	_	
+9-2	1402-1407	build	_	_	_	
+9-3	1408-1413	their	_	_	_	
+9-4	1414-1420	houses	_	_	_	
+9-5	1421-1423	of	_	_	_	
+9-6	1424-1428	Wood	_	_	_	
+9-7	1429-1432	and	_	_	_	
+9-8	1433-1437	Clay	_	_	_	
+9-9	1437-1438	,	_	_	_	
+9-10	1439-1444	close	_	_	_	
+9-11	1445-1447	by	_	_	_	
+9-12	1448-1449	a	_	_	_	
+9-13	1450-1455	Ponds	_	_	_	
+9-14	1456-1460	side	_	_	_	
+9-15	1460-1461	,	_	_	_	
+9-16	1462-1465	and	_	_	_	
+9-17	1466-1473	knowing	_	_	_	
+9-18	1474-1479	their	_	_	_	
+9-19	1480-1487	seasons	_	_	_	
+9-20	1487-1488	,	_	_	_	
+9-21	1489-1493	they	_	_	_	
+9-22	1494-1499	build	_	_	_	
+9-23	1500-1505	their	_	_	_	
+9-24	1506-1512	houses	_	_	_	
+9-25	1513-1523	answerably	_	_	_	
+9-26	1523-1524	,	_	_	_	
+9-27	1525-1530	three	_	_	_	
+9-28	1531-1538	stories	_	_	_	
+9-29	1539-1543	high	_	_	_	
+9-30	1543-1544	,	_	_	_	
+9-31	1545-1549	that	_	_	_	
+9-32	1550-1554	when	_	_	_	
+9-33	1555-1558	the	_	_	_	
+9-34	1559-1563	Land	_	_	_	
+9-35	1564-1570	Floods	_	_	_	
+9-36	1571-1575	come	_	_	_	
+9-37	1576-1580	they	_	_	_	
+9-38	1581-1584	may	_	_	_	
+9-39	1585-1590	shift	_	_	_	
+9-40	1591-1597	higher	_	_	_	
+9-41	1597-1598	,	_	_	_	
+9-42	1599-1602	and	_	_	_	
+9-43	1603-1607	when	_	_	_	
+9-44	1608-1611	the	_	_	_	
+9-45	1612-1618	waters	_	_	_	
+9-46	1619-1623	fall	_	_	_	
+9-47	1623-1624	,	_	_	_	
+9-48	1625-1629	they	_	_	_	
+9-49	1630-1636	remove	_	_	_	
+9-50	1637-1642	lower	_	_	_	
+9-51	1642-1643	.	_	_	_	
+
+#Text=These
+#Text=houses are so strong that no Creature, save an industrious man with his
+#Text=penetrating tools can pierce them, their ingress and egress being under
+#Text=water.
+10-1	1644-1649	These	_	_	_	
+10-2	1650-1656	houses	_	_	_	
+10-3	1657-1660	are	_	_	_	
+10-4	1661-1663	so	_	_	_	
+10-5	1664-1670	strong	_	_	_	
+10-6	1671-1675	that	_	_	_	
+10-7	1676-1678	no	_	_	_	
+10-8	1679-1687	Creature	_	_	_	
+10-9	1687-1688	,	_	_	_	
+10-10	1689-1693	save	_	_	_	
+10-11	1694-1696	an	_	_	_	
+10-12	1697-1708	industrious	_	_	_	
+10-13	1709-1712	man	_	_	_	
+10-14	1713-1717	with	_	_	_	
+10-15	1718-1721	his	_	_	_	
+10-16	1722-1733	penetrating	_	_	_	
+10-17	1734-1739	tools	_	_	_	
+10-18	1740-1743	can	_	_	_	
+10-19	1744-1750	pierce	_	_	_	
+10-20	1751-1755	them	_	_	_	
+10-21	1755-1756	,	_	_	_	
+10-22	1757-1762	their	_	_	_	
+10-23	1763-1770	ingress	_	_	_	
+10-24	1771-1774	and	_	_	_	
+10-25	1775-1781	egress	_	_	_	
+10-26	1782-1787	being	_	_	_	
+10-27	1788-1793	under	_	_	_	
+10-28	1794-1799	water	_	_	_	
+10-29	1799-1800	.	_	_	_	
+
+#Text=They make very good Ponds; for knowing where a stream
+#Text=runs from between two rising Hills, they will pitch down Piles of Wood
+#Text=placing smaller Rubbish before it, with clay and sods, not leaving till by
+#Text=their Art and Industry they have made a firm and curious Dam-head,
+#Text=which may cause admiration in wise men.
+11-1	1801-1805	They	_	_	_	
+11-2	1806-1810	make	_	_	_	
+11-3	1811-1815	very	_	_	_	
+11-4	1816-1820	good	_	_	_	
+11-5	1821-1826	Ponds	_	_	_	
+11-6	1826-1827	;	_	_	_	
+11-7	1828-1831	for	_	_	_	
+11-8	1832-1839	knowing	_	_	_	
+11-9	1840-1845	where	_	_	_	
+11-10	1846-1847	a	_	_	_	
+11-11	1848-1854	stream	_	_	_	
+11-12	1855-1859	runs	_	_	_	
+11-13	1860-1864	from	_	_	_	
+11-14	1865-1872	between	_	_	_	
+11-15	1873-1876	two	_	_	_	
+11-16	1877-1883	rising	_	_	_	
+11-17	1884-1889	Hills	_	_	_	
+11-18	1889-1890	,	_	_	_	
+11-19	1891-1895	they	_	_	_	
+11-20	1896-1900	will	_	_	_	
+11-21	1901-1906	pitch	_	_	_	
+11-22	1907-1911	down	_	_	_	
+11-23	1912-1917	Piles	_	_	_	
+11-24	1918-1920	of	_	_	_	
+11-25	1921-1925	Wood	_	_	_	
+11-26	1926-1933	placing	_	_	_	
+11-27	1934-1941	smaller	_	_	_	
+11-28	1942-1949	Rubbish	_	_	_	
+11-29	1950-1956	before	_	_	_	
+11-30	1957-1959	it	_	_	_	
+11-31	1959-1960	,	_	_	_	
+11-32	1961-1965	with	_	_	_	
+11-33	1966-1970	clay	_	_	_	
+11-34	1971-1974	and	_	_	_	
+11-35	1975-1979	sods	_	_	_	
+11-36	1979-1980	,	_	_	_	
+11-37	1981-1984	not	_	_	_	
+11-38	1985-1992	leaving	_	_	_	
+11-39	1993-1997	till	_	_	_	
+11-40	1998-2000	by	_	_	_	
+11-41	2001-2006	their	_	_	_	
+11-42	2007-2010	Art	_	_	_	
+11-43	2011-2014	and	_	_	_	
+11-44	2015-2023	Industry	_	_	_	
+11-45	2024-2028	they	_	_	_	
+11-46	2029-2033	have	_	_	_	
+11-47	2034-2038	made	_	_	_	
+11-48	2039-2040	a	_	_	_	
+11-49	2041-2045	firm	_	_	_	
+11-50	2046-2049	and	_	_	_	
+11-51	2050-2057	curious	_	_	_	
+11-52	2058-2066	Dam-head	_	_	_	
+11-53	2066-2067	,	_	_	_	
+11-54	2068-2073	which	_	_	_	
+11-55	2074-2077	may	_	_	_	
+11-56	2078-2083	cause	_	_	_	
+11-57	2084-2094	admiration	_	_	_	
+11-58	2095-2097	in	_	_	_	
+11-59	2098-2102	wise	_	_	_	
+11-60	2103-2106	men	_	_	_	
+11-61	2106-2107	.	_	_	_	
+
+#Text=They keep themselves to
+#Text=their own Families, never parting so long as they are able to keep house
+#Text=together.
+12-1	2108-2112	They	_	_	_	
+12-2	2113-2117	keep	_	_	_	
+12-3	2118-2128	themselves	_	_	_	
+12-4	2129-2131	to	_	_	_	
+12-5	2132-2137	their	_	_	_	
+12-6	2138-2141	own	_	_	_	
+12-7	2142-2150	Families	_	_	_	
+12-8	2150-2151	,	_	_	_	
+12-9	2152-2157	never	_	_	_	
+12-10	2158-2165	parting	_	_	_	
+12-11	2166-2168	so	_	_	_	
+12-12	2169-2173	long	_	_	_	
+12-13	2174-2176	as	_	_	_	
+12-14	2177-2181	they	_	_	_	
+12-15	2182-2185	are	_	_	_	
+12-16	2186-2190	able	_	_	_	
+12-17	2191-2193	to	_	_	_	
+12-18	2194-2198	keep	_	_	_	
+12-19	2199-2204	house	_	_	_	
+12-20	2205-2213	together	_	_	_	
+12-21	2213-2214	.	_	_	_	
+
+#Text=Their wisdom secures them from the English, who seldom
+#Text=kill any of them, wanting time and patience to lay a long siege, or to
+#Text=be often deceived by their cunning evasions.
+13-1	2215-2220	Their	_	_	_	
+13-2	2221-2227	wisdom	_	_	_	
+13-3	2228-2235	secures	_	_	_	
+13-4	2236-2240	them	_	_	_	
+13-5	2241-2245	from	_	_	_	
+13-6	2246-2249	the	_	_	_	
+13-7	2250-2257	English	_	_	_	
+13-8	2257-2258	,	_	_	_	
+13-9	2259-2262	who	_	_	_	
+13-10	2263-2269	seldom	_	_	_	
+13-11	2270-2274	kill	_	_	_	
+13-12	2275-2278	any	_	_	_	
+13-13	2279-2281	of	_	_	_	
+13-14	2282-2286	them	_	_	_	
+13-15	2286-2287	,	_	_	_	
+13-16	2288-2295	wanting	_	_	_	
+13-17	2296-2300	time	_	_	_	
+13-18	2301-2304	and	_	_	_	
+13-19	2305-2313	patience	_	_	_	
+13-20	2314-2316	to	_	_	_	
+13-21	2317-2320	lay	_	_	_	
+13-22	2321-2322	a	_	_	_	
+13-23	2323-2327	long	_	_	_	
+13-24	2328-2333	siege	_	_	_	
+13-25	2333-2334	,	_	_	_	
+13-26	2335-2337	or	_	_	_	
+13-27	2338-2340	to	_	_	_	
+13-28	2341-2343	be	_	_	_	
+13-29	2344-2349	often	_	_	_	
+13-30	2350-2358	deceived	_	_	_	
+13-31	2359-2361	by	_	_	_	
+13-32	2362-2367	their	_	_	_	
+13-33	2368-2375	cunning	_	_	_	
+13-34	2376-2384	evasions	_	_	_	
+13-35	2384-2385	.	_	_	_	
+
+#Text=So that all our Beavers
+#Text=come from the Indians, whose time and experience fits them for that
+#Text=imployment.
+14-1	2386-2388	So	_	_	_	
+14-2	2389-2393	that	_	_	_	
+14-3	2394-2397	all	_	_	_	
+14-4	2398-2401	our	_	_	_	
+14-5	2402-2409	Beavers	_	_	_	
+14-6	2410-2414	come	_	_	_	
+14-7	2415-2419	from	_	_	_	
+14-8	2420-2423	the	_	_	_	
+14-9	2424-2431	Indians	_	_	_	
+14-10	2431-2432	,	_	_	_	
+14-11	2433-2438	whose	_	_	_	
+14-12	2439-2443	time	_	_	_	
+14-13	2444-2447	and	_	_	_	
+14-14	2448-2458	experience	_	_	_	
+14-15	2459-2463	fits	_	_	_	
+14-16	2464-2468	them	_	_	_	
+14-17	2469-2472	for	_	_	_	
+14-18	2473-2477	that	_	_	_	
+14-19	2478-2488	imployment	_	_	_	
+14-20	2488-2489	.	_	_	_	
+
+#Text=Of the Birds, and Fowls both of Land and Water.
+15-1	2491-2493	Of	_	_	_	
+15-2	2494-2497	the	_	_	_	
+15-3	2498-2503	Birds	_	_	_	
+15-4	2503-2504	,	_	_	_	
+15-5	2505-2508	and	_	_	_	
+15-6	2509-2514	Fowls	_	_	_	
+15-7	2515-2519	both	_	_	_	
+15-8	2520-2522	of	_	_	_	
+15-9	2523-2527	Land	_	_	_	
+15-10	2528-2531	and	_	_	_	
+15-11	2532-2537	Water	_	_	_	
+15-12	2537-2538	.	_	_	_	
+
+#Text=They are expressed in these Verses.
+16-1	2539-2543	They	_	_	_	
+16-2	2544-2547	are	_	_	_	
+16-3	2548-2557	expressed	_	_	_	
+16-4	2558-2560	in	_	_	_	
+16-5	2561-2566	these	_	_	_	
+16-6	2567-2573	Verses	_	_	_	
+16-7	2573-2574	.	_	_	_	
+
+#Text=The princely Eagle, and the soaring Hawks,
+#Text=Within their unknown wayes ther ' s none can chawk:
+#Text=The Hum-Bird for some Queens rich Cage more fit
+#Text=Than in the vacant wilderness to sit.
+17-1	2575-2578	The	_	_	_	
+17-2	2579-2587	princely	_	_	_	
+17-3	2588-2593	Eagle	_	_	_	
+17-4	2593-2594	,	_	_	_	
+17-5	2595-2598	and	_	_	_	
+17-6	2599-2602	the	_	_	_	
+17-7	2603-2610	soaring	_	_	_	
+17-8	2611-2616	Hawks	_	_	_	
+17-9	2616-2617	,	_	_	_	
+17-10	2618-2624	Within	_	_	_	
+17-11	2625-2630	their	_	_	_	
+17-12	2631-2638	unknown	_	_	_	
+17-13	2639-2644	wayes	_	_	_	
+17-14	2645-2649	ther	_	_	_	
+17-15	2650-2651	'	_	_	_	
+17-16	2652-2653	s	_	_	_	
+17-17	2654-2658	none	_	_	_	
+17-18	2659-2662	can	_	_	_	
+17-19	2663-2668	chawk	_	_	_	
+17-20	2668-2669	:	_	_	_	
+17-21	2670-2673	The	_	_	_	
+17-22	2674-2682	Hum-Bird	_	_	_	
+17-23	2683-2686	for	_	_	_	
+17-24	2687-2691	some	_	_	_	
+17-25	2692-2698	Queens	_	_	_	
+17-26	2699-2703	rich	_	_	_	
+17-27	2704-2708	Cage	_	_	_	
+17-28	2709-2713	more	_	_	_	
+17-29	2714-2717	fit	_	_	_	
+17-30	2718-2722	Than	_	_	_	
+17-31	2723-2725	in	_	_	_	
+17-32	2726-2729	the	_	_	_	
+17-33	2730-2736	vacant	_	_	_	
+17-34	2737-2747	wilderness	_	_	_	
+17-35	2748-2750	to	_	_	_	
+17-36	2751-2754	sit	_	_	_	
+17-37	2754-2755	.	_	_	_	
+
+#Text=The swift-wing ' d Swallow sweeping to and fro,
+#Text=As swift as arrow from Tartarian bow.
+18-1	2756-2759	The	_	_	_	
+18-2	2760-2770	swift-wing	_	_	_	
+18-3	2771-2772	'	_	_	_	
+18-4	2773-2774	d	_	_	_	
+18-5	2775-2782	Swallow	_	_	_	
+18-6	2783-2791	sweeping	_	_	_	
+18-7	2792-2794	to	_	_	_	
+18-8	2795-2798	and	_	_	_	
+18-9	2799-2802	fro	_	_	_	
+18-10	2802-2803	,	_	_	_	
+18-11	2804-2806	As	_	_	_	
+18-12	2807-2812	swift	_	_	_	
+18-13	2813-2815	as	_	_	_	
+18-14	2816-2821	arrow	_	_	_	
+18-15	2822-2826	from	_	_	_	
+18-16	2827-2836	Tartarian	_	_	_	
+18-17	2837-2840	bow	_	_	_	
+18-18	2840-2841	.	_	_	_	
+
+#Text=When as Aurora ' s infant day new Springs,
+#Text=There th '  morning mounting Lark her sweet layes sings.
+19-1	2842-2846	When	_	_	_	
+19-2	2847-2849	as	_	_	_	
+19-3	2850-2856	Aurora	_	_	_	
+19-4	2857-2858	'	_	_	_	
+19-5	2859-2860	s	_	_	_	
+19-6	2861-2867	infant	_	_	_	
+19-7	2868-2871	day	_	_	_	
+19-8	2872-2875	new	_	_	_	
+19-9	2876-2883	Springs	_	_	_	
+19-10	2883-2884	,	_	_	_	
+19-11	2885-2890	There	_	_	_	
+19-12	2891-2893	th	_	_	_	
+19-13	2894-2895	'	_	_	_	
+19-14	2897-2904	morning	_	_	_	
+19-15	2905-2913	mounting	_	_	_	
+19-16	2914-2918	Lark	_	_	_	
+19-17	2919-2922	her	_	_	_	
+19-18	2923-2928	sweet	_	_	_	
+19-19	2929-2934	layes	_	_	_	
+19-20	2935-2940	sings	_	_	_	
+19-21	2940-2941	.	_	_	_	
+
+#Text=The harmonious Thrush, swift Pigeon, Turtle Dove
+#Text=Who to her Mate doth ever constant prove.
+20-1	2942-2945	The	_	_	_	
+20-2	2946-2956	harmonious	_	_	_	
+20-3	2957-2963	Thrush	_	_	_	
+20-4	2963-2964	,	_	_	_	
+20-5	2965-2970	swift	_	_	_	
+20-6	2971-2977	Pigeon	_	_	_	
+20-7	2977-2978	,	_	_	_	
+20-8	2979-2985	Turtle	_	_	_	
+20-9	2986-2990	Dove	_	_	_	
+20-10	2991-2994	Who	_	_	_	
+20-11	2995-2997	to	_	_	_	
+20-12	2998-3001	her	_	_	_	
+20-13	3002-3006	Mate	_	_	_	
+20-14	3007-3011	doth	_	_	_	
+20-15	3012-3016	ever	_	_	_	
+20-16	3017-3025	constant	_	_	_	
+20-17	3026-3031	prove	_	_	_	
+20-18	3031-3032	.	_	_	_	
+
+#Text=The Turkey, Pheasant, Heathcock, Partridge rare,
+#Text=The Carrion-tearing Crow, and hurtful Stare;
+#Text=The long-liv ' d Raven, th '  ominous Screach-Owl,
+#Text=Who tell (as old wives say) disasters foul.
+21-1	3033-3036	The	_	_	_	
+21-2	3037-3043	Turkey	_	_	_	
+21-3	3043-3044	,	_	_	_	
+21-4	3045-3053	Pheasant	_	_	_	
+21-5	3053-3054	,	_	_	_	
+21-6	3055-3064	Heathcock	_	_	_	
+21-7	3064-3065	,	_	_	_	
+21-8	3066-3075	Partridge	_	_	_	
+21-9	3076-3080	rare	_	_	_	
+21-10	3080-3081	,	_	_	_	
+21-11	3082-3085	The	_	_	_	
+21-12	3086-3101	Carrion-tearing	_	_	_	
+21-13	3102-3106	Crow	_	_	_	
+21-14	3106-3107	,	_	_	_	
+21-15	3108-3111	and	_	_	_	
+21-16	3112-3119	hurtful	_	_	_	
+21-17	3120-3125	Stare	_	_	_	
+21-18	3125-3126	;	_	_	_	
+21-19	3127-3130	The	_	_	_	
+21-20	3131-3139	long-liv	_	_	_	
+21-21	3140-3141	'	_	_	_	
+21-22	3142-3143	d	_	_	_	
+21-23	3144-3149	Raven	_	_	_	
+21-24	3149-3150	,	_	_	_	
+21-25	3151-3153	th	_	_	_	
+21-26	3154-3155	'	_	_	_	
+21-27	3157-3164	ominous	_	_	_	
+21-28	3165-3176	Screach-Owl	_	_	_	
+21-29	3176-3177	,	_	_	_	
+21-30	3178-3181	Who	_	_	_	
+21-31	3182-3186	tell	_	_	_	
+21-32	3187-3188	(	_	_	_	
+21-33	3188-3190	as	_	_	_	
+21-34	3191-3194	old	_	_	_	
+21-35	3195-3200	wives	_	_	_	
+21-36	3201-3204	say	_	_	_	
+21-37	3204-3205	)	_	_	_	
+21-38	3206-3215	disasters	_	_	_	
+21-39	3216-3220	foul	_	_	_	
+21-40	3220-3221	.	_	_	_	
+
+#Text=The drowsie Madge that leaves her day-lov ' d nest
+#Text=To fly abroad when day-birds are at rest:
+#Text=The Eele murthering Hern, and greedy Cormorant,
+#Text=That neer the Creeks in Moorish Marshes haunt.
+22-1	3222-3225	The	_	_	_	
+22-2	3226-3233	drowsie	_	_	_	
+22-3	3234-3239	Madge	_	_	_	
+22-4	3240-3244	that	_	_	_	
+22-5	3245-3251	leaves	_	_	_	
+22-6	3252-3255	her	_	_	_	
+22-7	3256-3263	day-lov	_	_	_	
+22-8	3264-3265	'	_	_	_	
+22-9	3266-3267	d	_	_	_	
+22-10	3268-3272	nest	_	_	_	
+22-11	3273-3275	To	_	_	_	
+22-12	3276-3279	fly	_	_	_	
+22-13	3280-3286	abroad	_	_	_	
+22-14	3287-3291	when	_	_	_	
+22-15	3292-3301	day-birds	_	_	_	
+22-16	3302-3305	are	_	_	_	
+22-17	3306-3308	at	_	_	_	
+22-18	3309-3313	rest	_	_	_	
+22-19	3313-3314	:	_	_	_	
+22-20	3315-3318	The	_	_	_	
+22-21	3319-3323	Eele	_	_	_	
+22-22	3324-3334	murthering	_	_	_	
+22-23	3335-3339	Hern	_	_	_	
+22-24	3339-3340	,	_	_	_	
+22-25	3341-3344	and	_	_	_	
+22-26	3345-3351	greedy	_	_	_	
+22-27	3352-3361	Cormorant	_	_	_	
+22-28	3361-3362	,	_	_	_	
+22-29	3363-3367	That	_	_	_	
+22-30	3368-3372	neer	_	_	_	
+22-31	3373-3376	the	_	_	_	
+22-32	3377-3383	Creeks	_	_	_	
+22-33	3384-3386	in	_	_	_	
+22-34	3387-3394	Moorish	_	_	_	
+22-35	3395-3402	Marshes	_	_	_	
+22-36	3403-3408	haunt	_	_	_	
+22-37	3408-3409	.	_	_	_	
+
+#Text=The bellowing Bittern, with the long legg ' d Crane.
+23-1	3410-3413	The	_	_	_	
+23-2	3414-3423	bellowing	_	_	_	
+23-3	3424-3431	Bittern	_	_	_	
+23-4	3431-3432	,	_	_	_	
+23-5	3433-3437	with	_	_	_	
+23-6	3438-3441	the	_	_	_	
+23-7	3442-3446	long	_	_	_	
+23-8	3447-3451	legg	_	_	_	
+23-9	3452-3453	'	_	_	_	
+23-10	3454-3455	d	_	_	_	
+23-11	3456-3461	Crane	_	_	_	
+23-12	3461-3462	.	_	_	_	
+
+#Text=Presaging Winters hard, and dearth of Graine.
+24-1	3463-3472	Presaging	_	_	_	
+24-2	3473-3480	Winters	_	_	_	
+24-3	3481-3485	hard	_	_	_	
+24-4	3485-3486	,	_	_	_	
+24-5	3487-3490	and	_	_	_	
+24-6	3491-3497	dearth	_	_	_	
+24-7	3498-3500	of	_	_	_	
+24-8	3501-3507	Graine	_	_	_	
+24-9	3507-3508	.	_	_	_	

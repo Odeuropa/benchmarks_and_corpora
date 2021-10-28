@@ -1,0 +1,279 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=FLORIDA WATER. — This perfume, which, of course, is not
+#Text=protected with a proprietary name, is one of exceedingly popular
+#Text=character in America, and, to a smaller extent, in far Eastern
+#Text=countries that import it.
+1-1	1-8	FLORIDA	Smell\_Source[1]	_	_	
+1-2	9-14	WATER	Smell\_Source[1]	_	_	
+1-3	14-15	.	_	_	_	
+1-4	16-17	—	_	_	_	
+1-5	18-22	This	_	_	_	
+1-6	23-30	perfume	Smell\_Word	*	1-1[1_0]	
+1-7	30-31	,	_	_	_	
+1-8	32-37	which	_	_	_	
+1-9	37-38	,	_	_	_	
+1-10	39-41	of	_	_	_	
+1-11	42-48	course	_	_	_	
+1-12	48-49	,	_	_	_	
+1-13	50-52	is	_	_	_	
+1-14	53-56	not	_	_	_	
+1-15	57-66	protected	_	_	_	
+1-16	67-71	with	_	_	_	
+1-17	72-73	a	_	_	_	
+1-18	74-85	proprietary	_	_	_	
+1-19	86-90	name	_	_	_	
+1-20	90-91	,	_	_	_	
+1-21	92-94	is	_	_	_	
+1-22	95-98	one	_	_	_	
+1-23	99-101	of	_	_	_	
+1-24	102-113	exceedingly	_	_	_	
+1-25	114-121	popular	_	_	_	
+1-26	122-131	character	_	_	_	
+1-27	132-134	in	_	_	_	
+1-28	135-142	America	_	_	_	
+1-29	142-143	,	_	_	_	
+1-30	144-147	and	_	_	_	
+1-31	147-148	,	_	_	_	
+1-32	149-151	to	_	_	_	
+1-33	152-153	a	_	_	_	
+1-34	154-161	smaller	_	_	_	
+1-35	162-168	extent	_	_	_	
+1-36	168-169	,	_	_	_	
+1-37	170-172	in	_	_	_	
+1-38	173-176	far	_	_	_	
+1-39	177-184	Eastern	_	_	_	
+1-40	185-194	countries	_	_	_	
+1-41	195-199	that	_	_	_	
+1-42	200-206	import	_	_	_	
+1-43	207-209	it	_	_	_	
+1-44	209-210	.	_	_	_	
+
+#Text=It is, in the United States, largely what
+#Text=lavender water is in England.
+2-1	211-213	It	_	_	_	
+2-2	214-216	is	_	_	_	
+2-3	216-217	,	_	_	_	
+2-4	218-220	in	_	_	_	
+2-5	221-224	the	_	_	_	
+2-6	225-231	United	_	_	_	
+2-7	232-238	States	_	_	_	
+2-8	238-239	,	_	_	_	
+2-9	240-247	largely	_	_	_	
+2-10	248-252	what	_	_	_	
+2-11	253-261	lavender	_	_	_	
+2-12	262-267	water	_	_	_	
+2-13	268-270	is	_	_	_	
+2-14	271-273	in	_	_	_	
+2-15	274-281	England	_	_	_	
+2-16	281-282	.	_	_	_	
+
+#Text=It is a toilet perfume somewhat
+#Text=resembling a mixture of lavender water and eau de Cologne,
+#Text=rounded off with one or more of the following bodies ; cassia oil
+#Text=(or cinnamon oil, or cinnamic aldehyde) ; clove oil (or pimento
+#Text=oil, bay oil, or eugenol) ; and lemongrass oil.
+3-1	283-285	It	Smell\_Source	Anaphoric	1-1[1_0]	
+3-2	286-288	is	_	_	_	
+3-3	289-290	a	_	_	_	
+3-4	291-297	toilet	Quality	_	_	
+3-5	298-305	perfume	Smell\_Word	*|*|*	3-7[2_0]|3-4|3-1	
+3-6	306-314	somewhat	_	_	_	
+3-7	315-325	resembling	Evoked\_Odorant[2]	_	_	
+3-8	326-327	a	Evoked\_Odorant[2]	_	_	
+3-9	328-335	mixture	Evoked\_Odorant[2]	_	_	
+3-10	336-338	of	Evoked\_Odorant[2]	_	_	
+3-11	339-347	lavender	Evoked\_Odorant[2]	_	_	
+3-12	348-353	water	Evoked\_Odorant[2]	_	_	
+3-13	354-357	and	Evoked\_Odorant[2]	_	_	
+3-14	358-361	eau	Evoked\_Odorant[2]	_	_	
+3-15	362-364	de	Evoked\_Odorant[2]	_	_	
+3-16	365-372	Cologne	Evoked\_Odorant[2]	_	_	
+3-17	372-373	,	_	_	_	
+3-18	374-381	rounded	_	_	_	
+3-19	382-385	off	_	_	_	
+3-20	386-390	with	_	_	_	
+3-21	391-394	one	_	_	_	
+3-22	395-397	or	_	_	_	
+3-23	398-402	more	_	_	_	
+3-24	403-405	of	_	_	_	
+3-25	406-409	the	_	_	_	
+3-26	410-419	following	_	_	_	
+3-27	420-426	bodies	_	_	_	
+3-28	427-428	;	_	_	_	
+3-29	429-435	cassia	_	_	_	
+3-30	436-439	oil	_	_	_	
+3-31	440-441	(	_	_	_	
+3-32	441-443	or	_	_	_	
+3-33	444-452	cinnamon	_	_	_	
+3-34	453-456	oil	_	_	_	
+3-35	456-457	,	_	_	_	
+3-36	458-460	or	_	_	_	
+3-37	461-469	cinnamic	_	_	_	
+3-38	470-478	aldehyde	_	_	_	
+3-39	478-479	)	_	_	_	
+3-40	480-481	;	_	_	_	
+3-41	482-487	clove	_	_	_	
+3-42	488-491	oil	_	_	_	
+3-43	492-493	(	_	_	_	
+3-44	493-495	or	_	_	_	
+3-45	496-503	pimento	_	_	_	
+3-46	504-507	oil	_	_	_	
+3-47	507-508	,	_	_	_	
+3-48	509-512	bay	_	_	_	
+3-49	513-516	oil	_	_	_	
+3-50	516-517	,	_	_	_	
+3-51	518-520	or	_	_	_	
+3-52	521-528	eugenol	_	_	_	
+3-53	528-529	)	_	_	_	
+3-54	530-531	;	_	_	_	
+3-55	532-535	and	_	_	_	
+3-56	536-546	lemongrass	_	_	_	
+3-57	547-550	oil	_	_	_	
+3-58	550-551	.	_	_	_	
+
+#Text=FOIN-COUPE. — This popular type of perfume is supposed
+#Text=to reproduce the odour of new-mown hay.
+4-1	553-563	FOIN-COUPE	Smell\_Source	_	_	
+4-2	563-564	.	_	_	_	
+4-3	565-566	—	_	_	_	
+4-4	567-571	This	_	_	_	
+4-5	572-579	popular	_	_	_	
+4-6	580-584	type	_	_	_	
+4-7	585-587	of	_	_	_	
+4-8	588-595	perfume	Smell\_Word	*	4-1	
+4-9	596-598	is	_	_	_	
+4-10	599-607	supposed	_	_	_	
+4-11	608-610	to	_	_	_	
+4-12	611-620	reproduce	_	_	_	
+4-13	621-624	the	_	_	_	
+4-14	625-630	odour	Smell\_Word	*	4-15[3_0]	
+4-15	631-633	of	Smell\_Source[3]	_	_	
+4-16	634-642	new-mown	Smell\_Source[3]	_	_	
+4-17	643-646	hay	Smell\_Source[3]	_	_	
+4-18	646-647	.	_	_	_	
+
+#Text=It is invariably based
+#Text=on coumarin, modified by lavender, bergamot, and other perfumes,
+#Text=according to the exact note the perfumer wishes to give to his
+#Text=product.
+5-1	648-650	It	_	_	_	
+5-2	651-653	is	_	_	_	
+5-3	654-664	invariably	_	_	_	
+5-4	665-670	based	_	_	_	
+5-5	671-673	on	_	_	_	
+5-6	674-682	coumarin	_	_	_	
+5-7	682-683	,	_	_	_	
+5-8	684-692	modified	_	_	_	
+5-9	693-695	by	_	_	_	
+5-10	696-704	lavender	Smell\_Source	_	_	
+5-11	704-705	,	_	_	_	
+5-12	706-714	bergamot	Smell\_Source	_	_	
+5-13	714-715	,	_	_	_	
+5-14	716-719	and	_	_	_	
+5-15	720-725	other	Quality	_	_	
+5-16	726-734	perfumes	Smell\_Word	*|*|*|*	5-10|5-12|5-15|5-24	
+5-17	734-735	,	_	_	_	
+5-18	736-745	according	_	_	_	
+5-19	746-748	to	_	_	_	
+5-20	749-752	the	_	_	_	
+5-21	753-758	exact	_	_	_	
+5-22	759-763	note	_	_	_	
+5-23	764-767	the	_	_	_	
+5-24	768-776	perfumer	Perceiver	_	_	
+5-25	777-783	wishes	_	_	_	
+5-26	784-786	to	_	_	_	
+5-27	787-791	give	_	_	_	
+5-28	792-794	to	_	_	_	
+5-29	795-798	his	_	_	_	
+5-30	799-806	product	_	_	_	
+5-31	806-807	.	_	_	_	
+
+#Text=The odour of true new-mown hay is due more to the
+#Text=sweet-scented grass known as Anthoxanthum odoratum than to
+#Text=any other grass, although many others contribute to it.
+6-1	808-811	The	_	_	_	
+6-2	812-817	odour	Smell\_Word	*	6-3[4_0]	
+6-3	818-820	of	Smell\_Source[4]	_	_	
+6-4	821-825	true	Smell\_Source[4]	_	_	
+6-5	826-834	new-mown	Smell\_Source[4]	_	_	
+6-6	835-838	hay	Smell\_Source[4]	_	_	
+6-7	839-841	is	_	_	_	
+6-8	842-845	due	_	_	_	
+6-9	846-850	more	_	_	_	
+6-10	851-853	to	_	_	_	
+6-11	854-857	the	_	_	_	
+6-12	858-871	sweet-scented	Smell\_Word	*|*	6-13|6-16[5_0]	
+6-13	872-877	grass	Smell\_Source	_	_	
+6-14	878-883	known	_	_	_	
+6-15	884-886	as	_	_	_	
+6-16	887-899	Anthoxanthum	Smell\_Source[5]	_	_	
+6-17	900-908	odoratum	Smell\_Source[5]	_	_	
+6-18	909-913	than	_	_	_	
+6-19	914-916	to	_	_	_	
+6-20	917-920	any	_	_	_	
+6-21	921-926	other	_	_	_	
+6-22	927-932	grass	_	_	_	
+6-23	932-933	,	_	_	_	
+6-24	934-942	although	_	_	_	
+6-25	943-947	many	_	_	_	
+6-26	948-954	others	_	_	_	
+6-27	955-965	contribute	_	_	_	
+6-28	966-968	to	_	_	_	
+6-29	969-971	it	_	_	_	
+6-30	971-972	.	_	_	_	
+
+#Text=Several
+#Text=different types of clover, of course, also add to the fragrance of the
+#Text=hayfield odour.
+7-1	973-980	Several	_	_	_	
+7-2	981-990	different	_	_	_	
+7-3	991-996	types	_	_	_	
+7-4	997-999	of	_	_	_	
+7-5	1000-1006	clover	_	_	_	
+7-6	1006-1007	,	_	_	_	
+7-7	1008-1010	of	_	_	_	
+7-8	1011-1017	course	_	_	_	
+7-9	1017-1018	,	_	_	_	
+7-10	1019-1023	also	_	_	_	
+7-11	1024-1027	add	_	_	_	
+7-12	1028-1030	to	_	_	_	
+7-13	1031-1034	the	_	_	_	
+7-14	1035-1044	fragrance	Smell\_Word	*	7-15[6_0]	
+7-15	1045-1047	of	Smell\_Source[6]	_	_	
+7-16	1048-1051	the	Smell\_Source[6]	_	_	
+7-17	1052-1060	hayfield	Smell\_Source[6]	_	_	
+7-18	1061-1066	odour	Smell\_Source[6]|Smell\_Word[7]	_	_	
+7-19	1066-1067	.	_	_	_	
+
+#Text=This odour is probably the result of glucosidal
+#Text=decomposition of constituents present in the plants, resulting in
+#Text=the formation of a little coumarin.
+8-1	1068-1072	This	_	_	_	
+8-2	1073-1078	odour	Smell\_Word	*	8-3[8_0]	
+8-3	1079-1081	is	Circumstances[8]	_	_	
+8-4	1082-1090	probably	Circumstances[8]	_	_	
+8-5	1091-1094	the	Circumstances[8]	_	_	
+8-6	1095-1101	result	Circumstances[8]	_	_	
+8-7	1102-1104	of	Circumstances[8]	_	_	
+8-8	1105-1115	glucosidal	Circumstances[8]	_	_	
+8-9	1116-1129	decomposition	Circumstances[8]	_	_	
+8-10	1130-1132	of	Circumstances[8]	_	_	
+8-11	1133-1145	constituents	Circumstances[8]	_	_	
+8-12	1146-1153	present	Circumstances[8]	_	_	
+8-13	1154-1156	in	Circumstances[8]	_	_	
+8-14	1157-1160	the	Circumstances[8]	_	_	
+8-15	1161-1167	plants	Circumstances[8]	_	_	
+8-16	1167-1168	,	Circumstances[8]	_	_	
+8-17	1169-1178	resulting	Circumstances[8]	_	_	
+8-18	1179-1181	in	Circumstances[8]	_	_	
+8-19	1182-1185	the	Circumstances[8]	_	_	
+8-20	1186-1195	formation	Circumstances[8]	_	_	
+8-21	1196-1198	of	Circumstances[8]	_	_	
+8-22	1199-1200	a	Circumstances[8]	_	_	
+8-23	1201-1207	little	Circumstances[8]	_	_	
+8-24	1208-1216	coumarin	Circumstances[8]	_	_	
+8-25	1216-1217	.	_	_	_	

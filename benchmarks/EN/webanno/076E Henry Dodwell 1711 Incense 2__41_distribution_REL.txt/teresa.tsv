@@ -1,0 +1,296 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=What Madness therefore is it, to offer Sacrifice to those who know nothing of the Matter ?
+1-1	0-4	What	_	_	_	
+1-2	5-12	Madness	_	_	_	
+1-3	13-22	therefore	_	_	_	
+1-4	23-25	is	_	_	_	
+1-5	26-28	it	_	_	_	
+1-6	28-29	,	_	_	_	
+1-7	30-32	to	_	_	_	
+1-8	33-38	offer	_	_	_	
+1-9	39-48	Sacrifice	_	_	_	
+1-10	49-51	to	_	_	_	
+1-11	52-57	those	_	_	_	
+1-12	58-61	who	_	_	_	
+1-13	62-66	know	_	_	_	
+1-14	67-74	nothing	_	_	_	
+1-15	75-77	of	_	_	_	
+1-16	78-81	the	_	_	_	
+1-17	82-88	Matter	_	_	_	
+1-18	89-90	?	_	_	_	
+
+#Text=To bring Light to the Blind?
+2-1	91-93	To	_	_	_	
+2-2	94-99	bring	_	_	_	
+2-3	100-105	Light	_	_	_	
+2-4	106-108	to	_	_	_	
+2-5	109-112	the	_	_	_	
+2-6	113-118	Blind	_	_	_	
+2-7	118-119	?	_	_	_	
+
+#Text=To burn Incense to those who have no Breath by which they might smell it ?
+3-1	120-122	To	_	_	_	
+3-2	123-127	burn	_	_	_	
+3-3	128-135	Incense	Smell\_Source	_	_	
+3-4	136-138	to	_	_	_	
+3-5	139-144	those	_	_	_	
+3-6	145-148	who	_	_	_	
+3-7	149-153	have	_	_	_	
+3-8	154-156	no	_	_	_	
+3-9	157-163	Breath	_	_	_	
+3-10	164-166	by	_	_	_	
+3-11	167-172	which	_	_	_	
+3-12	173-177	they	Perceiver	_	_	
+3-13	178-183	might	_	_	_	
+3-14	184-189	smell	Smell\_Word	*|*	3-15|3-12	
+3-15	190-192	it	Smell\_Source	Anaphoric	3-3	
+3-16	193-194	?	_	_	_	
+
+#Text=I have transcribed these Words, to let you see that he comprehends Thurification under the common Name of Sacrifice. 
+#Text=2.
+4-1	195-196	I	_	_	_	
+4-2	197-201	have	_	_	_	
+4-3	202-213	transcribed	_	_	_	
+4-4	214-219	these	_	_	_	
+4-5	220-225	Words	_	_	_	
+4-6	225-226	,	_	_	_	
+4-7	227-229	to	_	_	_	
+4-8	230-233	let	_	_	_	
+4-9	234-237	you	_	_	_	
+4-10	238-241	see	_	_	_	
+4-11	242-246	that	_	_	_	
+4-12	247-249	he	_	_	_	
+4-13	250-261	comprehends	_	_	_	
+4-14	262-275	Thurification	_	_	_	
+4-15	276-281	under	_	_	_	
+4-16	282-285	the	_	_	_	
+4-17	286-292	common	_	_	_	
+4-18	293-297	Name	_	_	_	
+4-19	298-300	of	_	_	_	
+4-20	301-310	Sacrifice	_	_	_	
+4-21	310-311	.	_	_	_	
+4-22	313-314	2	_	_	_	
+4-23	314-315	.	_	_	_	
+
+#Text=Concerning the Jewish Sacrifices, he adds: Sed atis oti. ofum eft, in his demorari, qu£ in toto jam non fnt.
+5-1	317-327	Concerning	_	_	_	
+5-2	328-331	the	_	_	_	
+5-3	332-338	Jewish	_	_	_	
+5-4	339-349	Sacrifices	_	_	_	
+5-5	349-350	,	_	_	_	
+5-6	351-353	he	_	_	_	
+5-7	354-358	adds	_	_	_	
+5-8	358-359	:	_	_	_	
+5-9	360-363	Sed	_	_	_	
+5-10	364-368	atis	_	_	_	
+5-11	369-372	oti	_	_	_	
+5-12	372-373	.	_	_	_	
+5-13	374-378	ofum	_	_	_	
+5-14	379-382	eft	_	_	_	
+5-15	382-383	,	_	_	_	
+5-16	384-386	in	_	_	_	
+5-17	387-390	his	_	_	_	
+5-18	391-399	demorari	_	_	_	
+5-19	399-400	,	_	_	_	
+5-20	401-403	qu	_	_	_	
+5-21	403-404	£	_	_	_	
+5-22	405-407	in	_	_	_	
+5-23	408-412	toto	_	_	_	
+5-24	413-416	jam	_	_	_	
+5-25	417-420	non	_	_	_	
+5-26	421-424	fnt	_	_	_	
+5-27	424-425	.	_	_	_	
+
+#Text=But it is sufficiently impertinent, to spend time on these things, which now,have 
+#Text=have wholly ceased to have any longer a Being.
+6-1	427-430	But	_	_	_	
+6-2	431-433	it	_	_	_	
+6-3	434-436	is	_	_	_	
+6-4	437-449	sufficiently	_	_	_	
+6-5	450-461	impertinent	_	_	_	
+6-6	461-462	,	_	_	_	
+6-7	463-465	to	_	_	_	
+6-8	466-471	spend	_	_	_	
+6-9	472-476	time	_	_	_	
+6-10	477-479	on	_	_	_	
+6-11	480-485	these	_	_	_	
+6-12	486-492	things	_	_	_	
+6-13	492-493	,	_	_	_	
+6-14	494-499	which	_	_	_	
+6-15	500-503	now	_	_	_	
+6-16	503-504	,	_	_	_	
+6-17	504-508	have	_	_	_	
+6-18	510-514	have	_	_	_	
+6-19	515-521	wholly	_	_	_	
+6-20	522-528	ceased	_	_	_	
+6-21	529-531	to	_	_	_	
+6-22	532-536	have	_	_	_	
+6-23	537-540	any	_	_	_	
+6-24	541-547	longer	_	_	_	
+6-25	548-549	a	_	_	_	
+6-26	550-555	Being	_	_	_	
+6-27	555-556	.	_	_	_	
+
+#Text=He could not say so if the Christians of his Age had either continued, or revived the Pratice of Incense. 
+#Text=3.
+7-1	558-560	He	_	_	_	
+7-2	561-566	could	_	_	_	
+7-3	567-570	not	_	_	_	
+7-4	571-574	say	_	_	_	
+7-5	575-577	so	_	_	_	
+7-6	578-580	if	_	_	_	
+7-7	581-584	the	_	_	_	
+7-8	585-595	Christians	_	_	_	
+7-9	596-598	of	_	_	_	
+7-10	599-602	his	_	_	_	
+7-11	603-606	Age	_	_	_	
+7-12	607-610	had	_	_	_	
+7-13	611-617	either	_	_	_	
+7-14	618-627	continued	_	_	_	
+7-15	627-628	,	_	_	_	
+7-16	629-631	or	_	_	_	
+7-17	632-639	revived	_	_	_	
+7-18	640-643	the	_	_	_	
+7-19	644-651	Pratice	_	_	_	
+7-20	652-654	of	_	_	_	
+7-21	655-662	Incense	_	_	_	
+7-22	662-663	.	_	_	_	
+7-23	665-666	3	_	_	_	
+7-24	666-667	.	_	_	_	
+
+#Text=He mentions the Christian Sacrifices as opposed to both of them, and allows of no other Sacrifices, as agreeable to this Dispensation, but only such as are spiritual: Spiritali Deo sacrifitnm efi necesserim spiritale, quod non ex facctlo, fed ex corde profertr r: quod non branwois r.
+8-1	669-671	He	_	_	_	
+8-2	672-680	mentions	_	_	_	
+8-3	681-684	the	_	_	_	
+8-4	685-694	Christian	_	_	_	
+8-5	695-705	Sacrifices	_	_	_	
+8-6	706-708	as	_	_	_	
+8-7	709-716	opposed	_	_	_	
+8-8	717-719	to	_	_	_	
+8-9	720-724	both	_	_	_	
+8-10	725-727	of	_	_	_	
+8-11	728-732	them	_	_	_	
+8-12	732-733	,	_	_	_	
+8-13	734-737	and	_	_	_	
+8-14	738-744	allows	_	_	_	
+8-15	745-747	of	_	_	_	
+8-16	748-750	no	_	_	_	
+8-17	751-756	other	_	_	_	
+8-18	757-767	Sacrifices	_	_	_	
+8-19	767-768	,	_	_	_	
+8-20	769-771	as	_	_	_	
+8-21	772-781	agreeable	_	_	_	
+8-22	782-784	to	_	_	_	
+8-23	785-789	this	_	_	_	
+8-24	790-802	Dispensation	_	_	_	
+8-25	802-803	,	_	_	_	
+8-26	804-807	but	_	_	_	
+8-27	808-812	only	_	_	_	
+8-28	813-817	such	_	_	_	
+8-29	818-820	as	_	_	_	
+8-30	821-824	are	_	_	_	
+8-31	825-834	spiritual	_	_	_	
+8-32	834-835	:	_	_	_	
+8-33	836-845	Spiritali	_	_	_	
+8-34	846-849	Deo	_	_	_	
+8-35	850-860	sacrifitnm	_	_	_	
+8-36	861-864	efi	_	_	_	
+8-37	865-875	necesserim	_	_	_	
+8-38	876-885	spiritale	_	_	_	
+8-39	885-886	,	_	_	_	
+8-40	887-891	quod	_	_	_	
+8-41	892-895	non	_	_	_	
+8-42	896-898	ex	_	_	_	
+8-43	899-906	facctlo	_	_	_	
+8-44	906-907	,	_	_	_	
+8-45	908-911	fed	_	_	_	
+8-46	912-914	ex	_	_	_	
+8-47	915-920	corde	_	_	_	
+8-48	921-929	profertr	_	_	_	
+8-49	930-931	r	_	_	_	
+8-50	931-932	:	_	_	_	
+8-51	933-937	quod	_	_	_	
+8-52	938-941	non	_	_	_	
+8-53	942-950	branwois	_	_	_	
+8-54	951-952	r	_	_	_	
+8-55	952-953	.	_	_	_	
+
+#Text=brovoJis.
+9-1	955-963	brovoJis	_	_	_	
+9-2	963-964	.	_	_	_	
+
+#Text=A Spiritual Sacrifice is necessary for a spiritual Being.
+10-1	966-967	A	_	_	_	
+10-2	968-977	Spiritual	_	_	_	
+10-3	978-987	Sacrifice	_	_	_	
+10-4	988-990	is	_	_	_	
+10-5	991-1000	necessary	_	_	_	
+10-6	1001-1004	for	_	_	_	
+10-7	1005-1006	a	_	_	_	
+10-8	1007-1016	spiritual	_	_	_	
+10-9	1017-1022	Being	_	_	_	
+10-10	1022-1023	.	_	_	_	
+
+#Text=Such as proceeds not from the Bag, bat from the Heart which is the Produaf not offinking Cattle, but perfumed Manners; Ihich is not offered with bloody Hands, but ptre understanding; Which is not killed that it may be deflroyed, but as Isaac was, is Sacrificed that it may live.
+11-1	1025-1029	Such	_	_	_	
+11-2	1030-1032	as	_	_	_	
+11-3	1033-1041	proceeds	_	_	_	
+11-4	1042-1045	not	_	_	_	
+11-5	1046-1050	from	_	_	_	
+11-6	1051-1054	the	_	_	_	
+11-7	1055-1058	Bag	_	_	_	
+11-8	1058-1059	,	_	_	_	
+11-9	1060-1063	bat	_	_	_	
+11-10	1064-1068	from	_	_	_	
+11-11	1069-1072	the	_	_	_	
+11-12	1073-1078	Heart	_	_	_	
+11-13	1079-1084	which	_	_	_	
+11-14	1085-1087	is	_	_	_	
+11-15	1088-1091	the	_	_	_	
+11-16	1092-1099	Produaf	_	_	_	
+11-17	1100-1103	not	_	_	_	
+11-18	1104-1113	offinking	_	_	_	
+11-19	1114-1120	Cattle	_	_	_	
+11-20	1120-1121	,	_	_	_	
+11-21	1122-1125	but	_	_	_	
+11-22	1126-1134	perfumed	Smell\_Word	*	11-23	
+11-23	1135-1142	Manners	Smell\_Source	_	_	
+11-24	1142-1143	;	_	_	_	
+11-25	1144-1149	Ihich	_	_	_	
+11-26	1150-1152	is	_	_	_	
+11-27	1153-1156	not	_	_	_	
+11-28	1157-1164	offered	_	_	_	
+11-29	1165-1169	with	_	_	_	
+11-30	1170-1176	bloody	_	_	_	
+11-31	1177-1182	Hands	_	_	_	
+11-32	1182-1183	,	_	_	_	
+11-33	1184-1187	but	_	_	_	
+11-34	1188-1192	ptre	_	_	_	
+11-35	1193-1206	understanding	_	_	_	
+11-36	1206-1207	;	_	_	_	
+11-37	1208-1213	Which	_	_	_	
+11-38	1214-1216	is	_	_	_	
+11-39	1217-1220	not	_	_	_	
+11-40	1221-1227	killed	_	_	_	
+11-41	1228-1232	that	_	_	_	
+11-42	1233-1235	it	_	_	_	
+11-43	1236-1239	may	_	_	_	
+11-44	1240-1242	be	_	_	_	
+11-45	1243-1252	deflroyed	_	_	_	
+11-46	1252-1253	,	_	_	_	
+11-47	1254-1257	but	_	_	_	
+11-48	1258-1260	as	_	_	_	
+11-49	1261-1266	Isaac	_	_	_	
+11-50	1267-1270	was	_	_	_	
+11-51	1270-1271	,	_	_	_	
+11-52	1272-1274	is	_	_	_	
+11-53	1275-1285	Sacrificed	_	_	_	
+11-54	1286-1290	that	_	_	_	
+11-55	1291-1293	it	_	_	_	
+11-56	1294-1297	may	_	_	_	
+11-57	1298-1302	live	_	_	_	
+11-58	1302-1303	.	_	_	_	
