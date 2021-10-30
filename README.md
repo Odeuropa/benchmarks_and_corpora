@@ -2,7 +2,15 @@
 
 
 This page contains the annotations related to olfactory information from the benchmark created for the Odeuropa project.
-For 7 languages we selected a pool of documents covering different time periods (from 1620 to 1925) and topics (e.g. medicine, law, literature)
+For 7 languages we selected a pool of documents covering different time periods (from 1620 to 1925) and topics (e.g. medicine, law, literature).
+
+The annotation was carried out with the INCEpTION annotation platform (Klie et al., 2018) following the guidelines presented in: 
+
+Tonelli, Sara and Menini, Stefano. FrameNet-like Annotation of Olfactory Information in Texts. In proceedings of LaTeCH-CLfL 2021
+
+For every language we provide the list of the annotated Frame Elements in 3 formats (WebAnno, XML, Json) and the related .txt file. 
+All the metadata information for each language-specific benchmark, including author, year of publication, original source and genre
+are reported in the 
 
 The distribution of the topics is shown in this graphs:
 <img src="https://github.com/Odeuropa/benchmarks_and_corpora/blob/main/BarsByGenre.png" width="700">
@@ -10,12 +18,6 @@ The distribution of the topics is shown in this graphs:
 While the temporal distribution is displayed here:
 <img src="https://github.com/Odeuropa/benchmarks_and_corpora/blob/main/LangByDate.png" width="700">
 
-
-The annotation was carried out with the INCEpTION annotation platform (Klie et al., 2018) following the guidelines presented in: 
-
-Tonelli, Sara and Menini, Stefano. FrameNet-like Annotation of Olfactory Information in Texts. In proceedings of LaTeCH-CLfL 2021
-
-For every language we provide the list of the annotated Frame Elements in 3 formats (WebAnno, XML, Json) and the related .txt file.
 
 This table contains an overview of the content of the annotations:
 
@@ -33,5 +35,5 @@ This table contains an overview of the content of the annotations:
 | Odour Carrier | 310 | 310 | 65 | 4 | 187 | 134 | 447 | 
 | Place | 215 | 302 | 109 | 3 | 147 | 111 | 394 | 
 |  |  |  |  |  |  |  |  | 
-| Total FEs | 5,319 | 3,712 | 1,750 | 1,711 | 2,408 | 3,477 | 6,523 | 
+| Total FEs | 4,148 | 4,022 | 1,086 | 218 | 2,595 | 2,278 | 4,606 | 
 
