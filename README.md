@@ -7,7 +7,7 @@ For 7 languages we selected a pool of documents covering different time periods 
 
 The annotation was carried out with the INCEpTION annotation platform (Klie et al., 2018) following the guidelines presented in: 
 
-Tonelli, Sara and Menini, Stefano. FrameNet-like *Annotation of Olfactory Information in Texts*. In Proceedings of LaTeCH-CLfL 2021
+Tonelli, Sara and Menini, Stefano. *FrameNet-like Annotation of Olfactory Information in Texts*. In Proceedings of LaTeCH-CLfL 2021
 
 For every language we provide the list of the annotated Frame Elements in 3 formats (WebAnno, XML, Json) and the related .txt file. 
 
