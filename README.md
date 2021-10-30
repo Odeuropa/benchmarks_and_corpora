@@ -5,10 +5,11 @@ This page contains the annotations related to olfactory information from the ben
 For 7 languages we selected a pool of documents covering different time periods (from 1620 to 1925) and topics (e.g. medicine, law, literature)
 
 The distribution of the topics is shown in this graphs:
-<img src="https://github.com/Odeuropa/benchmarks_and_corpora/blob/main/BarsByGenre.png" width="500">
+<img src="https://github.com/Odeuropa/benchmarks_and_corpora/blob/main/BarsByGenre.png" width="700">
 
 While the temporal distribution is displayed here:
-![Date Graph](https://github.com/Odeuropa/benchmarks_and_corpora/blob/main/LangByDate.png)
+<img src="https://github.com/Odeuropa/benchmarks_and_corpora/blob/main/LangByDate.png" width="700">
+
 
 The annotation was carried out with the INCEpTION annotation platform (Klie et al., 2018) following the guidelines presented in: 
 
