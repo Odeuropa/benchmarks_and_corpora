@@ -10,7 +10,7 @@ Tonelli, Sara and Menini, Stefano. FrameNet-like Annotation of Olfactory Informa
 
 For every language we provide the list of the annotated Frame Elements in 3 formats (WebAnno, XML, Json) and the related .txt file. 
 All the metadata information for each language-specific benchmark, including author, year of publication, original source and genre
-are reported in the 
+are reported in Excel spreadsheet at: https://github.com/Odeuropa/benchmarks_and_corpora/blob/main/Documents%20in%20Benchmark.xlsx
 
 The distribution of the topics is shown in this graphs:
 <img src="https://github.com/Odeuropa/benchmarks_and_corpora/blob/main/BarsByGenre.png" width="700">
