@@ -2,15 +2,17 @@
 
 
 This page contains the annotations related to olfactory information from the benchmark created for the Odeuropa project.
+
 For 7 languages we selected a pool of documents covering different time periods (from 1620 to 1925) and topics (e.g. medicine, law, literature).
 
 The annotation was carried out with the INCEpTION annotation platform (Klie et al., 2018) following the guidelines presented in: 
 
-Tonelli, Sara and Menini, Stefano. FrameNet-like Annotation of Olfactory Information in Texts. In proceedings of LaTeCH-CLfL 2021
+Tonelli, Sara and Menini, Stefano. FrameNet-like *Annotation of Olfactory Information in Texts*. In Proceedings of LaTeCH-CLfL 2021
 
 For every language we provide the list of the annotated Frame Elements in 3 formats (WebAnno, XML, Json) and the related .txt file. 
+
 All the metadata information for each language-specific benchmark, including author, year of publication, original source and genre
-are reported in Excel spreadsheet at: https://github.com/Odeuropa/benchmarks_and_corpora/blob/main/Documents%20in%20Benchmark.xlsx
+are reported in the Excel spreadsheet at: https://github.com/Odeuropa/benchmarks_and_corpora/blob/main/Documents%20in%20Benchmark.xlsx
 
 The distribution of the topics is shown in this graphs:
 <img src="https://github.com/Odeuropa/benchmarks_and_corpora/blob/main/BarsByGenre.png" width="700">
