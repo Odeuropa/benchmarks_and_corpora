@@ -1,7 +1,7 @@
 # Benchmarks and Corpora
 
 
-This page contains the annotations related to olfactory information from the benchmark created for the Odeuropa project.
+This page contains the annotations related to olfactory information from the benchmark created for the ODEUROPA project.
 
 For 7 languages we selected a pool of documents covering different time periods (from 1620 to 1925) and topics (e.g. medicine, law, literature).
 
