@@ -21,9 +21,9 @@ While the temporal distribution is displayed here:
 <img src="https://github.com/Odeuropa/benchmarks_and_corpora/blob/main/LangByDate.png" width="700">
 
 
-This table contains an overview of the content of the annotations:
+This table contains an overview of the content of the annotations. We report between parenthesis the partner of the ODEUROPA consortium responsible for the annotation.
 
-| | Dutch | English | French | German | Italian | Latin | Slovenian | 
+| | Dutch (KNAW) | English (FBK) | French (EURECOM) | German (KNAW) | Italian (FBK) | Latin (KNAW) | Slovenian (JSI)| 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | Smell Word | 1,929 | 1,530 | 664 | 1,493 | 1,228 | 1,199 | 1,917 | 
 | Quality | 986 | 1,084 | 234 | 100 | 695 | 552 | 959 | 
