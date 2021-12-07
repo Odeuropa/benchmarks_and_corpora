@@ -39,3 +39,9 @@ This table contains an overview of the content of the annotations. We report bet
 |  |  |  |  |  |  |  |  | 
 | Total FEs | 4,148 | 4,022 | 1,086 | 218 | 2,595 | 2,278 | 4,606 | 
 
+
+
+The full list of annotated documents is available in Documents in Benchmark.xlsx. These have been selected from a larger list of corpora available at the following links:
+
+| EN | https://drive.google.com/drive/folders/14oA3pT6FmebUWhic6zyxkWSAOPxvOQPg?usp=sharing |
+| IT | https://drive.google.com/drive/folders/1frkLwHywjDg9SUqxfkymyJNb1DLXJPWZ?usp=sharing |
