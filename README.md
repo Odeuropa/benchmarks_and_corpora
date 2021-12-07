@@ -43,5 +43,8 @@ This table contains an overview of the content of the annotations. We report bet
 
 The full list of annotated documents is available in Documents in Benchmark.xlsx. These have been selected from a larger list of corpora available at the following links:
 
+| Language | Link | 
+| :---: | :---: | 
 | EN | https://drive.google.com/drive/folders/14oA3pT6FmebUWhic6zyxkWSAOPxvOQPg?usp=sharing |
 | IT | https://drive.google.com/drive/folders/1frkLwHywjDg9SUqxfkymyJNb1DLXJPWZ?usp=sharing |
+
