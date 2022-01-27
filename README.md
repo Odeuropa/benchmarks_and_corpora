@@ -51,8 +51,8 @@ The full list of annotated documents is available in Documents in Benchmark.xlsx
 
 ## Converting data to additional formats
 
-The data can be converted to new formats such as BIO. For instance, run the following command for converting xml files to BIO
+The data can be converted to new formats such as BIO. For instance, run the following command for converting xml files to BIO: 
 
->> python format_converter.py --iformat xml --oformat bio --lang en 
+\$ python format_converter.py --iformat xml --oformat bio --lang en 
 
 
