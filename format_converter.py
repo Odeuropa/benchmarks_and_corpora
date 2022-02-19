@@ -6,7 +6,7 @@ from zipfile import ZipFile
 from glob import glob
 import argparse
 
-def convert_xml2BIO(lang='en', xmi_file_name='teresa'):
+def convert_xml2BIO(lang='en', xmi_file_name='teresa.xmi'):
 
     available_languages = [l.split('/')[-1].lower() for l in glob('./benchmarks/*')]
 
@@ -26,7 +26,7 @@ def convert_xml2BIO(lang='en', xmi_file_name='teresa'):
                 typesystem = load_typesystem(typesystemfile_content)
                 
                 try:
-                    with myzip.open('teresa.xmi') as myfile:
+                    with myzip.open(xmi_file_name) as myfile:
                         doc = load_cas_from_xmi(myfile.read().decode(), typesystem=typesystem)
                 except:
                     continue
@@ -78,6 +78,6 @@ if __name__ == "__main__":
 
 
     if args.iformat == 'xml' and args.oformat == 'bio':
-        convert_xml2BIO(args.lang)
+        convert_xml2BIO(args.lang, )
     else:
         print(f'The conversion from {args.iformat} to {args.oformat} is not defined.')
