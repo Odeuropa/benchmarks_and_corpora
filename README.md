@@ -48,3 +48,11 @@ The full list of annotated documents is available in Documents in Benchmark.xlsx
 | EN | https://drive.google.com/drive/folders/14oA3pT6FmebUWhic6zyxkWSAOPxvOQPg?usp=sharing |
 | IT | https://drive.google.com/drive/folders/1frkLwHywjDg9SUqxfkymyJNb1DLXJPWZ?usp=sharing |
 
+
+## Converting data to additional formats
+
+The data can be converted to new formats such as BIO. For instance, run the following command for converting xml files to BIO: 
+
+\$ python format_converter.py --iformat xml --oformat bio --lang en 
+
+
