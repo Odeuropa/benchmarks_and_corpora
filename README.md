@@ -23,21 +23,23 @@ While the temporal distribution is displayed here:
 
 This table contains an overview of the content of the annotations. We report between parenthesis the partner of the ODEUROPA consortium responsible for the annotation.
 
-| | Dutch (KNAW) | English (FBK) | French (EURECOM) | German (KNAW) | Italian (FBK) | Latin (KNAW) | Slovenian (JSI)| 
+| | Dutch (KNAW) | English (FBK) | French (EURECOM) | German (KNAW) | Italian (FBK) |  Slovenian (JSI)| Latin (KNAW) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
-| Smell Word | 1,929 | 1,530 | 664 | 1,493 | 1,228 | 1,199 | 1,917 | 
-| Quality | 986 | 1,084 | 234 | 100 | 695 | 552 | 959 | 
-| Source | 1,422 | 1,313 | 349 | 17 | 933 | 772 | 1,713 | 
-| Evoked Odorant | 199 | 91 | 90 | 6 | 71 | 42 | 289 | 
-| Perceiver | 314 | 362 | 98 | 31 | 143 | 241 | 291 | 
-| Effect | 238 | 187 | 27 | 29 | 102 | 114 | 217 | 
-| Creator | 28 | 0 | 0 | 0 | 0 | 12 | 1 | 
-| Circumstances | 320 | 247 | 79 | 25 | 198 | 192 | 223 | 
-| Time | 116 | 126 | 35 | 3 | 119 | 108 | 72 | 
-| Odour Carrier | 310 | 310 | 65 | 4 | 187 | 134 | 447 | 
-| Place | 215 | 302 | 109 | 3 | 147 | 111 | 394 | 
-|  |  |  |  |  |  |  |  | 
-| Total FEs | 4,148 | 4,022 | 1,086 | 218 | 2,595 | 2,278 | 4,606 | 
+|Smell words   | 1,788	|	1,530	|	845	|	2,659	|	1,254	|	1,973  | 1,199 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+|Total FEs  | 4,962	|	4,023	|	1,876	|	5,885	|	2,664	|	4,445 |2,278|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+|Source  | 1,922	|	1,313	|	710	|	2,297	|	952	|	1,638 |772    | 
+|Quality  | 1,071	|	1,084	|	450	|	1,730	|	707	|	936 | 552 | 
+|Perceiver | 336	|	362	|	140	|	399	|	153	|	266 |241 | 
+|Circumstances   | 399	|	248	|	88	|	274	|	202	|	228 |192 | 
+|Odour carrier   | 351	|	310	|	106	|	170	|	195	|	408 |134 | 
+|Effect   | 243	|	187	|	53	|	425	|	104	|	214 |114 | 
+|Evoked Odorant   | 228	|	91	|	103	|	258	|	74	|	285 |42 | 
+|Place   | 255	|	302	|	172	|	200	|	158	|	394 |111 | 
+|Time   |  127	|	126	|	49	|	131	|	119	|	75 |108 | 
+|Creator | 30	|	0	|	5	|	1	|	0	|	1 |12 | 
+
 
 
 
