@@ -26,9 +26,9 @@ This table contains an overview of the content of the annotations. We report bet
 | | Dutch (KNAW) | English (FBK) | French (EURECOM) | German (KNAW) | Italian (FBK) |  Slovenian (JSI)| Latin (KNAW) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 |Smell words   | 1,788	|	1,530	|	845	|	2,659	|	1,254	|	1,973  | 1,199 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+|  |  |  |  |  |  |  |  |
 |Total FEs  | 4,962	|	4,023	|	1,876	|	5,885	|	2,664	|	4,445 |2,278|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+|  |  |  |  |  |  |  |  |
 |Source  | 1,922	|	1,313	|	710	|	2,297	|	952	|	1,638 |772    | 
 |Quality  | 1,071	|	1,084	|	450	|	1,730	|	707	|	936 | 552 | 
 |Perceiver | 336	|	362	|	140	|	399	|	153	|	266 |241 | 
