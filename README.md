@@ -9,7 +9,7 @@ The annotation was carried out with the INCEpTION annotation platform (Klie et a
 
 Tonelli, Sara and Menini, Stefano. *FrameNet-like Annotation of Olfactory Information in Texts*. In Proceedings of LaTeCH-CLfL 2021
 
-For every language we provide the list of the annotated Frame Elements in 3 formats (WebAnno, XML, Json) and the related .txt file. 
+For every language we provide the list of the annotated Frame Elements in WebAnno format and the related .txt files. 
 
 All the metadata information for each language-specific benchmark, including author, year of publication, original source and genre
 are reported in the Excel spreadsheet at: https://github.com/Odeuropa/benchmarks_and_corpora/blob/main/Documents%20in%20Benchmark.xlsx
