@@ -47,6 +47,6 @@ The full list of annotated documents is available in Documents in Benchmark.xlsx
 
 | Language | Link | 
 | :---: | :---: | 
-| EN | https://drive.google.com/drive/folders/14oA3pT6FmebUWhic6zyxkWSAOPxvOQPg?usp=sharing |
-| IT | https://drive.google.com/drive/folders/1frkLwHywjDg9SUqxfkymyJNb1DLXJPWZ?usp=sharing |
+| EN | shorturl.at/BGS14 |
+| IT | shorturl.at/npIL3 |
 | FR | https://drive.google.com/drive/folders/1wwj5zhUl5ESxmxBBslHsepbMMsyydGf_?usp=sharing |
