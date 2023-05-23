@@ -40,12 +40,6 @@ This table contains an overview of the content of the annotations. We report bet
 |Time   |  127	|	126	|	49	|	131	|	119	|	75 |108 | 
 |Creator | 30	|	0	|	5	|	1	|	0	|	1 |12 | 
 
-## Funding acknowledgement
-
-<img src="https://github.com/Odeuropa/.github/raw/main/profile/eu-logo.png" width="80" height="54" align="left" alt="EU logo" />
-
-This work has been realised in the context of [Odeuropa](https://odeuropa.eu/), a research project that has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 101004469.
-
 
 The full list of annotated documents is available in Documents in Benchmark.xlsx. These have been selected from a larger list of corpora available at the following links:
 
@@ -54,3 +48,12 @@ The full list of annotated documents is available in Documents in Benchmark.xlsx
 | EN | shorturl.at/BGS14 |
 | IT | shorturl.at/npIL3 |
 | FR | https://drive.google.com/drive/folders/1wwj5zhUl5ESxmxBBslHsepbMMsyydGf_?usp=sharing |
+
+
+
+## Funding acknowledgement
+
+<img src="https://github.com/Odeuropa/.github/raw/main/profile/eu-logo.png" width="80" height="54" align="left" alt="EU logo" />
+
+This work has been realised in the context of [Odeuropa](https://odeuropa.eu/), a research project that has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 101004469.
+
